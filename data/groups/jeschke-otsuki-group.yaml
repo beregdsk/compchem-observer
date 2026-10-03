@@ -1,0 +1,21 @@
+id: jeschke-otsuki-group
+name: Jeschke-Otsuki group
+kind: group
+website: https://www.physics.okayama-u.ac.jp/jeschke-otsuki-group/home-en/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - software-hpc
+description: The Jeschke-Otsuki group at Okayama University focuses on modern
+  problems of solid state theory and computational materials science. They study
+  complex properties like magnetism and superconductivity, design new materials,
+  and develop efficient computational methods and…
+added: 2026-10-03
+aliases:
+  - Jeschke-Otsuki Group, Research institute for Interdisciplinary science,
+    Department of Physics, Faculty of Science, Okayama University, Japan
+pi: Jeschke and Otsuki
+parent: Okayama University
+location:
+  city: Okayama
+  country: JP
