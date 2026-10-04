@@ -1,0 +1,25 @@
+id: theoretical-physics-iii
+name: Theoretical Physics III
+kind: group
+website: https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo3/
+topics:
+  - quantum-dynamics
+  - electronic-structure
+  - ml-chemistry
+  - spectroscopy
+  - materials-modeling
+description: The Chair of Theoretical Physics III at the University of Augsburg,
+  part of the Center for Electronic Correlations and Magnetism within the
+  Institute of Physics, focuses on the dynamics of correlated quantum matter.
+  Research explores universal behaviors and phases in out-of-equilibrium quantum
+  many-body systems, employing analytical methods and machine learning
+  algorithms like neural quantum states. The group also investigates strongly
+  correlated light-matter systems, particularly collective phenomena in quantum
+  open systems and quantum materials under strong light-matter coupling, using…
+added: 2026-10-04
+pi: Markus Heyl and Francesco Piazza
+parent: Center for Electronic Correlations and Magnetism, Institute of Physics,
+  University of Augsburg
+location:
+  city: Augsburg
+  country: DE
