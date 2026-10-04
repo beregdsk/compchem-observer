@@ -1,0 +1,23 @@
+id: chair-of-computational-materials-modeling
+name: Chair of Computational Materials Modeling
+kind: group
+website: https://www.b-tu.de/en/fg-comp-materials
+topics:
+  - electronic-structure
+  - materials-modeling
+  - excited-states
+  - quantum-dynamics
+  - spectroscopy
+description: The Chair of Computational Materials Modeling at BTU, led by Prof.
+  Dr. Daria Gorelova, theoretically investigates electron dynamics in materials,
+  using ultrashort light pulses to study processes like light-to-electricity
+  conversion and chemical reactions.
+added: 2026-10-03
+aliases:
+  - Chair "Computational Materials Modeling", Institute of Physics, Brandenburg
+    University of Technology, Germany
+pi: Prof. Dr. Daria Gorelova
+parent: Brandenburg University of Technology
+location:
+  city: Cottbus
+  country: DE
