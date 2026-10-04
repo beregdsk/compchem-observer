@@ -1,0 +1,20 @@
+id: group-of-dr-jesus-sanjose-orduna
+name: Group of Dr. Jesús Sanjosé-Orduna
+kind: group
+website: https://iciq.org/research-group/dr-jesus-sanjose-orduna/overview/
+topics:
+  - catalysis
+  - ml-chemistry
+description: The group of Dr. Jesús Sanjosé-Orduna, a Junior Leader 'la Caixa'
+  at ICIQ, integrates robotic automation, microfluidic experimentation,
+  organometallic chemistry, and machine learning to accelerate reaction
+  discovery and develop more efficient, selective, and scalable catalytic
+  transformations.
+added: 2026-10-04
+aliases:
+  - Dr. Jesús Sanjosé-Orduna
+pi: Jesús Sanjosé-Orduna
+parent: Institut Català d'Investigació Química (ICIQ)
+location:
+  city: Tarragona
+  country: ES
