@@ -1,0 +1,23 @@
+id: department-of-theory-of-condensed-matter
+name: Department of Theory of Condensed Matter
+kind: group
+website: https://isik.amu.edu.pl/team/dr-konrad-kapcia/
+topics:
+  - dft
+  - molecular-dynamics
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+description: The Department of Theory of Condensed Matter, led by Konrad J.
+  Kapcia, conducts theoretical and computational research in condensed matter
+  physics, focusing on strongly correlated systems, density functional theory,
+  ultrafast laser-matter interaction, and molecular dynamics.
+added: 2026-10-03
+aliases:
+  - Department of Theory of Condensed Matter, Institute of Spintronics and
+    Quantum Information, Adam Mickiewicz University in Poznań, Poland
+pi: Konrad J. Kapcia
+parent: Adam Mickiewicz University in Poznań
+location:
+  city: Poznań
+  country: PL
