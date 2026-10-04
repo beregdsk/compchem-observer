@@ -1,0 +1,23 @@
+id: dynamics-of-correlated-quantum-matter
+name: Dynamics of Correlated Quantum Matter
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-eckstein.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - spectroscopy
+  - materials-modeling
+  - software-hpc
+description: The research group 'Dynamics of Correlated Quantum Matter', led by
+  Prof. Dr. Martin Eckstein at the I. Institute for Theoretical Physics,
+  University of Hamburg, focuses on the theoretical study of quantum matter and
+  collective phenomena like superconductivity. Their research…
+added: 2026-10-02
+aliases:
+  - Group "Dynamics of Correlated Quantum Matter", I. Institute for Theoretical
+    Physics, Hamburg University, Germany
+pi: Prof. Dr. Martin Eckstein
+parent: I. Institute for Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
