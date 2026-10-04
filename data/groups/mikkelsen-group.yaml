@@ -1,0 +1,20 @@
+id: mikkelsen-group
+name: Mikkelsen Group
+kind: group
+website: https://chem.ku.dk/research_sections/physchem/mikkelsen-group/
+topics:
+  - dft
+  - electronic-structure
+  - wavefunction-methods
+  - molecular-dynamics
+  - materials-modeling
+description: The Mikkelsen Group at the Department of Chemistry, University of
+  Copenhagen, uses computational chemistry methods, such as density functional
+  theory and coupled cluster theory, to investigate molecular dynamics, solar
+  energy storage, molecular electronics, and atmospheric molecular clusters.
+added: 2026-10-04
+pi: Kurt Valentin Mikkelsen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
