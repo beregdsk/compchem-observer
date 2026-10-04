@@ -1,0 +1,22 @@
+id: ag-statistische-physik
+name: AG Statistische Physik
+kind: group
+website: https://www.statistische.physik.uni-rostock.de/en/team/
+topics:
+  - dft
+  - molecular-dynamics
+  - materials-modeling
+  - spectroscopy
+description: The Research Group Statistical Physics (AG Statistische Physik) at
+  the University of Rostock, led by Sen.-Prof. Dr. Ronald Redmer, focuses on
+  warm dense matter, plasmas, and matter under extreme conditions, utilizing
+  ab-initio simulations and advanced theoretical physics methods.
+added: 2026-10-02
+aliases:
+  - Research Group "Statistical Physics", Institute for Physics, Faculty of
+    Mathematics and Natural Sciences, University of Rostock, Germany
+pi: Sen.-Prof. Dr. Ronald Redmer
+parent: University of Rostock, Institute for Physics
+location:
+  city: Rostock
+  country: DE
