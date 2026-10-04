@@ -1,0 +1,22 @@
+id: festkorper-und-ultrakurzzeitphysik
+name: Festkörper und Ultrakurzzeitphysik
+kind: group
+website: https://www.uni-kassel.de/fb10/en/institute/physik/forschungsgruppen/festkoerper-und-ultrakurzzeitphysik/home.html
+topics:
+  - excited-states
+  - biomolecular-simulation
+  - materials-modeling
+  - molecular-dynamics
+  - spectroscopy
+description: The research group of Prof. Dr. Martin E. Garcia at the University
+  of Kassel, known as Festkörper und Ultrakurzzeitphysik (Condensed Matter and
+  Ultrafast Physics), focuses on the theoretical study of ultrafast phenomena in
+  solids and nanostructures. Key research includes laser-induced structural
+  changes, electronic transport, optical properties, and the dynamics of protein
+  folding and vesicle transport.
+added: 2026-10-04
+pi: Martin E. Garcia
+parent: University of Kassel
+location:
+  city: Kassel
+  country: DE
