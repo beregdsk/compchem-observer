@@ -1,0 +1,19 @@
+id: lechner-group
+name: Lechner Group
+kind: group
+website: https://www.uibk.ac.at/en/th-physik/quantum-computing/
+topics:
+  - quantum-computing-chemistry
+description: The Lechner Group, led by Wolfgang Lechner at the Department of
+  Theoretical Physics, University of Innsbruck, is a research group focused on
+  theoretical quantum physics. They aim to solve computationally challenging
+  problems on near-term quantum devices, researching adiabatic processes,
+  machine learning, optimization, and qubit implementations.
+added: 2026-10-04
+aliases:
+  - Quan­tum Com­put­ing
+pi: Wolfgang Lechner
+parent: Department of Theoretical Physics, University of Innsbruck
+location:
+  city: Innsbruck
+  country: AT
