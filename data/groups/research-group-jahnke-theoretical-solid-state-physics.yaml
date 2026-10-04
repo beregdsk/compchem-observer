@@ -1,0 +1,21 @@
+id: research-group-jahnke-theoretical-solid-state-physics
+name: Research Group Jahnke (Theoretical Solid-State Physics)
+kind: group
+website: https://www.uni-bremen.de/theoretische-festkoerperphysik
+topics:
+  - materials-modeling
+  - electronic-structure
+  - spectroscopy
+  - quantum-dynamics
+  - excited-states
+description: The Research Group Jahnke at the University of Bremen focuses on
+  theoretical solid-state physics, semiconductor quantum optics, and many-body
+  theory. Their research interests include the generation of non-classical light
+  states, semiconductor and nanolasers, optical properties of nanostructures,
+  atomar material design, and charge carrier dynamics.
+added: 2026-10-04
+pi: Frank Jahnke
+parent: Institute for Theoretical Physics, University of Bremen
+location:
+  city: Bremen
+  country: DE
