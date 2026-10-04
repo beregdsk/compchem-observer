@@ -1,0 +1,22 @@
+id: ottosson-group
+name: Ottosson group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/synthetic-molecular-chemistry/ottosson-group
+topics:
+  - excited-states
+  - photochemistry
+  - electronic-structure
+  - dft
+  - spectroscopy
+description: The Ottosson group, led by Henrik Ottosson at Uppsala University,
+  focuses on physical and theoretical organic chemistry, particularly
+  excited-state aromaticity and antiaromaticity. Their research explores these
+  fundamental concepts for applications in solar energy conversion, sustainable
+  aviation fuels, and photovoltaics, combining experimental and computational
+  approaches.
+added: 2026-10-04
+pi: Henrik Ottosson
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
