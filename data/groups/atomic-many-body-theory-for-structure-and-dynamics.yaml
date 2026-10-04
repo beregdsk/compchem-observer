@@ -1,0 +1,23 @@
+id: atomic-many-body-theory-for-structure-and-dynamics
+name: Atomic many-body theory for structure and dynamics
+kind: group
+website: https://www.su.se/english/research/research-catalogue/research-groups/9/atomic-many-body-theory-for-structure-and-dynamics?open-collapse-boxes=research-group-members
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - spectroscopy
+  - wavefunction-methods
+  - excited-states
+description: A research group at Stockholm University's Department of Physics
+  that builds theoretical and computational tools for interpreting and
+  quantitatively describing experimental observations, particularly those from
+  attosecond light sources.
+added: 2026-10-02
+aliases:
+  - Research Group "Atomic many-body theory for structure and dynamics",
+    Department of Physics, Stockholm University, Sweden
+pi: Eva Lindroth
+parent: Department of Physics, Stockholm University
+location:
+  city: Stockholm
+  country: SE
