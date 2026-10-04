@@ -1,0 +1,20 @@
+id: macdonell-group
+name: MacDonell Group
+kind: group
+website: https://macdonell-group.github.io/
+topics:
+  - photochemistry
+  - quantum-computing-chemistry
+description: The MacDonell Group is a computational chemistry research group
+  based at Dalhousie University in Halifax, Canada. The group focuses on
+  understanding the fundamentals of photochemistry, internal conversion, and
+  nonadiabatic dynamics, developing new analysis tools to study photochemical
+  reaction pathways, and creating quantum computing platforms to simulate
+  chemical reactions.
+added: 2026-10-04
+aliases:
+  - Ryan MacDonell
+parent: Department of Chemistry, Dalhousie University
+location:
+  city: Halifax
+  country: CA
