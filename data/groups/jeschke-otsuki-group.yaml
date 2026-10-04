@@ -6,15 +6,15 @@ topics:
   - electronic-structure
   - materials-modeling
   - software-hpc
-description: The Jeschke-Otsuki group at Okayama University focuses on modern
-  problems of solid state theory and computational materials science. They study
-  complex properties like magnetism and superconductivity, design new materials,
-  and develop efficient computational methods and…
+description: A solid-state theory group at Okayama University's Research
+  Institute for Interdisciplinary Science. It links the microscopic structure of
+  materials to experimental measurements, studying magnetism, frustrated spin
+  systems and superconductivity, and designing new materials. It also develops
+  computational methods that describe materials more realistically and make more
+  physical quantities affordable to compute, including the DCore dynamical
+  mean-field theory package for correlated electrons.
 added: 2026-10-03
-aliases:
-  - Jeschke-Otsuki Group, Research institute for Interdisciplinary science,
-    Department of Physics, Faculty of Science, Okayama University, Japan
-pi: Jeschke and Otsuki
+pi: Harald O. Jeschke and Junya Otsuki
 parent: Okayama University
 location:
   city: Okayama
