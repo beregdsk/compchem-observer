@@ -1,0 +1,23 @@
+id: light-matter-control-of-quantum-materials
+name: Light-Matter Control of Quantum Materials
+kind: group
+website: https://www.uni-bremen.de/en/lmcqm
+topics:
+  - dft
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+  - software-hpc
+description: The Light-Matter Control of Quantum Materials group is a
+  theoretical condensed matter physics research group at the University of
+  Bremen, focusing on non-equilibrium many-body physics, quantum materials,
+  quantum optics, and atomistic simulations.
+added: 2026-10-03
+aliases:
+  - Group "Light-Matter Control of Quantum Materials", Faculty 1 - Physics /
+    Electrical Engineering, University of Bremen, Germany
+pi: Michael A. Sentef
+parent: University of Bremen
+location:
+  city: Bremen
+  country: DE
