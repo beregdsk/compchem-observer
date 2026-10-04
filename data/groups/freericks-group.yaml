@@ -1,0 +1,22 @@
+id: freericks-group
+name: Freericks group
+kind: group
+website: https://physics.georgetown.edu/jim-freericks/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+  - quantum-computing-chemistry
+  - software-hpc
+description: The homepage of the Freericks group at Georgetown University's
+  Department of Physics, led by Prof. Jim Freericks. The group works on
+  computational condensed matter theory, strongly correlated materials,
+  nonequilibrium physics, ultracold atoms, and advanced spectroscopy.
+added: 2026-10-03
+aliases:
+  - Freericks group, Department of Physics, Georgetown University, USA
+pi: Jim Freericks
+parent: Department of Physics, Georgetown University
+location:
+  city: Washington, DC
+  country: US
