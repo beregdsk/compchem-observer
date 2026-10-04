@@ -1,0 +1,22 @@
+id: group-b8ca7a86
+name: 粒子系生物物理研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/r-ccs/comput_biophys/index.html
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - enhanced-sampling
+  - software-hpc
+  - ml-chemistry
+description: The Particle-based Biophysics Research Team at RIKEN, led by Yuji
+  Sugita, focuses on molecular dynamics simulations to understand the structure,
+  dynamics, and function of biological macromolecules in crowded cellular
+  environments and complex membranes. They develop multiscale models and the
+  high-performance GENESIS software for large-scale simulations on
+  supercomputers like Fugaku.
+added: 2026-10-04
+pi: Yuji Sugita
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Kobe
+  country: JP
