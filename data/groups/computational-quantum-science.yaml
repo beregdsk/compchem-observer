@@ -1,0 +1,22 @@
+id: computational-quantum-science
+name: Computational Quantum Science
+kind: group
+website: https://informatics.tuwien.ac.at/people/sabine-andergassen
+topics:
+  - materials-modeling
+  - electronic-structure
+  - quantum-dynamics
+  - ml-potentials
+description: The Research Group Computational Quantum Science, led by Prof. Dr.
+  Sabine Andergassen at the Vienna University of Technology, focuses on quantum
+  many-body physics. The group investigates strongly correlated electron
+  systems, materials, and nanostructures using advanced numerical methods like
+  the functional renormalization group and cellular dynamical mean-field theory,
+  combined with machine learning techniques to analyze complex quantum
+  correlations and electronic properties.
+added: 2026-10-04
+pi: Sabine Andergassen
+parent: The Vienna University of Technology
+location:
+  city: Vienna
+  country: AT
