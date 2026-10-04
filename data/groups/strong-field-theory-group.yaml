@@ -1,0 +1,23 @@
+id: strong-field-theory-group
+name: Strong Field Theory Group
+kind: group
+website: https://mbi-berlin.de/de/strong-field-theory-group/home
+topics:
+  - spectroscopy
+  - quantum-dynamics
+  - electronic-structure
+  - materials-modeling
+  - excited-states
+description: The Strong Field Theory Group, led by Prof. Dr. Olga Smirnova at
+  the Max Born Institute in Berlin, conducts theoretical and computational
+  research on ultrafast strong-field phenomena, focusing on high harmonic
+  spectroscopy, chirality, and quantum materials.
+added: 2026-10-02
+aliases:
+  - Strong Field Theory Group, Max Born Institute, Technical University Berlin,
+    Germany
+pi: Prof. Dr. Olga Smirnova
+parent: Max Born Institute
+location:
+  city: Berlin
+  country: DE
