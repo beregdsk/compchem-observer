@@ -1,0 +1,23 @@
+id: devereaux-group
+name: Devereaux Group
+kind: group
+website: https://web.stanford.edu/group/photontheory/index.html
+topics:
+  - electronic-structure
+  - dft
+  - spectroscopy
+  - quantum-dynamics
+  - materials-modeling
+description: The Devereaux Group at Stanford University and SLAC National
+  Accelerator Laboratory, led by Prof. Tom Devereaux, focuses on computational
+  methods for materials science, specializing in time-domain spectroscopy, X-ray
+  science, photoemission, and theoretical approaches to…
+added: 2026-10-03
+aliases:
+  - The Devereaux Group, Department of Materials Science and Engineering,
+    Stanford University, USA
+pi: Prof. Tom Devereaux
+parent: Department of Materials Science and Engineering, Stanford University
+location:
+  city: Menlo Park
+  country: US
