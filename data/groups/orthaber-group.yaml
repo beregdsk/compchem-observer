@@ -1,0 +1,22 @@
+id: orthaber-group
+name: Orthaber group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/synthetic-molecular-chemistry/orthaber-group
+topics:
+  - catalysis
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - materials-modeling
+description: The Orthaber group, led by Andreas Orthaber at the Department of
+  Chemistry - Ångström Laboratory, Uppsala University, focuses on how main group
+  elements like phosphorus and arsenic affect the optical and electronic
+  properties of pi-conjugated molecules. Using experimental and theoretical
+  approaches, the group investigates these compounds for applications in
+  homogeneous catalysis and organic electronics.
+added: 2026-10-04
+pi: Andreas Orthaber
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

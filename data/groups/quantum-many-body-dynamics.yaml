@@ -1,0 +1,20 @@
+id: quantum-many-body-dynamics
+name: Quantum Many-Body Dynamics
+kind: group
+website: https://www.uibk.ac.at/en/th-physik/quantum-many-body-dynamics/
+topics:
+  - quantum-dynamics
+description: The Quantum Many-Body Dynamics group at the University of
+  Innsbruck, led by Federica Surace, focuses on the theory of quantum many-body
+  systems, with emphasis on nonequilibrium dynamics and quantum simulation. We
+  study how quantum systems thermalize, the origins of non-thermal behavior, and
+  relevant timescales, using analytical and numerical methods. Our work aims to
+  deepen understanding of quantum many-body dynamics and explore quantum
+  simulators for fundamental questions in condensed matter and high-energy
+  physics.
+added: 2026-10-04
+pi: Federica Surace
+parent: University of Innsbruck
+location:
+  city: Innsbruck
+  country: AT

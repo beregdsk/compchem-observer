@@ -1,0 +1,21 @@
+id: quantum-optics-and-quantum-metrology
+name: Quantum Optics and Quantum Metrology
+kind: group
+website: https://www.uibk.ac.at/en/th-physik/quantum-optics-and-quantum-metrology/
+topics:
+  - quantum-dynamics
+  - spectroscopy
+description: The Quantum Optics and Quantum Metrology research group, led by
+  Klemens Hammerer at the Department of Theoretical Physics, University of
+  Innsbruck, focuses on theoretical quantum optics, quantum metrology, and
+  precision measurement. The group investigates quantum systems such as trapped
+  ions, Bose-Einstein condensates, and light-matter interfaces to advance
+  quantum technologies and explore quantum dynamics.
+added: 2026-10-04
+aliases:
+  - Quan­tum Optics and Quan­tum Metrol­ogy
+pi: Klemens Hammerer
+parent: Department of Theoretical Physics, University of Innsbruck
+location:
+  city: Innsbruck
+  country: AT

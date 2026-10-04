@@ -1,0 +1,25 @@
+id: quantum-science-and-technologies
+name: Quantum science and technologies
+kind: group
+website: https://www.york.ac.uk/physics-engineering-technology/research/quantum-science-and-technologies/
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - electronic-structure
+  - dft
+  - materials-modeling
+description: The Quantum Science and Technologies group at the University of
+  York is an interdisciplinary research team applying quantum theory to
+  understand and harness quantum phenomena. The group's research spans quantum
+  information processing and computation, quantum communications, quantum
+  optics, many-body physics, condensed matter physics, and nuclear physics. Key
+  themes include quantum transport, thermodynamics, materials and devices,
+  density functional theory, atomic clocks, and quantum entanglement. The team
+  combines theoretical and experimental expertise to develop new quantum
+  technologies.
+added: 2026-10-04
+pi: Irene D'Amico
+parent: School of Physics, Engineering and Technology
+location:
+  city: York
+  country: GB

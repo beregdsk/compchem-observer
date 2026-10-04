@@ -1,0 +1,25 @@
+id: excited-state-quantum-chemistry-research-group-qcexval
+name: Excited State Quantum Chemistry Research Group (QCEXVAL)
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/climate-energy-mobility/climate-science-solutions/excited-state-quantum-chemistry-research-group-1286222585087/GrupsInves.html?id=1286252631922
+topics:
+  - excited-states
+  - photochemistry
+  - spectroscopy
+  - biomolecular-simulation
+  - materials-modeling
+description: The Excited State Quantum Chemistry Research Group (QCEXVAL)
+  focuses on high-precision determination of chemical mechanisms resulting from
+  the interaction of visible-UV radiation with molecular systems in biology,
+  medicine, nanotechnology, and the environment. Utilizing theoretical and
+  computational chemistry, they research photochemistry, DNA damage and repair,
+  optical spectroscopy simulation, and chemiluminescence to predict electronic
+  properties and propose novel molecules.
+added: 2026-10-04
+aliases:
+  - Excited State Quantum Chemistry Research Group
+pi: Mercedes Rubio Mas
+parent: Institute of Molecular Science, University of Valencia
+location:
+  city: Valencia
+  country: ES
