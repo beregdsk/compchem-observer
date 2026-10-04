@@ -1,0 +1,23 @@
+id: the-mukamel-group
+name: The Mukamel Group
+kind: group
+website: https://mukamel.ps.uci.edu/
+topics:
+  - spectroscopy
+  - quantum-dynamics
+  - biomolecular-simulation
+  - materials-modeling
+  - excited-states
+description: The Mukamel Group at the University of California, Irvine, led by
+  Professor Shaul Mukamel, specializes in theoretical studies of ultrafast
+  dynamics, relaxation processes, and optical spectroscopy of large molecules,
+  biological complexes, and semiconductors.
+added: 2026-10-02
+aliases:
+  - The Mukamel Group, Department of Chemistry, University of California,
+    Irvine, USA
+pi: Shaul Mukamel
+parent: University of California, Irvine
+location:
+  city: Irvine
+  country: US
