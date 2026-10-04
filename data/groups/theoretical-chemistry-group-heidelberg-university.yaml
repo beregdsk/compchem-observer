@@ -1,0 +1,20 @@
+id: theoretical-chemistry-group-heidelberg-university
+name: Theoretical Chemistry Group, Heidelberg University
+kind: group
+website: https://www.pci.uni-heidelberg.de/tc/oriol.html
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - molecular-dynamics
+  - excited-states
+  - software-hpc
+description: The Theoretical Chemistry Group at Heidelberg University, led by
+  Prof. Dr. Oriol Vendrell, conducts research in ultrafast molecular processes,
+  non-adiabatic dynamics, strong light-matter coupling, time-resolved
+  spectroscopy, and high-dimensional quantum dynamics methods including MCTDH.
+added: 2026-10-04
+pi: Oriol Vendrell
+parent: Heidelberg University
+location:
+  city: Heidelberg
+  country: DE
