@@ -1,0 +1,20 @@
+id: research-group-on-molecular-electron-density-theory-medt
+name: Research Group on Molecular Electron Density Theory - MEDT
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/digital-industry-space/manufacturing-technologies/research-group-molecular-electron-density-theory-1286222585007/GrupsInves.html?id=1286254714429
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+description: A research group at the Universitat de València that focuses on
+  Molecular Electron Density Theory (MEDT) to study organic reactivity. It uses
+  quantum mechanical analysis of electron density to understand reaction
+  mechanisms, develops new concepts in conceptual DFT, and provides theoretical
+  insights into organic reactions.
+added: 2026-10-04
+aliases:
+  - Research Group on Molecular Electron Density Theory
+parent: Universitat de València
+location:
+  city: Burjassot
+  country: ES
