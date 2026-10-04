@@ -1,0 +1,21 @@
+id: quantum-optospintronics
+name: Quantum Optospintronics
+kind: group
+website: https://www.gla.ac.uk/research/az/quantum-nanotechnology/quantumoptospintronics/
+topics:
+  - excited-states
+  - photochemistry
+  - quantum-dynamics
+  - materials-modeling
+  - spectroscopy
+description: An interdisciplinary research team at the University of Glasgow
+  exploring the spin and optical properties of molecular materials and devices
+  for quantum sensing, quantum information processing, and optoelectronics.
+added: 2026-10-01
+aliases:
+  - Next-Generation Molecular Spin Research Group
+pi: Sam Bayliss
+parent: University of Glasgow
+location:
+  city: Glasgow
+  country: GB
