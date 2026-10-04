@@ -1,0 +1,21 @@
+id: statistical-physics-stat
+name: Statistical Physics (STAT)
+kind: group
+website: https://coulomb.umontpellier.fr/en/research-areas/
+topics:
+  - soft-matter
+  - molecular-dynamics
+  - biomolecular-simulation
+  - spectroscopy
+  - materials-modeling
+description: The page presents the research structure of the Charles Coulomb
+  Laboratory (L2C) at the University of Montpellier, listing the Statistical
+  Physics (STAT) team under the Theoretical Physics (PTH) axis. The laboratory
+  focuses on condensed matter physics, soft matter, complex and living matter,
+  with emphasis on structural and dynamic properties, as well as quantum and
+  optical materials.
+added: 2026-10-04
+parent: Laboratoire Charles Coulomb (L2C), University of Montpellier
+location:
+  city: Montpellier
+  country: FR
