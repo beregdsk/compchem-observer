@@ -1,0 +1,23 @@
+id: strong-field-nanophysics-group
+name: Strong-Field Nanophysics Group
+kind: group
+website: https://www.snp.physik.uni-rostock.de/en/welcome/
+topics:
+  - quantum-dynamics
+  - materials-modeling
+  - electronic-structure
+  - spectroscopy
+  - software-hpc
+description: The Strong-Field Nanophysics Group, led by Prof. Thomas Fennel at
+  the Institute of Physics, University of Rostock, investigates ultrafast,
+  highly nonlinear light-matter interactions in finite systems. Their research
+  focuses on strong-field physics, attosecond nanophotonics, and…
+added: 2026-10-02
+aliases:
+  - Strong-Field Nanophysics Group, Institute for Physics, University of
+    Rostock, Germany
+pi: Prof. Dr. Thomas Fennel
+parent: Institute of Physics, University of Rostock
+location:
+  city: Rostock
+  country: DE
