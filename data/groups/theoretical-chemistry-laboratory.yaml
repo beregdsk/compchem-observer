@@ -1,0 +1,22 @@
+id: theoretical-chemistry-laboratory
+name: 理論化学研究室 (Theoretical Chemistry Laboratory)
+kind: group
+website: https://www2.sci.hokudai.ac.jp/dept/chem/lab/theoretical-chemistry
+topics:
+  - catalysis
+  - materials-modeling
+  - ml-chemistry
+  - software-hpc
+  - electronic-structure
+description: The Theoretical Chemistry Laboratory at Hokkaido University, led by
+  Professor Satoshi Maeda, conducts research in computational chemistry, data
+  science, and materials informatics. Key projects include developing automated
+  reaction path search methods (AFIR) to predict complex chemical reactions and
+  applying machine learning to discover novel catalysts and functional
+  materials.
+added: 2026-10-04
+pi: Satoshi Maeda
+parent: Department of Chemistry, Faculty of Science, Hokkaido University
+location:
+  city: Sapporo
+  country: JP
