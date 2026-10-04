@@ -1,0 +1,20 @@
+id: theory-of-condensed-matter
+name: Theory of Condensed Matter
+kind: group
+website: https://www.theorphys.science.ru.nl/people/katsnelson/index.php
+topics:
+  - electronic-structure
+  - materials-modeling
+description: Official homepage for the Theory of Condensed Matter department
+  within the Institute for Molecules and Materials at Radboud University, led by
+  Prof. Mikhail I. Katsnelson. The site outlines the group's focus on
+  theoretical condensed matter physics, including electronic…
+added: 2026-10-03
+aliases:
+  - Department "Theory of Condensed Matter", Institute for Molecules and
+    Materials, Radboud University, Netherlands
+pi: Mikhail I. Katsnelson
+parent: Institute for Molecules and Materials, Radboud University
+location:
+  city: Nijmegen
+  country: NL
