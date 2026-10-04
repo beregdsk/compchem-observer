@@ -1,0 +1,20 @@
+id: disordered-systems-and-applications
+name: Disordered systems and applications
+kind: group
+website: https://www.lpens.ens.psl.eu/research/phystat/equipe-07/?lang=en
+topics:
+  - soft-matter
+  - materials-modeling
+  - quantum-dynamics
+description: The 'Disordered systems and applications' is a theoretical physics
+  research group within the Statistical Physics section of the Laboratoire de
+  Physique de l’École normale supérieure, Sorbonne University. Led by Giulio
+  Biroli, the group focuses on the statistical physics of disordered and glassy
+  systems, random geometries, and quantum many-body systems, exploring phase
+  transitions, transport, and quantum correlations.
+added: 2026-10-04
+pi: Giulio Biroli
+parent: Laboratoire de Physique de l’École normale supérieure, Sorbonne University
+location:
+  city: Paris
+  country: FR
