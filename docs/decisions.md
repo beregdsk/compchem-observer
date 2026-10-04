@@ -771,3 +771,14 @@ so a daily job re-checks 40 of them against their own pages and proposes fixes
 in one PR. A model may change only text fields, and only to values the page
 gives; every fix must validate. Findings without a fix are listed for a human
 in the same PR, or, when nothing changed, in an issue (a PR needs a diff).
+
+## 2026-10-04 — Graph views draw clusters, not one blob
+
+Linking every pair over 0.35 gave the groups graph ~1,000 edges (a shared
+country alone came close), and with short-range repulsion and a strong pull to
+the centre every graph view drew one even disc. Now each item keeps only its
+four strongest links (`MAX_LINKS`; ties go to the next items in cyclic order,
+so no hubs form). The layout finds communities by modularity (Louvain's local
+moves, deterministic) and pulls each to its own anchor on a sunflower spiral,
+largest in the middle. Links between communities are slack and drawn faint.
+Groups and events show modularity of about 0.6 and 0.7, so the clusters are real.

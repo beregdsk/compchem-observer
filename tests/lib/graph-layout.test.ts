@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { Graph } from '../../src/lib/graph';
-import { graphPayload, layoutGraph } from '../../src/lib/graph-layout';
+import { communities, graphPayload, layoutGraph } from '../../src/lib/graph-layout';
 
 const node = (id: string, title = id) => ({
   id,
@@ -78,5 +78,35 @@ describe('graphPayload', () => {
     const json = graphPayload(hostile, layoutGraph(hostile));
     expect(json).not.toContain('<');
     expect(JSON.parse(json).nodes[0].id).toBe('x</script><b>');
+  });
+});
+
+describe('communities', () => {
+  // Two tight triangles joined by one weak link.
+  const ids = ['a1', 'a2', 'a3', 'b1', 'b2', 'b3'];
+  const tri = (p: string) => [
+    { source: `${p}1`, target: `${p}2`, weight: 0.9 },
+    { source: `${p}2`, target: `${p}3`, weight: 0.9 },
+    { source: `${p}1`, target: `${p}3`, weight: 0.9 },
+  ];
+  const edges = [...tri('a'), ...tri('b'), { source: 'a3', target: 'b1', weight: 0.2 }];
+
+  it('finds two triangles joined by a weak link', () => {
+    const c = communities(ids, edges);
+    expect(new Set(c.slice(0, 3)).size).toBe(1);
+    expect(new Set(c.slice(3)).size).toBe(1);
+    expect(c[0]).not.toBe(c[3]);
+  });
+
+  it('puts each isolated node in its own community', () => {
+    expect(new Set(communities(['x', 'y', 'z'], [])).size).toBe(3);
+  });
+
+  it('draws the two clusters apart: members closer to each other than to the other cluster', () => {
+    const { positions } = layoutGraph({ nodes: ids.map((id) => node(id)), edges });
+    const at = new Map(positions.map((p) => [p.id, p]));
+    const dist = (a: string, b: string) =>
+      Math.hypot(at.get(a)!.x - at.get(b)!.x, at.get(a)!.y - at.get(b)!.y);
+    expect(Math.max(dist('a1', 'a2'), dist('b1', 'b2'))).toBeLessThan(dist('a1', 'b2') / 2);
   });
 });

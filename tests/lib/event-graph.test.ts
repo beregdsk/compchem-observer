@@ -159,7 +159,8 @@ describe('relatedEvents', () => {
     const g = buildEventGraph([
       ev('a', { topics: ['dft', 'catalysis'] }),
       ev('weak', { topics: ['dft', 'soft-matter'] }), // jaccard 1/3 → 0.2
-      ev('strong', { topics: ['dft', 'catalysis'] }), // identical → 0.6
+      // 2/3 shared with a → 0.4; only 1/4 with weak, so weak's best link is a.
+      ev('strong', { topics: ['dft', 'catalysis', 'spectroscopy'] }),
     ]);
     expect(relatedEvents(g, 'a')).toEqual(['strong', 'weak']);
   });
