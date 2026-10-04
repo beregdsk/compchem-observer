@@ -1,0 +1,23 @@
+id: research-of-advanced-materials-ram
+name: Research of Advanced Materials (RAM)
+kind: group
+website: https://www.ntc.zcu.cz/en/Research/Research_topics/Advanced_Materials.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - spectroscopy
+  - catalysis
+description: The RAM team at the University of West Bohemia conducts theoretical
+  and experimental research on advanced and quantum materials, focusing on
+  electronic structures, thin films, and spectroscopic properties for
+  optoelectronic, spintronic, and energy applications.
+added: 2026-10-03
+aliases:
+  - Team "Research of Advanced Materials", University of West Bohemia, Czech
+    Republic
+pi: Ján Minár
+parent: University of West Bohemia
+location:
+  city: Pilsen
+  country: CZ
