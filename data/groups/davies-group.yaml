@@ -1,0 +1,18 @@
+id: davies-group
+name: Davies Group
+kind: group
+website: https://www.birmingham.ac.uk/research/centres-institutes/research-in-chemistry/chemistry-research-groups/davies-group
+topics:
+  - catalysis
+  - drug-design
+description: The Davies Group, part of the School of Chemistry at the University
+  of Birmingham, is a multinational research team led by Dr. Paul Davies.
+  Focusing on catalysis for molecular synthesis, the group designs novel
+  multifunctional catalysts and studies reaction mechanisms to promote
+  sustainable chemistry, early-stage drug discovery, and molecular electronics.
+added: 2026-10-04
+pi: Paul Davies
+parent: University of Birmingham
+location:
+  city: Birmingham
+  country: GB
