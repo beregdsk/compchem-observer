@@ -2,6 +2,7 @@
 // The daily data audit: checks a slice of the entries on main against their
 // own pages and opens one PR with the fixes, listing what needs a human.
 // See "Data audit" in docs/discovery-agent.md.
+import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { todayUTC } from '../../src/lib/dates';
@@ -34,6 +35,8 @@ const AUDIT_FAILURES: FailureIssue = {
 
 export interface AuditArgs {
   maxEntries: number;
+  /** A file listing entry paths, one per line, to audit whether or not they are due. */
+  files?: string;
   model?: string;
   dryRun: boolean;
 }
@@ -48,6 +51,10 @@ export function parseAuditArgs(argv: string[]): AuditArgs {
       const value = argv[++i];
       if (!value) throw new Error('--model needs a model id');
       args.model = value;
+    } else if (flag === '--files') {
+      const value = argv[++i];
+      if (!value) throw new Error('--files needs a file of entry paths');
+      args.files = value;
     } else if (flag === '--max-entries') {
       const value = argv[++i];
       if (value === undefined || !/^[1-9]\d*$/.test(value)) {
@@ -59,6 +66,15 @@ export function parseAuditArgs(argv: string[]): AuditArgs {
     }
   }
   return args;
+}
+
+function readOnlyList(path: string): Set<string> {
+  return new Set(
+    readFileSync(path, 'utf8')
+      .split('\n')
+      .map((l) => l.trim())
+      .filter(Boolean),
+  );
 }
 
 function readEntries(): AuditEntry[] {
@@ -95,6 +111,7 @@ async function main(): Promise<void> {
     userAgent: cfg.userAgent,
     today,
     maxEntries: args.maxEntries,
+    only: args.files ? readOnlyList(args.files) : undefined,
     log,
   });
   const body = buildAuditPrBody(result, today);

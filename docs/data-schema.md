@@ -8,6 +8,7 @@ One YAML file per event at `data/events/<start-year>/<id>.yaml`. The JSON Schema
 |---|---|---|---|
 | `id` | string | yes | Pattern `^[a-z0-9]+(-[a-z0-9]+)*-\d{4}$`, ending with the start year. Must equal the file name without `.yaml`. Example: `euchems-compchem-2027`. |
 | `title` | string | yes | Official event name, 5-140 characters. |
+| `aliases` | string[] | no | Other names of the event, 2-140 characters each, unique; must differ from `title`. When `title` is an English translation, the original-language title goes here. |
 | `series` | string | no | Slug shared by recurring editions (for example `euchems-compchem`). |
 | `type` | enum | yes | `conference`, `workshop`, `school`, `symposium`, `webinar`, `hackathon`. |
 | `start_date` | date | yes | `YYYY-MM-DD`, a real calendar date (every `date` field is checked this way). |

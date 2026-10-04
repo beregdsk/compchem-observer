@@ -771,3 +771,19 @@ so a daily job re-checks 40 of them against their own pages and proposes fixes
 in one PR. A model may change only text fields, and only to values the page
 gives; every fix must validate. Findings without a fix are listed for a human
 in the same PR, or, when nothing changed, in an issue (a PR needs a diff).
+
+## 2026-10-04 — Events and positions keep a translated title's original
+
+Extractors write titles in English, translating when the source has no English
+name, which left the original (the name people search for) nowhere. Events and
+positions now take optional `aliases`, as groups already do; the extractors
+return `original_title` when they translate, and it becomes the draft's alias.
+An alias must differ from the title. The audit adds missing originals too.
+
+## 2026-10-04 — The audit rewrites cut-off descriptions instead of cutting them back
+
+Its mechanical fix cut a clipped description back to the last full stop, which
+produced "…academician N. A." and stubs of one sentence. Cut-off text is now only
+flagged, the model writes a full description from the page, and descriptions
+under 250 characters are expanded when the page says more. Entries already on
+main with cut-off or thin descriptions were re-audited once with `--files`.

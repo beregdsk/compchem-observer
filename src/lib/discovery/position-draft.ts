@@ -44,6 +44,7 @@ export function synthesizePositionDraft(
     description: fields.description,
     added: today,
   };
+  if (fields.original_title) draft.aliases = [fields.original_title];
   if (fields.group) draft.group = fields.group;
   if (fields.deadline) draft.deadline = fields.deadline;
   return draft;
