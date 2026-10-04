@@ -1,0 +1,22 @@
+id: kihlberg-group
+name: Kihlberg Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/organic-chemistry/kihlberg-group
+topics:
+  - drug-design
+  - cheminformatics
+  - ml-chemistry
+  - molecular-dynamics
+  - biomolecular-simulation
+description: Led by Jan Kihlberg at Uppsala University's Department of Chemistry
+  for Life Sciences, the Kihlberg Group focuses on designing novel chemical
+  probes and drugs for challenging targets in cancer, kidney disease, and
+  arthritis. Working at the interface of chemical biology and biomedicine, the
+  group uses molecular dynamics, free energy simulations, virtual screening, and
+  machine learning to optimize macrocycles, PROTACs, and GPCR ligands.
+added: 2026-10-04
+pi: Jan Kihlberg
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE
