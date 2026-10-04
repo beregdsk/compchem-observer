@@ -1,0 +1,22 @@
+id: data-driven-chemistry-proppe-group
+name: Data-Driven Chemistry Proppe Group
+kind: group
+website: https://www.tu-braunschweig.de/en/pci/compmat
+topics:
+  - ml-chemistry
+  - ml-potentials
+  - drug-design
+  - cheminformatics
+  - electronic-structure
+description: The Data-Driven Chemistry Proppe Group at the Institute of Physical
+  and Theoretical Chemistry, TU Braunschweig, is a computational chemistry
+  research group. They combine computational chemistry and machine learning to
+  predict chemical reactions and molecular structure-property relationships,
+  focusing on CO2 conversion and drug discovery to identify new bioactive
+  compounds.
+added: 2026-10-04
+parent: Institute of Physical and Theoretical Chemistry, Technische Universität
+  Braunschweig
+location:
+  city: Braunschweig
+  country: DE
