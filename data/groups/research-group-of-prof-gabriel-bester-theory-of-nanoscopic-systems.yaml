@@ -1,0 +1,23 @@
+id: research-group-of-prof-gabriel-bester-theory-of-nanoscopic-systems
+name: Research Group of Prof. Gabriel Bester (Theory of Nanoscopic Systems)
+kind: group
+website: https://www.chemie.uni-hamburg.de/en/institute/pc/arbeitsgruppen/bester.html
+topics:
+  - electronic-structure
+  - dft
+  - excited-states
+  - materials-modeling
+  - spectroscopy
+description: The research group of Prof. Gabriel Bester at the University of
+  Hamburg develops computational and numerical methods to study quantum
+  mechanical and optical properties of nanoscopic systems like semiconductor
+  quantum dots.
+added: 2026-10-02
+aliases:
+  - Research Group Bester "Theory of Nanoscopic Systems", Department of
+    Chemistry, University of Hamburg, Germany
+pi: Prof. Gabriel Bester
+parent: University of Hamburg
+location:
+  city: Hamburg
+  country: DE
