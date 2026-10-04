@@ -1,0 +1,23 @@
+id: theory-of-dynamics-in-quantum-materials-tdqm
+name: Theory of Dynamics in Quantum Materials (TDQM)
+kind: group
+website: https://www.sangeeta-sharma.com/
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - spectroscopy
+description: The Theory of Dynamics in Quantum Materials (TDQM) research group
+  focuses on the electronic structure of solid-state matter, superconductivity,
+  magnetism, and light-matter interaction, employing first-principles methods
+  such as time-dependent density functional theory (TDDFT)…
+added: 2026-10-03
+aliases:
+  - Research Group "Theory of Dynamics in Quantum Materials", Max-Born-Institut,
+    Technical University Berlin, Germany
+pi: Prof. Dr. Sangeeta Sharma
+parent: Max-Born-Institut (MBI) im Forschungsverbund Berlin e.V. / Freie
+  Universität Berlin
+location:
+  city: Berlin
+  country: DE
