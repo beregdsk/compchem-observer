@@ -1,0 +1,23 @@
+id: theoretical-ultrafast-x-ray-science
+name: Theoretical Ultrafast X-ray Science
+kind: group
+website: https://tuxs.desy.de/
+topics:
+  - spectroscopy
+  - quantum-dynamics
+  - electronic-structure
+  - excited-states
+  - photochemistry
+description: The Theoretical Ultrafast X-ray Science (TUXS) group at DESY
+  studies fundamental interactions of ultrashort high-intensity X-ray
+  free-electron laser pulses with matter, focusing on nonlinear x-ray
+  spectroscopic and imaging techniques, stimulated x-ray emission, and
+  parametric…
+added: 2026-10-02
+aliases:
+  - Research Group "Theoretical Ultrafast X-ray Science", DESY, Germany
+pi: Prof. Dr. Nina Rohringer
+parent: DESY
+location:
+  city: Hamburg
+  country: DE
