@@ -16,7 +16,7 @@ import { runPipeline, type PipelineOptions } from '../../src/lib/discovery/pipel
 import { discoveryPrDrafts, type PrDrafts } from '../../src/lib/discovery/pr-drafts';
 import { loadState, saveState } from '../../src/lib/discovery/state';
 import { syncFailureIssue } from '../../src/lib/discovery/github-client';
-import { autoApproveHighConfidencePrs } from '../../src/lib/discovery/auto-approve';
+import { autoMergeHighConfidencePrs } from '../../src/lib/discovery/auto-approve';
 
 export { buildConfig, type ConfigResult, type ResolvedConfig } from './config';
 import { buildConfig } from './config';
@@ -163,11 +163,11 @@ async function main(): Promise<void> {
   // A separate phase, deliberately run after and independent of the loop
   // above: it revisits *all* currently-open discovery PRs (not just this
   // run's candidates), since CI on a PR opened days ago finishes long after
-  // the run that opened it has exited. Never merges — only fast-tracks
-  // human review for PRs that already look done. See auto-approve.ts.
-  const autoApprove = await autoApproveHighConfidencePrs({ ...cfg.github, log });
+  // the run that opened it has exited. Merges the ones that qualify; see
+  // auto-approve.ts.
+  const autoMerge = await autoMergeHighConfidencePrs({ ...cfg.github, log });
 
-  console.log(JSON.stringify({ ...result, groups, crawl, autoApprove }, null, 2));
+  console.log(JSON.stringify({ ...result, groups, crawl, autoMerge }, null, 2));
 }
 
 // Only run when invoked directly — see scripts/discovery/parse-sources.ts for

@@ -368,25 +368,30 @@ export async function getCheckRunConclusions(
 }
 
 /**
- * `event: 'APPROVE'` here always fails with HTTP 422 ("Can not approve your
- * own pull request") — the same token opened every discovery PR, and
- * GitHub blocks an actor from formally approving their own PR regardless of
- * permissions. `'COMMENT'` is the closest event that actor is allowed to
- * post, and is what auto-approve.ts actually uses.
+ * Merges a PR, but only while its head is still `sha` — the commit whose
+ * checks the caller looked at — so a push after that check is never merged
+ * unseen. Returns undefined on success, else why GitHub refused (405: not
+ * mergeable, e.g. a conflict; 409: the head moved).
  */
-export async function postReview(
+export async function mergePr(
   prNumber: number,
-  event: 'APPROVE' | 'COMMENT',
-  body: string,
+  sha: string,
   options: GitHubOptions,
-): Promise<void> {
-  const res = await githubRequest(options, 'POST', `/pulls/${prNumber}/reviews`, {
-    event,
-    body,
-  });
-  if (res.status !== 200) {
-    throw new Error(`failed to post a review on pull request #${prNumber}: HTTP ${res.status}`);
+): Promise<string | undefined> {
+  const res = await githubRequest<{ message?: string }>(
+    options,
+    'PUT',
+    `/pulls/${prNumber}/merge`,
+    {
+      sha,
+      merge_method: 'merge',
+    },
+  );
+  if (res.status === 200) return undefined;
+  if (res.status === 405 || res.status === 409) {
+    return `merge refused: HTTP ${res.status}${res.data?.message ? ` (${res.data.message})` : ''}`;
   }
+  throw new Error(`failed to merge pull request #${prNumber}: HTTP ${res.status}`);
 }
 
 /** Which tracking issue a job reports to: each job owns one, so one job's clean run never closes another's. */

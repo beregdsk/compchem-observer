@@ -1,11 +1,35 @@
+import { parse } from 'yaml';
 import { POSSIBLE_DUPLICATE_LABEL } from './duplicates';
 import {
   addLabel,
   getCheckRunConclusions,
   listOpenDiscoveryPrs,
-  postReview,
+  listPrYamlFiles,
+  mergePr,
   type GitHubOptions,
 } from './github-client';
+import {
+  formatProblems,
+  loadValidationContext,
+  readEventFiles,
+  validateCollection,
+  validateEvent,
+  type EventFile,
+  type ValidationContext,
+  type ValidationResult,
+} from '../validation';
+import {
+  POSITIONS_DIR,
+  readPositionFiles,
+  validatePosition,
+  validatePositionCollection,
+} from '../position-validation';
+import {
+  GROUPS_DIR,
+  readGroupFiles,
+  validateGroup,
+  validateGroupCollection,
+} from '../group-validation';
 
 /** Matches `buildPrBody`'s own `Confidence: 0.93` line — see orchestrator.ts. */
 const CONFIDENCE_LINE = /^Confidence: (\d+(?:\.\d+)?)$/m;
@@ -29,38 +53,80 @@ export const REQUIRED_CHECKS = ['check', 'e2e'] as const;
 
 export const HIGH_CONFIDENCE_LABEL = 'high-confidence';
 
-export interface AutoApproveResult {
-  approved: number[];
+export interface AutoMergeResult {
+  merged: number[];
   skipped: Array<{ number: number; reason: string }>;
 }
 
+interface Kind {
+  dir: string;
+  validate: (entry: EventFile, ctx: ValidationContext) => ValidationResult;
+  validateCollection: (entries: EventFile[]) => ValidationResult;
+  readMain: () => EventFile[];
+}
+
+const KINDS: Kind[] = [
+  {
+    dir: 'data/events/',
+    validate: validateEvent,
+    validateCollection: (entries) => validateCollection(entries, loadValidationContext()),
+    readMain: () => readEventFiles(),
+  },
+  {
+    dir: `${POSITIONS_DIR}/`,
+    validate: validatePosition,
+    validateCollection: validatePositionCollection,
+    readMain: () => readPositionFiles(),
+  },
+  {
+    dir: `${GROUPS_DIR}/`,
+    validate: validateGroup,
+    validateCollection: validateGroupCollection,
+    readMain: () => readGroupFiles(),
+  },
+];
+
 /**
- * Flags — never merges, and never formally *approves* — open discovery PRs
- * whose recorded confidence is at least `AUTO_APPROVE_THRESHOLD` and whose
- * `REQUIRED_CHECKS` have all completed successfully: a `high-confidence`
- * label plus a comment-type review explaining why. A maintainer still has
- * to click merge: `docs/discovery-agent.md` says an automatically
- * discovered event is never published without human review, and this only
- * fast-tracks finding the PRs ready for that review, never skips it.
- *
- * The review is `event: 'COMMENT'`, not `'APPROVE'` — GitHub rejects an
- * actor formally approving their own PR with HTTP 422, and the same token
- * that runs this opened every discovery PR. A comment is the closest this
- * token is actually allowed to post; see `postReview` in github-client.ts.
+ * A PR's data files checked against the validator in this checkout (main),
+ * alone and beside main's own files. Its CI may have run before main's
+ * validator got stricter, and merging it then would break main's build.
+ * Returns the errors in the PR's own files, formatted.
  */
-export async function autoApproveHighConfidencePrs(
+export function validatePrFiles(files: Array<{ path: string; content: string }>): string {
+  const ctx = loadValidationContext();
+  const errors: ValidationResult = { errors: [], warnings: [] };
+  for (const kind of KINDS) {
+    const own = files
+      .filter((f) => f.path.startsWith(kind.dir))
+      .map((f): EventFile => ({ file: f.path, data: parse(f.content) }));
+    if (own.length === 0) continue;
+    for (const entry of own) errors.errors.push(...kind.validate(entry, ctx).errors);
+    const ownPaths = new Set(own.map((e) => e.file));
+    const merged = [...kind.readMain().filter((e) => !ownPaths.has(e.file)), ...own];
+    errors.errors.push(
+      ...kind.validateCollection(merged).errors.filter((p) => ownPaths.has(p.file)),
+    );
+  }
+  return formatProblems(errors);
+}
+
+/**
+ * Merges open discovery PRs whose recorded confidence is at least
+ * `AUTO_APPROVE_THRESHOLD`, whose `REQUIRED_CHECKS` all passed, that are
+ * not labelled `possible-duplicate`, and whose files still pass this
+ * checkout's validator. Each gets the `high-confidence` label first, so
+ * auto-merged PRs stay findable; a PR GitHub refuses to merge (a conflict,
+ * a new push) keeps the label and is retried on the next run.
+ */
+export async function autoMergeHighConfidencePrs(
   options: GitHubOptions & { log?: (message: string) => void },
-): Promise<AutoApproveResult> {
+): Promise<AutoMergeResult> {
   const log = options.log ?? (() => {});
-  const approved: number[] = [];
+  const merged: number[] = [];
   const skipped: Array<{ number: number; reason: string }> = [];
 
   const prs = await listOpenDiscoveryPrs(options);
   for (const pr of prs) {
-    if (pr.labels.includes(HIGH_CONFIDENCE_LABEL)) {
-      skipped.push({ number: pr.number, reason: 'already flagged' });
-      continue;
-    }
     // A PR that may repeat another needs a human's eye whatever its confidence.
     if (pr.labels.includes(POSSIBLE_DUPLICATE_LABEL)) {
       skipped.push({ number: pr.number, reason: 'possible duplicate' });
@@ -87,18 +153,29 @@ export async function autoApproveHighConfidencePrs(
       continue;
     }
 
-    await postReview(
+    const files = await listPrYamlFiles(
       pr.number,
-      'COMMENT',
-      `High confidence: ${confidence.toFixed(2)} ≥ ${AUTO_APPROVE_THRESHOLD.toFixed(2)}, ` +
-        `and ${REQUIRED_CHECKS.join(', ')} all passed. This does not approve or merge the PR — ` +
-        "a maintainer's own review and merge are still required (docs/discovery-agent.md).",
+      pr.headSha,
+      KINDS.map((k) => k.dir),
       options,
     );
-    await addLabel(pr.number, HIGH_CONFIDENCE_LABEL, options);
-    approved.push(pr.number);
-    log(`flagged PR #${pr.number} as high-confidence (${confidence.toFixed(2)})`);
+    const problems = validatePrFiles(files);
+    if (problems) {
+      skipped.push({ number: pr.number, reason: `fails main's validator:\n${problems}` });
+      continue;
+    }
+
+    if (!pr.labels.includes(HIGH_CONFIDENCE_LABEL)) {
+      await addLabel(pr.number, HIGH_CONFIDENCE_LABEL, options);
+    }
+    const refused = await mergePr(pr.number, pr.headSha, options);
+    if (refused) {
+      skipped.push({ number: pr.number, reason: refused });
+      continue;
+    }
+    merged.push(pr.number);
+    log(`merged PR #${pr.number} (confidence ${confidence.toFixed(2)})`);
   }
 
-  return { approved, skipped };
+  return { merged, skipped };
 }

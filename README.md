@@ -4,7 +4,7 @@ A community-maintained calendar of conferences, workshops and schools in computa
 
 Events are listed with topics, location, format and deadlines, and can be filtered and exported to your calendar. Listings are curated: see the [curation policy](docs/curation-policy.md).
 
-> **Status:** phases 0-5 are built. The discovery agent (phase 5) runs on a schedule and opens pull requests for human review; see [`docs/discovery-agent.md`](docs/discovery-agent.md).
+> **Status:** phases 0-5 are built. The discovery agent (phase 5) runs on a schedule and opens pull requests, merging only high-confidence ones that pass CI and validation; see [`docs/discovery-agent.md`](docs/discovery-agent.md).
 
 ## How it works
 
@@ -13,7 +13,7 @@ Events are listed with topics, location, format and deadlines, and can be filter
 - Feeds: `/events.ics`, `/deadlines.ics`, `/feed.xml` and `/events.json`, a live calendar for any filter on the list page (`/feed/events.ics?<filter>`), a saved default filter per browser with its own calendar (`/feed/my/<id>.ics`), plus a calendar and Atom feed per topic (`/topics/<slug>.ics`, `/topics/<slug>.xml`) listed on `/topics/`.
 - Browsing: every topic has a page at `/topics/<slug>/`, a recurring series with two or more listed editions has one at `/series/<slug>/`, and `/graph/` maps similar events close together.
 - Groups: `/groups/` lists research groups, institutes, networks and societies from `data/groups/`, validated against `schema/group.schema.json`.
-- A discovery agent finds candidate events on the sources in [`data/sources.yaml`](data/sources.yaml) and opens pull requests. It never publishes; a maintainer merges.
+- A discovery agent finds candidate events on the sources in [`data/sources.yaml`](data/sources.yaml) and opens pull requests. High-confidence PRs that pass CI and the validator are merged automatically; the rest wait for a maintainer.
 - Anyone can add or correct an event with a pull request or an issue. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Local development
