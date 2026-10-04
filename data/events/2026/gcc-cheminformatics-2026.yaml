@@ -10,14 +10,21 @@ location:
   country: DE
 url: https://www.gdch.de/gcc2026
 organizer: Computers in Chemistry division of the German Chemical Society (GDCh)
-cost: '€630 (GDCh/EuChemS members €580); students €270–320'
+cost: €630 (GDCh/EuChemS members €580); students €270–320
 fee: paid
-topics: [cheminformatics, ml-chemistry, drug-design, materials-modeling]
-description: The nineteenth edition of the German cheminformatics meeting, with plenary and contributed lectures, research telegrams for PhD students and posters. Attendance is capped at 140 people.
+topics:
+  - cheminformatics
+  - ml-chemistry
+  - drug-design
+  - materials-modeling
+description: The nineteenth edition of the German cheminformatics meeting, with
+  plenary and contributed lectures, research telegrams for PhD students and
+  posters. Attendance is capped at 130 people.
 deadlines:
   - type: abstract
     date: 2026-06-15
-    note: Oral contributions and research telegrams; deadline was extended to this date.
+    note: Oral contributions and research telegrams; deadline was extended to this
+      date.
   - type: poster
     date: 2026-08-31
   - type: travel_grant
