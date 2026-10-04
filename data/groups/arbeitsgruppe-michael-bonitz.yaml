@@ -1,0 +1,24 @@
+id: arbeitsgruppe-michael-bonitz
+name: Arbeitsgruppe Michael Bonitz
+kind: group
+website: https://www.itap.uni-kiel.de/theo-physik/bonitz/group.html
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - enhanced-sampling
+  - dft
+  - electronic-structure
+description: The Bonitz group at CAU Kiel, led by Prof. Michael Bonitz, performs
+  theoretical and computational research on warm dense matter, quantum and
+  classical plasmas, and correlated many-particle systems. Their work employs
+  advanced methods such as path integral Monte Carlo…
+added: 2026-10-02
+aliases:
+  - Bonitz group, Faculty of Mathematics and Natural Sciences,
+    Christian-Albrecht University of Kiel, Germany
+pi: Michael Bonitz
+parent: Institut für Theoretische Physik und Astrophysik,
+  Christian-Albrechts-Universität Kiel
+location:
+  city: Kiel
+  country: DE
