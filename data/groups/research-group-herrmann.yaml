@@ -1,0 +1,22 @@
+id: research-group-herrmann
+name: Research Group Herrmann
+kind: group
+website: https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/herrmann.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - software-hpc
+  - spectroscopy
+description: The official homepage of the Research Group Herrmann at the
+  Institute of Inorganic and Applied Chemistry, University of Hamburg. Led by
+  Prof. Dr. Carmen Herrmann, the group focuses on the first-principles theory of
+  molecular and nanoscale spintronics, exploring magnetoresistance, spin-orbit
+  effects, and electronic communication using DFT, electronic structure methods,
+  and software development.
+added: 2026-10-04
+pi: Carmen Herrmann
+parent: Institute of Inorganic and Applied Chemistry, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
