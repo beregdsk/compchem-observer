@@ -1,14 +1,13 @@
 #!/usr/bin/env node
-import { readdirSync, readFileSync, existsSync } from 'node:fs';
-import { join } from 'node:path';
+import { readFileSync, existsSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import {
   formatProblems,
   loadValidationContext,
+  readEventFiles,
   validateCollection,
   validateEvent,
-  type EventFile,
   type ValidationResult,
 } from '../src/lib/validation';
 import {
@@ -30,6 +29,7 @@ import { loadTopics } from '../src/lib/validation';
 // stable entry point, as promised by TASK.md section 7.
 export {
   loadValidationContext,
+  readEventFiles,
   validateCollection,
   validateEvent,
   type EventFile,
@@ -38,20 +38,7 @@ export {
   type ValidationResult,
 } from '../src/lib/validation';
 
-const EVENTS_DIR = 'data/events';
 const SOURCES_FILE = 'data/sources.yaml';
-
-export function readEventFiles(root = '.'): EventFile[] {
-  const dir = join(root, EVENTS_DIR);
-  if (!existsSync(dir)) return [];
-  return readdirSync(dir, { recursive: true, encoding: 'utf8' })
-    .filter((p) => p.endsWith('.yaml'))
-    .sort()
-    .map((p) => ({
-      file: `${EVENTS_DIR}/${p.split('\\').join('/')}`,
-      data: parse(readFileSync(join(dir, p), 'utf8')),
-    }));
-}
 
 function main(): void {
   const entries = readEventFiles();

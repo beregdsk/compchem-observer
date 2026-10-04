@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { basename, dirname, join } from 'node:path';
 import Ajv2020 from 'ajv/dist/2020.js';
 import addFormats from 'ajv-formats';
@@ -232,6 +232,21 @@ function schemaValidator(root: string): ValidateFunction {
 /** The controlled topic vocabulary from data/topics.yaml, slugs with their labels. */
 export function loadTopics(root = '.'): Topic[] {
   return (parse(readFileSync(join(root, 'data/topics.yaml'), 'utf8')) as Topic[] | null) ?? [];
+}
+
+const EVENTS_DIR = 'data/events';
+
+/** Every event file under data/events/, recursively, sorted. */
+export function readEventFiles(root = '.'): EventFile[] {
+  const dir = join(root, EVENTS_DIR);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir, { recursive: true, encoding: 'utf8' })
+    .filter((p) => p.endsWith('.yaml'))
+    .sort()
+    .map((p) => ({
+      file: `${EVENTS_DIR}/${p.split('\\').join('/')}`,
+      data: parse(readFileSync(join(dir, p), 'utf8')),
+    }));
 }
 
 export function loadValidationContext(root = '.', today: ISODate = todayUTC()): ValidationContext {

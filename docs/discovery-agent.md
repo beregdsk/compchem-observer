@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Find candidate events on known sources, extract them into the event schema, and open **pull requests for human review**. It never publishes anything itself.
+Find candidate events on known sources, extract them into the event schema, and open **pull requests for review**. A PR is merged automatically only when it clears the high-confidence bar below; everything else waits for a human.
 
 ## Where it runs
 
@@ -127,20 +127,20 @@ the state file's `rejectedPrs`.
   on start dates within three days for events; shared title and institution
   words, plus a shared source post, for positions. At 0.6 or more the PR body
   gets a `**Possible duplicate** (0.63) of main: …` line and the
-  `possible-duplicate` label, and auto-approve never flags it.
+  `possible-duplicate` label, and auto-merge never merges it.
 
 After each run, a separate pass (`auto-approve.ts`) revisits every currently
 open discovery PR — not just this run's candidates, since CI on a PR opened
-days ago finishes long after that run has exited — and adds a
-`high-confidence` label plus an explanatory comment on any whose recorded
-confidence is at least 0.90, whose `check`/`e2e` CI jobs both passed, and
-which is not labelled `possible-duplicate`.
-It's a comment, not a formal GitHub approval: GitHub rejects an actor
-approving its own PR, and the same token opens every discovery PR. This
-never merges anything and never replaces review: **automatically discovered
-events are still never published without a human clicking merge.** It only
-lets a maintainer skim straight to the highest-confidence PRs instead of
-re-deriving that judgement by hand.
+days ago finishes long after that run has exited — and **merges** any whose
+recorded confidence is at least 0.90, whose `check`/`e2e` CI jobs both passed
+on its current head, which is not labelled `possible-duplicate`, and whose
+data files still pass the validator on `main` (the run's own checkout). That
+last check matters because a PR's CI may predate a stricter rule on `main`;
+merging it would break `main`'s build. A qualifying PR is labelled
+`high-confidence` first, so auto-merged PRs stay findable; the merge is pinned
+to the head commit whose checks were read. A PR GitHub refuses to merge (a
+conflict, a new push) is reported in the run's output and retried next run.
+Everything below the bar still waits for a human to review and merge.
 
 ## Positions
 
@@ -166,8 +166,7 @@ under last year's id: an open position PR is never rewritten, so its `added`
 date stays the day the advert was first seen. Survivors become PRs on the branch
 `discovery/position/<id>`, labelled `needs-review` and `position`, with
 `Confidence: 0.xx` as the first line of the body. `auto-approve.ts` reads that
-line, so high-confidence position PRs get the `high-confidence` label and
-comment like event PRs; it never merges anything.
+line, so high-confidence position PRs are merged like event PRs.
 
 ## Groups
 
@@ -212,7 +211,7 @@ organiser of a merged event, every group of a merged position and every
 `group-listing` source entry, as one PR from the branch
 `discovery/groups-backfill` (labels `needs-review` and `group`). Its body is a
 table of entries followed by the skipped names, and has no `Confidence:` line,
-so auto-approve never flags the batch. Run once by hand, not by cron; a re-run
+so auto-merge never merges the batch. Run once by hand, not by cron; a re-run
 updates the same PR. It needs the same environment as `discover:run`.
 
 ## Groups crawler
@@ -298,7 +297,7 @@ events; `title`, `aliases`, `institution`, `group`, `description` for positions;
 still validates. An `aliases` fix appends one alias. `--files <list>` audits the entries named
 in a file (one path per line) whether or not they are due, for a one-off re-check. The fixes go
 to one PR on `audit/<date>-<n>` (labels `needs-review`, `audit`; never on a `discovery/` branch,
-so auto-approve leaves it alone), whose body lists every change and every finding that needs a
+so auto-merge leaves it alone), whose body lists every change and every finding that needs a
 human. A run with findings but no fixes has nothing to commit, so it opens an issue with the same
 report instead. Each entry is recorded in `audit-state.json` (next to `STATE_PATH`) with a hash of
 its content, and is audited again only when it changes or after 90 days; entries that errored are

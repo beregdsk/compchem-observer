@@ -18,8 +18,8 @@ existed before the visitor arrived; only the paths under `run_worker_first` in
 
 Separately, a discovery agent (`scripts/discovery/run.ts` over
 `src/lib/discovery/`) runs as a cron job on the maintainer's VDS: it reads
-`data/sources.yaml`, finds candidate events and opens pull requests for human
-review. It never publishes, and nothing in the built site depends on it.
+`data/sources.yaml`, finds candidate events and opens pull requests, merging only high-confidence
+ones that pass CI and the validator. Nothing in the built site depends on it.
 
 The data flows one way:
 
@@ -85,7 +85,7 @@ publishing workflow.
 | Path | What it is |
 | --- | --- |
 | `scripts/validate.ts` | CLI entry point for `npm run validate`. Walks `data/events/`, `data/positions/` and `data/groups/` and checks `data/sources.yaml`, reports problems and exits non-zero on any error. Thin: the logic is in `src/lib/validation.ts` and `src/lib/discovery/sources.ts` so the discovery agent can import it as a library. |
-| `scripts/discovery/run.ts` | The discovery agent's cron entry point (`npm run discover:run`): validates its environment, then runs fetch → extract → classify → open pull requests → label high-confidence ones. |
+| `scripts/discovery/run.ts` | The discovery agent's cron entry point (`npm run discover:run`): validates its environment, then runs fetch → extract → classify → open pull requests → merge high-confidence ones. |
 | `scripts/discovery/groups-crawl.ts` | The groups crawler (`npm run discover:groups-crawl`): takes the lock, gathers seeds, crawls, resolves the leads and proposes verified groups in batches of ≤ 50 on `discovery/groups-crawl/<date>-<n>`. Flags for the big crawl; `run.ts` calls it nightly with small defaults. |
 | `scripts/audit/run.ts` | The daily data audit (`npm run audit`, `--dry-run` prints the report): checks a slice of the entries on main against their pages and opens one PR with the fixes (or an issue when there are none). |
 | `scripts/discovery/config.ts` | `buildConfig`: the discovery agent's settings from the environment, shared by `run.ts` and the runners. |
@@ -155,7 +155,7 @@ behaviour lives and where tests point.
 | `discovery/groups-pass.ts` | The groups pass of a scheduled run: reads open group PRs, resolves this run's leads, proposes drafts as pull requests, and forgets cached names whose PR was not opened. Never rejects. |
 | `discovery/parsers/group-listing.ts` | Deterministic parser (no LLM) for `group-listing` sources: every link in the main content becomes a group lead with its heading as context. |
 | `discovery/audit.ts` | The data audit's checks: which entries are due, mechanical findings, the model's review against the page, fixes kept only when they validate, and the report. |
-| `discovery/auto-approve.ts` | Labels open discovery PRs `high-confidence` when confidence ≥ 0.90 and CI passed. Never merges. |
+| `discovery/auto-approve.ts` | Merges open discovery PRs when confidence ≥ 0.90, CI passed, not a possible duplicate, and their files pass main's validator. |
 | `types.ts` | The shared vocabulary: event types, formats, deadline types, statuses, and the loaded-event shape. |
 | `filter.ts` | Filter state and matching. Parses and serialises the query string, and decides whether a row matches. Shared verbatim between the server render, the browser and the Worker so all three agree; `filterRowFromEvent` builds the row each of them matches. |
 | `regions.ts` | Country-to-region mapping and country display names. |
