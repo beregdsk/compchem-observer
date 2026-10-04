@@ -1,0 +1,18 @@
+id: research-group-of-h-georg-schreckenbach
+name: Research Group of H. Georg Schreckenbach
+kind: group
+website: https://home.cc.umanitoba.ca/~schrecke/
+topics:
+  - electronic-structure
+  - materials-modeling
+description: The official homepage of the Schreckenbach research group, part of
+  the Department of Chemistry at the University of Manitoba in Winnipeg, Canada.
+  The group focuses on theoretical and computational chemistry, developing and
+  applying state-of-the-art quantum chemical methods to study molecules,
+  materials, and their properties using high-performance computing.
+added: 2026-10-04
+pi: H. Georg Schreckenbach
+parent: University of Manitoba
+location:
+  city: Winnipeg
+  country: CA

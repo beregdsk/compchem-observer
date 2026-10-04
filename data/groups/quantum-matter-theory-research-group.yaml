@@ -1,0 +1,19 @@
+id: quantum-matter-theory-research-group
+name: Quantum Matter Theory Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/qtm_matter_theor/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Quantum Matter Theory Research Group at the RIKEN Center for
+  Emergent Matter Science theoretically investigates emergent quantum phenomena
+  in strongly correlated electrons, molecular conductors, frustrated quantum
+  magnets, and topological superconductors. The group constructs effective
+  models of interacting electrons to study magnetism, transport, and topological
+  properties using analytical and computational approaches.
+added: 2026-10-04
+pi: Akira Furusaki
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

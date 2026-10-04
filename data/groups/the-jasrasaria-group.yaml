@@ -1,0 +1,22 @@
+id: the-jasrasaria-group
+name: The Jasrasaria Group
+kind: group
+website: https://www.jasrasariagroup.com/
+topics:
+  - electronic-structure
+  - excited-states
+  - quantum-dynamics
+  - materials-modeling
+  - quantum-computing-chemistry
+description: The Jasrasaria Group at the University of Chicago focuses on using
+  theory and simulation to understand microscopic interactions between atoms and
+  electrons, aiming to dictate macroscopic material behaviors and develop design
+  principles for applications in quantum information and energy conversion.
+added: 2026-10-04
+aliases:
+  - Visit the Group
+pi: Dipti Jasrasaria
+parent: University of Chicago
+location:
+  city: Chicago
+  country: US

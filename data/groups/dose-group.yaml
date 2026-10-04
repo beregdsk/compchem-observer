@@ -1,0 +1,21 @@
+id: dose-group
+name: Dose Group
+kind: group
+website: https://www.sydney.edu.au/science/schools/school-of-chemistry/research/dose-group.html
+topics:
+  - electrochemistry
+  - materials-modeling
+  - spectroscopy
+description: The Dose Group at the University of Sydney, led by Dr. Wesley Dose,
+  focuses on materials chemistry and electrochemistry for electrochemical energy
+  storage. Their research explores emerging materials for lithium-ion,
+  sodium-ion, and beyond-lithium-ion batteries, investigating structure-property
+  relationships, interfacial reactivity, and degradation pathways using advanced
+  characterization techniques to develop sustainable, low-cost, and high-energy
+  battery solutions.
+added: 2026-10-04
+pi: Wesley Dose
+parent: The University of Sydney
+location:
+  city: Sydney
+  country: AU

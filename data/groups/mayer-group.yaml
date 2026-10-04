@@ -1,0 +1,19 @@
+id: mayer-group
+name: Mayer Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agmayer/index.html
+topics:
+  - electrochemistry
+  - spectroscopy
+description: The Mayer Group, led by Dr. Matthew Mayer, is a research group at
+  the Institute of Chemistry and Biochemistry, Freie Universität Berlin, based
+  at the Helmholtz-Zentrum Berlin für Materialien und Energie. The group focuses
+  on electrochemical methods for the capture and conversion of carbon dioxide,
+  with research spanning physical chemistry, spectroscopy, analytical chemistry,
+  materials science, and inorganic chemistry.
+added: 2026-10-04
+pi: Matthew Mayer
+parent: Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE

@@ -1,0 +1,24 @@
+id: computational-electrochemistry-laboratory-cel-guelph
+name: Computational Electrochemistry Laboratory (CEL) @ Guelph
+kind: group
+website: https://www.compchemguelph.ca/
+topics:
+  - catalysis
+  - electrochemistry
+  - dft
+  - molecular-dynamics
+  - materials-modeling
+description: The Computational Electrochemistry Laboratory (CEL) @ Guelph is a
+  research group led by Prof. Leanne D. Chen at the University of Guelph. The
+  group uses ab initio computational methods, including density functional
+  theory and molecular dynamics, to model reactions at the electrode-electrolyte
+  interface. Their research focuses on electrocatalysis for sustainable energy
+  applications, such as fuel cells, batteries, and CO2 reduction.
+added: 2026-10-04
+aliases:
+  - Leanne Chen
+pi: Leanne D. Chen
+parent: University of Guelph
+location:
+  city: Guelph
+  country: CA

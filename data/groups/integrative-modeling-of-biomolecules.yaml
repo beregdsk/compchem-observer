@@ -1,0 +1,19 @@
+id: integrative-modeling-of-biomolecules
+name: Integrative Modeling of Biomolecules
+kind: group
+website: https://sites.lsa.umich.edu/frank-lab/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+description: The research group of Professor Aaron Frank at the University of
+  Michigan focuses on integrative modeling of biomolecules, particularly
+  functional ribonucleic acids. The group develops computational tools to
+  predict molecular structures and simulate their dynamics, using experimental
+  data to guide both structure prediction and atomistic simulations. Their work
+  aims to understand how RNA molecules achieve specific cellular functions.
+added: 2026-10-04
+pi: Aaron T. Frank
+parent: University of Michigan
+location:
+  city: Ann Arbor
+  country: US

@@ -1,0 +1,23 @@
+id: laboratoire-d-ingenierie-des-fonctions-moleculaires-ifm
+name: Laboratoire d'Ingénierie des Fonctions Moléculaires | IFM
+kind: group
+website: https://institut-chimie.unistra.fr/en/research-groups/laboratoire-dingenierie-des-fonctions-moleculaires-ifm/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - enhanced-sampling
+  - drug-design
+  - soft-matter
+description: The Laboratoire d'Ingénierie des Fonctions Moléculaires (IFM) is a
+  computational chemistry research group at the Institut de Chimie de
+  Strasbourg, University of Strasbourg, led by Marco Cecchini. Focused on
+  computational modeling at the interface of life and material sciences, the
+  team studies molecular self-assembly, allosteric regulation of
+  neurotransmitter receptors, and develops numerical methods for free energy
+  computation in biomolecular simulation and drug design.
+added: 2026-10-04
+pi: Marco Cecchini
+parent: Institut de Chimie de Strasbourg | UMR 7177
+location:
+  city: Strasbourg
+  country: FR

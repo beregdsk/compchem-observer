@@ -1,0 +1,24 @@
+id: biochemistry-computational-biology-and-bioinformatics
+name: Biochemistry, Computational Biology and Bioinformatics
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/biochemistry-computational-biology-and-bioinformatics-coordinator-martelli
+topics:
+  - biomolecular-simulation
+  - cheminformatics
+  - software-hpc
+  - ml-chemistry
+description: The Biochemistry, Computational Biology and Bioinformatics research
+  group at the Department of Pharmacy and Biotechnology (FABIT) of the
+  University of Bologna, coordinated by Pier Luigi Martelli, focuses on
+  characterizing biomolecular structure-function relationships in physiological
+  and pathological states. The group develops computational methods, algorithms,
+  and machine learning approaches for annotating proteins and their variants,
+  analyzing omics data, modeling protein-protein interactions, and integrating
+  genomic data to study genotype-phenotype relationships in complex diseases
+  like…
+added: 2026-10-04
+pi: Pier Luigi Martelli
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT

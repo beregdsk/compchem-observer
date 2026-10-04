@@ -1,0 +1,20 @@
+id: topological-phenomena-theory-research-team
+name: Topological Phenomena Theory Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/topology-phenom-theor/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Topological Phenomena Theory Research Team at the RIKEN Center
+  for Emergent Matter Science, led by Team Director Shuichi Murakami, conducts
+  theoretical and analytical research on emergent physical phenomena of
+  electrons, quasiparticles, and waves in materials and metamaterials. Focusing
+  on topological structures, their research spans topological phases, chiral
+  phonons, electromagnetic multipoles, non-Hermitian systems, and metamaterials,
+  seeking universal laws across quantum and classical systems.
+added: 2026-10-04
+pi: Shuichi Murakami
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

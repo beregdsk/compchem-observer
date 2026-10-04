@@ -1,0 +1,23 @@
+id: friscic-research-group
+name: Friščić Research Group
+kind: group
+website: https://www.birmingham.ac.uk/research/centres-institutes/research-in-chemistry/chemistry-research-groups/friscic-research-group/friscic-staff
+topics:
+  - materials-modeling
+  - molecular-dynamics
+  - catalysis
+  - drug-design
+  - spectroscopy
+description: The Friščić Research Group at the University of Birmingham, led by
+  Professor Tomislav Friščić, specializes in solid-state chemistry,
+  mechanochemistry, and green sustainable chemistry. The group conducts research
+  on metal-organic frameworks (MOFs), pharmaceutical cocrystals, and organic
+  synthesis using mechanochemical techniques. It also integrates theoretical and
+  computational chemistry, such as molecular dynamics and materials modeling, to
+  understand solid-state reactivity and develop sustainable chemical processes.
+added: 2026-10-04
+pi: Tomislav Friščić
+parent: University of Birmingham
+location:
+  city: Birmingham
+  country: GB

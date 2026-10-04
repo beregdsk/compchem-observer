@@ -1,0 +1,21 @@
+id: computational-inorganic-chemistry-group
+name: Computational Inorganic Chemistry Group
+kind: group
+website: https://mcgrady.chem.ox.ac.uk/members.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - catalysis
+  - spectroscopy
+description: The webpage represents the members' page of the Computational
+  Inorganic Chemistry Group at the University of Oxford, led by Prof. John E.
+  McGrady. It lists current DPhil students, Part II students, and numerous
+  former members, along with the group's contact address at the Inorganic
+  Chemistry Laboratory in Oxford, United Kingdom.
+added: 2026-10-04
+pi: John E. McGrady
+parent: University of Oxford
+location:
+  city: Oxford
+  country: GB

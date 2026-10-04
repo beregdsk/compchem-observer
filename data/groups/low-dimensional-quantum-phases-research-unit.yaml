@@ -1,0 +1,21 @@
+id: low-dimensional-quantum-phases-research-unit
+name: Low-Dimensional Quantum Phases Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/lowdim-qtm-phase/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+description: The Low-Dimensional Quantum Phases Research Unit at the RIKEN
+  Center for Emergent Matter Science, led by Takuro Sato, focuses on
+  low-dimensional systems like organic conductors and two-dimensional materials.
+  The unit investigates quantum phases driven by strong electronic correlations,
+  develops novel devices with strategic symmetries, and explores emergent
+  quantum phases, symmetry breaking, and nonlinear responses in low-dimensional
+  environments.
+added: 2026-10-04
+pi: Takuro Sato
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

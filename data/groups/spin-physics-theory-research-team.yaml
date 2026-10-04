@@ -1,0 +1,22 @@
+id: spin-physics-theory-research-team
+name: Spin Physics Theory Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/spin_phys_theor/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+  - catalysis
+  - photochemistry
+description: The Spin Physics Theory Research Team at RIKEN Center for Emergent
+  Matter Science, led by Gen Tatara, investigates novel spin-related effects in
+  condensed matter to advance spintronics and develop ultrafast, low-energy
+  information technology. Utilizing field theory, they explore quantum
+  relativistic effects, spin-to-charge conversion, nonlinear Hall effects,
+  thermoelectric materials, and photosynthetic charge transfer.
+added: 2026-10-04
+pi: Gen Tatara
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

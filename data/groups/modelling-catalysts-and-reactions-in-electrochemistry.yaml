@@ -1,0 +1,22 @@
+id: modelling-catalysts-and-reactions-in-electrochemistry
+name: Modelling Catalysts and Reactions in Electrochemistry
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/auer/research-topics/modelling-catalysts-and-reactions-in-electrochemistry
+topics:
+  - electronic-structure
+  - electrochemistry
+  - catalysis
+  - spectroscopy
+  - materials-modeling
+description: This group at the Max-Planck-Institut für Kohlenforschung focuses
+  on the computational modeling of electrochemical reactions, such as the oxygen
+  reduction and oxygen evolution reactions. Using electronic structure methods,
+  the team investigates platinum nanoparticles on carbon supports to support
+  experimental efforts in designing more efficient and durable catalysts for
+  energy conversion.
+added: 2026-10-04
+pi: Alexander A. Auer
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

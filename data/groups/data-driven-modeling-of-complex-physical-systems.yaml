@@ -1,0 +1,23 @@
+id: data-driven-modeling-of-complex-physical-systems
+name: Data-driven Modeling of Complex Physical Systems
+kind: group
+website: https://www.mpi-magdeburg.mpg.de/dmp
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - materials-modeling
+  - ml-potentials
+  - ml-chemistry
+description: The Data-driven Modeling of Complex Physical Systems (DMP) group is
+  an interdisciplinary team of applied mathematicians, physicists, and engineers
+  working on new algorithms to model and simulate molecular systems. They
+  develop robust data-based methods for modeling, analysis, and control of
+  complex dynamical systems, combining machine learning, numerical linear
+  algebra, and control theory, with applications to physical systems at the
+  atomistic or molecular scale.
+added: 2026-10-04
+pi: Feliks Nüske
+parent: Max Planck Institute for Dynamics of Complex Technical Systems
+location:
+  city: Magdeburg
+  country: DE

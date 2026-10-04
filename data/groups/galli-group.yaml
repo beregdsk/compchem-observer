@@ -1,0 +1,20 @@
+id: galli-group
+name: Galli Group
+kind: group
+website: https://galligroup.uchicago.edu/
+topics:
+  - materials-modeling
+  - electronic-structure
+  - dft
+  - quantum-computing-chemistry
+  - molecular-dynamics
+description: The official website of the Galli Group, led by Giulia Galli at the
+  University of Chicago. The group develops theoretical and computational
+  methods to predict and engineer the properties of materials and molecules,
+  focusing on sustainable energy, quantum technologies, and microelectronics.
+added: 2026-10-04
+pi: Giulia Galli
+parent: University of Chicago
+location:
+  city: Chicago
+  country: US
