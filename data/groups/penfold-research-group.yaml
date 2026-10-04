@@ -1,0 +1,21 @@
+id: penfold-research-group
+name: Penfold Research Group
+kind: group
+website: https://www.penfoldgroup.co.uk/
+topics:
+  - excited-states
+  - quantum-dynamics
+  - spectroscopy
+  - software-hpc
+description: The Penfold Research Group is a computational and theoretical
+  chemistry research group based at the School of Natural and Environmental
+  Sciences at Newcastle University. Their research focuses on developing methods
+  for understanding excited state properties, nonadiabatic ultrafast dynamics,
+  and time-resolved spectroscopy. They also lead the HPC Consortium for X-ray
+  Spectroscopy (HPC-CONEXS), developing computational tools for the analysis of
+  experimental X-ray spectroscopy data.
+added: 2026-10-04
+parent: School of Natural and Environmental Sciences, Newcastle University
+location:
+  city: Newcastle upon Tyne
+  country: GB
