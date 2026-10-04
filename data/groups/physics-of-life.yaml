@@ -1,0 +1,22 @@
+id: physics-of-life
+name: Physics of Life
+kind: group
+website: https://www.york.ac.uk/physics-engineering-technology/research/physics-of-life/
+topics:
+  - soft-matter
+  - molecular-dynamics
+  - biomolecular-simulation
+  - materials-modeling
+description: The Physics of Life is a major research group at the University of
+  York's School of Physics, Engineering and Technology. Established in 2015, the
+  group investigates biological systems across multiple scales, from quantum
+  biology and single molecules to cell populations. Their research encompasses
+  theoretical soft-matter biological physics, molecular dynamics simulations,
+  nano- and biomaterials, and single-molecule biophysics, bridging physical
+  sciences and life sciences.
+added: 2026-10-04
+pi: Laurence Wilson
+parent: School of Physics, Engineering and Technology, University of York
+location:
+  city: York
+  country: GB
