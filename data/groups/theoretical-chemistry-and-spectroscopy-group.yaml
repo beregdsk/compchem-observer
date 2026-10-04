@@ -1,0 +1,21 @@
+id: theoretical-chemistry-and-spectroscopy-group
+name: Theoretical Chemistry and Spectroscopy Group
+kind: group
+website: https://sites.units.it/cf/
+topics:
+  - spectroscopy
+  - excited-states
+  - electronic-structure
+  - photochemistry
+  - quantum-dynamics
+description: The Theoretical Chemistry and Spectroscopy Group at the Department
+  of Chemical and Pharmaceutical Sciences of the University of Trieste. The
+  group consists of theoreticians and experimentalists working on the
+  development and application of methods to spectroscopic problems, such as
+  plasmonic excitations in metal clusters, time-resolved processes, core-level
+  transitions, and high-harmonic generation.
+added: 2026-10-04
+parent: Department of Chemical and Pharmaceutical Sciences, University of Trieste
+location:
+  city: Trieste
+  country: IT
