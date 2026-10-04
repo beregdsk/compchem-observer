@@ -1,0 +1,23 @@
+id: atomic-molecular-and-optical-physics-amo-group
+name: Atomic, Molecular and Optical Physics (AMO) group
+kind: group
+website: https://www.anl.gov/cse/atomic-molecular-and-optical-physics
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - molecular-dynamics
+  - wavefunction-methods
+description: The atomic, molecular and optical (AMO) physics group explores the
+  frontiers of x-ray science using combined theoretical and experimental
+  approaches, focusing on nonlinear x-ray interactions, ultrafast photophysics,
+  solution-phase dynamics, and chiral spectroscopies.
+added: 2026-10-02
+aliases:
+  - Group "Atomic, molecular and optical (AMO) physics", Argonne National
+    Laboratory, USA
+pi: Linda Young
+parent: Chemical Sciences and Engineering Division, Argonne National Laboratory
+location:
+  city: Lemont
+  country: US
