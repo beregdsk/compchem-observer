@@ -1,0 +1,21 @@
+id: strong-correlation-physics-research-group
+name: Strong Correlation Physics Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/str_correl_phys/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+description: The Strong Correlation Physics Research Group at the RIKEN Center
+  for Emergent Matter Science, led by Group Director Yoshinori Tokura,
+  investigates emergent phenomena in strongly correlated electron systems. Their
+  research focuses on transport and optical properties in non-trivial spin and
+  orbital structures, as well as electron systems with strong spin-orbit
+  interactions, aiming to clarify the correlation between responses and
+  spin/orbital states.
+added: 2026-10-04
+pi: Yoshinori Tokura
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
