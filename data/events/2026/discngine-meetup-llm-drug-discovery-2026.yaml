@@ -1,5 +1,6 @@
 id: discngine-meetup-llm-drug-discovery-2026
-title: 'Discngine Meetup Vol. 6 — Large Language Models in Drug Discovery'
+title: 'Discngine Meetup Vol. 6 — Large Language Models in Drug Discovery: From
+  Promise to Practical Impact'
 series: discngine-meetup
 type: webinar
 start_date: 2026-10-20
@@ -7,8 +8,13 @@ end_date: 2026-10-20
 format: online
 url: https://event.discngine.com/discngine-meetup-vol-6-large-language-models-in-drug-discovery
 organizer: Discngine
-cost: 'Free online event; registration required'
+cost: Free online event; registration required
 fee: free
-topics: [drug-design, ml-chemistry]
-description: A free two-hour online meeting with industry talks and a roundtable on how far conversational language models and multi-agent systems have actually got in pharmaceutical research, and where they still fall short.
+topics:
+  - drug-design
+  - ml-chemistry
+description: A free two-hour online meeting with industry talks and
+  presentations on how far conversational language models and multi-agent
+  systems have actually got in pharmaceutical research, and where they still
+  fall short.
 added: 2026-09-20
