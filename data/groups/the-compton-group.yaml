@@ -1,0 +1,20 @@
+id: the-compton-group
+name: The Compton Group
+kind: group
+website: https://compton.chem.ox.ac.uk/
+topics:
+  - electrochemistry
+description: The Compton Group at the University of Oxford is a leading research
+  group specializing in electrochemistry, led by Richard Compton. Their research
+  spans fundamental theory of electron transfer and mass transport to practical
+  applications in chemical sensors, electroanalysis, nanoelectrodes, room
+  temperature ionic liquids, and bioelectrochemistry, with dedicated
+  experimental and theoretical subgroups.
+added: 2026-10-04
+aliases:
+  - Compton Group at Oxford
+pi: Richard Compton
+parent: University of Oxford
+location:
+  city: Oxford
+  country: GB
