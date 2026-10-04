@@ -1,0 +1,22 @@
+id: theoretical-quantum-dynamics-and-quantum-electrodynamics
+name: Theoretical Quantum Dynamics and Quantum Electrodynamics
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - excited-states
+  - photochemistry
+description: The Theoretical Quantum Dynamics and Quantum Electrodynamics
+  division at the Max Planck Institute for Nuclear Physics focuses on precision
+  studies with ions, X-ray quantum dynamics, and extreme laser-matter
+  interactions.
+added: 2026-10-02
+aliases:
+  - Group "Theoretical quantum dynamics and quantum electrodynamics", Max Planck
+    Institute for Nuclear Physics, Germany
+pi: Christoph Helmut Keitel
+parent: Max Planck Institute for Nuclear Physics
+location:
+  city: Heidelberg
+  country: DE
