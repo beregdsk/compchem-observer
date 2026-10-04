@@ -3,7 +3,7 @@
 // Everything renders at build time; src/scripts/graph.ts only enhances.
 // Spec: docs/superpowers/specs/2026-09-28-event-graph-design.md.
 import { shortLabel, type Graph } from '../lib/graph';
-import { graphPayload, layoutGraph } from '../lib/graph-layout';
+import { communities, graphPayload, layoutGraph } from '../lib/graph-layout';
 import { NODE_RADIUS, shapePath, type Shape } from '../lib/graph-shapes';
 
 interface Props {
@@ -19,6 +19,13 @@ interface Props {
 const { graph, label, legend, currentNote } = Astro.props;
 const layout = layoutGraph(graph);
 const at = new Map(layout.positions.map((p) => [p.id, p]));
+// Links between clusters are drawn faint, so the clusters themselves read first.
+const cluster = new Map(
+  communities(
+    graph.nodes.map((n) => n.id),
+    graph.edges,
+  ).map((c, i) => [graph.nodes[i]!.id, c]),
+);
 ---
 
 {graph.nodes.length > 0 && (
@@ -44,7 +51,10 @@ const at = new Map(layout.positions.map((p) => [p.id, p]));
                 y1={a.y}
                 x2={b.x}
                 y2={b.y}
-                stroke-opacity={(0.25 + 0.6 * e.weight).toFixed(2)}
+                stroke-opacity={(cluster.get(e.source) === cluster.get(e.target)
+                  ? 0.25 + 0.6 * e.weight
+                  : 0.12
+                ).toFixed(2)}
               />
             );
           })}

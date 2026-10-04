@@ -47,32 +47,44 @@ export function shortLabel(title: string, max = 28): string {
   );
 }
 
+/** Links each item keeps at most: enough to place it, few enough that clusters show. */
+export const MAX_LINKS = 4;
+
 /**
- * Links every pair scoring at least `EDGE_THRESHOLD`, plus each item's single
- * best link below it, so an item that resembles anything at all is never
- * drawn alone. An item sharing nothing with any other stays unlinked.
+ * Links each item to its `MAX_LINKS` most similar items scoring at least
+ * `EDGE_THRESHOLD` (a pair is linked when either side picks it), plus its
+ * single best link below that, so an item that resembles anything at all is
+ * never drawn alone. Linking every pair over the threshold instead joined
+ * nearly everything — a shared country alone came close — and the layout
+ * drew one even blob. An item sharing nothing with any other stays unlinked.
  */
 export function linkSimilar<T extends { id: string }>(
   items: T[],
   similarity: (a: T, b: T) => number,
 ): GraphEdge[] {
-  const kept = new Map<string, GraphEdge>();
-  const best: { j: number; weight: number }[] = [];
-  const add = (i: number, j: number, weight: number) => {
-    kept.set(`${i}|${j}`, { source: items[i]!.id, target: items[j]!.id, weight });
-  };
-
+  const candidates: { j: number; weight: number }[][] = items.map(() => []);
   for (let i = 0; i < items.length; i++) {
     for (let j = i + 1; j < items.length; j++) {
       const weight = similarity(items[i]!, items[j]!);
       if (weight <= 0) continue;
-      if (weight > (best[i]?.weight ?? 0)) best[i] = { j, weight };
-      if (weight > (best[j]?.weight ?? 0)) best[j] = { j: i, weight };
-      if (weight >= EDGE_THRESHOLD) add(i, j, weight);
+      candidates[i]!.push({ j, weight });
+      candidates[j]!.push({ j: i, weight });
     }
   }
-  best.forEach((b, i) => {
-    if (b) add(Math.min(i, b.j), Math.max(i, b.j), b.weight);
+
+  const kept = new Map<string, GraphEdge>();
+  candidates.forEach((list, i) => {
+    // Strongest first. Similarities are sums of a few discrete parts, so ties
+    // are common; breaking them by the next items in cyclic order spreads the
+    // picks instead of making hubs of the first items listed. Deterministic.
+    const after = (j: number) => (j - i + items.length) % items.length;
+    list.sort((a, b) => b.weight - a.weight || after(a.j) - after(b.j));
+    const picks = list.filter((c) => c.weight >= EDGE_THRESHOLD).slice(0, MAX_LINKS);
+    if (picks.length === 0 && list[0]) picks.push(list[0]);
+    for (const { j, weight } of picks) {
+      const [lo, hi] = i < j ? [i, j] : [j, i];
+      kept.set(`${lo}|${hi}`, { source: items[lo]!.id, target: items[hi]!.id, weight });
+    }
   });
 
   const order = (k: string) => k.split('|').map(Number) as [number, number];

@@ -798,3 +798,14 @@ produced "…academician N. A." and stubs of one sentence. Cut-off text is now o
 flagged, the model writes a full description from the page, and descriptions
 under 250 characters are expanded when the page says more. Entries already on
 main with cut-off or thin descriptions were re-audited once with `--files`.
+
+## 2026-10-04 — Graph views draw clusters, not one blob
+
+Linking every pair over 0.35 gave the groups graph ~1,000 edges (a shared
+country alone came close), and with short-range repulsion and a strong pull to
+the centre every graph view drew one even disc. Now each item keeps only its
+four strongest links (`MAX_LINKS`; ties go to the next items in cyclic order,
+so no hubs form). The layout finds communities by modularity (Louvain's local
+moves, deterministic) and pulls each to its own anchor on a sunflower spiral,
+largest in the middle. Links between communities are slack and drawn faint.
+Groups and events show modularity of about 0.6 and 0.7, so the clusters are real.
