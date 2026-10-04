@@ -1,0 +1,22 @@
+id: quantum-materials-center-for-computational-quantum-physics-flatiron-institute
+name: Quantum Materials, Center for Computational Quantum Physics, Flatiron Institute
+kind: institute
+website: https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/quantum-materials/
+topics:
+  - materials-modeling
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - spectroscopy
+description: Quantum Materials at the Center for Computational Quantum Physics,
+  Flatiron Institute, develops predictive theory and computational methods for
+  the many-electron properties of materials and molecules, focusing on
+  superconductivity, thermoelectricity, and magnetic properties.
+added: 2026-10-03
+aliases:
+  - Quantum Materials, Center for Computational Quantum Physics, Flatiron
+    Institute, USA
+parent: Flatiron Institute
+location:
+  city: New York City
+  country: US
