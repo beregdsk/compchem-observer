@@ -1,0 +1,21 @@
+id: proprietes-optiques-et-magnetiques-des-architectures-moleculaires-pomam
+name: Propriétés Optiques et Magnétiques des Architectures Moléculaires | POMAM
+kind: group
+website: https://institut-chimie.unistra.fr/en/research-groups/proprietes-optiques-et-magnetiques-des-architectures-moleculaires-pomam/
+topics:
+  - dft
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+  - quantum-computing-chemistry
+description: The POMAM research group at the Institut de Chimie de Strasbourg,
+  headed by Sylvie Choua, investigates the electronic and magnetic properties of
+  molecular architectures, nanomaterials, and biological systems. They
+  specialize in EPR spectroscopy, DFT calculations, molecular electronics, spin
+  qubits, and radical mechanisms in skin allergies.
+added: 2026-10-04
+pi: Sylvie Choua
+parent: Institut de Chimie de Strasbourg
+location:
+  city: Strasbourg
+  country: FR
