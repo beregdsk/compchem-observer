@@ -1,0 +1,21 @@
+id: jeschke-otsuki-group
+name: Jeschke-Otsuki group
+kind: group
+website: https://www.physics.okayama-u.ac.jp/jeschke-otsuki-group/home-en/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - software-hpc
+description: A solid-state theory group at Okayama University's Research
+  Institute for Interdisciplinary Science. It links the microscopic structure of
+  materials to experimental measurements, studying magnetism, frustrated spin
+  systems and superconductivity, and designing new materials. It also develops
+  computational methods that describe materials more realistically and make more
+  physical quantities affordable to compute, including the DCore dynamical
+  mean-field theory package for correlated electrons.
+added: 2026-10-03
+pi: Harald O. Jeschke and Junya Otsuki
+parent: Okayama University
+location:
+  city: Okayama
+  country: JP
