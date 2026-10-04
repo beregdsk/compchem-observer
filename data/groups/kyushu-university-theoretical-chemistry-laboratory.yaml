@@ -1,0 +1,24 @@
+id: kyushu-university-theoretical-chemistry-laboratory
+name: Kyushu University Theoretical Chemistry Laboratory
+kind: group
+website: https://www.scc.kyushu-u.ac.jp/TheoChem/
+topics:
+  - electronic-structure
+  - excited-states
+  - molecular-dynamics
+  - biomolecular-simulation
+  - quantum-computing-chemistry
+description: Theoretical Chemistry Laboratory at Kyushu University is a research
+  group dedicated to advancing theoretical and computational chemistry. Their
+  research focuses on developing high-precision quantum chemical methods,
+  including electron correlation theories for excited states, relativistic
+  molecular orbital theory, and ab initio dynamics for chemical reactions and
+  proton transfer in solutions. They also work on biomolecular simulations and
+  quantum computing algorithms for chemistry.
+added: 2026-10-04
+aliases:
+  - Laboratory Website
+parent: Kyushu University
+location:
+  city: Fukuoka
+  country: JP
