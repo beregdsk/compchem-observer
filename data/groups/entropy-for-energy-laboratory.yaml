@@ -1,0 +1,19 @@
+id: entropy-for-energy-laboratory
+name: Entropy for Energy Laboratory
+kind: group
+website: https://s4e.ai/team
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - ml-potentials
+  - dft
+  - electronic-structure
+description: The Entropy for Energy Laboratory at Johns Hopkins University, led
+  by Assistant Professor Corey Oses, focuses on computational materials science,
+  machine learning, and thermodynamics for nuclear and energy applications.
+added: 2026-10-03
+pi: Corey Oses
+parent: Johns Hopkins University
+location:
+  city: Baltimore
+  country: US
