@@ -8,7 +8,7 @@ import {
   listFilesOnBranch,
   listOpenDiscoveryPrs,
   openPr,
-  postReview,
+  mergePr,
   putFile,
   syncFailureIssue,
   updatePrBody,
@@ -391,20 +391,32 @@ describe('getCheckRunConclusions', () => {
   });
 });
 
-describe('postReview', () => {
-  it('POSTs a review of the given event type and body', async () => {
+describe('mergePr', () => {
+  it('PUTs a merge pinned to the checked head sha', async () => {
     const { impl, calls } = stubGitHub({
-      'POST /repos/acme/compchem-events/pulls/5/reviews': { status: 200, body: {} },
+      'PUT /repos/acme/compchem-events/pulls/5/merge': { status: 200, body: { merged: true } },
     });
-    await postReview(5, 'COMMENT', 'Auto-flagged: confidence 0.93.', options(impl));
-    expect(calls[0]!.body).toEqual({ event: 'COMMENT', body: 'Auto-flagged: confidence 0.93.' });
+    expect(await mergePr(5, 'sha-5', options(impl))).toBeUndefined();
+    expect(calls[0]!.body).toEqual({ sha: 'sha-5', merge_method: 'merge' });
   });
 
-  it('throws on a non-200 response', async () => {
+  it('reports a refused merge instead of throwing', async () => {
     const { impl } = stubGitHub({
-      'POST /repos/acme/compchem-events/pulls/5/reviews': { status: 422, body: {} },
+      'PUT /repos/acme/compchem-events/pulls/5/merge': {
+        status: 409,
+        body: { message: 'Head branch was modified' },
+      },
     });
-    await expect(postReview(5, 'COMMENT', 'body', options(impl))).rejects.toThrow(/422/);
+    expect(await mergePr(5, 'sha-5', options(impl))).toBe(
+      'merge refused: HTTP 409 (Head branch was modified)',
+    );
+  });
+
+  it('throws on any other failure', async () => {
+    const { impl } = stubGitHub({
+      'PUT /repos/acme/compchem-events/pulls/5/merge': { status: 403, body: {} },
+    });
+    await expect(mergePr(5, 'sha-5', options(impl))).rejects.toThrow(/403/);
   });
 });
 
