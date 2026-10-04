@@ -1,0 +1,21 @@
+id: computational-nanoscale-imaging
+name: Computational Nanoscale Imaging
+kind: group
+website: https://www.kartikayyer.com/
+topics:
+  - spectroscopy
+  - materials-modeling
+  - software-hpc
+description: The Ayyer Group at the Max Planck Institute for the Structure and
+  Dynamics of Matter in Hamburg, Germany, develops and implements computational
+  algorithms for single-particle X-ray imaging at X-ray free-electron lasers,
+  protein crystal diffuse scattering, and other coherent…
+added: 2026-10-02
+aliases:
+  - Research group "Computational nanoscale imaging", Max Planck Institute for
+    the Structure and Dynamics of Matter, DESY, Germany
+pi: Kartik Ayyer
+parent: Max Planck Institute for the Structure and Dynamics of Matter
+location:
+  city: Hamburg
+  country: DE
