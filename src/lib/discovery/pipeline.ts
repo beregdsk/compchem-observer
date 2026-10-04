@@ -347,6 +347,7 @@ export async function runPipeline(options: PipelineOptions): Promise<PipelineRes
     return synthesizeDraft(
       {
         title: fields.title,
+        original_title: fields.original_title,
         type: fields.type,
         start_date: fields.start_date,
         end_date: fields.end_date,

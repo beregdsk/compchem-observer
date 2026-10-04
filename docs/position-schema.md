@@ -8,6 +8,7 @@ One YAML file per position at `data/positions/<added-year>/<id>.yaml`. Unknown f
 | ------------- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `id`          | string   | yes      | `^[a-z0-9]+(-[a-z0-9]+)*-\d{4}$`, ending with the year of `added`. Equals the file name without `.yaml`.                               |
 | `title`       | string   | yes      | 5-140 characters.                                                                                                                      |
+| `aliases`     | string[] | no       | Other titles, 2-140 characters each, unique, different from `title`; the original-language title when `title` is a translation.        |
 | `level`       | enum     | yes      | `phd`, `postdoc`, `permanent` (research scientist, lecturer, faculty).                                                                 |
 | `institution` | string   | yes      | 2-140 characters.                                                                                                                      |
 | `group`       | string   | no       | Research group or PI, 2-140 characters.                                                                                                |

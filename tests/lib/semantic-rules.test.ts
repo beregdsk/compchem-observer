@@ -314,3 +314,15 @@ describe('rule 10: description length', () => {
     expect(errorsFor(post).join()).toMatch(/at most 600/);
   });
 });
+
+describe('rule 11: an alias is another title', () => {
+  it('accepts an original-language title beside its translation', () => {
+    expect(errorsFor({ ...valid, aliases: ['Atelier sur les états excités'] })).toEqual([]);
+  });
+
+  it('rejects an alias that repeats the title', () => {
+    expect(errorsFor({ ...valid, aliases: ['example workshop on excited state methods'] })).toEqual(
+      ['aliases: an alias must differ from the title'],
+    );
+  });
+});

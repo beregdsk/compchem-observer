@@ -37,6 +37,14 @@ export function descriptionLengthError(
   return `description is ${entry.description.length} characters; at most ${DESCRIPTION_MAX}, unless it is the full text of a mailing-list post with no link of its own`;
 }
 
+/** An alias that repeats the title, compared as `normaliseTitle` does; undefined when none does. */
+export function sameAsTitle(entry: { title: string; aliases?: string[] }): string | undefined {
+  const own = normaliseTitle(entry.title);
+  return (entry.aliases ?? []).some((a) => normaliseTitle(a) === own)
+    ? 'an alias must differ from the title'
+    : undefined;
+}
+
 /** Lowercase, strip punctuation, collapse whitespace — for duplicate detection. */
 export function normaliseTitle(title: string): string {
   return title
@@ -148,6 +156,10 @@ function semanticRules(entry: EventFile, ctx: ValidationContext, out: Validation
   // Rule 10: a description in our own words fits DESCRIPTION_MAX.
   const tooLong = descriptionLengthError(e, ctx);
   if (tooLong) err('description', tooLong);
+
+  // Rule 11: an alias is another title, not the title again.
+  const aliasError = sameAsTitle(e);
+  if (aliasError) err('aliases', aliasError);
 
   // Warning 2: the description looks copied.
   if (

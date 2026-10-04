@@ -18,6 +18,11 @@
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-\\d{4}$" },
     "title": { "type": "string", "minLength": 5, "maxLength": 140 },
+    "aliases": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 2, "maxLength": 140 }
+    },
     "level": { "enum": ["phd", "postdoc", "permanent"] },
     "institution": { "type": "string", "minLength": 2, "maxLength": 140 },
     "group": { "type": "string", "minLength": 2, "maxLength": 140 },

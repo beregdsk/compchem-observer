@@ -782,3 +782,19 @@ predate a stricter rule (#202 passed CI, then `isFullPersonName` landed and
 its `pi` would have broken `main`). Re-running CI on every behind PR instead
 would let only one PR merge per night, since each merge puts the rest behind.
 The merge is pinned to the head sha whose checks were read.
+
+## 2026-10-04 — Events and positions keep a translated title's original
+
+Extractors write titles in English, translating when the source has no English
+name, which left the original (the name people search for) nowhere. Events and
+positions now take optional `aliases`, as groups already do; the extractors
+return `original_title` when they translate, and it becomes the draft's alias.
+An alias must differ from the title. The audit adds missing originals too.
+
+## 2026-10-04 — The audit rewrites cut-off descriptions instead of cutting them back
+
+Its mechanical fix cut a clipped description back to the last full stop, which
+produced "…academician N. A." and stubs of one sentence. Cut-off text is now only
+flagged, the model writes a full description from the page, and descriptions
+under 250 characters are expanded when the page says more. Entries already on
+main with cut-off or thin descriptions were re-audited once with `--files`.

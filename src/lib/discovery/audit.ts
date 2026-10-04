@@ -68,13 +68,15 @@ const hashOf = (entry: AuditEntry) =>
 
 /**
  * The entries due for an audit, never-audited first, then the longest ago.
- * Fixtures, finished events and closed positions are left alone.
+ * Fixtures, finished events and closed positions are left alone. `only`
+ * names files to audit whether or not they are due, for a one-off re-check.
  */
 export function dueEntries(
   entries: readonly AuditEntry[],
   state: AuditState,
   today: ISODate,
   max: number,
+  only?: ReadonlySet<string>,
 ): AuditEntry[] {
   const live = entries.filter((e) => {
     const d = e.data;
@@ -83,6 +85,7 @@ export function dueEntries(
     if (e.kind === 'position') return !d.deadline || compareISO(String(d.deadline), today) >= 0;
     return true;
   });
+  if (only) return live.filter((e) => only.has(e.file)).slice(0, max);
   const due = live.filter((e) => {
     const seen = state.audited[e.file];
     return !seen || seen.hash !== hashOf(e) || daysBetween(seen.at, today) >= REAUDIT_DAYS;
@@ -99,22 +102,19 @@ function validate(entry: AuditEntry, ctx: ValidationContext): ValidationResult {
 
 /** The text fields a model may change, per kind; everything else is reported only. */
 const FIXABLE: Record<AuditKind, readonly string[]> = {
-  event: ['title', 'organizer', 'cost', 'description'],
-  position: ['title', 'institution', 'group', 'description'],
-  group: ['name', 'pi', 'parent', 'description'],
+  event: ['title', 'aliases', 'organizer', 'cost', 'description'],
+  position: ['title', 'aliases', 'institution', 'group', 'description'],
+  group: ['name', 'aliases', 'pi', 'parent', 'description'],
 };
 
-/**
- * A description that `clip` cut mid-sentence ends in "…"; dropping the
- * unfinished sentence leaves a clean one, when there is a full sentence left.
- */
-function unclipped(text: string): string | undefined {
-  if (!text.endsWith('…')) return undefined;
-  const end = Math.max(text.lastIndexOf('. '), text.lastIndexOf('.\n'));
-  return end > 0 ? text.slice(0, end + 1) : undefined;
-}
+/** Under this many characters, a description is thin enough to ask the model for a fuller one. */
+export const THIN_DESCRIPTION = 250;
 
-/** Checks that need no model: the validator's warnings, and text cut off mid-sentence. */
+/**
+ * Checks that need no model: the validator's warnings, and text cut off
+ * mid-sentence. No fix here: cutting back to the last full stop loses what
+ * the entry said ("…academician N. A."), so the model writes a full one.
+ */
 export function mechanicalFindings(entry: AuditEntry, ctx: ValidationContext): Finding[] {
   const findings: Finding[] = validate(entry, ctx).warnings.map((w) => ({
     file: entry.file,
@@ -124,8 +124,7 @@ export function mechanicalFindings(entry: AuditEntry, ctx: ValidationContext): F
   for (const field of ['title', 'name', 'description']) {
     const value = entry.data[field];
     if (typeof value !== 'string' || !value.endsWith('…')) continue;
-    const fix = field === 'description' ? unclipped(value) : undefined;
-    findings.push({ file: entry.file, field, problem: 'text is cut off mid-sentence', fix });
+    findings.push({ file: entry.file, field, problem: 'text is cut off mid-sentence' });
   }
   return findings;
 }
@@ -165,7 +164,8 @@ function reviewPrompt(kind: AuditKind, today: ISODate): string {
   const what = { event: 'an event', position: 'a job advert', group: 'a research group' }[kind];
   return [
     `You audit one entry of a computational chemistry directory: ${what}, given as YAML, with the text of its own web page when there is one. Today is ${today}.`,
-    'Report only concrete errors: a field that the page contradicts, or that contradicts another field of the entry; a person named only in part (such as "Sam" or "Prof. Shinoda") where the page gives the full name; a name or title that belongs to something else; a description that is cut off, garbled, not in English, or about something else; a location that is not where the body or event is.',
+    `Report only concrete errors: a field that the page contradicts, or that contradicts another field of the entry; a person named only in part (such as "Sam" or "Prof. Shinoda") where the page gives the full name; a name or title that belongs to something else; a description that is cut off, garbled, not in English, or about something else; a description under ${THIN_DESCRIPTION} characters when the page says more about what it covers; a location that is not where the body or event is.`,
+    `When the ${kind === 'group' ? 'name' : 'title'} is an English translation and the page gives the original-language one, and the entry's "aliases" lack it, report field "aliases" with that original exactly as the page writes it, in its own script, as the fix.`,
     'Do not report style, missing optional fields, or anything the page does not settle. When the page is missing or unreadable, judge the entry against itself only.',
     `For each error give "field" (the YAML key), "problem" (one sentence) and "fix": the corrected value taken from the page, or null when the page does not give it. Never guess a fix. A "description" fix is in your own words, in English, ${DESCRIPTION_MAX} characters at most.`,
     'Return an empty "findings" list when nothing is wrong.',
@@ -242,8 +242,11 @@ export function applyFixes(
   const before = errorsOf(data);
   const out: Finding[] = [];
   for (const f of findings) {
-    const was = data[f.field];
-    if (f.fix === undefined || typeof was !== 'string' || was === f.fix) {
+    // An `aliases` fix is one more alias, appended; every other fix replaces a string.
+    const aliases = f.field === 'aliases' ? ((data.aliases as string[] | undefined) ?? []) : [];
+    const was = f.field === 'aliases' ? aliases.join('; ') : data[f.field];
+    const unchanged = f.field === 'aliases' ? aliases.includes(f.fix ?? '') : was === f.fix;
+    if (f.fix === undefined || typeof was !== 'string' || unchanged) {
       out.push({ ...f, fix: undefined });
       continue;
     }
@@ -251,7 +254,7 @@ export function applyFixes(
       out.push({ ...f, fix: undefined });
       continue;
     }
-    const next = { ...data, [f.field]: f.fix };
+    const next = { ...data, [f.field]: f.field === 'aliases' ? [...aliases, f.fix] : f.fix };
     if (errorsOf(next) > before) {
       out.push({
         ...f,
@@ -274,6 +277,8 @@ export interface AuditOptions {
   userAgent: string;
   today: ISODate;
   maxEntries: number;
+  /** Audit just these files, due or not (`--files`). */
+  only?: ReadonlySet<string>;
   fetchImpl?: typeof fetch;
   log?: (message: string) => void;
 }
@@ -296,6 +301,7 @@ export async function runAudit(options: AuditOptions): Promise<AuditResult> {
     options.state,
     options.today,
     options.maxEntries,
+    options.only,
   )) {
     try {
       const url = pageOf(entry, options.ctx);
@@ -313,9 +319,12 @@ export async function runAudit(options: AuditOptions): Promise<AuditResult> {
           log(`audit: ${entry.file}: page ${page.status === 'error' ? page.error : page.status}`);
         }
       }
+      const fromModel = await modelFindings(entry, pageText, options.today, options.extract);
+      // A mechanical finding the model went on to fix is no longer one for a human.
+      const fixedFields = new Set(fromModel.filter((f) => f.fix).map((f) => f.field));
       const found = [
-        ...mechanicalFindings(entry, options.ctx),
-        ...(await modelFindings(entry, pageText, options.today, options.extract)),
+        ...mechanicalFindings(entry, options.ctx).filter((f) => !fixedFields.has(f.field)),
+        ...fromModel,
       ];
       const { data, findings } = applyFixes(entry, found, options.ctx);
       if (findings.some((f) => f.fix !== undefined)) {
