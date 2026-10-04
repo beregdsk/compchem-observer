@@ -1,0 +1,23 @@
+id: theory-and-computer-simulations
+name: Theory and computer simulations
+kind: group
+website: https://www.fzu.cz/en/research/divisions-and-departments/division-5/department-52/group-5208
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - electronic-structure
+  - software-hpc
+  - dft
+description: The Theory and computer simulations group at the Institute of
+  Physics of the Czech Academy of Sciences, led by Mgr. Petra Ruth Kaprálová,
+  Ph.D., focusing on theoretical physics, computational methods, and
+  high-performance simulations.
+added: 2026-10-03
+aliases:
+  - Research Group "Theory and computer simulations", Institute of Physics of
+    Czech Academy of Sciences, Czech Republic
+pi: Petra Ruth Kaprálová
+parent: Institute of Physics of the Czech Academy of Sciences
+location:
+  city: Prague
+  country: CZ
