@@ -1,0 +1,21 @@
+id: polymeromics-team
+name: Polymeromics Team
+kind: group
+website: https://www.riken.jp/en/research/labs/trip/agis/polymeromics/index.html
+topics:
+  - molecular-dynamics
+  - materials-modeling
+  - ml-chemistry
+  - soft-matter
+description: The Polymeromics Team at RIKEN's TRIP Headquarters, led by Director
+  Ryo Yoshida, develops foundation models for polymer material systems by
+  integrating large-scale experimental and computational databases. They
+  automate molecular dynamics simulations and first-principles calculations to
+  build massive polymer databases, applying Sim2Real machine learning and
+  AI-driven robotics for autonomous polymer material discovery.
+added: 2026-10-04
+pi: Ryo Yoshida
+parent: TRIP Headquarters, RIKEN
+location:
+  city: Wako
+  country: JP
