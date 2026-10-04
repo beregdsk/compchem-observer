@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
+import { stringify } from 'yaml';
 import {
-  autoApproveHighConfidencePrs,
+  autoMergeHighConfidencePrs,
   parseConfidence,
   AUTO_APPROVE_THRESHOLD,
   HIGH_CONFIDENCE_LABEL,
@@ -93,35 +94,89 @@ const greenChecks = {
   ],
 };
 
-describe('autoApproveHighConfidencePrs', () => {
-  it('approves and labels a PR at or above the threshold once required checks are green', async () => {
+describe('autoMergeHighConfidencePrs', () => {
+  const candidatePath = `data/events/2027/${candidate.id}.yaml`;
+  const validFile = { ...candidate, location: { city: 'Lyon', country: 'FR' } };
+  const prFiles = (data: unknown) => ({
+    'GET /repos/acme/compchem-events/pulls/5/files?per_page=100': {
+      status: 200,
+      body: [{ filename: candidatePath, status: 'added' }],
+    },
+    [`GET /repos/acme/compchem-events/contents/${candidatePath}?ref=sha-5`]: {
+      status: 200,
+      body: { content: Buffer.from(stringify(data)).toString('base64') },
+    },
+  });
+  const openPrs = (labels: Array<{ name: string }> = []) => ({
+    'GET /repos/acme/compchem-events/pulls?state=open&per_page=100': {
+      status: 200,
+      body: [
+        {
+          number: 5,
+          body: bodyWithConfidence(AUTO_APPROVE_THRESHOLD),
+          head: { ref: 'discovery/excited-states-symposium-2027', sha: 'sha-5' },
+          labels,
+        },
+      ],
+    },
+    'GET /repos/acme/compchem-events/commits/sha-5/check-runs?per_page=100': {
+      status: 200,
+      body: greenChecks,
+    },
+  });
+
+  it('labels and merges a PR at or above the threshold once required checks are green', async () => {
     const { impl, calls } = stubGitHub({
-      'GET /repos/acme/compchem-events/pulls?state=open&per_page=100': {
-        status: 200,
-        body: [
-          {
-            number: 5,
-            body: bodyWithConfidence(AUTO_APPROVE_THRESHOLD),
-            head: { ref: 'discovery/excited-states-symposium-2027', sha: 'sha-5' },
-            labels: [{ name: 'needs-review' }],
-          },
-        ],
-      },
-      'GET /repos/acme/compchem-events/commits/sha-5/check-runs?per_page=100': {
-        status: 200,
-        body: greenChecks,
-      },
-      'POST /repos/acme/compchem-events/pulls/5/reviews': { status: 200, body: {} },
+      ...openPrs([{ name: 'needs-review' }]),
+      ...prFiles(validFile),
       'POST /repos/acme/compchem-events/issues/5/labels': { status: 200, body: {} },
+      'PUT /repos/acme/compchem-events/pulls/5/merge': { status: 200, body: { merged: true } },
     });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
-    expect(result).toEqual({ approved: [5], skipped: [] });
-    const review = calls.find((c) => c.url.endsWith('/pulls/5/reviews'));
-    // 'COMMENT', never 'APPROVE' — GitHub rejects an actor formally
-    // approving its own PR, and this token opened every discovery PR.
-    expect(review?.body).toMatchObject({ event: 'COMMENT' });
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result).toEqual({ merged: [5], skipped: [] });
     const label = calls.find((c) => c.url.endsWith('/issues/5/labels'));
     expect(label?.body).toEqual({ labels: [HIGH_CONFIDENCE_LABEL] });
+    const merge = calls.find((c) => c.url.endsWith('/pulls/5/merge'));
+    // Pinned to the sha whose checks were read, so a later push is never merged unseen.
+    expect(merge?.body).toMatchObject({ sha: 'sha-5' });
+  });
+
+  it('merges a PR an earlier run already labelled, without labelling it again', async () => {
+    const { impl, calls } = stubGitHub({
+      ...openPrs([{ name: HIGH_CONFIDENCE_LABEL }]),
+      ...prFiles(validFile),
+      'PUT /repos/acme/compchem-events/pulls/5/merge': { status: 200, body: { merged: true } },
+    });
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result.merged).toEqual([5]);
+    expect(calls.some((c) => c.url.endsWith('/labels'))).toBe(false);
+  });
+
+  it("never merges a PR whose files fail main's validator, though its CI passed", async () => {
+    const { impl, calls } = stubGitHub({
+      ...openPrs(),
+      ...prFiles({ ...validFile, topics: ['not-a-topic'] }),
+    });
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result.merged).toEqual([]);
+    expect(result.skipped[0]?.reason).toMatch(/^fails main's validator:\n.*topics/s);
+    expect(calls.some((c) => c.method === 'PUT' || c.method === 'POST')).toBe(false);
+  });
+
+  it('reports a merge GitHub refuses and moves on', async () => {
+    const { impl } = stubGitHub({
+      ...openPrs([{ name: HIGH_CONFIDENCE_LABEL }]),
+      ...prFiles(validFile),
+      'PUT /repos/acme/compchem-events/pulls/5/merge': {
+        status: 405,
+        body: { message: 'Pull Request is not mergeable' },
+      },
+    });
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result).toEqual({
+      merged: [],
+      skipped: [{ number: 5, reason: 'merge refused: HTTP 405 (Pull Request is not mergeable)' }],
+    });
   });
 
   it('skips a PR below the confidence threshold, without checking its CI status', async () => {
@@ -138,8 +193,8 @@ describe('autoApproveHighConfidencePrs', () => {
         ],
       },
     });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
-    expect(result.approved).toEqual([]);
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result.merged).toEqual([]);
     expect(result.skipped).toEqual([{ number: 5, reason: 'confidence 0.89 below threshold' }]);
     // Never spent a call checking CI for a PR that was never going to qualify anyway.
     expect(calls).toHaveLength(1);
@@ -168,8 +223,8 @@ describe('autoApproveHighConfidencePrs', () => {
         },
       },
     });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
-    expect(result.approved).toEqual([]);
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
+    expect(result.merged).toEqual([]);
     expect(result.skipped).toEqual([{ number: 5, reason: 'checks not green: check' }]);
   });
 
@@ -187,27 +242,8 @@ describe('autoApproveHighConfidencePrs', () => {
         ],
       },
     });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
     expect(result.skipped).toEqual([{ number: 5, reason: 'possible duplicate' }]);
-    expect(calls).toHaveLength(1);
-  });
-
-  it('never re-approves a PR that already carries the high-confidence label', async () => {
-    const { impl, calls } = stubGitHub({
-      'GET /repos/acme/compchem-events/pulls?state=open&per_page=100': {
-        status: 200,
-        body: [
-          {
-            number: 5,
-            body: bodyWithConfidence(0.95),
-            head: { ref: 'discovery/excited-states-symposium-2027', sha: 'sha-5' },
-            labels: [{ name: HIGH_CONFIDENCE_LABEL }],
-          },
-        ],
-      },
-    });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
-    expect(result.skipped).toEqual([{ number: 5, reason: 'already flagged' }]);
     expect(calls).toHaveLength(1);
   });
 
@@ -225,7 +261,7 @@ describe('autoApproveHighConfidencePrs', () => {
         ],
       },
     });
-    const result = await autoApproveHighConfidencePrs(githubOptions(impl));
+    const result = await autoMergeHighConfidencePrs(githubOptions(impl));
     expect(result.skipped).toEqual([
       { number: 5, reason: 'could not parse confidence from PR body' },
     ]);

@@ -772,6 +772,17 @@ in one PR. A model may change only text fields, and only to values the page
 gives; every fix must validate. Findings without a fix are listed for a human
 in the same PR, or, when nothing changed, in an issue (a PR needs a diff).
 
+## 2026-10-04 — High-confidence discovery PRs merge themselves
+
+The maintainer asked for high-confidence PRs to merge without a click. The
+auto-approve pass now merges a discovery PR with confidence ≥ 0.90, green
+`check` and `e2e`, no `possible-duplicate` label, and data files that pass
+the validator on `main`. The last condition exists because a PR's CI can
+predate a stricter rule (#202 passed CI, then `isFullPersonName` landed and
+its `pi` would have broken `main`). Re-running CI on every behind PR instead
+would let only one PR merge per night, since each merge puts the rest behind.
+The merge is pinned to the head sha whose checks were read.
+
 ## 2026-10-04 — Graph views draw clusters, not one blob
 
 Linking every pair over 0.35 gave the groups graph ~1,000 edges (a shared
