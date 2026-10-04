@@ -53,6 +53,8 @@ export interface EventLocation {
 export interface RawEvent {
   id: string;
   title: string;
+  /** Other titles, such as the original-language one when `title` is a translation. */
+  aliases?: string[];
   series?: string;
   type: EventType;
   start_date: ISODate;
@@ -101,6 +103,8 @@ export const POSITION_LEVEL_LABELS: Readonly<Record<PositionLevel, string>> = {
 export interface RawPosition {
   id: string;
   title: string;
+  /** Other titles, such as the original-language one when `title` is a translation. */
+  aliases?: string[];
   level: PositionLevel;
   institution: string;
   group?: string;

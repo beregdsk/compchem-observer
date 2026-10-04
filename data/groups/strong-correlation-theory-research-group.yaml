@@ -1,0 +1,25 @@
+id: strong-correlation-theory-research-group
+name: Strong Correlation Theory Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/str_correl_theor/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - quantum-dynamics
+  - spectroscopy
+description: The Strong Correlation Theory Research Group, led by Naoto Nagaosa,
+  investigates strongly correlated electronic states in solids, focusing on
+  topology and emergent functions. The group combines first-principles
+  electronic structure calculations, quantum field theory, and numerical methods
+  to predict magnetic, optical, transport and thermal properties. Research
+  explores cross-correlation of spin, orbital and topological degrees of
+  freedom, electron fractionalization, and non-dissipative quantum phenomena.
+  The work spans spintronics, superconductivity, and topological materials,
+  aiming to…
+added: 2026-10-04
+pi: Naoto Nagaosa
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

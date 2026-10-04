@@ -1,0 +1,21 @@
+id: team-group-molecular-magnetism
+name: Team Group Molecular Magnetism
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/atanasov/team
+topics:
+  - electronic-structure
+  - spectroscopy
+  - dft
+  - wavefunction-methods
+  - quantum-computing-chemistry
+description: The Team Group Molecular Magnetism, led by Prof. Dr. Mihail
+  Atanasov at the Max-Planck-Institut für Kohlenforschung, is a theoretical and
+  computational chemistry group focusing on molecular magnetism, the electronic
+  structure of transition metal and lanthanide complexes, and spectroscopic
+  properties of molecular materials.
+added: 2026-10-04
+pi: Mihail Atanasov
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

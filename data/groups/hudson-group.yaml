@@ -1,0 +1,20 @@
+id: hudson-group
+name: Hudson Group
+kind: group
+website: https://www.sydney.edu.au/science/schools/school-of-chemistry/research/hudson-group.html
+topics:
+  - materials-modeling
+  - molecular-dynamics
+  - soft-matter
+description: The Hudson Group, led by Associate Professor Toby Hudson at the
+  University of Sydney, investigates structural materials chemistry using
+  computational techniques like Monte Carlo simulation, classical molecular
+  dynamics, and genetic algorithms. Their research covers liquid-solid
+  interfaces, defect migration in fusion metals, ceramic interfaces, network
+  glasses, amorphous solar cell materials, and supercooled liquid water.
+added: 2026-10-04
+pi: Toby Hudson
+parent: School of Chemistry, The University of Sydney
+location:
+  city: Sydney
+  country: AU

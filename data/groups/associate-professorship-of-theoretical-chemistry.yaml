@@ -1,0 +1,23 @@
+id: associate-professorship-of-theoretical-chemistry
+name: Associate Professorship of Theoretical Chemistry
+kind: group
+website: https://www.ch.nat.tum.de/en/theochem/research/energy-materials/
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - ml-chemistry
+  - catalysis
+  - materials-modeling
+description: The Associate Professorship of Theoretical Chemistry at the
+  Technical University of Munich, led by Prof. Dr. Christopher Stein, focuses on
+  theoretical and computational chemistry applied to energy materials such as
+  batteries and catalysts. The group uses cluster-embedding models, grand
+  canonical Monte Carlo, semiempirical electronic structure methods, and machine
+  learning to explore chemical spaces and identify lifetime-shortening
+  processes.
+added: 2026-10-04
+pi: Christopher Stein
+parent: Technical University of Munich
+location:
+  city: Garching
+  country: DE

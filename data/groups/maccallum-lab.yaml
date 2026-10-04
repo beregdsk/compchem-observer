@@ -1,0 +1,18 @@
+id: maccallum-lab
+name: MacCallum Lab
+kind: group
+website: https://www.maccallumlab.org/
+topics:
+  - biomolecular-simulation
+description: The MacCallum Lab at the University of Calgary, part of the
+  Department of Chemistry and the Centre for Molecular Simulation, focuses on
+  protein structure and biomolecular recognition. The group uses computational
+  modeling and biophysical experiments to study driving forces, determine
+  structures, and design novel biomolecules.
+added: 2026-10-04
+aliases:
+  - Go to Website
+parent: University of Calgary
+location:
+  city: Calgary
+  country: CA

@@ -1,0 +1,19 @@
+id: quantum-condensate-research-team
+name: Quantum Condensate Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/qtm_condens/index.html
+topics:
+  - quantum-dynamics
+  - materials-modeling
+  - quantum-computing-chemistry
+description: The Quantum Condensate Research Team at RIKEN Center for Emergent
+  Matter Science, directed by Masahito Ueda, conducts theoretical and
+  experimental research on quantum condensates, including Bose-Einstein
+  condensation, ultracold atoms, topological and non-Hermitian physics, and
+  quantum information, aiming to advance quantum simulators and computing.
+added: 2026-10-04
+pi: Masahito Ueda
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

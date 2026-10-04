@@ -1,0 +1,23 @@
+id: pausch-group
+name: Pausch group
+kind: group
+website: https://www.uni-muenster.de/Chemie.oc/pausch/index.html
+topics:
+  - dft
+  - spectroscopy
+  - excited-states
+  - electronic-structure
+description: The Pausch group is a junior research group for theoretical
+  chemistry at the University of Münster. The group focuses on
+  environment-controlled quantum chemistry, modeling how complex environments
+  shape molecular and spectroscopic properties. Research includes the effects of
+  high pressure and solvation on UV/Vis and fluorescence spectroscopy, the
+  quantum geometry framework, molecular Berry curvature, relativistic effects,
+  magnetic fields, and current density functional theory.
+added: 2026-10-04
+aliases:
+  - Pausch
+parent: Organisch-Chemisches Institut, University of Münster
+location:
+  city: Münster
+  country: DE

@@ -1,0 +1,20 @@
+id: first-principles-materials-science-research-team
+name: First-Principles Materials Science Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/first_prin_mater/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+description: The First-Principles Materials Science Research Team at RIKEN
+  Center for Emergent Matter Science, led by Director Ryotaro Arita, conducts
+  research on the electronic properties of correlated and topological materials
+  using first-principles calculations. The team aims to predict novel phenomena
+  arising from many-body correlations, design functional materials, and develop
+  advanced electronic structure calculation methods.
+added: 2026-10-04
+pi: Ryotaro Arita
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

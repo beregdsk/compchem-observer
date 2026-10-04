@@ -1,0 +1,23 @@
+id: chimie-et-systemique-organo-metalliques-lcsom
+name: Chimie et Systémique Organo-Métalliques | LCSOM
+kind: group
+website: https://institut-chimie.unistra.fr/en/research-groups/chimie-et-systemique-organo-metalliques-lcsom/
+topics:
+  - dft
+  - catalysis
+  - drug-design
+  - electronic-structure
+  - biomolecular-simulation
+description: The Chimie et Systémique Organo-Métalliques (LCSOM) is a research
+  group at the Institut de Chimie de Strasbourg (UMR 7177, CNRS/University of
+  Strasbourg), founded in 2014. Led by Jean-Pierre Djukic, the group focuses on
+  experimental and theoretical organometallic chemistry of transition metals,
+  particularly metallacycles, catalysis (including multicomponent and tandem
+  catalysis), DFT modeling, green chemistry, and bio-organometallic chemistry
+  for cancer therapy.
+added: 2026-10-04
+pi: Jean-Pierre Djukic
+parent: Institut de Chimie de Strasbourg
+location:
+  city: Strasbourg
+  country: FR

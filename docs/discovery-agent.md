@@ -283,14 +283,19 @@ feeds their group links into the same resolver. Spec:
 open position and group it fetches the entry's own page (none for a linkless mailing-list post)
 and collects findings from two places (`src/lib/discovery/audit.ts`):
 
-- mechanical checks: the validator's warnings, and text that `clip` cut off mid-sentence (a
-  description is cut back to its last full sentence);
+- mechanical checks: the validator's warnings, and text that `clip` cut off mid-sentence
+  (flagged only; cutting back to the last full stop loses too much, so the model rewrites it,
+  and a flag it fixed is dropped);
 - a model that compares the entry with its page and reports contradictions, partial names,
-  wrong locations and broken descriptions, with a fix only when the page gives it.
+  wrong locations, broken descriptions and descriptions under 250 characters when the page says
+  more, with a fix only when the page gives it. When a title or group name is an English
+  translation, it adds the page's original-language one to `aliases`.
 
-A model may only fix text fields (`title`, `organizer`, `cost`, `description` for events;
-`title`, `institution`, `group`, `description` for positions; `name`, `pi`, `parent`,
-`description` for groups), and a fix is kept only when the entry still validates. The fixes go
+A model may only fix text fields (`title`, `aliases`, `organizer`, `cost`, `description` for
+events; `title`, `aliases`, `institution`, `group`, `description` for positions; `name`,
+`aliases`, `pi`, `parent`, `description` for groups), and a fix is kept only when the entry
+still validates. An `aliases` fix appends one alias. `--files <list>` audits the entries named
+in a file (one path per line) whether or not they are due, for a one-off re-check. The fixes go
 to one PR on `audit/<date>-<n>` (labels `needs-review`, `audit`; never on a `discovery/` branch,
 so auto-merge leaves it alone), whose body lists every change and every finding that needs a
 human. A run with findings but no fixes has nothing to commit, so it opens an issue with the same

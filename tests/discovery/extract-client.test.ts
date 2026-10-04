@@ -115,6 +115,33 @@ describe('extractEvent', () => {
     expect(result?.cost).toBe('Free');
   });
 
+  it("keeps a translated title's original, and drops one that is just the English title", async () => {
+    const event = (original_title: string | null) =>
+      completionWith({
+        found: true,
+        event: {
+          title: 'Symposium on Molecular Science',
+          original_title,
+          type: 'symposium',
+          start_date: '2027-09-14',
+          end_date: '2027-09-17',
+          format: 'in-person',
+          location: null,
+          url: 'https://example.org/sms',
+          organizer: null,
+          cost: null,
+          topics: ['molecular-dynamics'],
+          description: 'An annual symposium.',
+          confidence: 0.9,
+        },
+      });
+    const run = async (original: string | null) =>
+      extractEvent('page text', { ...options, fetchImpl: stubFetch(200, event(original)).impl });
+    expect((await run('分子科学討論会'))?.original_title).toBe('分子科学討論会');
+    expect(await run('Symposium on molecular science')).not.toHaveProperty('original_title');
+    expect(await run(null)).not.toHaveProperty('original_title');
+  });
+
   it('passes a stated fee through, and omits it when null, missing or off-vocabulary', async () => {
     const event = (fee: unknown) => ({
       title: 'MD Summer School',

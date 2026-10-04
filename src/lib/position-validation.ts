@@ -16,6 +16,7 @@ import {
   isBlocked,
   isLinklessMailingListPost,
   normaliseTitle,
+  sameAsTitle,
   type EventFile,
   type ValidationContext,
   type ValidationResult,
@@ -96,6 +97,8 @@ export function validatePosition(entry: EventFile, ctx: ValidationContext): Vali
 
   const tooLong = descriptionLengthError(p, ctx);
   if (tooLong) err('description', tooLong);
+  const aliasError = sameAsTitle(p);
+  if (aliasError) err('aliases', aliasError);
   if (
     !isLinklessMailingListPost(p, ctx) &&
     p.description.length > 200 &&

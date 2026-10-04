@@ -1,0 +1,22 @@
+id: emergent-functionality-design-research-unit
+name: Emergent Functionality Design Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/emerg-fd/index.html
+topics:
+  - electronic-structure
+  - dft
+  - quantum-dynamics
+  - materials-modeling
+  - spectroscopy
+description: The Emergent Functionality Design Research Unit at RIKEN Center for
+  Emergent Matter Science, led by Unit Leader Shun Okumura, focuses on the
+  theoretical and computational investigation of emergent functionalities in
+  quantum materials. Their research includes electrical and optical
+  conductivity, non-equilibrium dynamics, and first-principles calculations for
+  spin-charge coupled and topological systems.
+added: 2026-10-04
+pi: Shun Okumura
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako, Saitama, Japan
+  country: JP

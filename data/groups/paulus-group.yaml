@@ -1,0 +1,21 @@
+id: paulus-group
+name: Paulus Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agpaulus/index.html
+topics:
+  - spectroscopy
+  - electronic-structure
+  - quantum-dynamics
+  - dft
+  - molecular-dynamics
+description: The Paulus Group is a research group led by Prof. Dr. Beate Paulus
+  at the Institute of Chemistry and Biochemistry, Freie Universität Berlin. It
+  is part of the Department of Biology, Chemistry, Pharmacy, specializing in
+  physical and theoretical chemistry, with a focus on computational
+  spectroscopy, quantum dynamics, and electronic structure methods.
+added: 2026-10-04
+pi: Beate Paulus
+parent: Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE

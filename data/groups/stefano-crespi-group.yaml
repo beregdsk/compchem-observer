@@ -1,0 +1,22 @@
+id: stefano-crespi-group
+name: Stefano Crespi group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/synthetic-molecular-chemistry/crespi-group
+topics:
+  - photochemistry
+  - excited-states
+  - molecular-dynamics
+  - spectroscopy
+  - catalysis
+description: The Stefano Crespi group at Uppsala University focuses on
+  understanding and controlling molecular motion at the nanoscale triggered by
+  light. Their research explores photochemical transformations, molecular
+  photoswitches, rotary motors, and photocatalytic applications.
+added: 2026-10-04
+aliases:
+  - Crespi group
+pi: Stefano Crespi
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

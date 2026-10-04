@@ -74,6 +74,16 @@ describe('synthesizeDraft', () => {
   });
 });
 
+describe('synthesizeDraft aliases', () => {
+  it("keeps a translated title's original as an alias, and adds no key otherwise", () => {
+    expect(
+      synthesizeDraft({ ...fullInput, original_title: '励起状態シンポジウム' }, '2026-09-23')
+        .aliases,
+    ).toEqual(['励起状態シンポジウム']);
+    expect('aliases' in synthesizeDraft(fullInput, '2026-09-23')).toBe(false);
+  });
+});
+
 describe('draftFilePath', () => {
   it('places the draft under its own start year and id', () => {
     const draft = synthesizeDraft(fullInput, '2026-09-23');

@@ -1,0 +1,16 @@
+id: keller-group
+name: Keller Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agkeller/index.html
+topics:
+  - molecular-dynamics
+description: The Keller Group (Keller Lab) at the Freie Universität Berlin, part
+  of the Department of Biology, Chemistry, Pharmacy, is a research group led by
+  Bettina G. Keller. The group focuses on theoretical chemistry and molecular
+  dynamics.
+added: 2026-10-04
+pi: Bettina G. Keller
+parent: Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE

@@ -1,0 +1,23 @@
+id: theoretical-chemistry-department-of-chemistry-faculty-of-science-hokkaido-university
+name: Theoretical Chemistry, Department of Chemistry, Faculty of Science,
+  Hokkaido University
+kind: group
+website: https://www2.sci.hokudai.ac.jp/dept/chem/en/lab/theoretical-chemistry
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - catalysis
+  - ml-chemistry
+description: The Theoretical Chemistry group at Hokkaido University, led by
+  Prof. Satoshi Maeda, develops and applies automated reaction path search
+  methods based on quantum chemical calculations to predict complex reaction
+  mechanisms. The group also focuses on materials informatics and data-driven
+  design of catalysts and functional materials, integrating machine learning,
+  high-throughput calculations, and data science.
+added: 2026-10-04
+pi: Satoshi Maeda
+parent: Department of Chemistry, Faculty of Science, Hokkaido University
+location:
+  city: Sapporo
+  country: JP

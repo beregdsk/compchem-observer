@@ -62,6 +62,8 @@ export function slugifyTitle(title: string): string {
 
 export interface DraftInput {
   title: string;
+  /** Kept as an alias: the source's own title when `title` translates it. */
+  original_title?: string;
   type: RawEvent['type'];
   start_date: ISODate;
   end_date: ISODate;
@@ -98,6 +100,7 @@ export function synthesizeDraft(input: DraftInput, today: ISODate): RawEvent {
     description: input.description,
     added: today,
   };
+  if (input.original_title) draft.aliases = [input.original_title];
   if (input.location) draft.location = input.location;
   if (input.organizer) draft.organizer = input.organizer;
   if (input.cost) draft.cost = input.cost;

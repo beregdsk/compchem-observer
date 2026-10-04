@@ -1,0 +1,24 @@
+id: drug-discovery-computational-chemistry-platform-unit
+name: Drug Discovery Computational Chemistry Platform Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/ims/drug_discov_comput_chem/index.html
+topics:
+  - drug-design
+  - ml-chemistry
+  - cheminformatics
+  - biomolecular-simulation
+  - electronic-structure
+description: The Drug Discovery Computational Chemistry Platform Unit at the
+  RIKEN Center for Integrative Medical Sciences, led by Teruki Honma, is a
+  research group focusing on computational drug discovery. They use in silico
+  screening, structure-based drug design, machine learning, and quantum chemical
+  methods like the fragment molecular orbital method to optimize compound
+  design, activity, and ADMET properties.
+added: 2026-10-04
+aliases:
+  - Drug Discovery Computational Chemistry Platform Unit (IMS)
+pi: Teruki Honma
+parent: RIKEN Center for Integrative Medical Sciences
+location:
+  city: Yokohama
+  country: JP

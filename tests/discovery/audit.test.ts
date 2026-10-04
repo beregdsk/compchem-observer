@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { describe, expect, it } from 'vitest';
 import {
   applyFixes,
@@ -85,12 +86,24 @@ describe('dueEntries', () => {
     const state: AuditState = { audited: { [group.file]: { hash: 'stale', at: '2026-09-01' } } };
     expect(dueEntries([group, other], state, today, 1)).toEqual([other]);
   });
+
+  it('audits the files named in `only` whether or not they are due', () => {
+    const other = { ...group, file: 'data/groups/other.yaml' };
+    // Recorded today with the entry's own hash: not due again for 90 days.
+    const hash = createHash('sha256').update(JSON.stringify(group.data)).digest('hex').slice(0, 16);
+    const state: AuditState = {
+      audited: { [group.file]: { hash, at: today }, [other.file]: { hash, at: today } },
+    };
+    expect(dueEntries([group, other], state, today, 10)).toEqual([]);
+    expect(dueEntries([group, other], state, today, 10, new Set([group.file]))).toEqual([group]);
+  });
 });
 
 describe('mechanicalFindings', () => {
-  it('cuts a clipped description back to its last full sentence', () => {
+  it('flags a clipped description without cutting it back, leaving the rewrite to the model', () => {
     const [f] = mechanicalFindings(group, ctx);
-    expect(f).toMatchObject({ field: 'description', fix: 'Studies molecular spin.' });
+    expect(f).toMatchObject({ field: 'description', problem: 'text is cut off mid-sentence' });
+    expect(f!.fix).toBeUndefined();
   });
 });
 
@@ -115,6 +128,21 @@ describe('applyFixes', () => {
     expect(findings[0]!.fix).toBeUndefined();
     expect(findings[1]).toMatchObject({ was: 'Sam', fix: 'Sam Bailey' });
   });
+
+  it('appends an aliases fix rather than replacing the list, and never repeats one', () => {
+    const entry = { ...group, data: { ...group.data, aliases: ['QOS Lab'] } };
+    const { data, findings } = applyFixes(
+      entry,
+      [
+        { file: group.file, field: 'aliases', problem: 'translated', fix: '量子光学研究室' },
+        { file: group.file, field: 'aliases', problem: 'translated', fix: 'QOS Lab' },
+      ],
+      ctx,
+    );
+    expect(data.aliases).toEqual(['QOS Lab', '量子光学研究室']);
+    expect(findings[0]).toMatchObject({ was: 'QOS Lab', fix: '量子光学研究室' });
+    expect(findings[1]!.fix).toBeUndefined();
+  });
 });
 
 describe('runAudit', () => {
@@ -123,6 +151,11 @@ describe('runAudit', () => {
       [
         { field: 'pi', problem: 'Only a first name.', fix: 'Sam Bailey' },
         { field: 'website', problem: 'Looks odd.', fix: 'https://evil.example/' },
+        {
+          field: 'description',
+          problem: 'Cut off.',
+          fix: 'Studies molecular spin and builds quantum sensors and devices from it.',
+        },
       ],
       { 'https://lab.example.org/qos/': '<html><body><p>Led by Dr Sam Bailey.</p></body></html>' },
     );
@@ -145,6 +178,9 @@ describe('runAudit', () => {
     const written = result.changed.get(group.file)!;
     expect(written).toContain('pi: Sam Bailey');
     expect(written).not.toContain('evil.example');
+    // The model rewrote the cut-off description, so the mechanical flag is gone.
+    expect(written).toContain('builds quantum sensors and devices from it.');
+    expect(result.findings.filter((f) => f.field === 'description')).toHaveLength(1);
 
     const body = buildAuditPrBody(result, today);
     expect(body).toContain('### Fixed in this PR (2)');

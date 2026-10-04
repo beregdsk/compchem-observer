@@ -1,0 +1,20 @@
+id: biocomputing-group
+name: Biocomputing Group
+kind: group
+website: https://researchdirectory.ucalgary.ca/biocomputing
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - soft-matter
+description: The Biocomputing Group at the University of Calgary, led by Peter
+  Tieleman, uses computer simulations to study biological problems. The group
+  develops computational models of lipids and membrane proteins to investigate
+  their structure, dynamics, and interactions, employing molecular dynamics
+  simulations and the coarse-grained Martini force field. It is part of the
+  Centre for Molecular Simulation and focuses on membrane biophysics.
+added: 2026-10-04
+pi: Peter Tieleman
+parent: University of Calgary
+location:
+  city: Calgary
+  country: CA

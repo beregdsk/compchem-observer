@@ -1,0 +1,22 @@
+id: the-simine-group
+name: the Simine group
+kind: group
+website: https://www.siminegroup.ca/
+topics:
+  - ml-chemistry
+  - materials-modeling
+  - biomolecular-simulation
+  - molecular-dynamics
+  - soft-matter
+description: The Simine group at McGill University focuses on the theory of
+  strongly disordered molecular systems. They combine traditional simulation
+  techniques with machine learning to model nano- to meso-scale systems, aiming
+  to discover new properties and applications in nano- and bio-tech for
+  disordered materials ranging from amorphous graphene to synthetic biological
+  sequences.
+added: 2026-10-04
+pi: Lena Simine
+parent: McGill University
+location:
+  city: Montreal
+  country: CA

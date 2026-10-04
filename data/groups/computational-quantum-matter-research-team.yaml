@@ -1,0 +1,22 @@
+id: computational-quantum-matter-research-team
+name: Computational Quantum Matter Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/comput_qtm_matter/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+  - wavefunction-methods
+description: The Computational Quantum Matter Research Team at the RIKEN Center
+  for Emergent Matter Science, led by Director Seiji Yunoki, investigates
+  emergent quantum phenomena in solid-state materials. By employing
+  state-of-the-art numerical simulations such as the density matrix
+  renormalization group and variational Monte Carlo, the team studies strongly
+  correlated electron systems, transition metal oxides, and quantum dynamics to
+  understand exotic phases like Mott insulators and superconductivity.
+added: 2026-10-04
+pi: Seiji Yunoki
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
