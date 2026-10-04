@@ -1,0 +1,24 @@
+id: quantum-molecular-science-research-team
+name: 量子系分子科学研究チーム (Quantum Molecular Science Research Team)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/cmsrt/index.html
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - dft
+  - software-hpc
+  - materials-modeling
+description: The Quantum Molecular Science Research Team at the RIKEN Center for
+  Computational Science (R-CCS), led by Takahito Nakajima, focuses on developing
+  next-generation theoretical molecular science to predict and clarify chemical
+  reactions, properties, and functions of complex molecular systems, such as
+  energy and biological molecules. The team develops the highly parallel quantum
+  chemistry software NTChem to leverage supercomputing resources like Fugaku,
+  and applies high-throughput simulations and materials informatics to design
+  novel energy materials.
+added: 2026-10-04
+pi: Takahito Nakajima (中嶋 隆人)
+parent: 理化学研究所 計算科学研究センター (RIKEN Center for Computational Science, R-CCS)
+location:
+  city: Kobe
+  country: JP
