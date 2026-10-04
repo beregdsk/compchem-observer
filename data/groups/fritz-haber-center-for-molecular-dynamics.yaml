@@ -1,0 +1,23 @@
+id: fritz-haber-center-for-molecular-dynamics
+name: Fritz Haber Center for Molecular Dynamics
+kind: institute
+website: https://fhrc.huji.ac.il/
+topics:
+  - molecular-dynamics
+  - electronic-structure
+  - dft
+  - biomolecular-simulation
+  - drug-design
+description: The Fritz Haber Center for Molecular Dynamics is a research
+  institute at the Hebrew University of Jerusalem, founded in 1981 by the
+  university and the Minerva Foundation. It conducts advanced research in
+  computational and theoretical chemistry, focusing on molecular dynamics,
+  electronic structure, density functional theory, biomolecular simulations, and
+  drug design.
+added: 2026-10-04
+aliases:
+  - The Fritz Haber Center for Molecular Research
+parent: Hebrew University of Jerusalem
+location:
+  city: Jerusalem
+  country: IL
