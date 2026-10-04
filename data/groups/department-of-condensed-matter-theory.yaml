@@ -1,0 +1,21 @@
+id: department-of-condensed-matter-theory
+name: Department of Condensed Matter Theory
+kind: group
+website: https://www.fzu.cz/en/research/divisions-and-departments/division-2/department-23
+topics:
+  - electronic-structure
+  - materials-modeling
+  - dft
+description: The Department of Condensed Matter Theory at the Institute of
+  Physics focuses on quantum-mechanical calculations of electronic structures of
+  metals, semiconductors, and correlated materials, investigating properties in
+  equilibrium and strong fields for spintronics and energy…
+added: 2026-10-03
+aliases:
+  - Department of Condensed Matter Theory, Institute of Physics (FZU), Czech
+    Academy of Sciences, Czech Republic
+pi: Jindřich Kolorenč
+parent: Institute of Physics of the Czech Academy of Sciences
+location:
+  city: Prague
+  country: CZ
