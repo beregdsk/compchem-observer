@@ -1,0 +1,22 @@
+id: molecular-modeling-and-drug-discovery
+name: Molecular Modeling and Drug Discovery
+kind: group
+website: https://mmdd.iit.it/people-details/-/people/marco-devivo
+topics:
+  - drug-design
+  - catalysis
+  - biomolecular-simulation
+  - molecular-dynamics
+  - cheminformatics
+description: The Molecular Modeling and Drug Discovery Lab, led by Marco De Vivo
+  at the Istituto Italiano di Tecnologia in Genova, Italy, focuses on molecular
+  modeling of enzymes, proteins, and nanoparticles for drug discovery. The group
+  integrates computational and medicinal chemistry to design, synthesize, and
+  test novel compounds, with a strong focus on enzymatic catalysis and
+  structure-based drug design.
+added: 2026-10-04
+pi: Marco De Vivo
+parent: Istituto Italiano di Tecnologia (IIT)
+location:
+  city: Genova
+  country: IT
