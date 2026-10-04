@@ -1,0 +1,24 @@
+id: lehrstuhl-fur-theoretische-physik-c-und-institut-fur-theoretische-festkorperphysik
+name: Lehrstuhl für Theoretische Physik C und Institut für Theoretische
+  Festkörperphysik
+kind: group
+website: https://www.rwth-aachen.de/go/id/bdfr/gguid/0x7DCA392A78741E458693B269D239B0DA
+topics:
+  - electronic-structure
+  - materials-modeling
+  - dft
+  - quantum-dynamics
+  - spectroscopy
+description: The official contact page of the Chair of Theoretical Physics C and
+  the Institute for Theoretical Solid State Physics at RWTH Aachen University,
+  led by Prof. Dr. Carsten Honerkamp, focusing on theoretical physics of
+  condensed matter and electronic properties.
+added: 2026-10-03
+aliases:
+  - Chair "Theoretical Physics C", Institute for Theoretical Solid State
+    Physics, RWTH Aachen University, Germany
+pi: Carsten Honerkamp
+parent: RWTH Aachen University
+location:
+  city: Aachen
+  country: DE
