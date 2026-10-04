@@ -1,0 +1,23 @@
+id: calculations-of-parameters-of-the-nmr-spectroscopy
+name: Calculations of Parameters of the NMR Spectroscopy
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/auer/research-topics/calulation-of-parameters-of-the-nmr-spectroscopy
+topics:
+  - spectroscopy
+  - electronic-structure
+  - dft
+  - software-hpc
+  - materials-modeling
+description: The page presents the research group 'Calculations of Parameters of
+  the NMR Spectroscopy' at the Max-Planck-Institut für Kohlenforschung. The
+  group focuses on the computational prediction of NMR chemical shifts and
+  shielding tensors using high-accuracy quantum chemical methods like
+  double-hybrid DFT and coupled-cluster theory. Their work includes developing
+  algorithms for the ORCA software package, creating specialized basis sets, and
+  applying these methods to chemical synthesis and materials science.
+added: 2026-10-04
+pi: Alexander Auer
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
