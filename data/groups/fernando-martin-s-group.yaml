@@ -1,0 +1,23 @@
+id: fernando-martin-s-group
+name: Fernando Martín's group
+kind: group
+website: https://nanociencia.imdea.org/fernando-martin-s-group/group-home
+topics:
+  - excited-states
+  - photochemistry
+  - quantum-dynamics
+  - materials-modeling
+  - spectroscopy
+description: The Modelling group, led by Fernando Martín, focuses on the
+  theoretical and computational modeling of photoexcitation and photoionization
+  processes in atomic, molecular, and solid-state systems, and the prediction of
+  properties of complex molecular systems and novel…
+added: 2026-10-02
+aliases:
+  - Fernando Martin's Group, IMDEA Nanoscience & Autonomous University of
+    Madrid, Spain
+pi: Fernando Martín
+parent: IMDEA Nanociencia
+location:
+  city: Madrid
+  country: ES
