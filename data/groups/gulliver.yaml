@@ -1,0 +1,16 @@
+id: gulliver
+name: Gulliver
+kind: group
+website: https://www.gulliver.espci.fr/?-home-
+topics:
+  - soft-matter
+description: The Gulliver laboratory is a research group at ESPCI Paris working
+  at the interface of physics, chemistry, biology, and computer science. The lab
+  combines theoretical and experimental approaches to study soft matter, active
+  matter, and molecular systems, focusing on topology, self-assembly,
+  interfaces, and collective behavior.
+added: 2026-10-04
+parent: ESPCI Paris PSL & CNRS
+location:
+  city: Paris
+  country: FR
