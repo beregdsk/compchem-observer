@@ -1,0 +1,21 @@
+id: attosecond-theory-group
+name: Attosecond Theory Group
+kind: group
+website: https://mbi-berlin.de/de/attosecond-theory-group/members
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - electronic-structure
+description: The Attosecond Theory Group, led by Prof. Dr. Mikhail Ivanov at the
+  Max Born Institute in Berlin, conducts theoretical and computational research
+  in attosecond physics, high-field science, non-linear processes, and ultrafast
+  quantum dynamics.
+added: 2026-10-03
+aliases:
+  - Attosecond Theory Group, Max Born Institute, Technical University Berlin,
+    Germany
+pi: Prof. Dr. Mikhail Ivanov
+parent: Max Born Institute
+location:
+  city: Berlin
+  country: DE
