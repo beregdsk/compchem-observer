@@ -1,0 +1,19 @@
+id: strong-correlation-quantum-phase-riken-ecl-research-unit
+name: Strong Correlation Quantum Phase RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/str-correl-qtm-phase-riken-ecl/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Strong Correlation Quantum Phase RIKEN ECL Research Unit
+  conducts theoretical research on strongly correlated electron systems in
+  solid-state materials like superconductors and magnets. Starting from
+  microscopic theoretical models of electron behavior, the unit aims to propose
+  novel electronic phases, quantum phase transitions, and transport phenomena,
+  bridging theory and experiment.
+added: 2026-10-04
+pi: Rina Tazai
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
