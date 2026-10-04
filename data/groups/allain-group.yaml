@@ -1,0 +1,17 @@
+id: allain-group
+name: Allain Group
+kind: group
+website: https://bc.biol.ethz.ch/research/allain-group.html
+topics:
+  - spectroscopy
+  - biomolecular-simulation
+description: The Allain Group at ETH Zurich investigates protein-RNA
+  interactions central to pre-mRNA splicing and RNA editing, employing NMR
+  spectroscopy alongside biochemical, biophysical, and computational approaches
+  to elucidate molecular mechanisms underlying diseases such as spinal muscular
+  atrophy, myotonic dystrophy, and ALS.
+added: 2026-10-04
+parent: Institute of Biochemistry, ETH Zurich
+location:
+  city: Zurich
+  country: CH
