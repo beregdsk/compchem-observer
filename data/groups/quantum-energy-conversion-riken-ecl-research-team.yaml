@@ -1,0 +1,21 @@
+id: quantum-energy-conversion-riken-ecl-research-team
+name: Quantum Energy Conversion RIKEN ECL Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/ecl/qtm-ener-conv-riken-ecl/index.html
+topics:
+  - spectroscopy
+  - electronic-structure
+  - excited-states
+  - photochemistry
+description: The Quantum Energy Conversion RIKEN ECL Research Team, led by Team
+  Leader Miyabi Imai-Imada, is a research group based at RIKEN in Wako, Saitama,
+  Japan. The team utilizes photon scanning tunneling microscopes to perform
+  atomic-scale spectroscopic measurements. Their research focuses on revealing
+  the structure-function relationships of molecules in biological systems and
+  organic electronics to create novel energy conversion functionalities.
+added: 2026-10-05
+pi: Miyabi Imai-Imada
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
