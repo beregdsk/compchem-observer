@@ -9,10 +9,15 @@ source_url: https://www.we-heraeus-stiftung.de/veranstaltungen/molecules-for-qua
 topics:
   - quantum-computing-chemistry
   - spectroscopy
-description: Seminar on molecules as versatile platforms for quantum
-  technologies, bringing together experimentalists and theorists to address
-  challenges like decoherence and qubit addressability for sensing, networking,
-  and information processing.
+description: Molecules offer a versatile and controllable platform for quantum
+  technologies, with long-lived states, coherent light interactions, and tunable
+  properties for sensing, networking, and information processing. This seminar
+  brings together experimentalists, chemists, and theorists to address key
+  challenges like decoherence, qubit addressability, system integration, and
+  molecular design. It aims to establish a shared vocabulary, foster
+  cross-disciplinary collaboration, outline a roadmap, and integrate
+  early-career researchers into the emerging field of molecular quantum
+  technologies.
 added: 2026-09-29
 location:
   city: Bad Honnef
