@@ -1,0 +1,21 @@
+id: semiconductor-quantum-information-device-theory-research-team
+name: Semiconductor Quantum Information Device Theory Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/rqc/semiconductor_qtm_inf_device_theor/index.html
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+  - electronic-structure
+description: The Semiconductor Quantum Information Device Theory Research Team
+  at RIKEN Center for Quantum Computing works on the theory of spin-based
+  quantum computers. They design CMOS-compatible Si and Ge gated quantum dots,
+  study spin qubits manipulated by electric fields via spin-orbit interactions,
+  investigate electronic properties in low-dimensional geometries using
+  bandstructure models, and seek ways to protect qubits from noise and scale up
+  qubit networks.
+added: 2026-10-05
+pi: Daniel Loss
+parent: RIKEN Center for Quantum Computing
+location:
+  city: Wako
+  country: JP
