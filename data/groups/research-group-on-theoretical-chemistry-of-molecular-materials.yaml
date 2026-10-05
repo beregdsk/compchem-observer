@@ -1,0 +1,23 @@
+id: research-group-on-theoretical-chemistry-of-molecular-materials
+name: Research Group on Theoretical Chemistry of Molecular Materials
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/research-lines/research-group-theoretical-chemistry-molecular-materials-1286225405503/GrupsInves.html?id=1286252892402
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - excited-states
+  - photochemistry
+description: The Research Group on Theoretical Chemistry of Molecular Materials
+  (MolMatTC) focuses on the theoretical characterization of structural,
+  electronic, and self-assembly properties of molecular systems for molecular
+  electronics, such as OLEDs, photovoltaic cells, and sensors. Using
+  quantum-chemical calculations, they study structure-property relationships,
+  charge transport, and optical properties of conjugated polymers, MOFs, and
+  perovskites to design improved electroactive materials.
+added: 2026-10-05
+pi: Enrique Ortí Guillen
+parent: University of Valencia
+location:
+  city: Paterna
+  country: ES
