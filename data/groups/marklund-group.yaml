@@ -1,0 +1,20 @@
+id: marklund-group
+name: Marklund Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/biochemistry/marklund-group
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - software-hpc
+description: The Marklund Group, led by Erik Marklund at the Department of
+  Chemistry for Life Sciences, Uppsala University, focuses on the structural
+  dynamics and interactions of proteins and protein complexes. The group
+  combines advanced computational methods, such as molecular dynamics
+  simulations, with mass-spectrometric techniques like ion-mobility spectrometry
+  to study macromolecules and gas-phase proteins.
+added: 2026-10-05
+pi: Erik Marklund
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE
