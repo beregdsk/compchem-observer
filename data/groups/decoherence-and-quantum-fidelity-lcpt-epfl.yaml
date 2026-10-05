@@ -1,0 +1,21 @@
+id: decoherence-and-quantum-fidelity-lcpt-epfl
+name: Decoherence and quantum fidelity ‒ LCPT ‐ EPFL
+kind: group
+website: https://www.epfl.ch/labs/lcpt/research/quantum_fidelity/
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - molecular-dynamics
+  - wavefunction-methods
+  - excited-states
+description: The official page for the 'Decoherence and quantum fidelity'
+  research area at the LCPT laboratory of EPFL, led by Prof. Jiri Vanicek. It
+  details investigations into quantum fidelity, decoherence, and semiclassical
+  approximations, applying them to quantum molecular dynamics and ultrafast
+  spectroscopy.
+added: 2026-10-05
+pi: Jiri Vanicek
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH

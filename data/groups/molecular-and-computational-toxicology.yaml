@@ -1,0 +1,20 @@
+id: molecular-and-computational-toxicology
+name: Molecular and Computational Toxicology
+kind: group
+website: https://vu.nl/en/research/more-about/molecular-and-computational-toxicology
+topics:
+  - biomolecular-simulation
+  - cheminformatics
+  - drug-design
+  - molecular-dynamics
+description: The Division of Molecular and Computational Toxicology is a
+  research group at VU Amsterdam specializing in the development of
+  computational and human in vitro non-animal strategies to understand the
+  molecular mechanisms of chemical-induced toxicity, aiming to improve the
+  prediction of chemical safety in humans.
+added: 2026-10-05
+pi: Paul Jennings
+parent: Department of Chemistry and Pharmaceutical Sciences, VU Amsterdam
+location:
+  city: Amsterdam
+  country: NL

@@ -1,0 +1,19 @@
+id: sustainable-hydrogen-energy-laboratory-shel-research-group
+name: Sustainable Hydrogen Energy Laboratory (SHEL) Research Group
+kind: group
+website: https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/shel
+topics:
+  - electrochemistry
+  - catalysis
+  - materials-modeling
+description: The Sustainable Hydrogen Energy Laboratory (SHEL) at RMIT
+  University is a multidisciplinary research group focused on hydrogen energy
+  technologies. It works on hydrogen production, storage, transport, fuel cell
+  and electrolyser innovations, novel materials, and thermal management, with
+  expertise in engineering and science.
+added: 2026-10-05
+pi: Bahman Shabani
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU

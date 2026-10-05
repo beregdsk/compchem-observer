@@ -1,0 +1,21 @@
+id: research-group-on-statistical-physics-and-thermodynamics-of-transport-processes
+name: Research Group on Statistical Physics and Thermodynamics of Transport Processes
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/research-lines/research-group-statistical-physics-thermodynamics-transport-processes-1286225405503/GrupsInves.html?id=1286246796505
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - materials-modeling
+  - electrochemistry
+description: The research group focuses on the theoretical and experimental
+  study of functionalised polymeric nanopores for micro- and nanofluidics,
+  bio-inspired nanostructures for information processing, and cellular
+  bioelectricity. Their research includes modeling membrane potentials,
+  simulating multicellular electrical maps, and developing nanofluidic devices
+  for logic and signal processing.
+added: 2026-10-05
+pi: Jose Antonio Manzanares Andreu
+parent: Universitat de València
+location:
+  city: Burjassot
+  country: ES

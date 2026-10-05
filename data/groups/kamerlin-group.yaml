@@ -1,0 +1,20 @@
+id: kamerlin-group
+name: Kamerlin Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/biochemistry/kamerlin-group
+topics:
+  - biomolecular-simulation
+  - catalysis
+  - molecular-dynamics
+description: The Kamerlin Group is a computational biochemistry research lab at
+  the Department of Chemistry for Life Sciences, Uppsala University. Led by Lynn
+  Kamerlin, the group develops and applies state-of-the-art computational tools,
+  including quantum mechanical, classical mechanical, and hybrid methods, to
+  explore enzyme catalysis, catalytic promiscuity, and the evolution of protein
+  function at the chemistry-biology interface.
+added: 2026-10-05
+pi: Lynn Kamerlin
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

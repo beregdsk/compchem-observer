@@ -1,0 +1,23 @@
+id: quantum-information-physics-theory-research-team
+name: Quantum Information Physics Theory Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/rqc/qtm_inf_phys_theor_res/index.html
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+  - quantum-dynamics
+  - ml-chemistry
+  - materials-modeling
+description: The Quantum Information Physics Theory Research Team, directed by
+  Franco Nori at the RIKEN Center for Quantum Computing, conducts
+  interdisciplinary theoretical and computational research in quantum
+  information, quantum optics, superconducting quantum circuits, and condensed
+  matter physics. The team is widely known for developing the QuTiP open-source
+  software for quantum simulation and applying machine learning to quantum
+  physics and optimization problems.
+added: 2026-10-05
+pi: Franco Nori
+parent: RIKEN Center for Quantum Computing
+location:
+  city: Wako
+  country: JP

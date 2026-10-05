@@ -1,0 +1,18 @@
+id: nonequilibrium-quantum-statistical-mechanics-riken-hakubi-research-team
+name: Nonequilibrium Quantum Statistical Mechanics RIKEN Hakubi Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/hakubi/h_nonequil_qtm_stat_mech/index.html
+topics:
+  - quantum-dynamics
+description: The Nonequilibrium Quantum Statistical Mechanics RIKEN Hakubi
+  Research Team, led by Ryusuke Hamazaki, studies the bridge between macroscopic
+  nonequilibrium phenomena and microscopic quantum mechanics. They investigate
+  thermalization, quantum dynamics, and nonequilibrium processes in isolated or
+  dissipative quantum many-body systems, aiming to apply these insights to
+  condensed matter physics, information theory, and biology.
+added: 2026-10-05
+pi: Ryusuke Hamazaki
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

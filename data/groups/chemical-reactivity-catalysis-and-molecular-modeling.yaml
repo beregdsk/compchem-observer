@@ -1,0 +1,22 @@
+id: chemical-reactivity-catalysis-and-molecular-modeling
+name: Chemical Reactivity, Catalysis, and Molecular Modeling
+kind: group
+website: https://www.compchem.nl/research_areas/chemical-reactions-in-complex-environments/
+topics:
+  - catalysis
+  - molecular-dynamics
+  - enhanced-sampling
+  - biomolecular-simulation
+  - materials-modeling
+description: The Chemical Reactivity, Catalysis, and Molecular Modeling group at
+  the University of Amsterdam focuses on applying advanced molecular simulation
+  techniques to understand and predict the properties of complex chemical
+  systems and nano-sized materials. Their research spans catalysis, soft matter,
+  and biomolecular systems, utilizing computational methods and machine
+  learning.
+added: 2026-10-05
+pi: Peter Bolhuis and Bernd Ensing and Pieter Iedema and Evert Jan Meijer
+parent: Van 't Hoff Institute for Molecular Sciences, University of Amsterdam
+location:
+  city: Amsterdam
+  country: NL

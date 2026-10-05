@@ -1,0 +1,20 @@
+id: analytical-quantum-complexity-riken-hakubi-research-team
+name: Analytical Quantum Complexity RIKEN Hakubi Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/hakubi/k_anl_qtm_compl/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+description: The Analytical Quantum Complexity RIKEN Hakubi Research Team is a
+  PI-led research group at RIKEN, led by Team Leader Tomotaka Kuwahara. The team
+  focuses on Hamiltonian complexity, exploring the computational complexity of
+  simulating quantum many-body systems using classical or quantum computers.
+  Their research addresses key challenges in quantum supremacy, NISQ-era
+  algorithms, and the mathematical foundations of quantum entanglement and
+  quantum dynamics.
+added: 2026-10-05
+pi: Tomotaka Kuwahara
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

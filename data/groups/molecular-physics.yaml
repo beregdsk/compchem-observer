@@ -1,0 +1,18 @@
+id: molecular-physics
+name: Molecular Physics
+kind: group
+website: https://liu.se/en/research/molecular-physics
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+description: Molecular Physics is a research unit at the Department of Physics,
+  Chemistry and Biology (IFM) at Linköping University, led by Thomas Ederth. The
+  group uses and develops concepts and tools from physics and chemistry to solve
+  problems of biological and biomedical relevance, spanning from basic to
+  applied research.
+added: 2026-10-05
+pi: Thomas Ederth
+parent: Department of Physics, Chemistry and Biology (IFM), Linköping University
+location:
+  city: Linköping
+  country: SE

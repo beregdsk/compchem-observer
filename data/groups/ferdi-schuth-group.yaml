@@ -1,0 +1,21 @@
+id: ferdi-schuth-group
+name: Ferdi Schüth group
+kind: group
+website: https://www.kofo.mpg.de/en/research/heterogeneous-catalysis
+topics:
+  - catalysis
+  - electrochemistry
+  - materials-modeling
+description: The official webpage of the research group of Prof. Dr. Ferdi
+  Schüth at the Max Planck Institute for Coal Research in Mülheim an der Ruhr,
+  Germany. The group focuses on heterogeneous catalysis, specializing in the
+  synthesis and characterization of inorganic materials, nanostructured
+  catalysts, and porous solids. Their research covers key areas such as
+  electrocatalysis, biomass conversion, hydrogen storage, and mechanochemistry,
+  aiming to develop sustainable chemical processes and energy solutions.
+added: 2026-10-05
+pi: Ferdi Schüth
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

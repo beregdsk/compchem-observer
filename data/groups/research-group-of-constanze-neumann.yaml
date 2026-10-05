@@ -1,0 +1,21 @@
+id: research-group-of-constanze-neumann
+name: Research Group of Constanze Neumann
+kind: group
+website: https://www.kofo.mpg.de/en/research/heterogeneous-catalysis/neumann
+topics:
+  - catalysis
+  - materials-modeling
+description: The research group of Dr. Constanze Neumann at the Max Planck
+  Institute for Coal Research focuses on heterogeneous catalysis, particularly
+  metal-organic frameworks (MOFs) and nanoparticle catalysis. Their work
+  involves designing catalysts with unusual selectivity, developing cooperative
+  MOF-based catalysts, synthesizing alloy nanoparticles, and creating smart
+  support materials to guide reactions. Funded under the Lise Meitner Excellence
+  program, they aim to facilitate the efficient production of fuels and
+  chemicals from renewable resources.
+added: 2026-10-05
+pi: Constanze Neumann
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

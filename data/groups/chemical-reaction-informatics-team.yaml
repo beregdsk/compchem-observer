@@ -1,0 +1,20 @@
+id: chemical-reaction-informatics-team
+name: Chemical Reaction Informatics Team
+kind: group
+website: https://www.riken.jp/en/research/labs/aip/domain/chem-react-inf/index.html
+topics:
+  - ml-chemistry
+  - cheminformatics
+  - catalysis
+description: The Chemical Reaction Informatics Team at the RIKEN Center for
+  Advanced Intelligence Project, led by Team Director Ichigaku Takigawa, works
+  on machine learning research for the discovery and design of chemical
+  reactions. Their research spans informatics, machine discovery, geometric
+  learning, and combinatorial generalization to tackle challenges in chemical
+  reactions and catalysis.
+added: 2026-10-05
+pi: Ichigaku Takigawa
+parent: RIKEN Center for Advanced Intelligence Project
+location:
+  city: Tokyo
+  country: JP

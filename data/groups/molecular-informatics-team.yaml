@@ -1,0 +1,23 @@
+id: molecular-informatics-team
+name: Molecular Informatics Team
+kind: group
+website: https://www.riken.jp/en/research/labs/aip/domain/mol_inf/index.html
+topics:
+  - ml-chemistry
+  - materials-modeling
+  - biomolecular-simulation
+  - drug-design
+  - cheminformatics
+description: The Molecular Informatics Team at the RIKEN Center for Advanced
+  Intelligence Project focuses on developing artificial intelligence methods to
+  design functional biomolecules, such as proteins, and inorganic materials,
+  including metals, ceramics, and nanoparticles. The team conducts theoretical
+  and computational studies on automatic design methods like Bayesian
+  optimization and Monte Carlo tree search, integrating machine learning with
+  quantum chemistry to advance molecular and materials design.
+added: 2026-10-05
+pi: Koji Tsuda
+parent: RIKEN Center for Advanced Intelligence Project
+location:
+  city: Kashiwa
+  country: JP

@@ -1,0 +1,22 @@
+id: team-theoretical-methods-and-heterogeneous-reactions
+name: Team Theoretical Methods and Heterogeneous Reactions
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/auer/team
+topics:
+  - electronic-structure
+  - dft
+  - spectroscopy
+  - catalysis
+  - software-hpc
+description: The Team Theoretical Methods and Heterogeneous Reactions at the
+  Max-Planck-Institut für Kohlenforschung, led by Prof. Dr. Alexander A. Auer,
+  focuses on the development and application of theoretical and computational
+  chemistry methods to model heterogeneous reactions, catalytic processes, and
+  molecular spectroscopy, leveraging high-performance computing software like
+  ORCA.
+added: 2026-10-05
+pi: Alexander A. Auer
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

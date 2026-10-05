@@ -1,0 +1,22 @@
+id: lnq-the-quantum-plumbing-lab
+name: LNQ - The Quantum Plumbing Lab
+kind: group
+website: https://www.epfl.ch/labs/lnq/
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - soft-matter
+  - materials-modeling
+  - electrochemistry
+description: The Quantum Plumbing Lab (LNQ) at EPFL, led by Prof. Nikita
+  Kavokine, investigates quantum effects that emerge when liquids flow through
+  extremely narrow channels in nanoscale systems. The lab focuses on quantum
+  nanofluidics, leveraging theoretical and computational methods to model
+  quantum behaviors in confined liquids for sustainability and renewable energy
+  applications.
+added: 2026-10-05
+pi: Nikita Kavokine
+parent: EPFL (École Polytechnique Fédérale de Lausanne)
+location:
+  city: Lausanne
+  country: CH

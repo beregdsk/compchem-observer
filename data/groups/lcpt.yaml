@@ -1,0 +1,25 @@
+id: lcpt
+name: LCPT
+kind: group
+website: https://www.epfl.ch/labs/lcpt/research/
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - spectroscopy
+  - biomolecular-simulation
+  - software-hpc
+description: The LCPT (Laboratoire de Chimie Physique et Théorique) at EPFL, led
+  by Prof. Jiri Vanicek, is a computational and theoretical chemistry research
+  group. Their research focuses on quantum and semiclassical molecular dynamics,
+  ultrafast spectroscopy, statistical biophysics, and bioinformatics. They
+  develop efficient numerical algorithms and software tools, such as the
+  MicroRNA server, to investigate molecular quantum dynamics, kinetics, and
+  biological systems.
+added: 2026-10-05
+aliases:
+  - Research ‒ LCPT ‐ EPFL
+pi: Jiri Vanicek
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH
