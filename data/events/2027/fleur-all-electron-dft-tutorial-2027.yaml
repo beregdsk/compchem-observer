@@ -9,11 +9,17 @@ location:
   country: DE
 url: https://www.cecam.org/workshop-details/all-electron-dft-with-fleur-a-hands-on-tutorial-1506
 organizer: CECAM-DE-JUELICH, Forschungszentrum Jülich
-topics: [dft, electronic-structure, software-hpc]
-description: >-
-  A week of hands-on training on FLEUR, an all-electron full-potential LAPW
-  code, with its developers present. Run at Forschungszentrum Jülich and
-  streamed online at the same time.
+topics:
+  - dft
+  - electronic-structure
+  - software-hpc
+description: The workshop offers hands-on training on the FLEUR code, an
+  all-electron full-potential linearized augmented-plane-wave (FLAPW)
+  implementation. Density functional theory (DFT) is the standard for predicting
+  electronic, magnetic, and structural properties of materials, and FLAPW is a
+  robust, precise method for DFT calculations on crystals, surfaces, and thin
+  films. The training is designed to help users master these techniques and
+  interact directly with the developers of the code.
 deadlines:
   - type: registration
     date: 2027-02-05
