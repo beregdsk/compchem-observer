@@ -1,0 +1,22 @@
+id: clean-energy-lab
+name: Clean Energy Lab
+kind: group
+website: https://cleanenergy.utoronto.ca/
+topics:
+  - materials-modeling
+  - ml-potentials
+  - catalysis
+  - electrochemistry
+  - molecular-dynamics
+description: The Clean Energy Lab at the University of Toronto, led by Oleksandr
+  Voznyy, focuses on the theory-guided discovery and synthesis of nanomaterials
+  for clean energy applications, such as Li-ion batteries, hydrogen storage, CO2
+  capture, and photovoltaics. The group employs computational materials design,
+  machine-learned force fields, and atomistic simulations to screen and develop
+  advanced materials for catalysis, energy storage, and semiconductor devices.
+added: 2026-10-05
+pi: Oleksandr Voznyy
+parent: University of Toronto
+location:
+  city: Toronto
+  country: CA
