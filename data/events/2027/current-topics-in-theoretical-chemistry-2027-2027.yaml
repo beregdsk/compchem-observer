@@ -12,9 +12,14 @@ topics:
   - excited-states
   - ml-potentials
   - molecular-dynamics
-description: Workshop on current topics in theoretical chemistry, focusing on
-  density functional theories and dynamics simulations, including nonadiabatic
-  nuclear-electronic dynamics and machine learning for catalysis.
+description: 'Workshop on current topics in theoretical chemistry, prioritizing
+  areas that enhance fundamental understanding and contribute to academic
+  communities in Taiwan and the broader Asian region. It highlights two critical
+  fields: density functional theories, addressing fractional charge and spin
+  errors; and dynamics simulations for revealing catalysis, solvation, and
+  complex processes, including machine-learning-enabled simulations and
+  nonadiabatic nuclear-electronic dynamics for coupled electronic-nuclear
+  motions. It aims to share advanced research.'
 added: 2026-09-28
 location:
   city: CECAM-TW

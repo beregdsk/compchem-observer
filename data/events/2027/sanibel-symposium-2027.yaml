@@ -11,13 +11,20 @@ location:
   venue: Embassy Suites by Hilton
 url: https://sanibelsymposium.qtp.ufl.edu/
 organizer: Quantum Theory Project, University of Florida
-cost: '$699 ($599 early bird until 30 Nov 2026); graduate students $450'
+cost: $699 ($599 early bird until 30 Nov 2026); graduate students $450
 fee: paid
-topics: [electronic-structure, quantum-dynamics, ml-chemistry, quantum-computing-chemistry]
-description: >-
-  The sixty-sixth edition of a theory meeting running since 1961, covering the
-  quantum theory of atoms, molecules and materials. Announced themes include
-  machine learning, quantum computing, DFT, dynamics and electronic resonances.
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - ml-chemistry
+  - quantum-computing-chemistry
+description: The sixty-sixth Sanibel Symposium, a theory meeting running since
+  1961 on the quantum theory of atoms, molecules and materials. 2027 themes span
+  machine learning and quantum computing, density functional theory, quantum
+  dynamics, sampling of complex energy landscapes, electronic resonances, a
+  retrospective on conventional computers in molecular quantum mechanics,
+  magnetic molecules and materials, and electronic structure in gas-phase,
+  condensed matter, and biochemical contexts.
 deadlines:
   - type: early_bird
     date: 2026-11-30

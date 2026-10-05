@@ -12,9 +12,14 @@ topics:
   - ml-potentials
   - spectroscopy
   - soft-matter
-description: Workshop on ionic fluids, uniting theory, simulation, and
-  experiment to tackle multiscale challenges. Topics include ML potentials,
-  classical DFT, and advanced spectroscopic techniques.
+description: Ionic fluids, such as electrolyte solutions and ionic liquids, are
+  essential in biological and physical sciences but are challenging to
+  understand due to their multiscale nature and the competition between
+  short-range steric and long-range Coulomb interactions. This workshop brings
+  together researchers in theory, simulation, and experiment to explore how
+  recent advances—such as machine-learned potentials, classical density
+  functional theory, and advanced spectroscopic techniques—can help tackle these
+  major outstanding issues.
 added: 2026-09-28
 location:
   city: Lausanne

@@ -10,11 +10,18 @@ location:
   country: NL
 url: https://www.cecam.org/workshop-details/molsim-2027-1542
 organizer: CECAM-NL and the University of Amsterdam
-topics: [molecular-dynamics, enhanced-sampling, education-training]
-description: >-
-  A two-week school that builds molecular simulation up from statistical
-  mechanics, pairing lectures with hands-on sessions on simple model systems.
-  Aimed at PhD students and postdocs in physics, chemistry and biology.
+topics:
+  - molecular-dynamics
+  - enhanced-sampling
+  - education-training
+description: MolSim 2027 is a two-week school focusing on basic and advanced
+  molecular simulation methods for PhD candidates and postdocs in physics,
+  chemistry, and biology. The program combines lectures and hands-on exercises,
+  covering statistical mechanics, Monte Carlo, molecular dynamics, free energy
+  calculations, rare events, machine learning, and spectroscopic properties of
+  condensed-phase systems. Organized by the Computational Chemistry group at the
+  University of Amsterdam, part of the Amsterdam Center for Multiscale
+  Modelling, it is an activity of the Dutch node of CECAM (CECAM-NL).
 deadlines:
   - type: registration
     date: 2026-12-11

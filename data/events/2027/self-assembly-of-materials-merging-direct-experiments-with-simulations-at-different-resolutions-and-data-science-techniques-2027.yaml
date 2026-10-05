@@ -13,9 +13,14 @@ topics:
   - materials-modeling
   - ml-chemistry
   - soft-matter
-description: Workshop on self-assembly of materials, merging experiments with
-  multi-scale simulations and data science techniques to bridge synthesis and
-  modeling.
+description: Workshop on the self-assembly of materials, focusing on bridging
+  synthesis and modeling by merging direct experiments with multi-scale
+  simulations and data science. It addresses the serendipitous nature of
+  materials discovery and the lack of synthesis condition data. The event aims
+  to summarize computational developments and discuss key challenges, including
+  bridging simulations and experiments, tackling the multi-scale nature of
+  self-assembly, and merging simulation with data science to understand
+  molecular-level mechanisms of nucleation and phase transitions.
 added: 2026-09-28
 location:
   city: Lausanne

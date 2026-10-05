@@ -10,11 +10,18 @@ location:
   venue: CECAM-HQ-EPFL
 url: https://www.cecam.org/workshop-details/automating-atomistic-machine-learning-1494
 organizer: CECAM
-topics: [ml-potentials, software-hpc, materials-modeling]
-description: >-
-  Machine-learned interatomic potentials still lean on hand-tuning and personal
-  experience. This workshop looks at the automated workflows, provenance and
-  reproducible benchmarking needed to make them a routine tool.
+topics:
+  - ml-potentials
+  - software-hpc
+  - materials-modeling
+description: This workshop focuses on automating machine-learned interatomic
+  potentials (MLIPs) to make them a routine, accessible tool in computational
+  materials modelling. It covers integrating MLIPs into automation frameworks,
+  tackling challenges like active learning, GPU training, and data provenance.
+  Topics include automating data selection, descriptors, and regression. Key
+  discussions address which parts of MLIP development should be automated,
+  interfacing with DFT infrastructure, the role of pre-trained foundation models
+  and AI agents, and future applications.
 deadlines:
   - type: application
     date: 2026-10-16

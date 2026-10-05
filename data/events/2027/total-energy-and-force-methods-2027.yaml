@@ -1,5 +1,6 @@
 id: total-energy-and-force-methods-2027
-title: 'International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods'
+title: 'International Workshop on Computational Physics and Materials Science:
+  Total Energy and Force Methods'
 series: total-energy-and-force-methods
 type: workshop
 start_date: 2027-01-13
@@ -11,11 +12,18 @@ location:
   venue: ICTP
 url: https://www.cecam.org/workshop-details/international-workshop-on-computational-physics-and-materials-science-total-energy-and-force-methods-1539
 organizer: CECAM-IT-SISSA
-topics: [electronic-structure, dft, materials-modeling]
-description: >-
-  The long-running Total Energy and Force Methods meeting, held at ICTP in
-  Trieste in odd years since 1987. Three days on first-principles methods for
-  the electronic structure of molecules and materials.
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+description: Renowned biennial workshop on recent progress in electronic
+  structure methods and their applications, bridging the large-scale Psi-k
+  conference and smaller single-method workshops. Held at ICTP, Trieste since
+  1987 (the series began in 1984), it covers DFT, TDDFT, GW-BSE, DMFT, quantum
+  Monte Carlo, DMRG, high-throughput workflows, and machine learning, with a
+  focus on challenging applications to complex materials, interfaces, liquids,
+  and low-dimensional systems in condensed matter physics, chemistry, and
+  materials science.
 deadlines:
   - type: registration
     date: 2026-12-11

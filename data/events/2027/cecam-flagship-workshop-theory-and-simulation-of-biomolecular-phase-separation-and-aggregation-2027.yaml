@@ -12,9 +12,13 @@ topics:
   - soft-matter
   - ml-chemistry
 description: Workshop on theory and simulation of biomolecular phase separation
-  and aggregation, covering theoretical methods, coarse-grained simulations, and
-  machine learning approaches to understand condensates and their role in
-  disease.
+  and aggregation, covering multi-scale theoretical methods, atomistic and
+  coarse-grained simulations, and machine learning approaches to model
+  condensates. Topics span condensate biochemistry and physics, the cytoplasm as
+  a complex emulsion, condensate interfaces, and out-of-equilibrium phase
+  separation. It aims to connect methods across scales to understand condensate
+  functions and disease links, fostering collaboration among physical chemists,
+  soft matter physicists, bioinformaticians, and biologists.
 added: 2026-09-28
 location:
   city: Zurich
