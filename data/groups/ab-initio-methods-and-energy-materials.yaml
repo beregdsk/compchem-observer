@@ -1,0 +1,22 @@
+id: ab-initio-methods-and-energy-materials
+name: Ab initio methods and energy materials
+kind: group
+website: https://liu.se/en/research/ab-initio-methods-and-energy-materials
+topics:
+  - electronic-structure
+  - dft
+  - ml-potentials
+  - materials-modeling
+  - quantum-dynamics
+description: A research group at Linköping University's Department of Physics,
+  Chemistry and Biology (IFM), within the Theoretical Physics division. Led by
+  Professor Sergey Simak, the group focuses on ab initio methods and energy
+  materials, working on computational condensed matter, machine-learning
+  potentials, and advanced electronic structure techniques to study materials
+  for energy applications.
+added: 2026-10-05
+pi: Sergey Simak
+parent: Department of Physics, Chemistry and Biology (IFM), Linköping University
+location:
+  city: Linköping
+  country: SE
