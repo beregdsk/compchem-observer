@@ -1,0 +1,21 @@
+id: the-zeng-group
+name: The Zeng Group
+kind: group
+website: https://tzeng.lab.yorku.ca/
+topics:
+  - electronic-structure
+  - excited-states
+  - quantum-dynamics
+  - materials-modeling
+  - spectroscopy
+description: The Zeng Group at York University, led by Tao Zeng, focuses on
+  using theoretical and computational chemistry tools to investigate interesting
+  chemical problems. Research interests include vibronic interactions,
+  relativistic effects, microscopic superfluidity, excited state chemistry,
+  organic electronics, and radical chemistry.
+added: 2026-10-05
+pi: Tao Zeng
+parent: York University
+location:
+  city: Toronto
+  country: CA
