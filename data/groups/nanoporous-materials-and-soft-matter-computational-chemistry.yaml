@@ -1,0 +1,22 @@
+id: nanoporous-materials-and-soft-matter-computational-chemistry
+name: Nanoporous Materials and Soft Matter · Computational Chemistry
+kind: group
+website: https://www.compchem.nl/research_areas/material-science/
+topics:
+  - soft-matter
+  - materials-modeling
+  - molecular-dynamics
+  - biomolecular-simulation
+  - enhanced-sampling
+description: This page represents the research area of Nanoporous Materials and
+  Soft Matter within the Computational Chemistry division at the Van 't Hoff
+  Institute for Molecular Sciences, University of Amsterdam. The research
+  focuses on the computational modeling of adsorption and diffusion in
+  nanoporous materials (such as zeolites, MOFs, COFs, and ZIFs) and soft matter
+  systems, including self-assembly, active soft matter, and polymer chemistry,
+  using molecular dynamics and enhanced sampling techniques.
+added: 2026-10-05
+parent: Van 't Hoff Institute for Molecular Sciences, University of Amsterdam
+location:
+  city: Amsterdam
+  country: NL
