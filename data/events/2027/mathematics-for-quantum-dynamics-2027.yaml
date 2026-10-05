@@ -10,9 +10,14 @@ topics:
   - quantum-dynamics
   - spectroscopy
   - photochemistry
-description: Workshop on mathematical methods for quantum dynamics in chemistry,
-  bridging mathematicians and theoretical chemists to advance numerical methods
-  for simulating quantum systems.
+description: This workshop brings together computational and theoretical
+  chemists with applied mathematicians in numerical analysis and scientific
+  computing to advance numerical methods for quantum dynamics in chemistry. It
+  covers essential topics like spectroscopy, observables, nuclear motion
+  representations, vector space theory, error analysis, variational principles,
+  spectral methods, tensor contraction, semiclassical techniques, and Gaussian
+  basis functions, aiming to bridge language barriers and foster long-lasting
+  interdisciplinary collaborations.
 added: 2026-09-28
 location:
   city: Lausanne
