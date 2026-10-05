@@ -1,0 +1,24 @@
+id: x-ray-photon-science
+name: X-ray Photon Science
+kind: group
+website: https://www.uu.se/en/contact-and-organisation/organisation?query=X208%3A12
+topics:
+  - spectroscopy
+  - electronic-structure
+  - excited-states
+  - photochemistry
+  - biomolecular-simulation
+description: 'This page is the official division page for X-ray Photon Science
+  at the Department of Physics and Astronomy, Uppsala University. Headed by
+  Nicusor Timneanu, the division conducts advanced research in X-ray
+  spectroscopy, electronic structure, photochemistry, and bio-molecular physics,
+  utilizing synchrotron radiation and free-electron lasers. It comprises two
+  sub-sections: Condensed Matter Physics of Energy Materials and Chemical and
+  Bio-Molecular Physics, hosting a large team of professors, researchers, and
+  students.'
+added: 2026-10-05
+pi: Nicusor Timneanu
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
