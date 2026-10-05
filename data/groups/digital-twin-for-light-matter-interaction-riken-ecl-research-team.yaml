@@ -1,0 +1,23 @@
+id: digital-twin-for-light-matter-interaction-riken-ecl-research-team
+name: Digital Twin for Light-Matter Interaction RIKEN ECL Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/ecl/digitaltwin_lightmatter_interact_riken_ecl/index.html
+topics:
+  - spectroscopy
+  - photochemistry
+  - materials-modeling
+  - ml-chemistry
+  - excited-states
+description: The RIKEN ECL Research Team, led by Team Leader Shuntaro Tani,
+  focuses on the Digital Twin for Light-Matter Interaction. Their research
+  involves using strong laser fields to control material states and
+  understanding irreversible processes like laser ablation. They aim to automate
+  experiments, extract microscopic processes from photoexcitation, and use deep
+  learning to build predictive simulators and digital twins for optimizing laser
+  processing.
+added: 2026-10-05
+pi: Shuntaro Tani
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
