@@ -1,0 +1,18 @@
+id: frank-marlow
+name: Frank Marlow
+kind: group
+website: https://www.kofo.mpg.de/en/research/heterogeneous-catalysis/marlow
+topics:
+  - materials-modeling
+  - spectroscopy
+description: The research group led by PD Dr. Frank Marlow at the Max Planck
+  Institute for Coal Research focuses on nanostructures and optical materials.
+  Their research interests include photonic crystals, artificial opals,
+  hierarchical materials, self-assembly, and alternative principles for solar
+  cells.
+added: 2026-10-05
+pi: Frank Marlow
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
