@@ -1,0 +1,23 @@
+id: molecular-photocatalysis-riken-ecl-research-unit
+name: Molecular Photocatalysis RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/ecl/mol_photocatal_riken_ecl/index.html
+topics:
+  - photochemistry
+  - catalysis
+  - spectroscopy
+  - electrochemistry
+  - excited-states
+description: The Molecular Photocatalysis RIKEN ECL Research Unit, led by Kei
+  Murata, focuses on developing molecular transformation reactions catalyzed by
+  transition-metal complexes using visible and near-infrared light. The unit
+  targets photochemical transformations of small molecules like carbon dioxide
+  and photouncaging of bioactive molecules, aiming to contribute to
+  environmental and medical sciences through organometallic chemistry,
+  photochemistry, and chemical biology.
+added: 2026-10-05
+pi: Kei Murata
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
