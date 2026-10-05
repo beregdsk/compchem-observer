@@ -1,0 +1,22 @@
+id: the-reuveni-group
+name: The Reuveni Group
+kind: group
+website: https://www.sreuveni.com/
+topics:
+  - molecular-dynamics
+  - enhanced-sampling
+  - ml-chemistry
+  - soft-matter
+  - spectroscopy
+description: The Reuveni Group at Tel Aviv University focuses on theoretical and
+  mathematical research in the natural sciences, specializing in stochastic
+  processes, first-passage kinetics, and molecular dynamics. Their research
+  includes adaptive resetting strategies, transport in disordered and deformable
+  media, machine learning for physical sciences, and diffusion NMR methods for
+  biological systems.
+added: 2026-10-05
+pi: Shlomi Reuveni
+parent: Tel Aviv University
+location:
+  city: Tel Aviv
+  country: IL
