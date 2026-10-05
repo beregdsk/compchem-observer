@@ -1,0 +1,18 @@
+id: soft-matter-at-rmit
+name: Soft Matter at RMIT
+kind: group
+website: https://www.rmit.edu.au/about/schools-colleges/science/research/research-centres-groups/soft-matter-research
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - materials-modeling
+description: The Soft Matter Group at RMIT University is a multidisciplinary
+  research team spanning physics, chemistry, and biology. Focusing on the
+  science of soft materials, the group's research projects include
+  cryopreservation, next-generation antimicrobials, neoteric solvents, and
+  complex colloids, bridging experimental and theoretical expertise.
+added: 2026-10-05
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU
