@@ -1,0 +1,18 @@
+id: wolfgang-schmidt
+name: Wolfgang Schmidt
+kind: group
+website: https://www.kofo.mpg.de/en/research/heterogeneous-catalysis/schmidt
+topics:
+  - catalysis
+  - materials-modeling
+description: The page is part of the official website of the Max-Planck-Institut
+  für Kohlenforschung, presenting the research group of Dr. Wolfgang Schmidt,
+  listed as a Research Group Leader under Heterogeneous Catalysis. The group's
+  research focuses on functional materials, heterogeneous catalysis, nanoporous
+  materials, zeolites, and adsorption/diffusion processes in nanoporous systems.
+added: 2026-10-05
+pi: Wolfgang Schmidt
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
