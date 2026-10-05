@@ -1,0 +1,24 @@
+id: research-group-on-quantum-molecular-magnetism
+name: Research Group on Quantum Molecular Magnetism
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/research-lines/research-group-quantum-molecular-magnetism-1286225405503/GrupsInves.html?id=1286232289207
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+  - software-hpc
+description: The Research Group on Quantum Molecular Magnetism (QMM) at the
+  University of Valencia conducts experimental and theoretical research on
+  molecular magnetism, focusing on the design of single-molecule magnets and
+  molecular spin qubits for quantum computing and spintronics. Their work
+  encompasses the modeling of exchange interactions in complex magnetic
+  clusters, the physical characterization of molecular materials through
+  spectroscopy and diffraction, and the development of computational software
+  for simulating magnetic properties.
+added: 2026-10-05
+pi: Juan Modesto Clemente-Juan
+parent: University of Valencia
+location:
+  city: Burjassot
+  country: ES
