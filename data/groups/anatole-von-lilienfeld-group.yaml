@@ -1,0 +1,22 @@
+id: anatole-von-lilienfeld-group
+name: Anatole von Lilienfeld group
+kind: group
+website: https://chemspacelab.chem.utoronto.ca/
+topics:
+  - dft
+  - electronic-structure
+  - molecular-dynamics
+  - ml-chemistry
+  - materials-modeling
+description: This is the official homepage of the research group led by Anatole
+  von Lilienfeld, currently based at the University of Toronto and the Vector
+  Institute. The group focuses on theoretical, computational, and statistical
+  learning methods for understanding chemical compound space, utilizing density
+  functional theory, molecular dynamics, machine learning, and high-performance
+  computing to study materials, liquids, and molecular crystals.
+added: 2026-10-05
+pi: Anatole von Lilienfeld
+parent: University of Toronto
+location:
+  city: Toronto
+  country: CA
