@@ -11,11 +11,17 @@ location:
   venue: CECAM-HQ-EPFL
 url: https://www.cecam.org/workshop-details/theoretical-spectroscopy-lectures-1482
 organizer: CECAM
-topics: [spectroscopy, excited-states, electronic-structure]
-description: >-
-  A school on the ab initio methods used to predict what spectroscopy measures,
-  where ground-state DFT is not enough. Covers time-dependent DFT and many-body
-  perturbation theory, including Green's function approaches.
+topics:
+  - spectroscopy
+  - excited-states
+  - electronic-structure
+description: This school covers ab initio methods for predicting spectroscopy
+  beyond ground-state DFT, focusing on Time-Dependent Density-Functional Theory
+  (TDDFT) and Many-Body Perturbation Theory (MBPT), including Green's function
+  methods. It also introduces modern topics like machine learning for valence
+  and core-level spectroscopy, X-ray spectroscopies (including RIXS), and
+  automated workflows for ab initio simulations. The school combines theoretical
+  lectures with hands-on computational sessions using state-of-the-art codes.
 deadlines:
   - type: registration
     date: 2027-02-05
