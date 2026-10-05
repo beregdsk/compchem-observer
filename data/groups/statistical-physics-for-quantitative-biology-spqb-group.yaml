@@ -1,0 +1,18 @@
+id: statistical-physics-for-quantitative-biology-spqb-group
+name: Statistical Physics for Quantitative Biology (SPQB) Group
+kind: group
+website: https://sites.google.com/view/spqb/home-page
+topics:
+  - biomolecular-simulation
+  - ml-chemistry
+  - ml-potentials
+description: An interdisciplinary team conducting research at the crossroads of
+  physics and biology, delocalized between Paris and Rome. They focus on
+  developing generative machine learning models rooted in statistical physics to
+  model the structure, function, and evolution of biological sequences like RNA
+  and proteins, guiding directed evolution and tracing evolutionary paths.
+added: 2026-10-05
+parent: Department of Physics, Sapienza University of Rome
+location:
+  city: Rome
+  country: IT
