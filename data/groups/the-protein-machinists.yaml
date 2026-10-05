@@ -1,0 +1,17 @@
+id: the-protein-machinists
+name: The Protein Machinists
+kind: group
+website: https://www.physik.uni-hamburg.de/en/inf/ag-ginn.html
+topics:
+  - biomolecular-simulation
+description: The Protein Machinists, led by Prof. Dr. Helen Ginn at the
+  Institute of Nanostructure and Solid State Physics, University of Hamburg,
+  focuses on understanding the dynamics of proteins and engineering them as
+  molecular machines. The lab aims to deliver precision engineering of protein
+  structures to advance biotechnological and green chemistry applications.
+added: 2026-10-05
+pi: Helen Ginn
+parent: Institute of Nanostructure and Solid State Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
