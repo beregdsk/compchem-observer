@@ -1,0 +1,21 @@
+id: senger-group
+name: Senger Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/biochemistry/senger-group
+topics:
+  - catalysis
+  - photochemistry
+  - spectroscopy
+description: The Senger Group at the Department of Chemistry for Life Sciences,
+  Uppsala University, researches the molecular mechanisms of enzymatic catalysis
+  for sustainable development, focusing on green hydrogen production, CO2
+  fixation, and nitrogen conversion. They study protein structure-function
+  relationships through expression, purification, crystallisation, biophysical
+  characterisation, photochemical activation, and advanced structure
+  determination using synchrotron and FEL X-ray sources.
+added: 2026-10-05
+pi: Moritz Senger
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE
