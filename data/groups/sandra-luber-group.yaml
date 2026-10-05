@@ -1,0 +1,21 @@
+id: sandra-luber-group
+name: Sandra Luber Group
+kind: group
+website: https://www.chem.uzh.ch/en/research/groups/luber/research.html
+topics:
+  - catalysis
+  - photochemistry
+  - excited-states
+  - spectroscopy
+  - ml-chemistry
+description: The research group of Prof. Dr. Sandra Luber at the Department of
+  Chemistry, University of Zurich, studies complex chemical processes and
+  reactions with computational methods. Their research focuses on functional
+  systems and catalysis, photochemistry and excited states, spectroscopy, and
+  machine learning applications in chemistry.
+added: 2026-10-05
+pi: Sandra Luber
+parent: Department of Chemistry, University of Zurich
+location:
+  city: Zurich
+  country: CH
