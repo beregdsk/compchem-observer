@@ -1,0 +1,24 @@
+id: theoretical-and-computational-chemistry
+name: Theoretical and Computational Chemistry
+kind: group
+website: https://www.ru.nl/en/departments/institute-for-molecules-and-materials/theoretical-and-computational-chemistry
+topics:
+  - electronic-structure
+  - molecular-dynamics
+  - quantum-dynamics
+  - spectroscopy
+  - materials-modeling
+description: The Theoretical and Computational Chemistry department at Radboud
+  University's Institute for Molecules and Materials focuses on explaining and
+  predicting properties of molecules, clusters, and molecular solids. Using
+  quantum mechanical, semiclassical, classical, and statistical mechanical
+  methods, the group computes intermolecular potentials, studies molecular
+  dynamics and collisions, and investigates diffusion in molecular solids. Led
+  by Prof. Gerrit Groenenboom and Prof. Herma Cuppen, the group also contributes
+  to education in quantum chemistry and molecular modelling.
+added: 2026-10-05
+pi: Gerrit Groenenboom and Herma Cuppen
+parent: Institute for Molecules and Materials, Radboud University
+location:
+  city: Nijmegen
+  country: NL
