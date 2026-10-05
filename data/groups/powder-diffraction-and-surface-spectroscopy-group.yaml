@@ -1,0 +1,22 @@
+id: powder-diffraction-and-surface-spectroscopy-group
+name: Powder Diffraction and Surface Spectroscopy Group
+kind: group
+website: https://www.kofo.mpg.de/kofo/en/research/services/xrd-and-spectroscopy
+topics:
+  - catalysis
+  - spectroscopy
+  - materials-modeling
+description: The Powder Diffraction and Surface Spectroscopy research group led
+  by Prof. Dr. Claudia Weidenthaler at the Max Planck Institute for Coal
+  Research investigates inorganic functional materials for catalysis and energy
+  storage. The group specializes in crystallographic and spectroscopic methods,
+  including powder X-ray diffraction, X-ray photoelectron spectroscopy (XPS),
+  and Raman spectroscopy, to study structure-property relationships and local
+  structures of amorphous or disordered materials under in situ and operando
+  conditions.
+added: 2026-10-05
+pi: Claudia Weidenthaler
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
