@@ -9,10 +9,14 @@ source_url: https://www.we-heraeus-stiftung.de/veranstaltungen/multi-species-tra
 topics:
   - spectroscopy
   - quantum-computing-chemistry
-description: This seminar focuses on multi-species trapped-ion quantum logic,
-  exploring synergies in quantum control of internal and external degrees of
-  freedom in single and multi-species ion ensembles. Topics include quantum
-  logic clocks, spectroscopy, quantum computing, and sensing…
+description: This seminar brings together experts to explore synergies in
+  multi-species trapped-ion quantum systems. Topics include single-ion optical
+  clocks, quantum logic spectroscopy of highly charged and molecular ions,
+  quantum computing with multiple species to mitigate crosstalk and enable
+  sympathetic cooling, and quantum logic detection of chemical reactions. By
+  addressing challenges like mixed-species crystal dynamics, we aim to foster
+  collaboration and identify synergies in quantum control of internal and
+  external degrees of freedom.
 added: 2026-09-29
 location:
   city: Bad Honnef
