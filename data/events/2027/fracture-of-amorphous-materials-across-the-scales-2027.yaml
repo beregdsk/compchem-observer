@@ -6,10 +6,17 @@ end_date: 2027-04-16
 format: online
 url: https://www.cecam.org/workshop-details/fracture-of-amorphous-materials-across-the-scales-1564
 source_url: https://www.cecam.org/workshop-details/fracture-of-amorphous-materials-across-the-scales-1564
-topics: [molecular-dynamics, materials-modeling, ml-chemistry, software-hpc]
-description: Multidisciplinary workshop on fracture of amorphous materials
-  across scales, focusing on communication, collaborative modeling, and FAIR
-  data sharing.
+topics:
+  - molecular-dynamics
+  - materials-modeling
+  - ml-chemistry
+  - software-hpc
+description: Workshop on reducing carbon emissions in scientific computing by
+  applying the 4R strategy (Refuse, Reuse, Reduce, Repair) to the multiscale
+  simulation of fracture in amorphous materials. It addresses challenges in
+  interdisciplinary communication, collaborative multiscale modeling, and
+  standardized FAIR data sharing through plenary talks, brainstorming, and
+  hands-on tutorials.
 added: 2026-09-28
 organizer: Andrea Giuntoli (University of Groningen); Sebastian Pfaller
   (Friedrich-Alexander-Universität Erlangen-Nürnberg); Maximilian Ries
