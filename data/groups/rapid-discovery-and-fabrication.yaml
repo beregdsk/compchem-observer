@@ -1,0 +1,17 @@
+id: rapid-discovery-and-fabrication
+name: Rapid Discovery and Fabrication
+kind: group
+website: https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/rapid-discovery-and-fabrication
+topics:
+  - materials-modeling
+  - catalysis
+description: The Rapid Discovery and Fabrication (RDF) research group at RMIT
+  University focuses on discovering new materials and processes through
+  computational models, combinatorial materials discovery, and innovative
+  processing tools. Their key research areas include metals fabrication,
+  corrosion and inhibition, materials modelling, and nanostructures.
+added: 2026-10-05
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU
