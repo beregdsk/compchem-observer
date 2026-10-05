@@ -1,0 +1,21 @@
+id: computational-condensed-matter-physics-laboratory
+name: Computational Condensed Matter Physics Laboratory
+kind: group
+website: https://www.riken.jp/en/research/labs/chief/computat_condens_matter_phys/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+  - software-hpc
+description: The Computational Condensed Matter Physics Laboratory is a
+  theoretical research group at RIKEN, led by Chief Scientist Seiji Yunoki. The
+  group focuses on understanding novel quantum phases and phenomena in
+  materials, especially strongly correlated electron systems, using advanced
+  numerical methods such as variational Monte Carlo and density matrix
+  renormalization group.
+added: 2026-10-05
+pi: Seiji Yunoki
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
