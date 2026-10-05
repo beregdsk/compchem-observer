@@ -1,0 +1,19 @@
+id: benjamin-list
+name: Benjamin List
+kind: group
+website: https://www.kofo.mpg.de/en/research/homogeneous-catalysis
+topics:
+  - catalysis
+description: The List Laboratory at the Max Planck Institute for Coal Research,
+  led by Director Benjamin List, focuses on homogeneous catalysis and organic
+  synthesis. The group aims to develop highly selective and atom-economical
+  catalytic reactions using small organic molecules. Key research areas include
+  asymmetric counteranion-directed catalysis (ACDC), aminocatalysis, carbon
+  dioxide splitting, and sustainable synthesis of fine chemicals from
+  biomass-derived furans.
+added: 2026-10-05
+pi: Benjamin List
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
