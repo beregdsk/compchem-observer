@@ -1,0 +1,21 @@
+id: riken-ecl-research-team-riken-ecl-research-unit
+name: RIKEN ECL Research Team / RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/ecl/cat-theor-phys-riken-ecl/index.html
+topics:
+  - quantum-dynamics
+  - materials-modeling
+description: The RIKEN ECL Research Team / RIKEN ECL Research Unit is a
+  theoretical physics research group led by Unit Leader Kantaro Ohmori. The
+  group studies quantum field theory, category theory, higher algebra,
+  generalized symmetries, topological phases, tensor networks, and lattice
+  models to translate macroscopic behaviors of matter into microscopic quantum
+  models, aiming to guide the design and simulation of quantum systems.
+added: 2026-10-05
+aliases:
+  - Category Theoretical Physics RIKEN ECL Research Unit
+pi: Kantaro Ohmori
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
