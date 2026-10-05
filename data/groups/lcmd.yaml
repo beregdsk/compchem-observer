@@ -1,0 +1,26 @@
+id: lcmd
+name: LCMD
+kind: group
+website: https://www.epfl.ch/labs/lcmd/research/
+topics:
+  - dft
+  - electronic-structure
+  - ml-chemistry
+  - catalysis
+  - materials-modeling
+description: The LCMD (Laboratory for Computational Molecular Design) at EPFL,
+  led by Prof. Clémence Corminboeuf, is a research group specializing in quantum
+  chemistry and computational molecular design. The group focuses on developing
+  methodological tools, machine learning techniques, and correcting standard
+  density functional approximations for non-covalent interactions. Their
+  research spans computational catalysis, organic electronics, and
+  semiconductors, aiming to design high-performance molecular materials and
+  screen homogeneous catalytic species.
+added: 2026-10-05
+aliases:
+  - Research ‒ LCMD ‐ EPFL
+pi: Clémence Corminboeuf
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH
