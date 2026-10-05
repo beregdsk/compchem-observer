@@ -11,9 +11,12 @@ topics:
   - ml-potentials
   - ml-chemistry
 description: CECAM Flagship workshop on machine learning for molecular
-  simulations, discussing ML interatomic potentials, coarse-grained models,
-  generative models, and challenges in transferability, reliability, and
-  scalability.
+  simulations, covering ML interatomic potentials, coarse-grained models, and
+  generative models. It brings together researchers from computational
+  chemistry, physics, applied maths, and ML to discuss advances and key
+  challenges in transferability, reliability, scalability, and bridging
+  timescales, connecting short-time dynamics with long-time conformational
+  sampling and kinetic observables.
 added: 2026-09-28
 location:
   city: Lausanne
