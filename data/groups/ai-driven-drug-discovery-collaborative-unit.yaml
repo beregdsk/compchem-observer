@@ -8,9 +8,15 @@ topics:
   - biomolecular-simulation
   - ml-chemistry
   - enhanced-sampling
-description: A research unit at RIKEN Center for Computational Science focusing
-  on AI and HPC-driven drug discovery, molecular simulation, and genomic
-  medicine, led by Yasushi Okuno.
+description: 'AI-driven Drug Discovery Collaborative Unit at RIKEN Center for
+  Computational Science, led by Unit Leader and Principal Investigator Yasushi
+  Okuno. Research focuses on developing next-generation drug discovery
+  technologies based on AI and simulation, building an HPC/AI-driven research
+  platform for life science, and applying HPC/AI technologies to drug discovery
+  and genomic medicine through collaborations with DMP RIKEN. Main research
+  fields: medicine, dentistry and pharmacy; related: informatics, complex
+  systems, interdisciplinary studies. Core members: Ryo Kanada, Yuta Isaka,
+  Masateru Ota.'
 added: 2026-10-03
 pi: Yasushi Okuno
 parent: RIKEN Center for Computational Science
