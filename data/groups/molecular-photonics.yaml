@@ -1,0 +1,21 @@
+id: molecular-photonics
+name: Molecular Photonics
+kind: group
+website: https://hims.uva.nl/content/research-groups/molecular-photonics/molecular-photonics.html
+topics:
+  - spectroscopy
+  - excited-states
+  - photochemistry
+description: The Molecular Photonics group at the Van 't Hoff Institute for
+  Molecular Sciences (HIMS) at the University of Amsterdam is led by professors
+  Wybren Jan Buma and Fred Brouwer. The group focuses on advancing the
+  understanding of excited-state dynamics in molecules and nano-sized objects,
+  combining molecular synthesis, spectroscopy, and theoretical approaches to
+  explore light-induced chemical processes and design novel functional
+  molecules.
+added: 2026-10-05
+pi: Wybren Jan Buma and Fred Brouwer
+parent: Van 't Hoff Institute for Molecular Sciences, University of Amsterdam
+location:
+  city: Amsterdam
+  country: NL
