@@ -1,0 +1,21 @@
+id: yasmine-meroz-group
+name: Yasmine Meroz Group
+kind: group
+website: https://www.merozlab.com/people
+topics:
+  - quantum-dynamics
+  - electronic-structure
+  - molecular-dynamics
+  - spectroscopy
+  - dft
+description: The official research group page of the Yasmine Meroz Group at Tel
+  Aviv University, showcasing the principal investigator, current students, and
+  prospective openings. The group conducts research in theoretical and
+  computational chemistry, focusing on quantum dynamics, electronic structure,
+  and molecular simulations.
+added: 2026-10-05
+pi: Yasmine Meroz
+parent: Tel Aviv University
+location:
+  city: Tel Aviv
+  country: IL
