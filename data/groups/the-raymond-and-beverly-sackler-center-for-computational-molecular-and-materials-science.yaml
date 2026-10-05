@@ -1,0 +1,26 @@
+id: the-raymond-and-beverly-sackler-center-for-computational-molecular-and-materials-science
+name: The Raymond and Beverly Sackler Center for Computational Molecular and
+  Materials Science
+kind: institute
+website: https://thesacklercenter.sites.tau.ac.il/the-team
+topics:
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+  - enhanced-sampling
+  - soft-matter
+description: The Raymond and Beverly Sackler Center for Computational Molecular
+  and Materials Science at Tel Aviv University is an interdisciplinary research
+  center bringing together multiple research groups in theoretical and
+  computational chemistry and physics. Hosted at Tel Aviv University, the center
+  includes the group of Prof. Michael Urbakh and focuses on the theoretical
+  study of nanoscale systems, molecular friction, quantum dynamics, soft matter,
+  and electrochemical interfaces using first-principles methods, molecular
+  dynamics, and advanced sampling techniques.
+added: 2026-10-05
+aliases:
+  - Michael Urbakh
+parent: Tel Aviv University
+location:
+  city: Tel Aviv
+  country: IL
