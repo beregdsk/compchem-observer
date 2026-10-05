@@ -1,0 +1,21 @@
+id: softsimu
+name: SoftSimu
+kind: group
+website: https://www.softsimu.net/mikko/
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - materials-modeling
+  - ml-chemistry
+  - molecular-dynamics
+description: The SoftSimu group, led by Dr. Mikko Karttunen, focuses on
+  biological and soft matter at the interface of materials science, biology, and
+  biomedical sciences. They study lipid diffusion, membrane proteins, and DNA
+  translocation using large-scale high-performance computer simulations,
+  analytical studies, and machine learning methods.
+added: 2026-10-05
+pi: Mikko Karttunen
+parent: University of Eastern Finland
+location:
+  city: Kuopio
+  country: FI
