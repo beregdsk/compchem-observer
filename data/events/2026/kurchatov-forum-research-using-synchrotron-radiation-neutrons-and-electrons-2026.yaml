@@ -7,20 +7,19 @@ format: in-person
 url: https://cheminform.ru/konferenczii-i-seminary/kurchatovskij-forum-issledovaniya-s-primeneniem-sinhrotronnogo-izlucheniya-nejtronov-i-elektronov/
 source_url: https://cheminform.ru/konferenczii-i-seminary/kurchatovskij-forum-issledovaniya-s-primeneniem-sinhrotronnogo-izlucheniya-nejtronov-i-elektronov/
 topics:
-  - materials-modeling
-  - spectroscopy
   - biomolecular-simulation
+  - education-training
+  - materials-modeling
   - software-hpc
-  - ml-chemistry
+  - spectroscopy
 description: The IV International Forum of Biomimetic Technologies — Kurchatov
-  Forum 'Research using synchrotron radiation, neutrons and electrons' will take
-  place in Moscow from November 11 to 13, 2026. The event focuses on synchrotron
-  and neutron methods in materials science, structural biology, microscopy,
-  time-resolved techniques, and computational/AI methods in megascience. The
-  program includes round tables, poster sessions, and a school for young
-  scientists. Registration is free, with abstract submission deadline on October
-  21, 2026. The working language is Russian.
-added: 2026-10-05
+  Forum 'Research using synchrotron radiation, neutrons and electrons' will be
+  held in Moscow from November 11 to 13, 2026. The event focuses on megascience
+  infrastructure, synchrotron and neutron methods in materials science, biology,
+  and cultural heritage, as well as computational methods and AI. It includes
+  roundtables, poster sessions, and a school for young scientists. Attendance is
+  free.
+added: 2026-10-06
 aliases:
   - Курчатовский форум «Исследования с применением синхротронного излучения,
     нейтронов и электронов»
