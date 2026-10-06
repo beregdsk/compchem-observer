@@ -7,9 +7,12 @@ topics:
   - molecular-dynamics
   - biomolecular-simulation
 description: The BioNano-Physics Group, led by Prof. Dr. Thomas Franosch at the
-  Department of Theoretical Physics of the Universität Innsbruck, uses
-  theoretical and computational tools to study fundamental questions in
-  biological and nano physics, focusing on complex transport…
+  Department of Theoretical Physics of the Universität Innsbruck, addresses
+  fundamental questions in biological and nano physics using theoretical and
+  computational tools. Their research encompasses complex transport phenomena in
+  crowded environments, the non-equilibrium physics of self-propelled particles,
+  the glass transition of strongly confined liquids, thermophoresis of colloidal
+  particles, and the elastic and dynamic properties of polymers.
 added: 2026-09-30
 pi: Thomas Franosch
 parent: Universität Innsbruck, Department of Theoretical Physics
