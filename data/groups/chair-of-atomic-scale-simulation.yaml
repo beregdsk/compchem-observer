@@ -8,9 +8,12 @@ topics:
   - molecular-dynamics
   - materials-modeling
 description: The Chair of Atomic Scale Simulation at EPFL, led by Prof. Alfredo
-  Pasquarello, studies atomic-scale phenomena using quantum mechanical
-  approaches, primarily density functional theory, to complement experiments.
-  Research focuses on disordered materials and oxide-semiconductor…
+  Pasquarello, studies atomic-scale phenomena from both structural and dynamical
+  perspectives to complement experiments. By utilizing quantum mechanical
+  electronic structure descriptions based on density functional theory and
+  high-performance computers, the group visualizes atomic processes. Research
+  projects focus on disordered materials and oxide-semiconductor interfaces,
+  serving glass manufacturing and microelectronic technologies.
 added: 2026-10-03
 pi: Alfredo Pasquarello
 parent: EPFL
