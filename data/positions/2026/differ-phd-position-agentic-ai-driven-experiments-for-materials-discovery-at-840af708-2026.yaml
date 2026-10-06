@@ -1,0 +1,25 @@
+id: differ-phd-position-agentic-ai-driven-experiments-for-materials-discovery-at-840af708-2026
+title: 'PhD Position: Agentic AI-Driven Experiments for Materials Discovery at
+  DIFFER, The Netherlands'
+level: phd
+institution: DIFFER
+location:
+  city: Eindhoven
+  country: NL
+url: https://www.differ.nl/vacancies/1345433
+source_url: https://psi-k.net/important-new-psi-k-mailing-list/
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - software-hpc
+description: PhD position at the Autonomous Energy Materials Discovery (AMD)
+  group at DIFFER, Eindhoven. The project focuses on building an agentic AI
+  workflow that translates AI-proposed alloy compositions into executable
+  synthesis and characterisation plans, and generating experimental evidence of
+  material realisability. Responsibilities include high-throughput synthesis
+  using a nanoparticle printer, characterisation via micro-XRF and SEM,
+  developing reproducible Python pipelines, and maintaining a structured
+  FAIR-aligned dataset of outcomes to support AI model development.
+added: 2026-10-06
+group: Autonomous Energy Materials Discovery (AMD) group at DIFFER
+deadline: 2026-10-25
