@@ -8,9 +8,12 @@ topics:
   - quantum-computing-chemistry
   - software-hpc
 description: The Computational Materials Science Research Team at RIKEN develops
-  advanced numerical methods, such as quantum Monte Carlo and tensor networks,
-  for simulating strongly correlated quantum systems and quantum computing on
-  supercomputers like Fugaku.
+  state-of-the-art numerical methods such as quantum Monte Carlo and tensor
+  network methods, including the density matrix renormalization method, to
+  simulate ground states and quantum dynamics of strongly correlated quantum
+  systems. The team also develops quantum algorithms for quantum many-body
+  systems and runs quantum computing simulations on classical supercomputers
+  such as Fugaku.
 added: 2026-10-03
 pi: Seiji Yunoki
 parent: RIKEN Center for Computational Science
