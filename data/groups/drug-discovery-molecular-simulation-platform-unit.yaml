@@ -7,10 +7,15 @@ topics:
   - molecular-dynamics
   - biomolecular-simulation
   - software-hpc
-description: The Drug Discovery Molecular Simulation Platform Unit at RIKEN
-  focuses on in silico drug discovery using large-scale supercomputers and
-  molecular simulation technologies to predict binding affinity and drug
-  efficacy parameters, helping identify highly effective and selective…
+description: The Drug Discovery Molecular Simulation Platform Unit at RIKEN aims
+  to use leading computational technologies and large-scale supercomputers for
+  in silico drug discovery. The unit focuses on molecular simulation
+  technologies to predict high-precision binding affinity, taking into account
+  the dynamics of complex structures consisting of proteins and low molecular
+  compounds in aqueous solution. This helps estimate binding affinities and drug
+  efficacy parameters, identifying drug behavior at the molecular level and
+  predicting structural formulas for highly effective and selective drug
+  candidates.
 added: 2026-10-02
 aliases:
   - Drug Discovery Molecular Simulation Platform Unit | RIKEN
