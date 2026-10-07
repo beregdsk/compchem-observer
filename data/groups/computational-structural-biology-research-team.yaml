@@ -6,10 +6,14 @@ topics:
   - biomolecular-simulation
   - molecular-dynamics
   - software-hpc
-description: The Computational Structural Biology Research Team develops
-  computational methods to integrate experimental data from cryo-EM, X-ray
-  crystallography, and XFEL with high-performance computing to model the
-  dynamics of large biomolecular complexes.
+description: The team develops computational methods to obtain atomic-level
+  descriptions of functional states of biological complexes, integrating
+  experimental data from X-ray crystallography, cryo-EM, small-angle X-ray
+  scattering, fluorescence resonance energy transfer, and XFEL with
+  computational modeling through high-performance computing on supercomputers K
+  and Fugaku. They also collaborate with experimental groups and the
+  pharmaceutical industry to elucidate functional mechanisms of biological
+  systems.
 added: 2026-10-03
 pi: Florence Tama
 parent: RIKEN Center for Computational Science
