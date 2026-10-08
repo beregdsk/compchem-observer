@@ -8,9 +8,13 @@ topics:
   - materials-modeling
   - photochemistry
   - wavefunction-methods
-description: The Havenith Group at the University of Groningen, working on
-  quantum chemistry, method development, DFT, and valence bond theory for
-  organic photovoltaics and material properties.
+description: The Havenith Group at the University of Groningen works on quantum
+  chemistry method development, magnetic properties, organic photovoltaics,
+  non-orthogonal configuration interaction, and valence bond theory.
+  Participating in the FOM Focus Group 'Next Generation Organic Photovoltaics',
+  they use electronic structure methods and optoelectronic device models to
+  predict material properties and solar cell performance, focusing on
+  structure-property relations, exciton mobility, and charge transfer.
 added: 2026-10-03
 aliases:
   - Quantum Chemistry | Havenith Group | University of Groningen
