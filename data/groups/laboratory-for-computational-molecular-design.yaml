@@ -8,10 +8,14 @@ topics:
   - drug-design
   - software-hpc
   - electronic-structure
-description: The group aims to simulate biomolecular interactions and design
+description: The group aims to simulate biomolecular interactions and to design
   effective molecular regulators using large-scale computer simulations,
   focusing on molecular dynamics and quantum chemistry to predict molecular
-  functions in large biomolecules.
+  functions in large biomolecules. It draws on X-ray crystallography and NMR 3D
+  structures and advances in molecular detection technologies, designs novel
+  compounds for target biomolecules through collaboration with groups inside and
+  outside QBiC, and develops exclusive high-performance computers to achieve
+  unprecedented long-term MD simulations.
 added: 2026-10-02
 aliases:
   - Laboratory for Computational Molecular Design | RIKEN
