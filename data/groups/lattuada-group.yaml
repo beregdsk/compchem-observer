@@ -6,10 +6,13 @@ topics:
   - soft-matter
   - materials-modeling
   - molecular-dynamics
-description: The Lattuada Group, led by Prof. Marco Lattuada at the University
-  of Fribourg, designs and synthesizes nano- and microparticles like Janus and
-  patchy particles to study their self-assembly into complex materials. They
-  combine advanced characterization with particle simulations…
+description: The Lattuada Group, led by Prof. Marco Lattuada, designs and
+  synthesizes nano- and microparticles with complex patterns to create advanced
+  materials via self-assembly. Key research areas include Janus and patchy
+  particles for Pickering emulsions and nanomotors, superparamagnetic
+  nanoparticles for magnetic control of composites, and stimuli-responsive
+  particles mimicking structural coloration. Particle simulations, including
+  Monte-Carlo and Brownian Dynamics, guide experimental work.
 added: 2026-10-03
 pi: Marco Lattuada
 parent: Department of Chemistry, University of Fribourg

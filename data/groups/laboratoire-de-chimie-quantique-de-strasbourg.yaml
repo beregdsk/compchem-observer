@@ -8,13 +8,14 @@ topics:
   - wavefunction-methods
   - excited-states
   - photochemistry
-description: The official homepage of the Laboratoire de Chimie Quantique de
-  Strasbourg (LCQS), a research group at the University of Strasbourg
-  specializing in quantum chemistry, theoretical and computational chemistry,
-  focusing on electronic structure, DFT, and photochemistry.
+description: The staff profile page of Even Chiari, a PhD student at the
+  Laboratoire de Chimie Quantique de Strasbourg (LCQS), supervised by Vincent
+  Robert and Saad Yalouz, displaying his contact details, supervisors, and lab
+  news.
 added: 2026-09-30
 aliases:
   - Even Chiari
+  - LCQS
 parent: University of Strasbourg
 location:
   city: Strasbourg

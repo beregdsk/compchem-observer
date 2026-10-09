@@ -7,9 +7,11 @@ topics:
   - biomolecular-simulation
   - drug-design
 description: The Laboratory of Molecular simulations at IITH specializes in
-  atomistic modeling and simulation of biological matter, using molecular
-  dynamics and statistical mechanics to study biomolecular interactions and
-  develop applications in nanobiotechnology, drug design, and water…
+  atomistic modeling and simulation of biological matter, using computational
+  methods blended with statistical mechanics to understand biological form and
+  function. They use all-atom and coarse-grained molecular dynamics to study
+  biomolecular interactions and develop real-world applications in
+  nanobiotechnology, water desalination, drug design, and nanomedicine.
 added: 2026-10-03
 aliases:
   - molecular-simulation-lab
