@@ -4,19 +4,28 @@ title: "XII All-Russian Scientific Youth School-Conference 'Chemistry, Physics,
 type: school
 start_date: 2026-10-14
 end_date: 2026-10-16
-format: online
+format: in-person
 url: https://cheminform.ru/konferenczii-i-seminary/himiya-fizika-biologiya-puti-integraczii/
 source_url: https://cheminform.ru/konferenczii-i-seminary/himiya-fizika-biologiya-puti-integraczii/
 topics:
-  - education-training
   - materials-modeling
+  - molecular-dynamics
+  - biomolecular-simulation
+  - software-hpc
 description: "The XII All-Russian Scientific Youth School-Conference 'Chemistry,
-  Physics, Biology: Ways of Integration' will be held in Moscow from October 14
-  to 16, 2026. It covers materials, biology, and computer modeling."
-added: 2026-10-03
+  Physics, Biology: Ways of Integration' will be held in Moscow from October
+  14-16, 2026, at the Federal Research Center for Chemical Physics. Topics
+  include materials, physicochemical processes, biology, and mathematical and
+  computer modeling. Features plenary, oral, and poster presentations,
+  excursions, and master classes. Registration fee: 1500-2500 RUB. Proceedings
+  will be published."
+added: 2026-10-09
+aliases:
+  - 'XII Всероссийская научная молодёжная школа-конференция «Химия, физика,
+    биология: пути интеграции»'
 location:
   city: Moscow
   country: RU
-  venue: Federal Research Center of Chemical Physics named after N.N. Semenov of RAS
-cost: 1 500 ₽ for students and postgraduates, 2 500 ₽ for young scientists
+  venue: Federal Research Center for Chemical Physics named after N.N. Semenov RAS
+cost: 1500 RUB for students and postgraduates, 2500 RUB for young scientists
 fee: paid
