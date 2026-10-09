@@ -1,0 +1,30 @@
+id: computational-methods-for-defects-in-solids-workshop-2027
+title: Computational Methods for Defects in Solids Workshop
+type: workshop
+start_date: 2027-01-06
+end_date: 2027-01-08
+format: in-person
+url: https://aichemy.ac.uk/event/computational-methods-for-defects-in-solids-workshop/
+source_url: https://www.jiscmail.ac.uk/ICN-CONF
+topics:
+  - catalysis
+  - dft
+  - excited-states
+  - materials-modeling
+  - ml-chemistry
+description: A workshop bringing together experts and early-career researchers
+  to discuss theoretical and computational advances in modelling defects in
+  solids. Topics include computational software for defect modelling,
+  machine-learned potentials, beyond-DFT methods, and applications in energy
+  conversion, catalysis, and quantum information. Abstracts and registration are
+  open.
+added: 2026-10-09
+aliases:
+  - Computational Methods for Defects in Solids
+location:
+  city: Cambridge
+  country: GB
+  venue: Yusuf Hamied Department of Chemistry, University of Cambridge
+organizer: Seán Kavanagh, Keith McKenna, Alexander Squires, Samuel Murphy
+cost: £195 registration fee; accommodation £90/night
+fee: paid
