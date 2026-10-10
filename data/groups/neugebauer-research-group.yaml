@@ -9,8 +9,12 @@ topics:
   - wavefunction-methods
   - software-hpc
 description: The Neugebauer Research Group at the University of Münster develops
-  and applies smart quantum chemical methods, such as subsystem-based DFT and
-  embedding, for ground and excited states in complex molecular environments.
+  and applies smart quantum chemical methods for selective, efficient
+  calculations in complex environments like solvents, proteins, molecular
+  crystals, and surfaces. They focus on subsystem-based DFT and density-based
+  embedding for ground and excited states, working on subsystem TDDFT,
+  CC2/ADC(2), and GW/Bethe-Salpeter methods, light-driven processes, multi-level
+  correlation methods, and the SERENITY software.
 added: 2026-10-02
 aliases:
   - Group Neugebauer

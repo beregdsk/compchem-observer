@@ -7,9 +7,12 @@ topics:
   - cheminformatics
   - ml-chemistry
 description: The Medicinal Chemistry Applied AI Unit at RIKEN Center for
-  Computational Science aims to accelerate drug discovery by using AI for
-  molecular generation, synthetic pathway prediction, and ADMET property
-  optimization.
+  Computational Science seeks to reduce the time and cost of the hit-to-lead and
+  lead-optimization medicinal chemistry processes by applying AI. It builds AI
+  models for new molecular structure generation, synthetic pathway prediction,
+  and potency/ADMET prediction, collaborating with Kyoto University and LINC to
+  overcome the bottleneck of simultaneously optimizing potency and ADMET
+  (pharmacokinetics and toxicity) properties.
 added: 2026-10-03
 pi: Kazuyoshi Ikeda
 parent: RIKEN Center for Computational Science

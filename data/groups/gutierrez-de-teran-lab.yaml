@@ -10,8 +10,11 @@ topics:
   - software-hpc
 description: The Gutiérrez de Terán lab at Uppsala University focuses on
   computational biology and bioinformatics, developing molecular dynamics
-  simulation methods and machine learning models for membrane receptors,
-  protein-ligand interactions, and predicting pathogenic mutations for drug…
+  simulation methods and machine learning models for membrane receptors
+  (especially GPCRs), protein-ligand interactions, and predicting pathogenic
+  mutations. Their research also covers free energy methods for ligand screening
+  and optimization, protein stability, and novel cancer immunotherapy
+  strategies.
 added: 2026-10-03
 aliases:
   - Gutiérrez de Terán lab – Department of Cell and Molecular Biology – Uppsala
