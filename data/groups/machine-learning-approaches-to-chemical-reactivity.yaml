@@ -8,10 +8,14 @@ topics:
   - wavefunction-methods
   - ml-potentials
   - catalysis
-description: The research group of Bastian Skjelstad at the Max Planck Institute
-  for Coal Research combines quantum chemistry and machine learning to
-  understand, predict, and simulate chemical reactivity. Focusing on transition
-  metal chemistry and homogeneous catalysis, the group leverages…
+description: The group of Bastian Skjelstad at the Max Planck Institute for Coal
+  Research combines quantum chemistry and machine learning to understand,
+  predict, and simulate chemical reactivity, focusing on transition metal
+  chemistry and homogeneous catalysis. By leveraging first-principles electronic
+  structure methods and machine-learned interatomic potentials, the group
+  bridges computational predictions with experimental observations, extending
+  atomistic simulations to longer time and length scales to predict new
+  reactivity and guide the design of next-generation catalysts.
 added: 2026-10-02
 pi: Bastian Skjelstad
 parent: Max-Planck-Institut für Kohlenforschung
