@@ -7,10 +7,12 @@ topics:
   - biomolecular-simulation
   - drug-design
   - ml-chemistry
-description: The Molecular Design Computational Intelligence Unit develops
-  hybrid computational methods combining molecular simulation and AI for
-  rational drug design, targeting small and macro molecules to advance in silico
-  drug discovery.
+description: The Molecular Design Computational Intelligence Unit develops novel
+  hybrid computational methods that combine molecular simulation with artificial
+  intelligence for rational drug design. Integrating AI with molecular
+  simulation extends the applicability of in silico drug design in terms of both
+  accuracy and efficiency, and the unit targets conventional small molecules as
+  well as middle-sized and macro molecules.
 added: 2026-10-03
 pi: Mitsunori Ikeguchi
 parent: RIKEN Center for Computational Science
