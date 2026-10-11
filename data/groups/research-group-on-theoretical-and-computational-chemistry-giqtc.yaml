@@ -8,10 +8,14 @@ topics:
   - dft
   - software-hpc
   - spectroscopy
-description: Research group in theoretical and computational chemistry focusing
-  on the electronic and optical properties of molecular and polymeric materials
-  for molecular electronics and energy storage, alongside grid computing and
-  eScience applications.
+description: The group has extensive research experience in theoretical and
+  computational chemistry, grid computing, and eScience. Research focuses on
+  applying computational chemistry techniques to systems of technological
+  interest, studying the electronic and optical properties of molecular and
+  polymeric materials for molecular electronics and energy storage, and
+  developing new methodologies for chemical processes. Technically, the group
+  implements Grid technology for the efficient use of computational resources in
+  scientific grid computing and eScience.
 added: 2026-10-03
 aliases:
   - Research Group on Theoretical and Computational Chemistry
