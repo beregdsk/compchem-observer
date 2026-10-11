@@ -8,10 +8,12 @@ topics:
   - excited-states
   - materials-modeling
   - spectroscopy
-description: The research group of Prof. Gabriel Bester at the University of
-  Hamburg develops computational and numerical methods to study quantum
-  mechanical and optical properties of nanoscopic systems like semiconductor
-  quantum dots.
+description: The group develops and applies computational techniques—ab initio
+  (DFT, GW) and semi-empirical (AEPs) coupled to quantum-chemistry methods like
+  screened CI—to study quantum mechanical and optical properties of nanoscopic
+  systems, from colloidal semiconductor quantum dots to epitaxial ones.
+  Many-body wave-function calculations yield accurate optical properties
+  relevant to quantum information science and solid-state quantum optics.
 added: 2026-10-02
 aliases:
   - Research Group Bester "Theory of Nanoscopic Systems", Department of
