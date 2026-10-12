@@ -9,9 +9,11 @@ topics:
   - ml-potentials
   - software-hpc
 description: The Voth Group at the University of Chicago, led by Gregory A.
-  Voth, focuses on developing theoretical and computational methods, such as
-  multiscale coarse-graining and machine learning, to study complex
-  biomolecular, condensed phase, and materials systems.
+  Voth, conducts theoretical and computer simulation studies of biomolecular,
+  condensed phase, quantum mechanical, and materials systems. The group develops
+  multiscale theory and computational methods, including coarse-graining and
+  machine learning, to study complex phenomena such as protein self-assembly,
+  charge transport, and energy conversion materials.
 added: 2026-10-02
 pi: Gregory A. Voth
 parent: The University of Chicago
