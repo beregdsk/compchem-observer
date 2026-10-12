@@ -10,8 +10,12 @@ topics:
   - materials-modeling
 description: The Q-Dyno group at IPCMS focuses on theoretical modeling and
   numerical simulation of nanoscale systems, studying nonlinear quantum dynamics
-  of charges and spins in thin films, nanoparticles, large molecules, and
-  magnetic materials.
+  of charges and spins in thin metal films, metallic and ferromagnetic
+  nanoparticles, large molecules, and magnetic materials. It develops analytical
+  and computational tools including N-body theory for few-electron systems,
+  Hartree-Fock and density functional theory, quantum hydrodynamic models, and
+  Wigner phase-space dynamics. The group also collaborates internationally on
+  antimatter gravitation (GBAR at CERN) and sterile neutrinos (BeEST).
 added: 2026-10-02
 aliases:
   - Quantum dynamics of nano-objects (Q-Dyno) - Institut de physique et chimie
