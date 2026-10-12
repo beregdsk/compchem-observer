@@ -9,13 +9,19 @@ topics:
   - electrochemistry
   - materials-modeling
 description: Official website of the Theoretical and Computational Chemistry
-  Laboratory at Okayama University. The lab conducts molecular simulations and
-  develops multiscale molecular modeling methodologies, focusing on
-  coarse-grained force fields like SPICA to study biomolecular…
+  Laboratory, Department of Chemistry, School of Science, Okayama University.
+  The lab uses molecular simulations to study the structure and dynamics of
+  complex molecular systems, such as macromolecular self-assemblies, to analyze
+  molecular functions and support molecular design. It develops molecular
+  simulation methodologies focused on multiscale molecular modeling, including
+  the coarse-grained SPICA force field for biomolecular and soft matter systems
+  and polarization force fields for ion dynamics in battery electrolytes.
 added: 2026-10-02
 aliases:
   - Theoretical and Computational Chemistry Laboratory, Department of Chemistry,
     Okayama University
+  - Theoretical and Computational Chemistry Laboratory, Department of Chemistry,
+    School of Science, Okayama University
 pi: Wataru Shinoda
 parent: Department of Chemistry, School of Science, Okayama University
 location:
