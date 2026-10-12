@@ -9,9 +9,13 @@ topics:
   - spectroscopy
   - ml-potentials
 description: The Theoretical Inorganic Chemistry group (Teoroo) at Uppsala
-  University specializes in computational materials chemistry, focusing on how
-  molecular properties are affected by their environment. They develop
-  multiscale models for catalysis, nanochemistry, and hydration…
+  University specializes in computational materials chemistry (e-science for
+  material chemistry), focusing on how molecular properties are affected by
+  their environment in condensed matter. They develop multiscale models and
+  methods (combining quantum mechanics, reactive force fields, and MD
+  simulations) for catalysis, nanochemistry, and hydration phenomena, with
+  research on metal oxide surfaces, nanoparticles, water and ionic solutions,
+  and vibrational spectroscopy.
 added: 2026-10-03
 aliases:
   - Theoretical Inorganic Chemistry – Department of Chemistry - Ångström
