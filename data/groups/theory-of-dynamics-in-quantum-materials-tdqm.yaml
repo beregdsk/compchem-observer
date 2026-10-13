@@ -9,12 +9,16 @@ topics:
   - spectroscopy
 description: The Theory of Dynamics in Quantum Materials (TDQM) research group
   focuses on the electronic structure of solid-state matter, superconductivity,
-  magnetism, and light-matter interaction, employing first-principles methods
-  such as time-dependent density functional theory (TDDFT)…
+  magnetism, and the fundamental physics of light-matter interaction, employing
+  first-principles methods predominantly time-dependent density functional
+  theory (TDDFT), as well as density matrix functional theory, tight-binding,
+  and simple physical models to study electrons in solids.
 added: 2026-10-03
 aliases:
   - Research Group "Theory of Dynamics in Quantum Materials", Max-Born-Institut,
     Technical University Berlin, Germany
+  - Research Group "Theory of Dynamics in Quantum Materials", Max-Born-Institut,
+    Freie Universität Berlin, Germany
 pi: Prof. Dr. Sangeeta Sharma
 parent: Max-Born-Institut (MBI) im Forschungsverbund Berlin e.V. / Freie
   Universität Berlin
