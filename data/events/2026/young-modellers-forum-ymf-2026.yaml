@@ -1,0 +1,27 @@
+id: young-modellers-forum-ymf-2026
+title: Young Modellers’ Forum (YMF)
+type: conference
+start_date: 2026-11-20
+end_date: 2026-11-20
+format: online
+url: https://www.mgms.org/WordPress/conferences/ymf-2026/
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - ml-chemistry
+  - enhanced-sampling
+description: The Young Modellers' Forum (YMF) is the annual flagship event of
+  the MGMS, marking its 30th edition in 2026. It will be held on 20 November at
+  Lady Margaret Hall, University of Oxford. The forum is a free-to-attend event
+  for PhD students working in computational chemistry and biology, featuring 12
+  oral presentations, 12 poster presentations with lightning talks, and prizes
+  for the best presentations. Abstract submission deadline is 16 October 2026.
+added: 2026-10-13
+location:
+  city: Oxford
+  country: GB
+  venue: Lady Margaret Hall, University of Oxford
+organizer: MGMS (Molecular Graphics and Modelling Society)
+cost: Free
+fee: free
