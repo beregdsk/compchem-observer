@@ -9,9 +9,11 @@ topics:
   - electronic-structure
   - software-hpc
 description: The Virtual Atoms Lab at Imperial College London, led by Dr Alex
-  Ganose, focuses on computational materials chemistry, data-driven discovery,
-  and machine learning to design functional materials for photovoltaics and
-  thermoelectrics.
+  Ganose, uses computational materials chemistry, data-driven approaches, and
+  machine learning to discover new functional materials for photovoltaics,
+  thermoelectrics, and more. The group develops open-source codes, investigates
+  electron-phonon interactions, and builds computational databases to predict
+  material properties and accelerate materials discovery.
 added: 2026-10-01
 pi: Alex Ganose
 parent: Imperial College London
