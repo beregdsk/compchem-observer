@@ -1,0 +1,20 @@
+id: spatial-proteomics-data-analysis-in-r-bioconductor-from-mass-spectrometry-to-subcellular-maps-2026
+title: 'Spatial Proteomics Data Analysis in R/Bioconductor: From Mass
+  Spectrometry to Subcellular Maps'
+type: workshop
+start_date: 2026-11-10
+end_date: 2026-11-12
+format: online
+url: https://www.physalia-courses.org/courses-workshops/spatial-proteomics-in-r/
+source_url: https://psi-k.net/important-new-psi-k-mailing-list/
+topics:
+  - education-training
+  - cheminformatics
+description: Online hands-on course providing practical training in analysing
+  mass spectrometry-based subcellular spatial proteomics data using
+  R/Bioconductor. Participants will learn key steps in data processing, quality
+  control, visualization, protein annotation, and machine learning-based
+  localization prediction. Aimed at proteomics researchers and
+  bioinformaticians; basic R knowledge recommended.
+added: 2026-10-13
+organizer: Physalia-courses
