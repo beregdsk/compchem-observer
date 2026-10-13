@@ -14,7 +14,7 @@ topics:
   - software-hpc
   - materials-modeling
 description: The 2026 Autumn Meeting of the Japan Society for Computer
-  Chemistry, co-hosted by the Japan Society for Molecular Science, will take
+  Chemistry, co-sponsored by the Japan Society for Molecular Science, will take
   place in Numazu, Shizuoka, from November 27 to 29, 2026. It is a key event for
   sharing research in computational chemistry.
 added: 2026-09-28
@@ -25,3 +25,5 @@ location:
 organizer: Japan Society for Computer Chemistry
 cost: 'General: ¥10,000; Student: ¥5,000; Member: ¥5,000; Japan Society for
   Molecular Science Member: ¥3,000'
+aliases:
+  - 日本コンピュータ化学会2026年秋季年会 in 沼津
