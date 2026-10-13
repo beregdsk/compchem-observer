@@ -17,9 +17,14 @@ topics:
   - ml-chemistry
   - drug-design
   - materials-modeling
-description: The nineteenth edition of the German cheminformatics meeting, with
-  plenary and contributed lectures, research telegrams for PhD students and
-  posters. Attendance is capped at 130 people.
+description: The 19th German Conference on Cheminformatics (GCC 2026) highlights
+  the role of cheminformatics in connecting data-driven science with
+  computational modelling of molecular systems. It covers a broad range of
+  topics including informatics, data science, atomistic modelling, and
+  industrial applications in chemistry, pharmacy, materials science, and
+  biology. The programme features plenary and contributed lectures, research
+  telegrams for PhD students, and posters. Attendance is limited to 130
+  participants.
 deadlines:
   - type: abstract
     date: 2026-06-15
