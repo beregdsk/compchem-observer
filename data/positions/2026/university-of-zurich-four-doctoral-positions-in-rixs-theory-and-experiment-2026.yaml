@@ -1,0 +1,25 @@
+id: university-of-zurich-four-doctoral-positions-in-rixs-theory-and-experiment-2026
+title: Four Doctoral Positions in RIXS Theory and Experiment
+level: phd
+institution: University of Zurich
+location:
+  city: Zurich
+  country: CH
+url: https://www.cp2k.org/positions
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - excited-states
+  - photochemistry
+description: Four fully funded PhD positions in RIXS theory and experiment are
+  available at the University of Zurich, Stockholm University, and Paul Scherrer
+  Institute. The project will develop a multi-level RIXS simulation toolkit
+  within CP2K, combining linear-response TDDFT, wavefunction-in-DFT embedding,
+  and quantum-computing interfaces. Research focuses on charge-transfer
+  excitations in photochemical systems and insulator-metal transitions in
+  vanadium oxides. Two positions are theory-focused at UZH and SU, one is
+  experimental at PSI, with close collaboration.
+added: 2026-10-13
+group: Prof. Marcella Iannuzzi
