@@ -1,0 +1,26 @@
+id: durham-university-phd-position-in-neural-cdft-for-chemical-systems-2026
+title: PhD Position in Neural cDFT for Chemical Systems
+level: phd
+institution: Durham University
+location:
+  city: Durham
+  country: GB
+url: https://coxgroup.github.io/
+source_url: https://psi-k.net/important-new-psi-k-mailing-list/
+topics:
+  - ml-chemistry
+  - ml-potentials
+  - molecular-dynamics
+  - electrochemistry
+  - soft-matter
+description: Two fully funded 4-year PhD positions are available in the Cox
+  Group at Durham University, starting in October 2027. The research focuses on
+  neural classical density functional theory (cDFT) for chemical systems,
+  specifically chemical separation and electromechanical behavior at the
+  nanoscale, using machine learning and molecular simulation. Candidates should
+  have a solid background in statistical mechanics, chemistry, physics, or
+  materials science. Funding is available for UK fees; international students
+  can discuss other options.
+added: 2026-10-13
+group: Cox Group
+deadline: 2026-11-30
