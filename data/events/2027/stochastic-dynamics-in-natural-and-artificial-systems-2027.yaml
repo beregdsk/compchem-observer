@@ -8,19 +8,19 @@ url: https://www.cecam.org/workshop-details/stochastic-dynamics-in-natural-and-a
 source_url: https://www.cecam.org/workshop-details/stochastic-dynamics-in-natural-and-artificial-systems-1428
 topics:
   - molecular-dynamics
-  - soft-matter
   - biomolecular-simulation
-description: CECAM Flagship Workshop on Stochastic Dynamics in Natural and
-  Artificial Systems. The workshop will explore recent advances in stochastic
-  dynamics, including anomalous diffusion and transport, stochastic processes in
-  biology, non-equilibrium statistical mechanics, stochastic resetting, and
-  cutting-edge experimental techniques. It aims to bring together researchers to
-  discuss open challenges and future directions in this interdisciplinary field.
-added: 2026-10-05
+  - soft-matter
+  - enhanced-sampling
+description: The CECAM Flagship Workshop on Stochastic Dynamics in Natural and
+  Artificial Systems, held in Israel from January 11 to 14, 2027. This
+  multidisciplinary workshop integrates insights from physics, chemistry,
+  biology, and engineering to study stochastic processes, anomalous diffusion,
+  non-equilibrium statistical mechanics, and stochastic resetting in biological
+  and artificial systems. It aims to bring together researchers to discuss
+  theoretical, computational, and experimental advances in these areas.
+added: 2026-10-15
 location:
-  city: Lausanne
-  country: CH
+  city: Tel Aviv
+  country: IL
   venue: CECAM-ISR
-organizer: Eli Barkai (Bar-Ilan University); Yasmine Meroz (Tel Aviv
-  University); Shlomi Reuveni (Tel Aviv University); Michael Urbakh (Tel Aviv
-  University)
+organizer: Eli Barkai, Yasmine Meroz, Shlomi Reuveni, Michael Urbakh
