@@ -1,0 +1,20 @@
+id: ecs-250-2026
+title: ECS 250
+type: conference
+start_date: 2026-10-25
+end_date: 2026-10-29
+format: in-person
+url: https://www.scm.com/events/
+source_url: https://www.scm.com/events/
+topics:
+  - electrochemistry
+  - materials-modeling
+  - software-hpc
+description: The 250th meeting of the Electrochemical Society in Calgary,
+  Canada, where SCM will exhibit at booth 314 with Fedor.
+added: 2026-10-16
+aliases:
+  - ECS 250, Calgary (booth 314, Fedor)
+location:
+  city: Calgary
+  country: CA
