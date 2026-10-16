@@ -7,15 +7,14 @@ format: in-person
 url: https://www.isp.nsc.ru/ftks_2026/index.php?ACTION=part&id_part=5
 source_url: https://t.me/confsci/958
 topics:
-  - education-training
-  - quantum-computing-chemistry
   - quantum-dynamics
+  - quantum-computing-chemistry
 description: The School of Young Scientists 'Physics and Technology of Quantum
-  Systems' will take place in Novosibirsk, Russia, on November 11–12, 2026. The
-  event focuses on the physics and technology of quantum systems, providing a
-  platform for young researchers and students to share ideas. The application
-  deadline is October 26, 2026.
-added: 2026-10-14
+  Systems' is scheduled to take place in Novosibirsk on November 11–12, 2026.
+  The deadline for submissions is October 26, 2026. The school focuses on
+  theoretical and experimental aspects of quantum systems, quantum technologies,
+  and related computational methods.
+added: 2026-10-16
 aliases:
   - Школа молодых ученых «Физика и технология квантовых систем»
 location:
