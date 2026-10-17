@@ -7,9 +7,11 @@ topics:
   - materials-modeling
   - molecular-dynamics
   - biomolecular-simulation
-description: The Giuntoli research group specializes in multiscale computational
-  modeling of soft matter and polymers, aiming to design sustainable and
-  biomedical materials through advanced simulations.
+description: The Giuntoli research group focuses on polymer and soft matter
+  physics to study structure-property relationships in soft materials. They
+  develop multiscale computational models to understand and design complex
+  supramolecular and (bio)materials from nanoscale building blocks, aiming to
+  design materials for a sustainable future and biomedical relevance.
 added: 2026-09-30
 pi: Andrea Giuntoli
 parent: University of Groningen
