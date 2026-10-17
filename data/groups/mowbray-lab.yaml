@@ -1,0 +1,20 @@
+id: mowbray-lab
+name: Mowbray lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/structural-biology/mowbray-lab
+topics:
+  - drug-design
+  - biomolecular-simulation
+  - catalysis
+description: The Mowbray lab at Uppsala University's Department of Cell and
+  Molecular Biology, led by Sherry Mowbray, investigates protein structures at
+  the atomic level to understand their biological functions. The lab focuses on
+  cloning, expressing, and crystallizing essential pathogen enzymes, using X-ray
+  crystallography and drug design to develop small molecule inhibitors targeting
+  diseases like malaria and tuberculosis.
+added: 2026-10-17
+pi: Sherry Mowbray
+parent: Uppsala University, Department of Cell and Molecular Biology
+location:
+  city: Uppsala
+  country: SE
