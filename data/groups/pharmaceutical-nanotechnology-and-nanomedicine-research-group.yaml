@@ -1,0 +1,19 @@
+id: pharmaceutical-nanotechnology-and-nanomedicine-research-group
+name: Pharmaceutical Nanotechnology and Nanomedicine Research Group
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/pharmaceutical-nanotechnology-and-anomedicine-research-group-coordinator-blasi
+topics:
+  - drug-design
+  - materials-modeling
+description: The Pharmaceutical Nanotechnology and Nanomedicine Research Group,
+  coordinated by Paolo Blasi at the Department of Pharmacy and Biotechnology
+  (FABIT) of the University of Bologna, focuses on developing biocompatible and
+  biodegradable nanomaterials for targeted drug and diagnostic agent delivery.
+  Their research spans anticancer and Alzheimer's therapeutics, blood-brain
+  barrier transport, and bacterial biofilm targeting.
+added: 2026-10-17
+pi: Paolo Blasi
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT
