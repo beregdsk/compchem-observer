@@ -1,0 +1,28 @@
+id: texas-quantum-winter-school-2027
+title: Texas Quantum Winter School
+type: school
+start_date: 2027-01-03
+end_date: 2027-01-09
+format: in-person
+url: https://www.texquantum.com/
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - ml-chemistry
+  - electronic-structure
+  - education-training
+description: A week-long residential winter school on open quantum systems and
+  quantum information in the chemical sciences, held near Austin, Texas. The
+  2027 special topic is quantum optics and cavities, with lectures on quantum
+  information, polaritons, tensor network methods, and AI in science. Includes
+  hands-on sessions, poster sessions, lodging, and meals on site.
+added: 2026-10-10
+location:
+  city: Austin
+  country: US
+  venue: Texas Hill Country, near Austin, Texas, USA
+organizer: Texas Quantum Winter School (co-chaired by Doran Raccah, UT Austin,
+  and Eric Bittner, University of Houston)
+cost: 400 US dollars (with scholarships available)
+fee: paid
