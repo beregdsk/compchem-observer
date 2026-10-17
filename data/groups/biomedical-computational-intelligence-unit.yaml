@@ -1,0 +1,21 @@
+id: biomedical-computational-intelligence-unit
+name: Biomedical Computational Intelligence Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/hpc_ai_drive_drug_dev_plat/biomed_comput_intell/index.html
+topics:
+  - biomolecular-simulation
+  - drug-design
+  - molecular-dynamics
+  - ml-potentials
+description: The Biomedical Computational Intelligence Unit at the RIKEN Center
+  for Computational Science, led by Yasushi Okuno, focuses on integrating AI,
+  simulation, and experimental data to study biomolecular dynamics and function.
+  The unit develops network approaches for identifying drug targets and applies
+  machine learning and molecular dynamics simulations to advance translational
+  clinical research and drug discovery.
+added: 2026-10-17
+pi: Yasushi Okuno
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
