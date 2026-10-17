@@ -1,0 +1,25 @@
+id: machine-learning-for-atomistic-simulations-of-materials-2027
+title: Machine Learning for Atomistic Simulations of Materials
+type: school
+start_date: 2027-04-02
+end_date: 2027-04-07
+format: in-person
+url: https://www.we-heraeus-stiftung.de/veranstaltungen/machine-learning-for-atomistic-simulations-of-materials/
+source_url: https://www.we-heraeus-stiftung.de/veranstaltungen/machine-learning-for-atomistic-simulations-of-materials/
+topics:
+  - ml-potentials
+  - ml-chemistry
+  - materials-modeling
+  - molecular-dynamics
+  - education-training
+description: This summer school focuses on the theoretical foundations and
+  practical implementation of machine learning for atomistic simulations of
+  materials. Lectures cover the construction of ML interatomic potentials,
+  representations of atomic environments, learning algorithms, validation
+  strategies, and applications to diverse materials classes, emphasizing the
+  integration of ML with established atomistic simulation methods.
+added: 2026-10-07
+location:
+  city: Bad Honnef
+  country: DE
+  venue: Physikzentrum Bad Honnef
