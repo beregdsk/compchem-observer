@@ -1,0 +1,23 @@
+id: accurate-ground-and-excited-state-energetics-for-solid-systems
+name: Accurate Ground and Excited State Energetics for Solid Systems
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/manganas/research-topics/accurate-ground-and-excited-state-energetics-for-solid-systems
+topics:
+  - wavefunction-methods
+  - excited-states
+  - materials-modeling
+  - catalysis
+  - spectroscopy
+description: This page describes the research group or topic 'Accurate Ground
+  and Excited State Energetics for Solid Systems' at the Max Planck Institute
+  for Coal Research, under the Molecular Theory and Spectroscopy department. The
+  group focuses on developing and applying accurate wavefunction-based ab initio
+  methods, such as DLPNO-CCSD(T) and bt-PNO-STEOM-CCSD, to study surface
+  adsorption energetics, band gaps of semiconductors, and excited states in
+  solid-state catalytic systems.
+added: 2026-10-17
+pi: Frank Neese
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
