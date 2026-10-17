@@ -1,0 +1,18 @@
+id: okamoto-lab
+name: Okamoto lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-biophysics/okamoto-lab
+topics:
+  - biomolecular-simulation
+description: The Okamoto lab is a research group at the Department of Cell and
+  Molecular Biology, Uppsala University, led by PI Kenta Okamoto. The lab
+  focuses on structural virology and molecular biophysics, utilizing
+  cryo-electron microscopy, X-ray scattering, and computational modeling to
+  investigate the structural evolution, assembly, and function of pathogenic and
+  giant viruses.
+added: 2026-10-17
+pi: Kenta Okamoto
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE
