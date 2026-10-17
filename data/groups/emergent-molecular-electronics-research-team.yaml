@@ -1,0 +1,22 @@
+id: emergent-molecular-electronics-research-team
+name: Emergent Molecular Electronics Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg-mol-electron/index.html
+topics:
+  - soft-matter
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+description: The Emergent Molecular Electronics Research Team at the RIKEN
+  Center for Emergent Matter Science focuses on organic semiconductors, polymer
+  physics, and molecular electronics. The team utilizes original technology to
+  combine polymers, small molecules, and ions to create 'metallic plastic
+  materials' that exhibit metal-like electrical and thermal conductivity,
+  conducting research from basic physical properties to applied material
+  synthesis.
+added: 2026-10-17
+pi: Shun Watanabe
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
