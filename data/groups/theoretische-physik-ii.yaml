@@ -1,0 +1,23 @@
+id: theoretische-physik-ii
+name: Theoretische Physik II
+kind: group
+website: https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/theo2/team/professors/prof-dr-abhinav-sharma/
+topics:
+  - soft-matter
+  - materials-modeling
+  - biomolecular-simulation
+  - molecular-dynamics
+  - ml-chemistry
+description: The page is the official homepage of the research group Theoretical
+  Physics II (Theoretische Physik II) at the Institute of Physics, University of
+  Augsburg, Germany. Led by Prof. Dr. Abhinav Sharma, the group focuses on
+  theoretical and computational soft matter physics, including active matter,
+  polymer dynamics, biopolymer networks, and organic electronics. The page lists
+  group members, contact details, address in Augsburg, and a comprehensive
+  publication list.
+added: 2026-10-04
+pi: Abhinav Sharma
+parent: Institute of Physics, University of Augsburg
+location:
+  city: Augsburg
+  country: DE
