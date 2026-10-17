@@ -1,0 +1,20 @@
+id: quantum-dynamics-control
+name: Quantum Dynamics & Control
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/quantum-dynamicscontrol
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - excited-states
+description: The Quantum Dynamics & Control division, led by Prof. Dr. Thomas
+  Pfeifer at the Max Planck Institute for Nuclear Physics in Heidelberg,
+  investigates the ultrafast dynamical quantum world. Their research focuses on
+  using intense, bright light and multi-dimensional measurement techniques to
+  explore the fastest motions, the transition from quantum to classical motion,
+  and the control of atomic and molecular dynamics in strong fields.
+added: 2026-10-17
+pi: Thomas Pfeifer
+parent: Max-Planck-Institut für Kernphysik
+location:
+  city: Heidelberg
+  country: DE
