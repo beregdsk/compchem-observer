@@ -9,10 +9,13 @@ topics:
   - software-hpc
   - electronic-structure
 description: The CFEL-DESY Theory Division develops theoretical and
-  computational tools to study the behavior of matter exposed to intense
-  electromagnetic radiation. They focus on ultrafast processes, excited
-  many-electron systems, chemical reactions, and x-ray radiation damage,
-  developing…
+  computational tools to predict the behavior of matter exposed to intense
+  electromagnetic radiation. We employ quantum-mechanical and classical
+  techniques to study ultrafast processes from picoseconds to attoseconds. Our
+  research interests include the dynamics of excited many-electron systems,
+  atomic motion during chemical reactions, and x-ray radiation damage in matter.
+  We are the main developers of Xraypac, a software package for modeling
+  x-ray-induced dynamics of matter.
 added: 2026-10-01
 aliases:
   - CFEL-DESY Theory Group, DESY, Germany

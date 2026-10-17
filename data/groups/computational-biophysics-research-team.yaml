@@ -9,9 +9,13 @@ topics:
   - ml-chemistry
   - software-hpc
 description: A research team at RIKEN Center for Computational Science led by
-  Yuji Sugita, specializing in molecular dynamics simulations of biological
-  macromolecules in crowded intracellular environments. The team develops
-  multi-scale simulation methods using coarse-grained, all-atom, and…
+  Yuji Sugita that performs molecular dynamics simulations to elucidate the
+  structure, dynamics and function of biological macromolecules in crowded
+  intracellular environments. The team develops multi-scale simulation methods
+  using coarse-grained, all-atom and QM/MM models, and has created the GENESIS
+  software for enhanced sampling, free energy calculations and data-driven
+  molecular dynamics, with large-scale simulations run on the Fugaku
+  supercomputer.
 added: 2026-10-02
 aliases:
   - Computational Biophysics Research Team | RIKEN
