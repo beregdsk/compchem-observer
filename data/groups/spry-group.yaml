@@ -1,0 +1,18 @@
+id: spry-group
+name: Spry Group
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/spry-group-drug-discovery-infectious-diseases
+topics:
+  - drug-design
+description: The Spry Group at the Australian National University's Research
+  School of Biology focuses on drug discovery for infectious diseases, primarily
+  targeting malaria and tuberculosis. The group validates new drug targets and
+  identifies potential therapeutics using strategies such as drug repurposing
+  and fragment-based drug discovery, integrating protein biophysics, structural
+  biology, and molecular biology.
+added: 2026-10-17
+pi: Christina Spry
+parent: ANU Research School of Biology
+location:
+  city: Canberra
+  country: AU

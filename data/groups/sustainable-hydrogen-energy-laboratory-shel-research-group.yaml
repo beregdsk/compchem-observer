@@ -1,17 +1,17 @@
 id: sustainable-hydrogen-energy-laboratory-shel-research-group
 name: Sustainable Hydrogen Energy Laboratory (SHEL) Research Group
 kind: group
-website: https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/shel
+website: https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/shel/shel-team
 topics:
   - electrochemistry
   - catalysis
   - materials-modeling
-description: The Sustainable Hydrogen Energy Laboratory (SHEL) at RMIT
-  University is a multidisciplinary research group focused on hydrogen energy
-  technologies. It works on hydrogen production, storage, transport, fuel cell
-  and electrolyser innovations, novel materials, and thermal management, with
-  expertise in engineering and science.
-added: 2026-10-05
+description: The Sustainable Hydrogen Energy Laboratory (SHEL) Research Group at
+  RMIT University, led by Professor Bahman Shabani, focuses on sustainable
+  hydrogen energy technologies, fuel cells, and advanced materials chemistry.
+  The team comprises academic staff, research fellows, and candidates working on
+  hydrogen production, storage, and fuel cell applications.
+added: 2026-10-17
 pi: Bahman Shabani
 parent: RMIT University
 location:

@@ -1,0 +1,23 @@
+id: medicinal-chemistry-synthesis
+name: Medicinal Chemistry - Synthesis
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/research-group-in-medicinal-chemistry-synthesis-coordinator-mirella
+topics:
+  - drug-design
+  - molecular-dynamics
+  - biomolecular-simulation
+  - cheminformatics
+description: The Medicinal Chemistry - Synthesis group, coordinated by
+  Alessandra Locatelli at the University of Bologna's Department of Pharmacy and
+  Biotechnology, focuses on designing and synthesizing small heterocyclic
+  molecules for anticancer and antibacterial therapies. Their research
+  integrates chemical synthesis with biological evaluation, structure-activity
+  relationships, and computational methods like molecular docking and molecular
+  dynamics simulations to target proteins like tubulin, G-quadruplexes, and
+  FtsZ.
+added: 2026-10-17
+pi: Alessandra Locatelli
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT

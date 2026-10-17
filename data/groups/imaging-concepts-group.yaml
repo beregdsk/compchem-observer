@@ -1,0 +1,17 @@
+id: imaging-concepts-group
+name: Imaging Concepts Group
+kind: group
+website: https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/
+topics:
+  - spectroscopy
+description: The Imaging Concepts Group at the University of Glasgow conducts
+  leading research into advanced optical sensing and imaging techniques. Their
+  work spans from fundamental imaging science to applications in microscopy,
+  biomedical imaging (such as retinal oximetry and in vivo cardiovascular
+  imaging in zebrafish), remote sensing, and surveillance, utilizing
+  state-of-the-art optical equipment.
+added: 2026-10-17
+parent: School of Physics & Astronomy, University of Glasgow
+location:
+  city: Glasgow
+  country: GB

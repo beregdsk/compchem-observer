@@ -1,0 +1,25 @@
+id: group-a55e2b9b
+name: 計算分子設計研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/bdr/comput_mol_des/index.html
+topics:
+  - molecular-dynamics
+  - drug-design
+  - biomolecular-simulation
+  - software-hpc
+  - enhanced-sampling
+description: The Computational Molecular Design Research Team at the Center for
+  Life Function Research, RIKEN, led by Team Director Masahiro Taiji, aims to
+  design molecules that control target biomolecular functions through
+  large-scale computer simulations. The team utilizes molecular dynamics and
+  quantum chemistry simulations to bridge the gap between three-dimensional
+  structures and biological functions of biomacromolecules. They also develop
+  specialized high-performance computers, such as the MDGRAPE series, to conduct
+  long-time simulations beyond the limits of commercial computing systems, and
+  apply…
+added: 2026-10-17
+pi: Masahiro Taiji
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Kobe
+  country: JP

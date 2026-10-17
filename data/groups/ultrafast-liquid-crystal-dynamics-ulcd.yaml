@@ -1,0 +1,23 @@
+id: ultrafast-liquid-crystal-dynamics-ulcd
+name: Ultrafast Liquid Crystal Dynamics (ULCD)
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd
+topics:
+  - soft-matter
+  - spectroscopy
+  - molecular-dynamics
+  - excited-states
+  - materials-modeling
+description: The Ultrafast Liquid Crystal Dynamics (ULCD) group, led by Dr.
+  Laura Cattaneo at the Max Planck Institute for Nuclear Physics, investigates
+  the ultrafast dynamics of liquid crystals on femtosecond to picosecond
+  timescales. Using advanced pump-probe spectroscopy from terahertz to extreme
+  ultraviolet, the research explores molecular reorientations, collective
+  excitations, and energy redistribution, bridging microscopic mechanisms with
+  macroscopic material performance.
+added: 2026-10-17
+pi: Laura Cattaneo
+parent: Max Planck Institute for Nuclear Physics
+location:
+  city: Heidelberg
+  country: DE

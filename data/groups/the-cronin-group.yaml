@@ -1,0 +1,24 @@
+id: the-cronin-group
+name: The Cronin Group
+kind: group
+website: https://www.chem.gla.ac.uk/cronin/
+topics:
+  - ml-chemistry
+  - software-hpc
+  - drug-design
+  - catalysis
+  - electrochemistry
+description: The Cronin Group, also known as the Digital Chemistry group at the
+  University of Glasgow and led by Professor Lee Cronin, focuses on advancing
+  digital chemistry and chemputation. Their research integrates automated
+  robotic platforms, machine learning, and chemical programming languages to
+  synthesize molecules, explore chemical space, and investigate complex chemical
+  systems and the origins of life.
+added: 2026-10-17
+aliases:
+  - Digital Chemistry
+pi: Leroy Cronin
+parent: University of Glasgow
+location:
+  city: Glasgow
+  country: GB

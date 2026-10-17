@@ -1,0 +1,24 @@
+id: max-planck-institut-fur-kohlenforschung-dr-pantazis-group
+name: Max-Planck-Institut für Kohlenforschung (Dr. Pantazis group)
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/pantazis/projects-and-fundings
+topics:
+  - spectroscopy
+  - wavefunction-methods
+  - electronic-structure
+  - catalysis
+  - materials-modeling
+description: This page lists the projects and funding of the research group of
+  Dr. Dimitrios Pantazis at the Max-Planck-Institut für Kohlenforschung. The
+  group's research focuses on computational and theoretical chemistry,
+  particularly the development and application of multireference methods,
+  coupled-cluster theory, and spectroscopic techniques (such as EPR) to study
+  bioinorganic systems, copper complexes, and manganese water-splitting
+  catalysts. The projects are funded by organizations like the DAAD, ANR, BmBF,
+  and DFG, involving collaborations with international partners.
+added: 2026-10-17
+pi: Dimitrios Pantazis
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim
+  country: DE

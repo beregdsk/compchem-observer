@@ -1,0 +1,18 @@
+id: theory-team
+name: Theory Team
+kind: group
+website: https://www.riken.jp/en/research/labs/rsc/rd_ts_sra/sacla_bl/theor/index.html
+topics:
+  - spectroscopy
+description: The Theory Team at RIKEN SPring-8 Center investigates optical
+  phenomena related to XFEL, provides theoretical support for pioneering
+  experiments, and explores new X‑ray optics and nonlinear optics concepts.
+  Their work is grounded in condensed matter physics and involves collaborations
+  across elementary particle physics, microwave engineering, and other fields,
+  with a focus on nonlinear spectroscopy and X‑ray two‑photon absorption.
+added: 2026-10-17
+pi: Kenji Tamasaku
+parent: RIKEN SPring-8 Center
+location:
+  city: Sayo
+  country: JP

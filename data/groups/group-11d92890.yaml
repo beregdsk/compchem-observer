@@ -1,0 +1,22 @@
+id: group-11d92890
+name: 創薬先端計算科学基盤ユニット
+kind: group
+website: https://www.riken.jp/research/labs/bdr/drug_discov_mol_sim/index.html
+topics:
+  - drug-design
+  - molecular-dynamics
+  - biomolecular-simulation
+  - software-hpc
+description: The Drug Discovery Advanced Computational Science Infrastructure
+  Unit at RIKEN, led by Makoto Taiji, focuses on advancing in silico drug
+  discovery through high-performance computing and molecular simulations. The
+  unit aims to develop high-precision techniques for predicting protein-ligand
+  binding affinities by simulating complex dynamics in aqueous environments,
+  utilizing supercomputers to analyze drug candidates and identify promising
+  molecular structures.
+added: 2026-10-17
+pi: 泰地 真弘人
+parent: 理化学研究所
+location:
+  city: Kobe
+  country: JP

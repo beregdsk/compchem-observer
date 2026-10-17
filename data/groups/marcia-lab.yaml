@@ -1,0 +1,18 @@
+id: marcia-lab
+name: Marcia lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/structural-biology/marcia-lab
+topics:
+  - biomolecular-simulation
+  - drug-design
+description: The Marcia lab, led by Marco Marcia at Uppsala University, focuses
+  on the structural and molecular biology of large non-coding RNAs. The group
+  integrates biochemical, biophysical, and computational simulation methods to
+  study RNA splicing and the structural dynamics of long non-coding RNAs, aiming
+  to design novel RNA-based therapies for diseases like cancer.
+added: 2026-10-17
+pi: Marco Marcia
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE

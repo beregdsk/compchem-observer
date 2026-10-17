@@ -1,0 +1,25 @@
+id: group-11f5a9e4
+name: 杉田理論分子科学研究室
+kind: group
+website: https://www.riken.jp/research/labs/chief/theor_mol_sci/index.html
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - enhanced-sampling
+  - ml-potentials
+  - software-hpc
+description: The Sugita Theoretical Molecular Science Laboratory at RIKEN is a
+  computational chemistry and theoretical biophysics research group led by Yuji
+  Sugita. The lab develops integrated theoretical and computational methods to
+  elucidate structure and dynamics of biomolecular systems, including proteins,
+  nucleic acids, glycans, and membranes. Research covers large-scale
+  conformational changes, proton and electron transfer, electronic and
+  vibrational states, and the effects of solvent and crowding environments. The
+  group actively develops next-generation simulation software, such as the
+  GENESIS…
+added: 2026-10-17
+pi: 杉田 有治
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
