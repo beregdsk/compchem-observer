@@ -1,0 +1,20 @@
+id: materials-dynamics-group
+name: Materials Dynamics Group
+kind: group
+website: https://www.riken.jp/en/research/labs/rsc/rd_ts_sra/mater_dyn/index.html
+topics:
+  - spectroscopy
+  - materials-modeling
+description: The Materials Dynamics Group at the RIKEN SPring-8 Center, led by
+  Group Director Alfred Baron, investigates the dynamics of materials on meV
+  energy scales and atomic length scales. Using non-resonant inelastic x-ray
+  scattering, the group studies crystalline materials under extreme conditions,
+  thermal transport, and disordered systems like liquids and glasses. They
+  operate advanced x-ray instrumentation to explore mesoscale dynamics and
+  phonon behavior.
+added: 2026-10-17
+pi: Alfred Baron
+parent: RIKEN SPring-8 Center
+location:
+  city: Sayo
+  country: JP
