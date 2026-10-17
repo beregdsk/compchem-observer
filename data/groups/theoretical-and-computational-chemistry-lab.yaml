@@ -8,10 +8,14 @@ topics:
   - materials-modeling
   - software-hpc
   - soft-matter
-description: The Theoretical and Computational Chemistry Laboratory at Kansai
-  University, led by Prof. Kazushi Fujimoto, uses molecular dynamics simulations
-  to study molecular assemblies in biomaterials and complex systems, including
-  proteins, viruses, and polymers, leveraging…
+description: The Theoretical and Computational Chemistry Laboratory utilizes
+  molecular dynamics (MD) simulations to investigate the physical properties of
+  molecular assemblies in biomaterials and other complex materials. We explore
+  phenomena related to proteins, viruses, and polymeric materials by combining
+  simulation techniques with high-performance computing resources, including the
+  supercomputer “Fugaku.” Our research is driven by innovation, and we are
+  developing original methodologies and software tools to advance our scientific
+  goals.
 added: 2026-10-02
 aliases:
   - Theoretical and Computational Chemistry Lab. – Faculty of Chemistry ,
