@@ -6,10 +6,14 @@ topics:
   - biomolecular-simulation
   - ml-chemistry
   - materials-modeling
-description: The Pappu Lab at Washington University in St. Louis is a
-  computational biophysics research group led by Rohit Pappu. The lab
-  investigates the physical principles underlying protein and nucleic acid
-  organization within cells, with focus on macromolecular phase transitions…
+description: The Pappu Lab at Washington University in St. Louis, led by Rohit
+  Pappu, investigates the physical principles of protein and nucleic acid
+  organization within cells, focusing on macromolecular phase transitions and
+  intrinsically disordered proteins (IDPs). Leveraging biophysical computations,
+  statistical physics, and machine learning, their research addresses cancers
+  and neurodegenerative diseases like ALS, while advancing synthetic biology,
+  bioengineering, and materials science. The lab is part of the Center for
+  Biomolecular Condensates at WashU.
 added: 2026-09-30
 pi: Rohit Pappu
 parent: Washington University in St. Louis

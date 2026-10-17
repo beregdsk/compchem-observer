@@ -1,5 +1,5 @@
 id: mechanism-and-modelling-group
-name: Mechanism and Modelling Group
+name: Mechanism and Simulation Group
 kind: group
 website: https://sites.google.com/view/mmg-unsw
 topics:
@@ -8,10 +8,13 @@ topics:
   - drug-design
   - materials-modeling
   - catalysis
-description: The Mechanism and Modelling Group at UNSW Sydney is a computational
-  chemistry lab developing and applying methods to predict molecular properties,
-  reaction mechanisms and structure-activity relationships for designing
-  materials and drugs.
+description: The Mechanism and Simulation Group (MSG) is a computational
+  chemistry research group based in the School of Chemistry at the University of
+  New South Wales, Sydney. Their research focuses on the development and
+  application of computational methods to predict molecular properties, chemical
+  reaction mechanisms, and understand structure-activity relationships, which is
+  crucial for the rational design of improved chemical reagents, materials, and
+  drug molecules.
 added: 2026-10-03
 parent: School of Chemistry, UNSW Sydney
 location:

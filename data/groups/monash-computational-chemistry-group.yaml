@@ -9,9 +9,13 @@ topics:
   - molecular-dynamics
   - materials-modeling
 description: The Monash Computational Chemistry Group, led by Professor
-  Ekaterina (Katya) Pas, specializes in developing and assessing cost-effective
-  quantum chemical methods, molecular dynamics simulations, and machine learning
-  approaches to study condensed-phase materials, ionic liquids…
+  Ekaterina (Katya) Pas, assesses and develops cost-effective quantum chemical
+  methods (ab initio and DFT) for studying condensed-phase systems such as
+  molecular crystals and ionic liquids, and pursues accurate ab initio molecular
+  dynamics simulations to predict properties and reaction mechanisms (including
+  proton and electron transfer), with applications in energy devices, gas
+  capture, and pharmaceuticals, and using machine learning to predict molecular
+  properties.
 added: 2026-09-30
 aliases:
   - Ekaterina (Katya) Pas

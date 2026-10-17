@@ -10,8 +10,10 @@ topics:
   - molecular-dynamics
 description: The official website of the Miguel Caro Group at Aalto University,
   Finland, led by Prof. Miguel Caro. The group focuses on computer simulation of
-  materials using atomistic models, machine learning potentials, and
-  spectroscopy.
+  materials using atomist models, including machine learning potentials,
+  molecular dynamics, and spectroscopy such as X-ray photoelectron spectroscopy,
+  linking computational predictions to experiment to infer the structure of
+  disordered materials.
 added: 2026-09-30
 pi: Miguel Caro
 parent: Aalto University

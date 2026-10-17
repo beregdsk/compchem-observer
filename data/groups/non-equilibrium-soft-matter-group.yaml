@@ -7,10 +7,12 @@ topics:
   - molecular-dynamics
   - ml-potentials
   - materials-modeling
-description: The research group of Liesbeth Janssen at Eindhoven University of
-  Technology, focusing on non-equilibrium soft matter. They use theory, computer
-  simulations, and machine learning to study the properties of materials out of
-  thermodynamic equilibrium.
+description: The Non-Equilibrium Soft Matter group of Liesbeth Janssen at
+  Eindhoven University of Technology focuses on the behavior of materials that
+  are inherently out of thermodynamic equilibrium, ranging from glasses and gels
+  to active and living matter. Using theory, computer simulations, and
+  machine-learning methods, they study the structural, dynamical, and mechanical
+  properties of such materials.
 added: 2026-09-30
 aliases:
   - Liesbeth Janssen

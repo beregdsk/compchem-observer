@@ -8,10 +8,12 @@ topics:
   - molecular-dynamics
   - biomolecular-simulation
   - soft-matter
-description: The Materials modelling and simulation research group at RMIT
-  University develops fundamental relationships between atomic structure and
-  properties of molecules and materials to design advanced materials. The team
-  uses electronic structure calculations, molecular mechanics and…
+description: The group develops fundamental relationships between atomic
+  structure and properties of molecules and materials to design advanced
+  materials. Their research simulates materials for biomedical and industrial
+  applications, focusing on nanoparticle interactions with biological
+  environments. They use electronic structure calculations, molecular mechanics,
+  dynamics, and Monte Carlo methods to study soft and solid state matter.
 added: 2026-10-03
 aliases:
   - Materials modelling and simulation - RMIT University
