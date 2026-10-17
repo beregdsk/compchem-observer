@@ -8,10 +8,14 @@ topics:
   - excited-states
   - software-hpc
   - materials-modeling
-description: The Computational Molecular Science Research Team at RIKEN Center
-  for Computational Science develops advanced quantum chemistry theories,
-  algorithms, and the NTChem software package. Focused on electronic structure,
-  excited states, and materials informatics, they leverage…
+description: The team pursues novel development of theory, algorithms, and
+  software for theoretical and computational molecular science via collaborative
+  use of the Fugaku supercomputer. Its goals are to innovate next-generation
+  molecular theory to handle large, complex molecules with high accuracy; to
+  develop the NTChem high-performance quantum chemistry software package for
+  general-purpose molecular electronic-structure calculations, including excited
+  states; and to establish materials informatics through high-throughput
+  simulations on massively parallel supercomputers.
 added: 2026-10-02
 aliases:
   - Computational Molecular Science Research Team | RIKEN Center for
