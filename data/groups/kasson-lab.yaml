@@ -1,0 +1,18 @@
+id: kasson-lab
+name: Kasson lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-biophysics/kasson-lab
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+description: The Kasson lab at Uppsala University, led by Peter Kasson,
+  investigates how enveloped viruses infect cells by combining single-virus
+  optical microscopy with molecular dynamics simulations. The research focuses
+  on the physical determinants of virus-membrane interactions and fusion to
+  understand viral entry mechanisms and tropism.
+added: 2026-10-17
+pi: Peter Kasson
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE
