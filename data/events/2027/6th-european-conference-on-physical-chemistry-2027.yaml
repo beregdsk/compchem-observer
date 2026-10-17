@@ -1,0 +1,29 @@
+id: 6th-european-conference-on-physical-chemistry-2027
+title: 6th European Conference on Physical Chemistry
+type: conference
+start_date: 2027-08-29
+end_date: 2027-09-03
+format: in-person
+url: https://www.euchems.eu/events/6th-european-conference-on-physical-chemistry/
+source_url: https://www.euchems.eu/events/6th-european-conference-on-physical-chemistry/
+topics:
+  - ml-chemistry
+  - spectroscopy
+  - photochemistry
+  - materials-modeling
+  - soft-matter
+description: The 6th European Conference on Physical Chemistry (ECPC27) is an
+  international scientific conference organised under the EuChemS Division of
+  Physical Chemistry. It aims to bring together researchers from academia,
+  research institutes and industry to present and discuss current advances
+  across physical chemistry, promote interdisciplinary exchange, and establish
+  new European and international collaborations. The scientific programme covers
+  Theory, Simulation and Machine Learning, spectroscopy, photochemistry,
+  surfaces, soft matter, electrochemistry, energy, catalysis, and more.
+added: 2026-10-17
+location:
+  city: Thessaloniki
+  country: GR
+  venue: Research Dissemination Center of Aristotle University of Thessaloniki,
+    3ης Σεπτεμβρίου Πανεπιστημιούπολη - Thessaloniki
+organizer: EuChemS Division of Physical Chemistry
