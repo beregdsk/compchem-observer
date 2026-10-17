@@ -1,0 +1,20 @@
+id: nic-research-group-computational-structural-biology
+name: NIC research group Computational Structural Biology
+kind: group
+website: https://www.fz-juelich.de/en/jsc/about-us/structure/research-groups/nic-csb
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - software-hpc
+description: The NIC research group Computational Structural Biology at JSC, led
+  by Prof. Dr. Alexander Schug, focuses on the quantitative understanding of
+  structural and dynamical mechanisms of biomolecules via multi-scale molecular
+  dynamics simulations on HPC systems. They study protein and RNA folding,
+  stability, and function, combining simulations with genomic data and
+  experimental measurements to design novel biomolecules.
+added: 2026-10-04
+pi: Prof. Dr. Alexander Schug
+parent: Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
