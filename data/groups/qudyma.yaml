@@ -1,0 +1,19 @@
+id: qudyma
+name: QUDYMA
+kind: group
+website: https://sites.google.com/view/qudyma-icmm
+topics:
+  - quantum-dynamics
+  - materials-modeling
+  - electronic-structure
+  - software-hpc
+description: QUDYMA (Quantum Dynamics of Materials) is a theoretical research
+  group at the Institute of Material Science of Madrid (ICMM-CSIC). They focus
+  on understanding quantum materials and their response when driven out of
+  equilibrium, while mentoring students and developing scientific software for
+  numerical simulations.
+added: 2026-10-04
+parent: Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC)
+location:
+  city: Madrid
+  country: ES
