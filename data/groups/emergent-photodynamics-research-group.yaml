@@ -1,0 +1,20 @@
+id: emergent-photodynamics-research-group
+name: Emergent Photodynamics Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_photodyn/index.html
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+description: The Emergent Photodynamics Research Group, led by Naoki Ogawa at
+  RIKEN Center for Emergent Matter Science, investigates novel photodynamics of
+  electron, spin, and lattice in bulk crystals and thin-film interfaces. Their
+  research focuses on ultrafast spectroscopy, spin current generation mediated
+  by Dirac/Weyl electrons, and manipulation of topological magnetic textures,
+  aiming to discover new photo-electric and magnetic effects in solids.
+added: 2026-10-17
+pi: Naoki Ogawa
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
