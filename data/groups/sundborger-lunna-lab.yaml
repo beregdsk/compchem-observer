@@ -1,0 +1,20 @@
+id: sundborger-lunna-lab
+name: Sundborger-Lunna lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/structural-biology/sundborger-lunna-lab
+topics:
+  - soft-matter
+  - drug-design
+  - biomolecular-simulation
+description: The Sundborger-Lunna lab is a research group at the Department of
+  Cell and Molecular Biology, Uppsala University, specializing in structural
+  biology. Led by Anna Sundborger-Lunna, the group uses cryo-electron microscopy
+  and biochemical methods to investigate how membrane-remodeling proteins and
+  lipids regulate mitochondrial function, cell death, and neurodegeneration,
+  with aims to identify targets for drug development.
+added: 2026-10-17
+pi: Anna Sundborger-Lunna
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE
