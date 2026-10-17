@@ -1,0 +1,19 @@
+id: deindl-lab
+name: Deindl lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-biophysics/deindl-lab
+topics:
+  - biomolecular-simulation
+  - spectroscopy
+description: The Deindl lab at Uppsala University, led by Sebastian Deindl,
+  investigates the structural architectures and dynamics of proteins and protein
+  complexes that regulate gene expression. The group uses single-molecule
+  fluorescence imaging, structural techniques, biochemistry, and computer
+  simulations to study molecular dynamics and mechanistic functions at the
+  atomic level.
+added: 2026-10-17
+pi: Sebastian Deindl
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE
