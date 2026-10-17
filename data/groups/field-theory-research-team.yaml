@@ -1,0 +1,18 @@
+id: field-theory-research-team
+name: Field Theory Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/field_theor/index.html
+topics:
+  - software-hpc
+description: The Field Theory Research Team at RIKEN Center for Computational
+  Science conducts theoretical and computational research in particle physics,
+  focusing on lattice Quantum Chromodynamics (QCD) to explore the Standard Model
+  and physics beyond it. The team develops high-performance computing
+  algorithms, analysis methods, and codes for supercomputers like Fugaku to
+  study particle systems under extreme conditions.
+added: 2026-10-17
+pi: Yasumichi Aoki
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
