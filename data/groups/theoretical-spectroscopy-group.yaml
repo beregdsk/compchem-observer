@@ -1,0 +1,24 @@
+id: theoretical-spectroscopy-group
+name: Theoretical Spectroscopy Group
+kind: group
+website: https://www.itheoc.uni-stuttgart.de/research/rauhut/
+topics:
+  - spectroscopy
+  - electronic-structure
+  - wavefunction-methods
+description: The Theoretical Spectroscopy Group, led by Prof. Dr. Guntram Rauhut
+  at the Institute for Theoretical Chemistry, University of Stuttgart, focuses
+  on developing highly accurate quantum chemical methods to reliably predict the
+  spectroscopic properties of small molecules and molecular clusters. The
+  group's research involves the efficient simulation of infrared, Raman,
+  resonance Raman, photoelectron, and photoionization spectra within a fully
+  anharmonic framework, incorporating high-order correlation effects, with
+  methods available in the Molpro program package.
+added: 2026-10-17
+aliases:
+  - G. Rauhut
+pi: Guntram Rauhut
+parent: Institute for Theoretical Chemistry, University of Stuttgart
+location:
+  city: Stuttgart
+  country: DE
