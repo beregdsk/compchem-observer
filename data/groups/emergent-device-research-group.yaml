@@ -1,0 +1,21 @@
+id: emergent-device-research-group
+name: Emergent Device Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_device/index.html
+topics:
+  - materials-modeling
+  - electrochemistry
+description: The Emergent Device Research Group, led by Yoshihiro Iwasa at the
+  RIKEN Center for Emergent Matter Science, focuses on the interdisciplinary
+  concept of 'Iontronics' (ion-controlled electronics). The group uses electric
+  double-layer transistors (EDLTs) with organic electrolytes or ionic liquids to
+  generate ultrahigh electric fields, exploring novel quantum phenomena like
+  superconductivity and Mott transitions in strongly correlated and
+  nanostructured materials. Their work also focuses on creating high-efficiency
+  thermoelectric materials and studying two-dimensional materials and colloidal…
+added: 2026-10-17
+pi: Yoshihiro Iwasa
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
