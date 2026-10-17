@@ -1,0 +1,20 @@
+id: prof-katherine-villa
+name: Prof. Katherine Villa
+kind: group
+website: https://iciq.org/research-group/prof-katherine-villa/overview/
+topics:
+  - photochemistry
+  - catalysis
+  - materials-modeling
+description: The research group led by Prof. Katherine Villa at the Institut
+  Català d’Investigació Química (ICIQ) focuses on light-driven systems for
+  energy, health, and environmental remediation. They design nanostructured
+  photocatalytic systems based on multicomponent heterojunctions to convert
+  polluting compounds into high-value chemicals and solar fuels, and develop
+  light-driven micro/nanorobots for water purification and photodynamic therapy.
+added: 2026-10-17
+pi: Katherine Villa
+parent: Institut Català d’Investigació Química (ICIQ)
+location:
+  city: Tarragona
+  country: ES
