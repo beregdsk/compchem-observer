@@ -1,0 +1,22 @@
+id: nanogune-phd-studentship-in-san-sebastian-on-hybrid-dft-quantum-computing-2026
+title: PhD Studentship in San Sebastian on hybrid DFT/Quantum computing
+level: phd
+institution: Nanogune
+location:
+  city: San Sebastián
+  country: ES
+url: https://www.nanogune.eu/en/nanogune/join-us/open-position/539-pre-doctoral-researcher-quantum-computing-joining-density-functional-theory-siesta-quantum-solvers-qiskit
+source_url: https://psi-k.net/important-new-psi-k-mailing-list/
+topics:
+  - dft
+  - electronic-structure
+  - quantum-computing-chemistry
+  - software-hpc
+description: The project focuses on developing hybrid methods combining SIESTA
+  and IBM's QISKIT for quantum computing to treat correlated electrons within
+  DFT frameworks. The student will work on condensed matter, nano, and
+  biophysics problems using IBM quantum computers and HPC supercomputers, in
+  collaboration with IBM Research in Zürich.
+added: 2026-10-10
+group: Theory Group of Nanogune, led by Emilio Artacho
+deadline: 2026-11-15
