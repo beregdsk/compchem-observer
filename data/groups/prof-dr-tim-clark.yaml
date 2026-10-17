@@ -1,0 +1,22 @@
+id: prof-dr-tim-clark
+name: Prof. Dr. Tim Clark
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/centers/ccc/groups/clark-group/
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - software-hpc
+  - cheminformatics
+description: Homepage of Prof. Dr. Tim Clark at the Computer Chemistry Center of
+  the Friedrich-Alexander-Universität Erlangen-Nürnberg. Based in Erlangen,
+  Germany, the group conducts research in computational and theoretical
+  chemistry.
+added: 2026-10-02
+aliases:
+  - Clark, Tim
+pi: Prof. Dr. Tim Clark
+parent: Friedrich-Alexander-Universität Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
