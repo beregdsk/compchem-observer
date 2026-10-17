@@ -1,0 +1,23 @@
+id: theoretical-and-computational-biophysics
+name: Theoretical and Computational Biophysics
+kind: group
+website: https://www.mpinat.mpg.de/grubmueller/projects
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - software-hpc
+  - enhanced-sampling
+  - quantum-dynamics
+description: The group of Theoretical and Computational Biophysics, led by
+  Helmut Grubmüller at the Max Planck Institute for Multidisciplinary Sciences,
+  focuses on the computational and theoretical study of biomolecular machines,
+  protein dynamics, and complex biomolecular systems. They develop efficient
+  parallel simulation algorithms, statistical mechanics concepts, and quantum
+  hybrid methods to simulate and understand the functional mechanisms of
+  proteins.
+added: 2026-10-05
+pi: Helmut Grubmüller
+parent: Max Planck Institute for Multidisciplinary Sciences
+location:
+  city: Göttingen
+  country: DE
