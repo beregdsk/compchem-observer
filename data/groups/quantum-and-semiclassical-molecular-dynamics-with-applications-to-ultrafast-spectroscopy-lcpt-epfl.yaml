@@ -11,7 +11,10 @@ topics:
   - electronic-structure
 description: Research group at EPFL's LCPT led by Prof. Jiri Vanicek, focusing
   on quantum and semiclassical molecular dynamics, nonadiabatic processes, and
-  ultrafast time-resolved spectroscopy using ab initio methods.
+  ultrafast time-resolved spectroscopy using ab initio methods. Research areas
+  also include on-the-fly ab initio quantum and semiclassical dynamics, and
+  efficient evaluation of accuracy of molecular quantum dynamics using the
+  dephasing representation.
 added: 2026-10-03
 pi: Jiri Vanicek
 parent: EPFL

@@ -8,8 +8,12 @@ topics:
   - catalysis
   - materials-modeling
 description: The research group led by Prof. Carles Bo at ICIQ develops and
-  applies computational methods, including DFT and molecular dynamics, to study
-  chemical reactivity, catalysis, CO2 fixation, and polyoxometalate chemistry.
+  applies computational methods, including density functional theory (DFT) and
+  molecular dynamics simulations, to study chemical reactivity and catalysis.
+  Work covers reaction mechanisms of transition-metal catalyzed processes,
+  organo-catalytic reactions, CO2 fixation strategies, and polyoxometalate
+  chemistry, providing new understanding of reaction mechanisms and predicting
+  properties of complex systems in solution.
 added: 2026-10-03
 pi: Prof. Carles Bo
 parent: Institut Català d'Investigació Química (ICIQ)
