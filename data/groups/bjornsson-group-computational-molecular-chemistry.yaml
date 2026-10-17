@@ -1,0 +1,24 @@
+id: bjornsson-group-computational-molecular-chemistry
+name: 'Bjornsson group: Computational molecular chemistry'
+kind: group
+website: https://sites.google.com/site/ragnarbjornsson
+topics:
+  - electronic-structure
+  - spectroscopy
+  - catalysis
+  - biomolecular-simulation
+  - molecular-dynamics
+description: The Bjornsson group is a computational molecular chemistry research
+  team led by Dr. Ragnar Björnsson at the COMX team of the LCBM (Chemistry and
+  Biology of Metals Laboratory) at CEA in Grenoble, France. The group applies
+  computational chemistry methods to study molecules from small diatomics to
+  large metalloproteins, with a focus on spectroscopic properties, reactivity of
+  inorganic complexes, molecular catalysis, and QM/MM modelling of condensed
+  phases. They investigate complex metalloenzymes such as nitrogenase,
+  hydrogenases and CO dehydrogenases, and have developed their own multiscale…
+added: 2026-10-04
+pi: Ragnar Björnsson
+parent: COMX team at LCBM of the CEA
+location:
+  city: Grenoble
+  country: FR
