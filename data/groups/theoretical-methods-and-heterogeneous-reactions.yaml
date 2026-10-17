@@ -8,10 +8,13 @@ topics:
   - wavefunction-methods
   - spectroscopy
   - electrochemistry
-description: Theoretical Methods and Heterogeneous Reactions group led by
-  Alexander Auer at the Max Planck Institute for Coal Research develops and
-  applies computational chemistry methods for spectroscopy, electrochemistry,
-  and materials science.
+description: The group's research spans method development, calculation of
+  molecular properties in spectroscopy, and modelling heterogeneous reactions
+  such as electrocatalysis. It contributes to the ORCA quantum chemistry
+  program, develops novel schemes for solving the FCI problem and grand
+  canonical DFT approaches for electrochemistry, and applies these to
+  intermolecular interactions, NMR spectroscopy, nanoparticles on surfaces, and
+  materials science.
 added: 2026-10-02
 pi: Alexander Auer
 parent: Max-Planck-Institut für Kohlenforschung

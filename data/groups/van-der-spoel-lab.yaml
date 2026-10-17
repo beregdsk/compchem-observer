@@ -8,10 +8,12 @@ topics:
   - ml-potentials
   - software-hpc
   - ml-chemistry
-description: The van der Spoel lab at Uppsala University's Department of Cell
-  and Molecular Biology conducts research in computational chemistry and
-  molecular simulation, focusing on machine learning force fields, the
-  Alexandria Chemistry Toolkit (ACT), and GROMACS software for biomolecular…
+description: The David van der Spoel lab at Uppsala University develops the
+  Alexandria Chemistry Toolkit (ACT) to derive force fields for molecular
+  simulation using quantum chemistry data. Research focuses on machine learning
+  force fields, evaluating energy functions, predicting noble gas crystal
+  properties, studying sigma holes in water, and determining partial charges,
+  with future goals of simulating proteins in solution.
 added: 2026-10-03
 aliases:
   - van der Spoel lab – Department of Cell and Molecular Biology – Uppsala

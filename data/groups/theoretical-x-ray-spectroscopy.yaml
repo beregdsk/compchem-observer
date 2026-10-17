@@ -8,14 +8,18 @@ topics:
   - wavefunction-methods
   - excited-states
   - materials-modeling
-description: Theoretical X-Ray Spectroscopy group at the Max Planck Institute
-  for Coal Research develops and applies wavefunction-based computational
-  methods to simulate X-ray absorption and emission spectra of transition metal
-  complexes and materials.
+description: The group aims to uniquely correlate spectroscopic properties to
+  electronic structure and geometric properties of target materials, working
+  closely with the experimental X-ray spectroscopy groups of the neighbor
+  MPI-CEC institute. They employ wavefunction-based methods to evaluate unique
+  spectroscopic signatures of transition metal complexes and materials in both
+  equilibrium and under operando conditions, developing and using methods like
+  ROCIS, PNO-ROCIS, CASCI/NEVPT2, MRCI, and MREOM-CC to compute XAS and VtC-RXES
+  spectra of molecular and solid systems.
 added: 2026-10-03
 aliases:
   - Theoretical X-Ray Spectroscopy | Max-Planck-Institut für Kohlenforschung
-pi: Frank Neese
+pi: Dimitrios Manganas
 parent: Max-Planck-Institut für Kohlenforschung
 location:
   city: Mülheim an der Ruhr

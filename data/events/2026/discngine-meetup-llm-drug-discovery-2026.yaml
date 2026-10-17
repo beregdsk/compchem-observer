@@ -13,8 +13,10 @@ fee: free
 topics:
   - drug-design
   - ml-chemistry
-description: A free two-hour online meeting with industry talks and
-  presentations on how far conversational language models and multi-agent
-  systems have actually got in pharmaceutical research, and where they still
-  fall short.
+description: Free two-hour online event from Discngine featuring expert talks
+  and presentations on the real-world use of conversational large language
+  models and multi-agent systems in pharmaceutical R&D. Sessions cover current
+  applications across the DMTA cycle, remaining limitations and how to address
+  them, and future directions for agentic AI in drug discovery workflows.
+  Registration required.
 added: 2026-09-20
