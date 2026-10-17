@@ -1,0 +1,28 @@
+id: martin-luther-university-halle-wittenberg-ptb-berlin-postdoctoral-researcher-in-0892a2bd-2026
+title: Postdoctoral researcher in computational spectroscopy and battery materials
+level: postdoc
+institution: Martin Luther University Halle-Wittenberg / PTB Berlin
+location:
+  city: Halle
+  country: DE
+url: https://www.verwaltung.uni-halle.de/DEZERN3/AUSSCHR/26_5_10513_26_D.pdf
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - dft
+  - spectroscopy
+  - electrochemistry
+  - materials-modeling
+  - electronic-structure
+description: Postdoctoral position within the NaSPHERE consortium at MLU Halle
+  and PTB Berlin, focusing on sodium-sulfur batteries with polymeric cathodes.
+  The project investigates sodiation thermodynamics/kinetics and spectroscopic
+  fingerprints (IR, Raman, XAFS, XPS) using DFT/TDDFT and interface dynamics
+  modeling. Jointly supervised by Prof. Dr. Daniel Sebastiani and Dr. Pouya
+  Partovi-Azar. Requires a PhD in Chemistry, Physics, or Materials Science, with
+  a strong background in quantum chemistry, DFT, AIMD, and electrochemical
+  energy storage.
+added: 2026-10-16
+aliases:
+  - Postdoctoral researcher at MLU (Halle)/PTB (Berlin) Germany
+group: Daniel Sebastiani / Pouya Partovi-Azar (NaSPHERE consortium)
+deadline: 2026-11-30
