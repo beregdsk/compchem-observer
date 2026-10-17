@@ -1,0 +1,21 @@
+id: accurate-energetics-for-open-shell-systems
+name: Accurate Energetics for Open-Shell Systems
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/pantazis/research-topics/accurate-energetics-for-open-shell-systems
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - excited-states
+  - spectroscopy
+  - catalysis
+description: The research group 'Accurate Energetics for Open-Shell Systems' at
+  the Max Planck Institute for Carbon Research, led by Dimitrios Pantazis,
+  focuses on applying high-level quantum chemistry and correlated wave function
+  methods to accurately compute spin-state energetics, redox potentials, and
+  electron affinities for transition metal complexes and organic molecules.
+added: 2026-10-17
+pi: Dimitrios Pantazis
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
