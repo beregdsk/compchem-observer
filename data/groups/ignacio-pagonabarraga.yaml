@@ -8,10 +8,13 @@ topics:
   - software-hpc
   - materials-modeling
   - electrochemistry
-description: Professor of Physics at the University of Barcelona leading
+description: 'Professor of Physics at the Universitat de Barcelona leading
   theoretical and computational research on soft matter out of equilibrium,
-  focusing on active matter, electrokinetics, and mesoscale simulation
-  algorithms.
+  across three intertwined directions: collective phenomena in active matter,
+  soft and complex fluids (colloids, droplets, electrokinetics, and the rheology
+  of confined red blood cells), and the mesoscale algorithms — lattice Boltzmann
+  and dissipative particle dynamics — that bridge particle-level statistical
+  physics and continuum hydrodynamics.'
 added: 2026-09-30
 pi: Ignacio Pagonabarraga
 parent: Universitat de Barcelona

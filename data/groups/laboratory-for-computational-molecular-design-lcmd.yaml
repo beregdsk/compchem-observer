@@ -9,9 +9,12 @@ topics:
   - ml-potentials
   - materials-modeling
 description: The Laboratory for Computational Molecular Design (LCMD) is a
-  computational, theoretical, and digital laboratory at EPFL. It focuses on
+  computational, theoretical, and digital laboratory at EPFL, focusing on
   electronic structure theory, method development, and conceptual work applied
-  to homogeneous catalysis and organic molecular materials…
+  to homogeneous catalysis and organic molecular materials. Its research
+  exploits the interplay between quantum chemistry, machine learning techniques
+  (e.g., Q-stack), and data-driven pipelines (e.g., the NaviCat platform) for
+  molecules and materials discovery.
 added: 2026-10-03
 aliases:
   - Laboratory for Computational Molecular Design ‐ EPFL

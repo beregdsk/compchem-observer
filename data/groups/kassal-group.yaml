@@ -8,13 +8,15 @@ topics:
   - photochemistry
   - quantum-dynamics
   - biomolecular-simulation
-description: The Kassal Group at the University of Wollongong, led by Ivan
-  Kassal, develops theoretical and computational tools for simulating energy and
-  charge transport, light harvesting, and quantum computing in materials and
-  biological systems.
+description: The Kassal Group at the University of Sydney, led by Ivan Kassal,
+  develops theoretical and computational tools for simulating energy and charge
+  transport in disordered or dissipative materials and their interaction with
+  light, applying techniques to next-generation materials and biological systems
+  to improve solar energy conversion, and creating quantum computing methods for
+  calculations too hard for classical supercomputers.
 added: 2026-09-30
 pi: Ivan Kassal
-parent: University of Wollongong
+parent: University of Sydney
 location:
   city: Wollongong
   country: AU

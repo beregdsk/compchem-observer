@@ -8,10 +8,13 @@ topics:
   - excited-states
   - photochemistry
   - dft
-description: The Lindh Group at Uppsala University's Department of Chemistry for
-  Life Sciences conducts research in quantum chemistry, focusing on
-  multi-configurational wave function methods, non-adiabatic processes, and
-  photochemistry.
+description: "The Lindh Group at Uppsala University's Department of Chemistry
+  for Life Sciences conducts quantum chemistry research in two main directions:
+  method development and computer implementations of models to describe
+  electronic wave functions, with a focus on multi-configurational wave
+  functions for breaking bonds and excited molecules; and developing methods and
+  algorithms to study non-adiabatic processes, chemoluminescence,
+  bioluminescence, and photochemical and photophysical processes."
 added: 2026-10-03
 aliases:
   - Lindh Group – Department of Chemistry for Life Sciences – Uppsala University
