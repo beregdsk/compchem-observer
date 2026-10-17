@@ -1,0 +1,26 @@
+id: chemical-and-materials-machine-learning-school-cammls-2027
+title: Chemical and materials machine learning school (CAMMLs)
+type: school
+start_date: 2027-04-05
+end_date: 2027-04-09
+format: hybrid
+url: https://spring2027.camml.ac.uk/
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - ml-potentials
+  - ml-chemistry
+  - materials-modeling
+  - education-training
+description: An international training course on machine learning for materials
+  and molecular simulations, targeting PhD students and industrial applicants.
+  It covers the basics of machine learning, machine learning interatomic
+  potentials, and graph neural networks, featuring talks, practical sessions,
+  and a poster session.
+added: 2026-10-15
+location:
+  city: Daresbury
+  country: GB
+  venue: STFC Daresbury Laboratory
+organizer: PSDI, AIchemy, STFC-SCD, CCP5, CCP9, and CECAM
+cost: £250 per student (includes 5 nights accommodation and meals)
+fee: paid
