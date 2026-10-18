@@ -1,0 +1,21 @@
+id: aip
+name: 革新知能統合研究センター (AIP)
+kind: institute
+website: https://www.riken.jp/research/labs/aip/
+topics:
+  - cheminformatics
+  - drug-design
+  - ml-chemistry
+description: 'The Center for Advanced Intelligence Project (AIP) at RIKEN is a
+  research institute advancing core AI technologies across three pillars:
+  Mathematical Intelligence, Domain Intelligence, and Physical Intelligence. It
+  focuses on developing reliable, interpretable, and safe AI, applying
+  domain-specific knowledge to healthcare, chemistry, and disaster prevention,
+  and building embodied intelligence for real-world interaction.'
+added: 2026-10-18
+aliases:
+  - 革新知能統合研究センター
+parent: 理化学研究所
+location:
+  city: 東京都
+  country: JP
