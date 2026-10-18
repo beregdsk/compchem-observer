@@ -1,0 +1,19 @@
+id: group-c9ec113d
+name: 量子計算理論研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm_comput_theor/index.html
+topics:
+  - quantum-computing-chemistry
+  - ml-chemistry
+description: The Quantum Computing Theory Research Team at RIKEN, led by
+  Director Keisuke Fujii, conducts theoretical and applied research in quantum
+  computing. The team focuses on quantum software foundation, quantum error
+  correction, circuit optimization, and architecture for fault-tolerant quantum
+  computers. They also explore applications of quantum computing in fundamental
+  physics, quantum chemistry, and quantum machine learning.
+added: 2026-10-18
+pi: Keisuke Fujii (藤井 啓祐)
+parent: 理化学研究所 (RIKEN) 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP
