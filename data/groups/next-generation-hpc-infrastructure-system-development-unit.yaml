@@ -1,0 +1,18 @@
+id: next-generation-hpc-infrastructure-system-development-unit
+name: Next-Generation HPC Infrastructure System Development Unit
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/nghpci/nghpcisdu/index.html
+topics:
+  - software-hpc
+description: The Next-Generation HPC Infrastructure System Development Unit at
+  the RIKEN Center for Computational Science, led by Unit Leader Kentaro Sano,
+  focuses on the research and development of the FugakuNEXT supercomputer. The
+  unit specializes in hardware system design, including CPU and accelerator
+  microarchitectures, compute node architecture, interconnection networks, and
+  co-design with applications to advance high-performance computing.
+added: 2026-10-18
+pi: Kentaro Sano
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
