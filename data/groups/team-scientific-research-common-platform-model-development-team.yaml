@@ -1,0 +1,26 @@
+id: team-scientific-research-common-platform-model-development-team
+name: 科学研究用共通基盤モデル開発 TEAM (Scientific Research Common Platform Model Development
+  Team)
+kind: group
+website: https://www.riken.jp/research/labs/trip/agis/uni-found-model-sr/index.html
+topics:
+  - ml-chemistry
+  - materials-modeling
+  - cheminformatics
+  - biomolecular-simulation
+  - ml-potentials
+description: The team is developing a common platform for large-scale multimodal
+  models to support AI-driven scientific research. They aim to build multi-agent
+  systems that can autonomously execute research workflows, including
+  investigation, hypothesis, verification, and reporting, in collaboration with
+  researchers, and expand to diverse fields such as bio-materials to establish a
+  foundational scientific system for trial and error through both scientific
+  computation and real-world experiments.
+added: 2026-10-18
+aliases:
+  - 科学研究用共通基盤モデル開発チーム
+pi: Yoshitaka Ushiku (牛久 祥孝)
+parent: RIKEN (理化学研究所)
+location:
+  city: Wako
+  country: JP
