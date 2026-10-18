@@ -1,0 +1,23 @@
+id: hirsch-group
+name: Hirsch Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/hirsch-group/
+topics:
+  - materials-modeling
+  - soft-matter
+  - electrochemistry
+  - spectroscopy
+  - photochemistry
+description: The Hirsch Group is a research group at the Department of Chemistry
+  and Pharmacy of Friedrich-Alexander-Universität Erlangen-Nürnberg, led by
+  Prof. Dr. Andreas Hirsch. The group's research focuses on molecular materials
+  for energy storage and molecular switches for information storage. It is
+  affiliated with several collaborative research centers and profile centers at
+  FAU.
+added: 2026-10-18
+pi: Andreas Hirsch
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
