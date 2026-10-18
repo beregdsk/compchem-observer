@@ -1,0 +1,20 @@
+id: group-a3703789
+name: 量子物質創成研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/qtm-mater-innov/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+description: The Quantum Materials Synthesis Research Team, led by Director
+  Atsushi Tsukazaki, focuses on thin films and stacked interfaces of quantum
+  materials. The team works on establishing thin-film fabrication techniques for
+  topological materials, evaluating unique properties, discovering novel quantum
+  materials, and clarifying the origins of their properties to develop
+  functional low-power devices.
+added: 2026-10-18
+pi: Atsushi Tsukazaki
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
