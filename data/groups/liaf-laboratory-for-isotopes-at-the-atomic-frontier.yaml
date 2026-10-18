@@ -1,0 +1,18 @@
+id: liaf-laboratory-for-isotopes-at-the-atomic-frontier
+name: LIAF (Laboratory for Isotopes at the Atomic Frontier)
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/forschung/collaps-cern
+topics:
+  - spectroscopy
+description: LIAF (Laboratory for Isotopes at the Atomic Frontier) is an
+  independent research group at the Max Planck Institute for Nuclear Physics,
+  led by Dr. Liss Vázquez Rodríguez. The group specializes in high-resolution
+  collinear laser spectroscopy of short-lived radioactive isotopes at CERN's
+  ISOLDE facility, focusing on studying nuclear structure, charge radii, and
+  electromagnetic moments of exotic nuclei.
+added: 2026-10-18
+pi: Liss Vázquez Rodríguez
+parent: Max Planck Institute for Nuclear Physics
+location:
+  city: Heidelberg
+  country: DE
