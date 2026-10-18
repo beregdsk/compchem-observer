@@ -1,0 +1,26 @@
+id: digital-materials-science-research-team-2
+name: Digital Materials Science Research Team (デジタル材料科学研究チーム)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/dmsrt/index.html
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - molecular-dynamics
+  - materials-modeling
+description: The Digital Materials Science Research Team, led by Shinji
+  Tsuneyuki, is based at the RIKEN Center for Computational Science in Wako,
+  Japan. The team develops advanced computational methods, including
+  first-principles calculations and molecular dynamics, to predict material
+  properties under extreme conditions and for dielectric or thermoelectric
+  applications. By integrating data science, AI, and physics-based simulations,
+  they aim to build digital twins for materials research and accelerate the
+  discovery of novel functional materials.
+added: 2026-10-18
+aliases:
+  - デジタル材料科学研究チーム 第一原理計算 チームプリンシパル常行 真司
+pi: Shinji Tsuneyuki
+parent: RIKEN Center for Computational Science (R-CCS)
+location:
+  city: Wako
+  country: JP
