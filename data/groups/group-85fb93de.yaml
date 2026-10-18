@@ -1,0 +1,21 @@
+id: group-85fb93de
+name: オミクス計算モデル開発チーム
+kind: group
+website: https://www.riken.jp/research/labs/trip/agis/omics-ai/index.html
+topics:
+  - cheminformatics
+  - ml-chemistry
+  - drug-design
+  - software-hpc
+description: The Omics Computational Model Development Team at RIKEN, led by Dr.
+  Itoshi Nikaido, focuses on developing foundational AI models for omics data
+  (AI for Omics) to accelerate life science research. Their goal is to establish
+  'Generative Omics' by building high-quality genomic data production methods
+  and applying AI to enable cellular function design, drug discovery, and
+  regenerative medicine.
+added: 2026-10-18
+pi: Itoshi Nikaido
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako and Kobe
+  country: JP
