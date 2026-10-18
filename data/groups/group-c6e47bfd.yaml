@@ -1,0 +1,20 @@
+id: group-c6e47bfd
+name: 強相関物質研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_mater/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Strongly Correlated Materials Research Group at RIKEN's Center
+  for Emergent Matter Science focuses on exploring new materials in strongly
+  correlated electron systems, such as transition metal alloys, oxides, and
+  chalcogenides. Their research targets skyrmion materials, multiferroics,
+  thermoelectric materials, and superconductors, focusing on the correlation
+  between spin states and charge dynamics to discover novel functional materials
+  with giant cross-responses.
+added: 2026-10-18
+pi: Yasuo Taguchi
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP
