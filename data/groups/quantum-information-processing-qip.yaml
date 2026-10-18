@@ -1,0 +1,20 @@
+id: quantum-information-processing-qip
+name: Quantum Information Processing (QIP)
+kind: group
+website: https://www.fz-juelich.de/en/jsc/about-us/structure/research-groups/qip
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+  - materials-modeling
+description: The Quantum Information Processing (QIP) group at the Jülich
+  Supercomputing Centre (JSC) focuses on benchmarking gate-based and analog
+  quantum computers, simulating quantum systems, and developing prototype
+  applications. They work on integrating quantum devices into HPC architectures
+  for hybrid classical-quantum computing, targeting optimization, quantum
+  simulations for materials and chemicals, and drug design.
+added: 2026-10-18
+pi: Kristel Michielsen
+parent: Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
