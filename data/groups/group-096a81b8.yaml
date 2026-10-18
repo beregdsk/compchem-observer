@@ -1,0 +1,20 @@
+id: group-096a81b8
+name: データ同化研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/dart/index.html
+topics:
+  - software-hpc
+description: The Data Assimilation Research Team at the RIKEN Center for
+  Computational Science (R-CCS), led by Team Principal Takemasa Miyoshi, focuses
+  on fusing simulations with observational data. The team develops advanced data
+  assimilation algorithms and leverages supercomputing resources like Fugaku to
+  achieve high-resolution, rapid-update forecasting for severe weather and
+  natural disasters.
+added: 2026-10-18
+aliases:
+  - データ同化研究チーム データ同化 チームプリンシパル三好 建正
+pi: Takemasa Miyoshi
+parent: 理化学研究所計算科学研究センター (RIKEN Center for Computational Science)
+location:
+  city: Kobe
+  country: JP
