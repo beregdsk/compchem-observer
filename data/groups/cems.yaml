@@ -1,0 +1,24 @@
+id: cems
+name: 創発物性科学研究センター (CEMS)
+kind: institute
+website: https://www.riken.jp/research/labs/cems/
+topics:
+  - materials-modeling
+  - electronic-structure
+  - soft-matter
+  - spectroscopy
+  - quantum-dynamics
+description: The Center for Emergent Matter Science (CEMS) at RIKEN is a
+  research institute exploring emergent properties and functions from the
+  cooperative interactions of electrons and molecules. Focused on energy and
+  environmental sustainability, it unites top researchers in physics, chemistry,
+  and electronics. Research spans strongly correlated systems, quantum
+  materials, topological electronics, soft matter, and molecular electronics,
+  utilizing advanced computational, spectroscopic, and microscopic techniques.
+added: 2026-10-18
+aliases:
+  - 創発物性科学研究センター
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
