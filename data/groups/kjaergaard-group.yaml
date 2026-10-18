@@ -1,0 +1,26 @@
+id: kjaergaard-group
+name: Kjaergaard Group
+kind: group
+website: https://chem.ku.dk/research_sections/physchem/kjaergaardgroup/
+topics:
+  - spectroscopy
+  - excited-states
+  - wavefunction-methods
+  - electronic-structure
+  - photochemistry
+description: The Kjaergaard Group at the University of Copenhagen performs
+  physical chemistry research focused on atmospheric radical reactions and
+  aerosol formation. The group combines experimental spectroscopic
+  techniques—such as FTIR, matrix isolation, UV-Vis, and cavity ring-down
+  spectroscopy—with theoretical computational methods, including local mode
+  models and multi-conformer transition state theory, to study hydrogen-bonded
+  complexes, reaction kinetics, and spectroscopic properties of atmospherically
+  relevant molecules.
+added: 2026-10-18
+aliases:
+  - Kjærgaard Group
+pi: Henrik G. Kjærgaard
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
