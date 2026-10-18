@@ -1,0 +1,18 @@
+id: next-generation-hpc-operation-technologies-unit
+name: Next-Generation HPC Operation Technologies Unit
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/nghpci/nghpcotu/index.html
+topics:
+  - software-hpc
+description: The Next-Generation HPC Operation Technologies Unit is developing
+  the next-generation HPC infrastructure 'FugakuNEXT' by advancing
+  high-efficiency data center facilities and researching sustainable, advanced
+  operation technologies. The goal is to optimize facilities and supercomputers
+  as an integrated system to establish a highly reliable, user-friendly
+  operational platform.
+added: 2026-10-18
+pi: Keiji Yamamoto
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
