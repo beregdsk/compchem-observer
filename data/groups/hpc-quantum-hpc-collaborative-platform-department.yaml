@@ -1,0 +1,24 @@
+id: hpc-quantum-hpc-collaborative-platform-department
+name: 量子HPC連携プラットフォーム部門 (Quantum HPC Collaborative Platform Department)
+kind: group
+website: https://www.r-ccs.riken.jp/research/q-hpc/
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+description: The Quantum HPC Collaborative Platform Department at RIKEN Center
+  for Computational Science (R-CCS) focuses on the integration of quantum
+  computing (QC) and high-performance computing (HPC) to expand the frontiers of
+  computation. The department develops system software to link QC and HPC,
+  builds platform infrastructures for quantum research, and supports the
+  practical application of quantum computers. It also conducts advanced
+  technology development to validate quantum-HPC hybrid systems as a Platform as
+  a Service (PaaS), in collaboration with NEDO, SoftBank, the University of
+  Tokyo, and…
+added: 2026-10-18
+aliases:
+  - 量子HPC連携プラットフォーム部門紹介
+pi: Mihisa Sato (佐藤 三久)
+parent: 理化学研究所 計算科学研究センター (RIKEN R-CCS)
+location:
+  city: Kobe
+  country: JP
