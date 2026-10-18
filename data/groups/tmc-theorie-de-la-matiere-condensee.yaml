@@ -1,0 +1,23 @@
+id: tmc-theorie-de-la-matiere-condensee
+name: TMC (Théorie de la Matière Condensée)
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/theorie-de-la-matiere-condensee-tmc
+topics:
+  - dft
+  - electronic-structure
+  - wavefunction-methods
+  - materials-modeling
+description: The TMC (Théorie de la Matière Condensée) group at Institut Néel
+  performs theoretical and computational research in condensed matter physics,
+  focusing on quantum materials such as frustrated systems, multiferroics,
+  superconductors, and topological matter. They develop and use first-principles
+  methods, including DFT, TDDFT, many-body perturbation theory, and
+  wavefunction-based approaches.
+added: 2026-10-18
+aliases:
+  - TMCThéorie de la Matière Condensée
+pi: Andrés Cano
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR
