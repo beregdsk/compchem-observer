@@ -1,0 +1,22 @@
+id: ecl
+name: 圏論的物理学理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ithems/fms/cat-theor-phys-riken-ecl/index.html
+topics:
+  - materials-modeling
+  - quantum-dynamics
+  - software-hpc
+description: The Category Theory Physics RIKEN ECL Research Unit, led by Kantaro
+  Ohmori, is a theoretical research group under the Center for Mathematical
+  Sciences (iTHEMS) at RIKEN, based in Wako, Japan. The unit focuses on applying
+  category theory and higher algebra to quantum field theory, spanning particle
+  physics, condensed matter, and quantum information. They work on translating
+  macroscopic properties of matter into microscopic quantum models, utilizing
+  tensor networks and lattice models to develop algebraic computational methods
+  for quantum simulation and system design.
+added: 2026-10-18
+pi: 大森 寛太郎
+parent: 数理創造研究センター (iTHEMS) / 理化学研究所
+location:
+  city: Wako
+  country: JP
