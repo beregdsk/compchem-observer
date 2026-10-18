@@ -1,0 +1,23 @@
+id: riken-center-for-interdisciplinary-theoretical-and-mathematical-sciences-ithems
+name: RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences
+  (iTHEMS)
+kind: institute
+website: https://www.riken.jp/en/research/labs/ithems/
+topics:
+  - quantum-dynamics
+  - materials-modeling
+  - software-hpc
+  - biomolecular-simulation
+  - ml-chemistry
+description: The RIKEN Center for Interdisciplinary Theoretical and Mathematical
+  Sciences (iTHEMS) is a research institute within RIKEN that promotes
+  interdisciplinary theoretical and mathematical sciences. It leverages
+  mathematical approaches, computational science, and theoretical physics to
+  address global challenges and drive innovation. The center hosts various
+  divisions and teams focusing on AI, quantum science, genomics, and social
+  sciences, fostering collaboration among diverse researchers worldwide.
+added: 2026-10-18
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
