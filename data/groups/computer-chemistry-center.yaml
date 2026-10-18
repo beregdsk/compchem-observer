@@ -1,0 +1,27 @@
+id: computer-chemistry-center
+name: Computer Chemistry Center
+kind: institute
+website: https://www.chemistry.nat.fau.eu/research/centers/ccc/
+topics:
+  - biomolecular-simulation
+  - drug-design
+  - materials-modeling
+  - molecular-dynamics
+  - dft
+description: "The Computer Chemistry Center (CCC) at
+  Friedrich-Alexander-Universität Erlangen-Nürnberg is a central facility within
+  the Department of Chemistry and Pharmacy, located in Erlangen, Germany.
+  Founded in 1993, it houses the research groups of five professors: Petra
+  Imhof, Bernd Meyer, Carolin Müller, Dirk Zahn, and Timothy Clark. The center's
+  research spans biomolecular simulation, computational drug design, and
+  materials modeling, employing a range of methods from classical molecular
+  dynamics to density functional theory (DFT) and high-level ab initio
+  calculations. It also offers teaching in…"
+added: 2026-10-18
+aliases:
+  - Computer Chemistry Center (CCC)
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
