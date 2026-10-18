@@ -1,0 +1,22 @@
+id: high-performance-ai-systems-research-team
+name: 高性能人工知能システム研究チーム (High-Performance AI Systems Research Team)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/hpaisrt/index.html
+topics:
+  - software-hpc
+  - ml-chemistry
+description: The High-Performance AI Systems Research Team at RIKEN Center for
+  Computational Science (R-CCS) is led by Team Principal Mohamed WAHIB. Based in
+  Tokyo, the team focuses on the mutual high-performance integration of
+  artificial intelligence/machine learning and high-performance computing (HPC).
+  They research and develop advanced systems, software, and algorithms to enable
+  ultra-scale, ultra-fast deep learning and accelerate complex AI models on
+  flagship supercomputers like Fugaku.
+added: 2026-10-18
+aliases:
+  - 高性能人工知能システム研究チーム 高性能人工知能システム チームプリンシパルMohamed WAHIB
+pi: Mohamed WAHIB
+parent: RIKEN Center for Computational Science (R-CCS)
+location:
+  city: Tokyo
+  country: JP
