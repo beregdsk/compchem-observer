@@ -1,0 +1,20 @@
+id: group-a6d08661
+name: 大規模並列数値計算技術研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/lpnctrt/index.html
+topics:
+  - software-hpc
+description: The Large-scale Parallel Numerical Computation Technology Research
+  Team, led by Toshiyuki Imamura at RIKEN Center for Computational Science,
+  develops high-performance numerical libraries and algorithms, such as EigenExa
+  and KMathLIB, to maximize supercomputer capabilities. Their work focuses on
+  parallel numerical algorithms, linear algebra, and mixed-precision computing
+  for large-scale scientific simulations.
+added: 2026-10-18
+aliases:
+  - 大規模並列数値計算技術研究チーム 並列数値アルゴリズム チームプリンシパル今村 俊幸
+pi: Toshiyuki Imamura
+parent: 理化学研究所 計算科学研究センター (RIKEN Center for Computational Science)
+location:
+  city: Kobe
+  country: JP
