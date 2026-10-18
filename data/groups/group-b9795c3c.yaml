@@ -1,0 +1,19 @@
+id: group-b9795c3c
+name: ナノフォトニック共振器量子電気力学研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/nanophoton_cav_qed/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+description: The Nanophotonic Resonator Quantum Electrodynamics Research Team at
+  RIKEN's Quantum Computing Research Center conducts experimental research on
+  cavity quantum electrodynamics (QED) using advanced nanophotonic devices. Led
+  by Team Director Takao Aoki, the team develops novel nanophotonic devices,
+  such as nanofiber cavities, to build hybrid atom-cavity systems for quantum
+  information processing and scalable quantum technologies.
+added: 2026-10-18
+pi: 青木 隆朗
+parent: 理化学研究所
+location:
+  city: 和光市
+  country: JP
