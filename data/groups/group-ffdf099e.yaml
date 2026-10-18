@@ -1,0 +1,21 @@
+id: group-ffdf099e
+name: 高性能クラウドシステム・セキュアソフトウェア研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/hpcsssrt/index.html
+topics:
+  - software-hpc
+description: This research team, led by Team Principal Atsuko Takefusa, focuses
+  on developing high-performance cloud and HPC integrated computing
+  infrastructure and secure software technologies. They work on adapting
+  cloud-native technologies like virtualization and containers to
+  supercomputers, linking cloud services with scientific computing, and building
+  secure execution environments using hardware-based isolation like TEE to
+  enable safe and advanced high-performance computing.
+added: 2026-10-18
+aliases:
+  - 高性能クラウドシステム・セキュアソフトウェア研究チーム クラウドコンピューティング チームプリンシパル竹房 あつ子
+pi: Atsuko Takefusa
+parent: 理化学研究所 計算科学研究センター
+location:
+  city: Tokyo
+  country: JP
