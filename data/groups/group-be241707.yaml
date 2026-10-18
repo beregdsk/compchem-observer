@@ -1,0 +1,19 @@
+id: group-be241707
+name: イオントラップ量子計算機チーム
+kind: group
+website: https://www.riken.jp/research/labs/trip/core/trap_ion_qtm_comput/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - software-hpc
+description: The Ion Trap Quantum Computer Team at RIKEN focuses on developing
+  high-efficiency quantum algorithms and advancing ion-trap quantum hardware. By
+  leveraging commercial quantum systems and the unique degrees of freedom of
+  atomic ions, the team works to expand the boundaries of quantum computing,
+  simulation, and information processing.
+added: 2026-10-18
+pi: 川﨑 雅司
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
