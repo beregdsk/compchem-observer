@@ -1,0 +1,23 @@
+id: riken-r-ccs
+name: 理化学研究所 計算科学研究センター (RIKEN R-CCS) / 計算の科学・計算による科学研究チーム
+kind: institute
+website: https://www.r-ccs.riken.jp/research/labs/
+topics:
+  - electronic-structure
+  - dft
+  - quantum-dynamics
+  - molecular-dynamics
+  - materials-modeling
+description: This page introduces the research teams of the RIKEN Center for
+  Computational Science (R-CCS), categorized into computational science and
+  science by computation. It details various teams led by team principals,
+  focusing on processor design, parallel computing, quantum chemistry, molecular
+  dynamics, biophysics, climate modeling, and materials science, advancing
+  computational chemistry and related fields.
+added: 2026-10-18
+aliases:
+  - 計算の科学・計算による科学研究チーム紹介
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Kobe
+  country: JP
