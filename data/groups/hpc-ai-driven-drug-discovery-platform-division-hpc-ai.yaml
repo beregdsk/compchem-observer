@@ -1,0 +1,24 @@
+id: hpc-ai-driven-drug-discovery-platform-division-hpc-ai
+name: HPC/AI-driven Drug Discovery Platform Division (HPC/AI駆動型医薬プラットフォーム部門)
+kind: group
+website: https://www.r-ccs.riken.jp/research/ddpd/
+topics:
+  - drug-design
+  - biomolecular-simulation
+  - ml-chemistry
+  - cheminformatics
+  - molecular-dynamics
+description: The HPC/AI-driven Drug Discovery Platform Division at RIKEN R-CCS
+  focuses on integrating AI, molecular simulation, and experimental science to
+  advance drug discovery and life sciences. It aims to build an integrated
+  HPC/AI-driven platform for life science, drug development, and medical
+  applications, tackling complex biological phenomena through collaborative
+  research units.
+added: 2026-10-18
+aliases:
+  - HPC/AI駆動型医薬プラットフォーム部⾨紹介
+pi: Yasushi Okuno (奥野 恭史)
+parent: RIKEN Center for Computational Science (R-CCS)
+location:
+  city: Kobe
+  country: JP
