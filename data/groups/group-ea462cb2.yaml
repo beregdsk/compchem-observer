@@ -1,0 +1,20 @@
+id: group-ea462cb2
+name: 複合系気候科学研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/ccsrt/index.html
+topics:
+  - software-hpc
+description: The Complex Climate Science Research Team at RIKEN Center for
+  Computational Science, led by Team Principal Hirofumi Tomita, conducts
+  pioneering research in computational climate science. The team focuses on
+  developing foundational libraries and high-performance computational tools to
+  run high-resolution global climate simulations, aiming to understand and
+  reduce computational uncertainties in climate modeling.
+added: 2026-10-18
+aliases:
+  - 複合系気候科学研究チーム 気候モデリング チームプリンシパル富田 浩文
+pi: Hirofumi Tomita
+parent: 理化学研究所 計算科学研究センター (RIKEN Center for Computational Science)
+location:
+  city: Kobe
+  country: JP
