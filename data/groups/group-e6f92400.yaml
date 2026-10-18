@@ -1,0 +1,22 @@
+id: group-e6f92400
+name: スピン物性理論研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/spin_phys_theor/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+description: The Spin Theory Team at RIKEN's Center for Emergent Matter Science,
+  led by Director Gen Tatara, conducts theoretical research on spin-related
+  phenomena in materials. The team focuses on spintronics, exploring how strong
+  quantum relativistic effects acting on spins in materials can be harnessed for
+  highly efficient conversion of spin information to electrical signals. Using
+  field theory approaches, the group studies exotic spin phenomena including
+  domain wall dynamics, anomalous Hall effects, spin-orbit interactions, and
+  thermoelectric transport in magnetic materials, aiming to develop…
+added: 2026-10-18
+pi: 多々良 源
+parent: 創発物性科学研究センター
+location:
+  city: Wako, Saitama
+  country: JP
