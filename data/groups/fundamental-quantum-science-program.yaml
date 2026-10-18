@@ -1,0 +1,25 @@
+id: fundamental-quantum-science-program
+name: 基礎量子科学研究プログラム (Fundamental Quantum Science Program)
+kind: group
+website: https://www.riken.jp/research/labs/trip/fqsp/
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - dft
+  - wavefunction-methods
+  - spectroscopy
+description: The Fundamental Quantum Science Program (FQSP) at RIKEN is a
+  research initiative under the TRIP Headquarters, led by Program Director Naoto
+  Nagahara. It focuses on the foundational aspects of quantum science across
+  fundamental physics, chemistry, mathematics, quantum information, and
+  non-equilibrium science. The program aims to be a global research hub,
+  promoting international collaboration, researcher exchange, and talent
+  development.
+added: 2026-10-18
+aliases:
+  - 基礎量子科学研究プログラム
+pi: 永長 直人 (Naoto Nagahara)
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
