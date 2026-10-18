@@ -1,0 +1,19 @@
+id: group-2949416d
+name: 低次元量子相研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/lowdim-qtm-phase/index.html
+topics:
+  - materials-modeling
+  - soft-matter
+description: The Low-dimensional Quantum Phase Research Unit, led by Takuro
+  Sato, investigates low-dimensional quantum systems such as organic molecular
+  conductors and two-dimensional materials. The unit focuses on breaking spatial
+  and temporal symmetries to design novel devices, exploring emergent quantum
+  phases, topological spin textures like skyrmions, and strongly correlated
+  electronic states.
+added: 2026-10-18
+pi: Takuro Sato
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP
