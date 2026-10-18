@@ -1,0 +1,25 @@
+id: computational-condensed-matter-theory-group-tim-wehling
+name: Computational Condensed Matter Theory (Group Tim Wehling)
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-wehling.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - quantum-dynamics
+  - excited-states
+description: The Computational Condensed Matter Theory group led by Prof. Dr.
+  Tim Wehling at the I. Institute of Theoretical Physics, University of Hamburg,
+  focuses on the theoretical study of quantum materials. The group investigates
+  the interplay of electron and nuclear dynamics, correlation effects like
+  metal-insulator transitions and superconductivity, and develops advanced
+  ab-initio and many-body methods to design and control complex quantum states
+  via nanostructuring and optical excitations.
+added: 2026-10-18
+aliases:
+  - Group Tim Wehling
+pi: Tim Wehling
+parent: I. Institute of Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
