@@ -1,0 +1,19 @@
+id: lsym-lepton-symmetry-experiment
+name: LSym (Lepton Symmetry Experiment)
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/unabhaengige-forschungsgruppen/lsym
+topics:
+  - quantum-dynamics
+  - spectroscopy
+description: The LSym (Lepton Symmetry Experiment) is an independent research
+  group at the Max Planck Institute for Nuclear Physics in Heidelberg, led by PD
+  Dr. Sven Sturm. The group conducts high-precision fundamental physics
+  experiments comparing electrons and positrons in a Penning trap to test
+  matter-antimatter symmetry and search for new physics beyond the Standard
+  Model.
+added: 2026-10-18
+pi: Sven Sturm
+parent: Max-Planck-Institut für Kernphysik
+location:
+  city: Heidelberg
+  country: DE
