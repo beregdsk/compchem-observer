@@ -1,0 +1,18 @@
+id: advanced-hpc-technologies-development-unit
+name: Advanced HPC Technologies Development Unit
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/nghpci/ahpctdu/index.html
+topics:
+  - software-hpc
+description: The Advanced HPC Technologies Development Unit, led by Kento Sato
+  at RIKEN R-CCS, focuses on research and development of advanced
+  high-performance computing (HPC) infrastructure. The unit designs
+  massively-parallel, highly scalable computing architectures using technologies
+  like 3D-stacked memory and silicon photonics, and develops AI-driven system
+  software to optimize performance and resource management.
+added: 2026-10-18
+pi: Kento Sato
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
