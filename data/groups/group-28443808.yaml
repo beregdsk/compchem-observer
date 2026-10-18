@@ -1,0 +1,18 @@
+id: group-28443808
+name: 数理量子情報理研白眉研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/math_qtm_inf_riken_hakubi/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Mathematical Quantum Information RIKEN Hakubi Research Team,
+  led by Bartosz Regula, focuses on the mathematical foundations of quantum
+  information theory. Their research centers on quantifying, manipulating, and
+  utilizing physical resources in quantum information and communication,
+  developing robust mathematical frameworks for quantum resource theories and
+  quantum Shannon theory.
+added: 2026-10-18
+pi: Bartosz Regula
+parent: 理化学研究所 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP
