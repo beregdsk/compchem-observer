@@ -1,0 +1,24 @@
+id: research-group-prof-vondung
+name: Research Group Prof. Vondung
+kind: group
+website: https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/vondung.html
+topics:
+  - electronic-structure
+  - dft
+  - excited-states
+  - photochemistry
+description: A young research group at the University of Hamburg led by Prof.
+  Lisa Vondung, specializing in fundamental actinide and lanthanide coordination
+  chemistry with emphasis on uranium. The group synthesizes air- and
+  moisture-sensitive coordination and organometallic compounds, investigates
+  them via crystallography and spectroscopy, and applies quantum chemical
+  computational methods to understand unusual bonding situations and
+  reactivities.
+added: 2026-10-18
+aliases:
+  - Prof. Dr. Lisa Vondung
+pi: Lisa Vondung
+parent: University of Hamburg
+location:
+  city: Hamburg
+  country: DE
