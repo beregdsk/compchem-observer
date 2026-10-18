@@ -1,0 +1,26 @@
+id: agis
+name: 科学研究基盤モデル開発プログラム（AGIS）
+kind: group
+website: https://www.riken.jp/research/labs/trip/agis/
+topics:
+  - ml-chemistry
+  - materials-modeling
+  - biomolecular-simulation
+  - software-hpc
+  - drug-design
+description: The Advanced General Intelligence for Science (AGIS) Program is a
+  research initiative at RIKEN's Research Platform Program for
+  Advanced/Integrated Research Platforms (TRIP). Led by Program Director
+  Masahiro Taichi, the program aims to develop foundation models and AI agents
+  for scientific research by leveraging large language models and scientific
+  data. It focuses on key areas including life sciences, materials science, and
+  drug discovery, working to automate scientific research and accelerate the
+  scientific cycle through open collaboration.
+added: 2026-10-18
+aliases:
+  - 科学研究基盤モデル開発プログラム
+pi: 泰地 真弘人
+parent: 理化学研究所
+location:
+  city: 和光市
+  country: JP
