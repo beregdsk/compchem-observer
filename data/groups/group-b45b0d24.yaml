@@ -1,0 +1,22 @@
+id: group-b45b0d24
+name: 創発光物性研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_photodyn/index.html
+topics:
+  - spectroscopy
+  - materials-modeling
+  - electronic-structure
+  - excited-states
+description: The Emergent Photo-Functional Properties Research Group at RIKEN,
+  led by Group Director Naoki Ogawa, focuses on exploring emergent
+  photo-functional properties and controlling non-equilibrium electron and spin
+  states in materials with strong electron correlations and topological
+  characteristics. Using advanced optical and spectroscopic techniques, the
+  group investigates ultrafast phenomena, spin currents, and novel quantum
+  properties in complex materials.
+added: 2026-10-18
+pi: 小川 直毅
+parent: 理化学研究所 創発物性科学研究センター
+location:
+  city: Wako
+  country: JP
