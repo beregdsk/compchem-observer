@@ -1,0 +1,20 @@
+id: group-df08443b
+name: 電子状態スペクトロスコピー研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/electron_states_spectro/index.html
+topics:
+  - spectroscopy
+  - materials-modeling
+description: The Electron State Spectroscopy Research Team at RIKEN's Center for
+  Emergent Matter Science, led by Director Kyoko Ishizaka, investigates spin,
+  electronic, and crystal structures in functional materials using light and
+  electron beams. By utilizing photoelectron spectroscopy and ultrafast
+  time-resolved electron microscopy, the team explores superconductivity,
+  topological states, strongly correlated systems, and nanoscale magnetic
+  dynamics to advance the development of new functional materials.
+added: 2026-10-18
+pi: Kyoko Ishizaka
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP
