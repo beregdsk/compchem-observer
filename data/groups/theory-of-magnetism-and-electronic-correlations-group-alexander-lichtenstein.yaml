@@ -1,0 +1,24 @@
+id: theory-of-magnetism-and-electronic-correlations-group-alexander-lichtenstein
+name: Theory of Magnetism and Electronic Correlations (Group Alexander Lichtenstein)
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-lichtenstein.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+description: The research group led by Prof. Dr. Alexander Lichtenstein at the
+  I. Institute of Theoretical Physics, University of Hamburg, focuses on the
+  theory of magnetism and electronic correlations. The group investigates
+  quantum spin phenomena in nanomagnetic structures, magnetic adatoms, and
+  complex materials. They develop and apply advanced electronic structure
+  methods, specifically combining density functional theory (DFT) with dynamical
+  mean-field theory (DMFT) to study local electron-electron correlations and
+  magnetic properties at the nanoscale.
+added: 2026-10-18
+aliases:
+  - Group Alexander Lichtenstein
+pi: Alexander Lichtenstein
+parent: I. Institute of Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
