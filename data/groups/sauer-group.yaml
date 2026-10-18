@@ -1,0 +1,21 @@
+id: sauer-group
+name: Sauer Group
+kind: group
+website: https://chem.ku.dk/research_sections/physchem/sauer-group/
+topics:
+  - spectroscopy
+  - quantum-computing-chemistry
+  - wavefunction-methods
+  - dft
+  - electronic-structure
+description: The Sauer Group at the University of Copenhagen develops quantum
+  chemical methods and software for HPC and NISQ quantum computers, focusing on
+  calculating molecular spectra (UV/Vis, NMR, ESR, etc.) and electromagnetic
+  properties. They benchmark DFT and wavefunction methods, assist
+  experimentalists, and study solvent effects and radiation damage.
+added: 2026-10-18
+pi: Stephan P. A. Sauer
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
