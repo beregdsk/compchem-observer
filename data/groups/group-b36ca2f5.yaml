@@ -1,0 +1,23 @@
+id: group-b36ca2f5
+name: 計算物質科学研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/first_prin_mater/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - quantum-dynamics
+  - ml-potentials
+description: The Computational Materials Science Research Team at RIKEN
+  investigates the non-trivial electronic properties of strongly correlated and
+  topological materials using first-principles calculations. Focusing on
+  many-body effects, the team aims to predict novel physical phenomena, design
+  new functional materials, and develop novel theoretical frameworks and
+  computational methods, including machine learning approaches, to advance the
+  field of computational materials science.
+added: 2026-10-18
+pi: Ryotaro Arita
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
