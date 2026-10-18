@@ -1,0 +1,22 @@
+id: group-ac853ba6
+name: 創発機能設計研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/emerg-fd/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - spectroscopy
+  - quantum-dynamics
+description: The Innovative Function Design Research Unit at the RIKEN Center
+  for Emergent Matter Science, led by Shun Okumura, focuses on the theoretical
+  and computational investigation of strongly correlated electron systems. The
+  unit explores topological magnetic structures, spin-charge coupled states, and
+  non-equilibrium dynamics using first-principles calculations and response
+  theory to design novel functional materials.
+added: 2026-10-18
+pi: Shun Okumura
+parent: 理化学研究所 創発物性科学研究センター
+location:
+  city: Wako
+  country: JP
