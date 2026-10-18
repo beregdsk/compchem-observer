@@ -1,0 +1,21 @@
+id: group-ee7a446e
+name: 量子計算機システムデザイン研究團隊
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm-comput-sd-res/index.html
+topics:
+  - software-hpc
+  - quantum-computing-chemistry
+description: The Quantum Computing System Design Research Team, led by Director
+  Yasunari Suzuki at RIKEN's Quantum Computer Research Center, focuses on the
+  system design, software development, and architecture of practical, scalable
+  quantum computers. The team explores quantum error mitigation, fault-tolerant
+  computing architectures, and high-performance quantum circuit simulators to
+  accelerate the realization of advanced quantum computing systems.
+added: 2026-10-18
+aliases:
+  - 量子計算機システムデザイン研究チーム
+pi: Yasunari Suzuki
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
