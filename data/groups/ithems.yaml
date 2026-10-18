@@ -1,0 +1,23 @@
+id: ithems
+name: 数理創造研究センター (iTHEMS)
+kind: institute
+website: https://www.riken.jp/research/labs/ithems/
+topics:
+  - software-hpc
+  - quantum-dynamics
+  - ml-chemistry
+  - education-training
+  - biomolecular-simulation
+description: The Center for the Mathematical Sciences (iTHEMS) at RIKEN is an
+  international research hub where researchers in theoretical science,
+  mathematics, and computational sciences use mathematical approaches to uncover
+  the principles of natural phenomena and drive innovation. It promotes
+  foundational and applied mathematical research, fosters interdisciplinary
+  collaboration, and cultivates global talent.
+added: 2026-10-18
+aliases:
+  - 数理創造研究センター
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
