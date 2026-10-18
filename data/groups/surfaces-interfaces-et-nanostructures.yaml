@@ -1,0 +1,24 @@
+id: surfaces-interfaces-et-nanostructures
+name: Surfaces, Interfaces et Nanostructures
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/surfaces-interfaces-et-nanostructures-sin
+topics:
+  - spectroscopy
+  - materials-modeling
+  - catalysis
+  - electrochemistry
+  - electronic-structure
+description: The SIN (Surfaces, Interfaces et Nanostructures) team at Institut
+  Néel investigates the structural, magnetic, and electronic properties of
+  low-dimensional systems like thin films, nanostructures, surfaces, and
+  interfaces. Their research covers nanosystems for magnetism, magnetic
+  heterostructures, skyrmions, and (electro)-catalysis. They also develop ab
+  initio theoretical methods and software, notably the FDMNES code for X-ray
+  spectroscopies, utilizing advanced synchrotron and laboratory techniques such
+  as STM, MBE, and LEED.
+added: 2026-10-18
+pi: Yvonne Soldo
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR
