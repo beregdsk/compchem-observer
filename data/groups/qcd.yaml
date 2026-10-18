@@ -1,0 +1,22 @@
+id: qcd
+name: 高エネルギーQCD理論研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/trip/fqsp/high-ener-qcd-theor/index.html
+topics:
+  - software-hpc
+  - quantum-dynamics
+  - materials-modeling
+description: The High Energy QCD Theory Research Team, part of the FQSP program
+  at RIKEN and led by Team Director Shinya Aoki, focuses on the theoretical
+  study of high-energy Quantum Chromodynamics (QCD). The team aims to elucidate
+  the quark-gluon structure of nucleons, the origins of nucleon spin and mass,
+  and the properties of high-density quark matter. By employing lattice QCD and
+  high-performance computing, they collaborate with major international
+  experiments, including the Electron Ion Collider (EIC), to advance nuclear and
+  particle physics.
+added: 2026-10-18
+pi: 青木 愼也
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
