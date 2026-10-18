@@ -1,0 +1,20 @@
+id: group-daniela-pfannkuche
+name: Group Daniela Pfannkuche
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-pfannkuche-daniela.html
+topics:
+  - quantum-dynamics
+  - quantum-computing-chemistry
+  - electronic-structure
+  - materials-modeling
+description: The research group of Prof. Dr. Daniela Pfannkuche, part of the I.
+  Institute of Theoretical Physics at the University of Hamburg, focuses on the
+  Quantum Theory of Condensed Matter. Their research investigates correlated and
+  entangled quantum states, which are fundamental to quantum computing and
+  advanced quantum materials.
+added: 2026-10-18
+pi: Daniela Pfannkuche
+parent: I. Institute of Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
