@@ -1,0 +1,21 @@
+id: group-michael-potthoff
+name: Group Michael Potthoff
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-potthoff.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+description: The research group of Prof. Dr. Michael Potthoff at the I.
+  Institute of Theoretical Physics, University of Hamburg, investigates the
+  physical properties of strongly interacting quantum many-body fermion systems.
+  Their research focuses on collective magnetism, correlation-driven
+  metal-insulator transitions, high-temperature superconductivity, quantum phase
+  transitions, and non-equilibrium real-time dynamics in low-dimensional systems
+  and nanostructures.
+added: 2026-10-18
+pi: Michael Potthoff
+parent: I. Institute of Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
