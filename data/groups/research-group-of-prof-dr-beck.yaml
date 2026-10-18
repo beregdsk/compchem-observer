@@ -1,0 +1,22 @@
+id: research-group-of-prof-dr-beck
+name: Research Group of Prof. Dr. Beck
+kind: group
+website: https://www.chemie.uni-hamburg.de/en/institute/pc/arbeitsgruppen/beck.html
+topics:
+  - biomolecular-simulation
+  - soft-matter
+  - materials-modeling
+description: The research group of Prof. Dr. Tobias Beck, based at the
+  Department of Chemistry of the University of Hamburg, focuses on protein-based
+  nanomaterials. The group uses protein containers to assemble inorganic
+  nanoparticles into highly structured materials, employing computational
+  protein design, protein production, nanoparticle synthesis, and
+  crystallization-based assembly, with advanced characterization techniques.
+added: 2026-10-18
+aliases:
+  - Prof. Dr. Tobias Beck
+pi: Tobias Beck
+parent: University of Hamburg
+location:
+  city: Hamburg
+  country: DE
