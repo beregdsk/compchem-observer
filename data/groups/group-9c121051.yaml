@@ -1,0 +1,21 @@
+id: group-9c121051
+name: ソフトマター物性研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/phys_soft_matter_unit/index.html
+topics:
+  - soft-matter
+  - spectroscopy
+  - materials-modeling
+description: The Soft Matter Properties Research Team studies the mesoscopic
+  structural diversity of soft matter, including polymers and liquid crystals,
+  to elucidate their physical properties and mechanisms. Their research focuses
+  on applying these properties to optical and electronic devices and functional
+  materials, exploring novel ferroelectric liquid crystals, self-organized
+  chirality, and physical mechanisms in electronic devices using liquid
+  crystals.
+added: 2026-10-18
+pi: Fumito Araoka
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP
