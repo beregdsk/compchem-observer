@@ -1,0 +1,20 @@
+id: ecl-2
+name: 強相関量子相理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/str-correl-qtm-phase-riken-ecl/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+description: The Strongly Correlated Quantum Matter Science ECL Research Unit,
+  led by Dr. Rina Tazai at RIKEN Center for Emergent Matter Science, conducts
+  theoretical research on many-body electron systems in solid-state materials
+  like superconductors and magnets. The unit focuses on strongly correlated
+  electron systems, quantum phase transitions, and transport phenomena to
+  propose new electronic states and bridge theory with experimental validation.
+added: 2026-10-18
+pi: Rina Tazai
+parent: 理化学研究所 創発物性科学研究センター
+location:
+  city: Wako
+  country: JP
