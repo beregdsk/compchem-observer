@@ -1,0 +1,20 @@
+id: physical-theoretical-chemistry
+name: Physical & Theoretical Chemistry
+kind: institute
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/index.html
+topics:
+  - dft
+  - electronic-structure
+  - spectroscopy
+description: The Physical & Theoretical Chemistry Division at Freie Universität
+  Berlin, part of the Institute of Chemistry and Biochemistry, conducts
+  experimental and theoretical research. Experimental work focuses on
+  spectroscopic investigations of nanoporous thin films and surface processes.
+  Theoretical groups develop quantum mechanical and density functional methods
+  for studying larger systems and surface reactions. The division is led by
+  speaker Prof. Dr. Christian Papp and comprises multiple research groups.
+added: 2026-10-18
+parent: Institute of Chemistry and Biochemistry
+location:
+  city: Berlin
+  country: DE
