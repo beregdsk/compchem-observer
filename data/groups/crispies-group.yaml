@@ -1,0 +1,22 @@
+id: crispies-group
+name: Crispies Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/crisp-group/
+topics:
+  - materials-modeling
+  - photochemistry
+  - spectroscopy
+  - electronic-structure
+  - excited-states
+description: The Crispies Group, led by Dr. Ryan Crisp at the Department of
+  Chemistry and Pharmacy of FAU, focuses on molecular materials for energy and
+  sustainability. Their research encompasses nanomaterials for solar-to-X
+  conversion, new optoelectronics with non-critical materials, and the
+  photochemical degradation of PFAS.
+added: 2026-10-18
+pi: Ryan Crisp
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
