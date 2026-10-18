@@ -1,0 +1,20 @@
+id: ag-heinke
+name: AG Heinke
+kind: group
+website: https://www.bcp.fu-berlin.de/chemie/chemie/forschung/PhysTheoChem/agheinke/index.html
+topics:
+  - spectroscopy
+description: The Heinke Group at Freie Universität Berlin is a research group
+  focused on novel functional materials, particularly thin films of nanoporous
+  metal-organic frameworks (MOFs). They investigate their physicochemical
+  properties using advanced spectroscopic techniques, focusing on molecular
+  diffusion, adsorption, ion conductivity, and optoelectronic properties for
+  applications like molecular separation and sensing. They also develop smart
+  materials with light-controllable properties.
+added: 2026-10-18
+aliases:
+  - Heinke Group
+parent: Freie Universität Berlin, Fachbereich Biologie, Chemie, Pharmazie
+location:
+  city: Berlin
+  country: DE
