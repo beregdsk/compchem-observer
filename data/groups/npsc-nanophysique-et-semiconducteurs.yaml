@@ -1,0 +1,25 @@
+id: npsc-nanophysique-et-semiconducteurs
+name: NPSC Nanophysique et Semiconducteurs
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/nanophysique-et-semiconducteurs-npsc
+topics:
+  - spectroscopy
+  - materials-modeling
+  - quantum-dynamics
+  - excited-states
+description: The NPSC (Nanophysics and Semiconductors) team is a joint research
+  group between Institut Néel (CNRS) and CEA-IRIG, focusing on fundamental
+  nanoscience in low-dimensional II-VI and III-V semiconductor heterostructures.
+  Their expertise covers advanced epitaxy (MBE, MOCVD), spintronics with
+  magnetic quantum dots, quantum optics and optomechanics, quantum foundations
+  and thermodynamics, 2D materials spectroscopy, semiconductor nanowires for
+  quantum technologies, and rare-earth ion-based quantum memories and
+  transducers.
+added: 2026-10-18
+aliases:
+  - NPSCNanophysique et Semiconducteurs
+pi: Lucien Besombes and Edith Bellet-Amalric
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR
