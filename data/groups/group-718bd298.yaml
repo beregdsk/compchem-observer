@@ -1,0 +1,22 @@
+id: group-718bd298
+name: 強相関物性研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_phys/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+  - spectroscopy
+description: The Strongly Correlated Matter Research Group, part of the Center
+  for Emergent Matter Science at RIKEN and led by Group Director Yoshinori
+  Tokura, studies the emergent properties of strongly correlated electronic
+  systems. Focusing on electronic transport and optical properties within
+  complex spin and orbital structures, the group investigates phenomena such as
+  giant magnetoresistance, high-temperature superconductivity, multiferroics,
+  topological insulators, and skyrmions to uncover novel quantum
+  functionalities.
+added: 2026-10-18
+pi: 十倉 好紀
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: 和光市
+  country: JP
