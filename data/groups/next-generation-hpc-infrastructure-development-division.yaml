@@ -1,0 +1,18 @@
+id: next-generation-hpc-infrastructure-development-division
+name: Next-Generation HPC Infrastructure Development Division
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/nghpci/
+topics:
+  - software-hpc
+description: The Next-Generation HPC Infrastructure Development Division at
+  RIKEN Center for Computational Science leads the development and deployment of
+  next-generation flagship supercomputers, such as FugakuNEXT. It conducts
+  research on advanced foundational HPC technologies, provides a collaborative
+  hub for domestic and international research, and manages specialized units for
+  system, application, and operation technology development.
+added: 2026-10-18
+pi: Masaaki Kondo
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
