@@ -1,0 +1,22 @@
+id: andrae-group
+name: Andrae Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agandrae/index.html
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - spectroscopy
+  - quantum-dynamics
+description: The Andrae Group is a research group in theoretical chemistry, part
+  of the Institute of Chemistry and Biochemistry at the Freie Universität
+  Berlin. Led by Priv.-Doz. Dr. Dirk Andrae, the group operates under the
+  Physical & Theoretical Chemistry section and is based at the university's
+  campus in Berlin, focusing on advanced theoretical chemistry methods and
+  applications.
+added: 2026-10-18
+pi: Dirk Andrae
+parent: Institute of Chemistry and Biochemistry, Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE
