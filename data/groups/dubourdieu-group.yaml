@@ -1,0 +1,22 @@
+id: dubourdieu-group
+name: Dubourdieu Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agdubourdieu/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - wavefunction-methods
+  - quantum-dynamics
+description: The Dubourdieu Group is a research group led by Prof. Dr. Catherine
+  Dubourdieu at the Institute of Chemistry and Biochemistry, Freie Universität
+  Berlin. The group specializes in physical and theoretical chemistry, focusing
+  on the development and application of quantum chemical methods, density
+  functional theory (DFT), and electronic structure calculations to study
+  complex molecular systems, materials, and interfaces.
+added: 2026-10-18
+pi: Catherine Dubourdieu
+parent: Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE
