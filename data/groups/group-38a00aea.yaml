@@ -1,0 +1,23 @@
+id: group-38a00aea
+name: 光量子工学研究センター
+kind: institute
+website: https://www.riken.jp/research/labs/rap/
+topics:
+  - spectroscopy
+  - photochemistry
+  - quantum-dynamics
+  - quantum-computing-chemistry
+  - materials-modeling
+description: The official page of the Center for Photonics and Quantum
+  Engineering (RAP) at RIKEN. The center aims to pioneer photonics by leveraging
+  light's observation, analysis, and information capabilities. Its research
+  spans ultra-precise optical lattice clocks, attosecond lasers, next-generation
+  semiconductors, biophotonics, and AI-driven photonics. Organized into teams
+  covering laser spectroscopy, nano photochemistry, quantum optoelectronics, and
+  terahertz imaging, it seeks to open new frontiers across science and
+  technology.
+added: 2026-10-18
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
