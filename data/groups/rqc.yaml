@@ -1,0 +1,21 @@
+id: rqc
+name: 量子コンピュータ研究センター (RQC)
+kind: institute
+website: https://www.riken.jp/research/labs/rqc/
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - software-hpc
+description: The RIKEN Quantum Computing Center (RQC) is a leading research
+  center that develops and operates various types of quantum computers,
+  including superconducting, photonic, semiconductor, and cold atom systems. It
+  aims to expand computational capabilities to address social challenges and
+  establish next-generation quantum computing technologies through cutting-edge
+  research in physics, information science, and computer science.
+added: 2026-10-18
+aliases:
+  - 量子コンピュータ研究センター
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
