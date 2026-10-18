@@ -1,0 +1,21 @@
+id: theory-of-ultrafast-spectroscopy-energy-and-charge-transfer-hansen-group
+name: Theory of Ultrafast Spectroscopy, Energy and Charge Transfer - Hansen Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/hansen/
+topics:
+  - spectroscopy
+  - quantum-dynamics
+  - photochemistry
+  - catalysis
+  - materials-modeling
+description: The Hansen group is a theoretical chemistry research group at the
+  University of Copenhagen, focusing on ultrafast spectroscopy, energy and
+  charge transfer in molecular systems, including molecular junctions, solar
+  cells, and photosynthetic proteins. Their research explores quantum dynamics,
+  catalysis in metalloproteins, and electron transport phenomena.
+added: 2026-10-18
+pi: Thorsten Hansen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
