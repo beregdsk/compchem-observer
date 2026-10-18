@@ -1,0 +1,22 @@
+id: group-f2053c3e
+name: 連続系場の理論研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/ftrt/index.html
+topics:
+  - software-hpc
+description: The Continuous Field Theory Research Team, led by Yasumichi Aoki at
+  the RIKEN Center for Computational Science in Kobe, conducts theoretical and
+  computational research in particle physics, focusing on lattice QCD to explore
+  the standard model, chiral symmetry, and phase transitions. They perform
+  large-scale numerical simulations on the Fugaku supercomputer, developing
+  advanced algorithms and high-performance computing libraries to bridge
+  first-principle calculations with physical phenomena and the evolution of the
+  universe.
+added: 2026-10-18
+aliases:
+  - 連続系場の理論研究チーム 素粒子論 チームプリンシパル青木 保道
+pi: Yasumichi Aoki
+parent: 理化学研究所計算科学研究センター
+location:
+  city: Kobe
+  country: JP
