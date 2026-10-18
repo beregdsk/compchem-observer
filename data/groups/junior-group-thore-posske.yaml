@@ -1,0 +1,22 @@
+id: junior-group-thore-posske
+name: Junior Group Thore Posske
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-posske.html
+topics:
+  - materials-modeling
+  - quantum-computing-chemistry
+  - electronic-structure
+description: This page serves as the official representation of the Junior Group
+  led by Dr. Thore Posske at the I. Institute of Theoretical Physics, University
+  of Hamburg. The group conducts theoretical research in condensed matter
+  physics, focusing on topologically robust properties, spin systems, anyons,
+  and Majorana fermions to advance quantum technologies and quantum computing.
+  Their research also covers the Kondo effect and hybrid systems of trivial and
+  topological phases. The page includes details on the team, research areas,
+  publications, teaching, and contact information in Hamburg.
+added: 2026-10-18
+pi: Thore Posske
+parent: University of Hamburg
+location:
+  city: Hamburg
+  country: DE
