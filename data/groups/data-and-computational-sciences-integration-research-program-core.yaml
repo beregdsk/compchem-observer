@@ -1,0 +1,22 @@
+id: data-and-computational-sciences-integration-research-program-core
+name: Data and Computational Sciences Integration Research Program (CoRe)
+kind: group
+website: https://www.riken.jp/en/research/labs/trip/core/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - software-hpc
+  - quantum-computing-chemistry
+description: The Data and Computational Sciences Integration Research Program
+  (CoRe) at RIKEN focuses on constructing a quantum-supercomputer hybrid
+  platform, developing high-quality data storage and use environments, and
+  creating advanced simulation and prediction algorithms. By integrating data
+  and computational science, the program aims to expand computationally viable
+  regions and pioneer predictive control science, applying these innovations to
+  physics, chemistry, and life sciences to address global challenges.
+added: 2026-10-18
+pi: Shinji Tsuneyuki
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
