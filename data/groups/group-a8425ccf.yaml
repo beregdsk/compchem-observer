@@ -1,0 +1,20 @@
+id: group-a8425ccf
+name: 超伝導量子エレクトロニクス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/superconduct_qtm_electron/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - spectroscopy
+description: The Superconducting Quantum Electronics Research Team, part of the
+  Quantum Computing Research Center at RIKEN, is led by Team Director Yasunobu
+  Nakamura. The team conducts cutting-edge research in quantum information
+  science, leveraging the quantum properties of superconducting electrical
+  circuits to develop novel information processing and precision measurement
+  technologies, including superconducting qubits and quantum optics.
+added: 2026-10-18
+pi: Yasunobu Nakamura
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
