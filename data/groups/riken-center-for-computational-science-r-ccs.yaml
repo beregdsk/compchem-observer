@@ -1,0 +1,21 @@
+id: riken-center-for-computational-science-r-ccs
+name: RIKEN Center for Computational Science (R-CCS)
+kind: institute
+website: https://www.riken.jp/en/research/labs/r-ccs/
+topics:
+  - software-hpc
+  - biomolecular-simulation
+  - drug-design
+  - materials-modeling
+  - quantum-computing-chemistry
+description: The RIKEN Center for Computational Science (R-CCS) is a premier
+  research institute operating the flagship 'Fugaku' supercomputer. It focuses
+  on advancing computational and computer sciences by integrating HPC with AI
+  and quantum computing. Through specialized teams in molecular science,
+  biophysics, materials, climate, and drug development, the center drives
+  pioneering research in AI for science and next-generation supercomputing.
+added: 2026-10-18
+parent: RIKEN
+location:
+  city: Kobe
+  country: JP
