@@ -1,0 +1,25 @@
+id: core
+name: 統合データ・計算科学プログラム（CoRe）
+kind: group
+website: https://www.riken.jp/research/labs/trip/core/
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+  - ml-chemistry
+  - ml-potentials
+  - biomolecular-simulation
+description: The Integrated Data and Computational Science Program (CoRe) at
+  RIKEN aims to build and advance hybrid computing environments combining
+  supercomputers and quantum computers, accumulate high-quality experimental and
+  measurement data, and develop advanced simulation methods, data science, and
+  predictive algorithms. It seeks to expand computational capabilities and
+  pioneer future predictive control science, applying its outcomes to diverse
+  fields such as physics, chemistry, and life sciences.
+added: 2026-10-18
+aliases:
+  - 統合データ・計算科学プログラム
+pi: 常行 真司
+parent: 理化学研究所
+location:
+  city: 和光市
+  country: JP
