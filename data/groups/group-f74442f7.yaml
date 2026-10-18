@@ -1,0 +1,21 @@
+id: group-f74442f7
+name: 強相関量子構造研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_qtm_struct/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+description: This research group, led by Director Takahisa Arima at the Center
+  for Emergent Matter Science, RIKEN, focuses on clarifying the origins of
+  emergent properties in strongly correlated electron systems at the atomic
+  level. They investigate the static spatial distributions and dynamic
+  fluctuations of atomic arrangements, electron density, and spin density using
+  quantum beams like X-rays, neutrons, and high-energy electrons for scattering,
+  spectroscopy, and imaging.
+added: 2026-10-18
+pi: Takahisa Arima
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP
