@@ -1,0 +1,20 @@
+id: circuits-electroniques-quantiques-alpes-quanteca
+name: Circuits électroniques quantiques Alpes (QuantECA)
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/circuits-electroniques-quantiques-alpes-quanteca
+topics:
+  - quantum-computing-chemistry
+description: The QuantECA (Quantum Electronic Circuits Alps) team at the
+  Institut Néel focuses on the experimental study of quantum effects in novel
+  nano-electronic devices. Their research encompasses superconducting qubits,
+  quantum acoustics, spin qubits, and electronic flying qubits, utilizing
+  state-of-the-art nanofabrication and low-temperature microwave techniques to
+  advance quantum technologies.
+added: 2026-10-18
+aliases:
+  - QuantECACircuits électroniques quantiques Alpes
+pi: Cécile Naud
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR
