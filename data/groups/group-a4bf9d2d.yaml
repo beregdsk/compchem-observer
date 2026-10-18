@@ -1,0 +1,22 @@
+id: group-a4bf9d2d
+name: ポリマーオミクスチーム
+kind: group
+website: https://www.riken.jp/research/labs/trip/agis/polymeromics/index.html
+topics:
+  - molecular-dynamics
+  - ml-potentials
+  - ml-chemistry
+  - materials-modeling
+  - cheminformatics
+description: The Polymeromics Team at RIKEN, led by Team Director Ryo Yoshida,
+  develops foundational models for polymer materials by integrating real-world
+  experimental data with computational experiments. The team builds the world's
+  largest polymer materials database using automated molecular dynamics and
+  first-principles calculations, and researches Sim2Real machine learning and
+  AI-driven automated material exploration systems.
+added: 2026-10-18
+pi: 吉田 亮
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
