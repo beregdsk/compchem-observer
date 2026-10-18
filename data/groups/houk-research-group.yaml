@@ -1,0 +1,24 @@
+id: houk-research-group
+name: Houk Research Group
+kind: group
+website: https://www.chem.ucla.edu/dept/Faculty/houk/
+topics:
+  - catalysis
+  - biomolecular-simulation
+  - molecular-dynamics
+  - photochemistry
+  - materials-modeling
+description: The Houk Research Group, led by Professor Kendall N. Houk at the
+  University of California, Los Angeles (UCLA), conducts theoretical and
+  computational research in organic and bio-organic chemistry. The group focuses
+  on predicting and designing new reactions, reagents, and catalysts, with a
+  strong emphasis on enzyme mechanisms, pericyclic reactions, molecular
+  dynamics, and the design of nanomachines.
+added: 2026-10-18
+aliases:
+  - 'Houk Research Group :: Houk'
+pi: Kendall N. Houk
+parent: University of California, Los Angeles
+location:
+  city: Los Angeles
+  country: US
