@@ -1,0 +1,23 @@
+id: gerrit-boschloo-group
+name: Gerrit Boschloo group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/boschloo-group
+topics:
+  - photochemistry
+  - electrochemistry
+  - spectroscopy
+  - materials-modeling
+  - excited-states
+description: The Gerrit Boschloo group at Uppsala University investigates
+  fundamental aspects of dye-sensitized solar cells and perovskite solar cells.
+  Their research focuses on the molecular design of dyes, redox mediators, and
+  hole conductors, alongside studying ion conduction and stability to advance
+  low-cost photovoltaic technologies.
+added: 2026-10-19
+aliases:
+  - Boschloo group
+pi: Gerrit Boschloo
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
