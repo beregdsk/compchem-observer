@@ -1,0 +1,23 @@
+id: lo-leggio-group
+name: Lo Leggio Group
+kind: group
+website: https://chem.ku.dk/research_sections/biologicalchemistry/crystallography/
+topics:
+  - molecular-dynamics
+  - materials-modeling
+  - software-hpc
+description: The Lo Leggio Group, led by Professor Leila Lo Leggio at the
+  University of Copenhagen's Department of Chemistry, focuses on structural
+  chemistry of biological macromolecules. The group primarily uses
+  crystallography to study protein structures and their interactions with other
+  proteins, carbohydrates, and DNA. Research areas include
+  carbohydrate-modifying enzymes for biomass degradation, bacteriophage
+  regulators, and advanced macromolecular crystallography techniques. The group
+  complements crystallography with protein chemistry, biochemistry, and
+  computational methods to understand how…
+added: 2026-10-19
+pi: Leila Lo Leggio
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
