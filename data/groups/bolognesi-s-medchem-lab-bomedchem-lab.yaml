@@ -1,0 +1,20 @@
+id: bolognesi-s-medchem-lab-bomedchem-lab
+name: Bolognesi's MedChem Lab (BOMedChem Lab)
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/bolognesi-s-medchem-lab-bomedchem-lab-coordinator-bolognesi
+topics:
+  - drug-design
+  - cheminformatics
+  - biomolecular-simulation
+description: Bolognesi's MedChem Lab (BOMedChem Lab) is a research group at the
+  Department of Pharmacy and Biotechnology - FABIT, University of Bologna, led
+  by Maria Laura Bolognesi. The group focuses on the design and synthesis of
+  small molecules, particularly multi-target-directed ligands and degraders like
+  PROTACs, for neurodegenerative and infectious diseases, alongside sustainable
+  drug discovery from agro-industrial waste.
+added: 2026-10-19
+pi: Maria Laura Bolognesi
+parent: Department of Pharmacy and Biotechnology - FABIT
+location:
+  city: Bologna
+  country: IT
