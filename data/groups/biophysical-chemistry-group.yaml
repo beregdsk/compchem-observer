@@ -1,0 +1,21 @@
+id: biophysical-chemistry-group
+name: Biophysical Chemistry Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/biophysical-chemistry-group/
+topics:
+  - biomolecular-simulation
+  - soft-matter
+  - spectroscopy
+  - materials-modeling
+description: The Biophysical Chemistry Group at the Faculty of Chemistry,
+  University of Warsaw, led by Prof. Wojciech Dzwolak, conducts research at the
+  interface of chemistry, biology, and physics. Key areas include protein
+  aggregation and amyloidogenesis, non-Anfinsenian protein folding, prebiotic
+  chemistry, optical spectroscopy of biomacromolecules, and biological soft
+  matter for bionanomaterials.
+added: 2026-10-19
+pi: Wojciech Dzwolak
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
