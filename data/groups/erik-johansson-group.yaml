@@ -1,0 +1,25 @@
+id: erik-johansson-group
+name: Erik Johansson group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/johansson-group
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electrochemistry
+  - photochemistry
+  - catalysis
+description: The Erik Johansson group at Uppsala University's Department of
+  Chemistry focuses on developing novel solar cell devices, including
+  perovskite, quantum dot, and dye-sensitized solar cells. Their research
+  involves synthesizing and optimizing hybrid inorganic/organic nanoscale
+  materials for efficient and eco-friendly energy conversion, utilizing advanced
+  spectroscopic techniques to study device physics, and exploring large-scale
+  manufacturing and applications in transportation.
+added: 2026-10-19
+aliases:
+  - Johansson group
+pi: Erik Johansson
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
