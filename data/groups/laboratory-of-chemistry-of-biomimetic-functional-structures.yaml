@@ -1,0 +1,21 @@
+id: laboratory-of-chemistry-of-biomimetic-functional-structures
+name: Laboratory of Chemistry of Biomimetic Functional Structures
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/laboratory-of-surface-science/
+topics:
+  - electrochemistry
+  - spectroscopy
+description: The Laboratory of Chemistry of Biomimetic Functional Structures
+  (ChemBioFuN Lab) at the Faculty of Chemistry, University of Warsaw, led by
+  Prof. Sławomir Sęk, focuses on bioelectrochemistry, surface physicochemistry,
+  and functional biomimetic systems. The group constructs and analyzes
+  biomimetic lipid membranes to study interactions with antimicrobial peptides,
+  investigates ion channels and long-range electron transport in peptides for
+  molecular electronics, and utilizes advanced surface techniques like AFM and
+  ATR-SEIRAS to develop bioinspired sensors and nanostructured biomaterials.
+added: 2026-10-19
+pi: Sławomir Sęk
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
