@@ -1,0 +1,21 @@
+id: crystalline-order-and-disorder-group
+name: Crystalline Order and Disorder Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/crystalline-order-and-disorder-group/
+topics:
+  - materials-modeling
+  - software-hpc
+description: The Crystalline Order and Disorder Group at the Faculty of
+  Chemistry, University of Warsaw, led by Dr. Wojciech Sławiński, investigates
+  the local and short-range atomic structures of advanced crystalline materials.
+  By utilizing Pair Distribution Function (PDF) analysis from synchrotron and
+  neutron diffraction experiments, the group aims to understand how local
+  disorder influences material properties. Additionally, they develop software
+  tools like RMCProfile and RMCAnalyze to support structural analysis and
+  modeling.
+added: 2026-10-19
+pi: Wojciech Sławiński
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
