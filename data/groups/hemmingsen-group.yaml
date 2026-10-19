@@ -1,0 +1,22 @@
+id: hemmingsen-group
+name: Hemmingsen Group
+kind: group
+website: https://chem.ku.dk/research_sections/biologicalchemistry/hemmingsen-group/
+topics:
+  - spectroscopy
+  - biomolecular-simulation
+  - electronic-structure
+  - catalysis
+description: The Hemmingsen Group, led by Associate Professor Lars Hemmingsen at
+  the Department of Chemistry, University of Copenhagen, focuses on bioinorganic
+  chemistry and PAC spectroscopy. The research aims to elucidate the role of
+  metal ions in biological systems, such as enzyme-catalyzed reactions, protein
+  aggregation in Alzheimer's disease, bacterial enzymes in antibiotic
+  resistance, and biosensors, utilizing spectroscopic techniques, PAC, beta-NMR
+  spectroscopy, and quantum chemical calculations.
+added: 2026-10-19
+pi: Lars Hemmingsen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
