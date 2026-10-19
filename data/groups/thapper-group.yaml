@@ -1,0 +1,21 @@
+id: thapper-group
+name: Thapper group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/synthetic-molecular-chemistry/thapper-group
+topics:
+  - catalysis
+  - photochemistry
+  - electrochemistry
+description: The Thapper group, led by Anders Thapper at the Department of
+  Chemistry - Ångström Laboratory, Uppsala University, focuses on artificial
+  photosynthesis and bioinorganic chemistry. Their research involves
+  synthesizing transition metal complexes as catalysts for water oxidation,
+  developing photocatalytic systems for solar fuel production, and creating
+  iron-manganese complexes as biomimetic models for dimetal-carboxylate
+  proteins.
+added: 2026-10-19
+pi: Anders Thapper
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
