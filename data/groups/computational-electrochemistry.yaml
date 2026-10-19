@@ -1,0 +1,23 @@
+id: computational-electrochemistry
+name: Computational Electrochemistry
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/research-projects/computational-electrochemistry
+topics:
+  - electrochemistry
+  - molecular-dynamics
+  - dft
+  - ml-potentials
+  - materials-modeling
+description: The Computational Electrochemistry group at Uppsala University, led
+  by Dr. Chao Zhang, focuses on the fundamental aspects of ion-conducting
+  solutions and electrically charged interfaces for electrochemical energy
+  storage and conversion. Their research includes developing finite-field
+  molecular dynamics methods, simulating ion transport in liquid and polymer
+  electrolytes, and creating machine learning tools like the PiNN library for
+  atomistic simulations.
+added: 2026-10-19
+pi: Chao Zhang
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
