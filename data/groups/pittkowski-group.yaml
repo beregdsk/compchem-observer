@@ -1,0 +1,21 @@
+id: pittkowski-group
+name: Pittkowski Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/pittkowski-group/
+topics:
+  - catalysis
+  - electrochemistry
+description: The Pittkowski Group, led by Rebecca K. Pittkowski at the
+  University of Copenhagen's Department of Chemistry, investigates the
+  relationship between nanoparticle structure and catalytic properties. The
+  group synthesizes metal alloy and oxide nanoparticles, studying their
+  electrocatalytic behavior for energy conversion reactions like water
+  electrolysis and fuel cells. They employ synchrotron X-ray techniques,
+  including XAS, to understand catalyst structure and stability under reaction
+  conditions.
+added: 2026-10-19
+pi: Rebecca K. Pittkowski
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
