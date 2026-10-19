@@ -1,0 +1,23 @@
+id: crystallography-team
+name: Crystallography Team
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/crystallographic-group/
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - materials-modeling
+description: The Crystallography Team, part of the Faculty of Chemistry at the
+  University of Warsaw and headed by Prof. Krzysztof Woźniak, specialises in
+  quantum crystallography, refining Hirshfeld atom methods for X‑ray and
+  electron data. The group conducts structural and electron‑density analyses of
+  organic, inorganic and macromolecular crystals, studies pharmaceuticals and
+  their interactions with proteins and DNA, applies electron diffraction to
+  nanocrystals, and investigates ice polymorphism, hydrates, thermal motion and
+  crystallisation. Additional research explores molecular and electronic
+  structure…
+added: 2026-10-19
+pi: Krzysztof Woźniak
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
