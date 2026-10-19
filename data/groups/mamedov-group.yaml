@@ -1,0 +1,23 @@
+id: mamedov-group
+name: Mamedov group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/mamedov-group
+topics:
+  - photochemistry
+  - spectroscopy
+  - catalysis
+  - electrochemistry
+  - biomolecular-simulation
+description: The Mamedov group, based at the Department of Chemistry - Ångström
+  Laboratory at Uppsala University, focuses on photosynthetic light reactions,
+  particularly water oxidation and proton-coupled electron transfer in
+  Photosystem II. They utilize biochemical, biophysical, and spectroscopic
+  methods, with a primary focus on Electron Paramagnetic Resonance (EPR)
+  spectroscopy, to study photosynthetic hydrogen production and thylakoid
+  membrane dynamics.
+added: 2026-10-19
+pi: Fikret Mamedov
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
