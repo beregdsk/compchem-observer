@@ -1,0 +1,22 @@
+id: biomodellab
+name: Biomodellab
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/biomodellab/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - drug-design
+description: Biomodellab is a computational chemistry research group at the
+  Faculty of Chemistry, University of Warsaw, led by Prof. Sławomir Filipek. The
+  group specializes in the molecular modeling of membrane proteins, focusing on
+  G protein-coupled receptors (GPCRs) and the enzyme gamma-secretase. Their
+  research investigates ligand binding, receptor activation, signal
+  transduction, and the role of lipids and cholesterol, with a strong emphasis
+  on drug design and understanding Alzheimer's disease. They also develop novel
+  coarse-grained modeling methods for membrane proteins.
+added: 2026-10-19
+pi: Sławomir Filipek
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
