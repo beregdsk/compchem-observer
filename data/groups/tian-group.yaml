@@ -1,0 +1,21 @@
+id: tian-group
+name: Tian group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/tian-group
+topics:
+  - photochemistry
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - materials-modeling
+description: The Tian group, led by Professor Haining Tian at Uppsala
+  University, works on molecular devices for artificial photosynthesis. Their
+  research focuses on developing organic materials and devices for solar energy
+  conversion and storage, including organic polymer nano-photocatalysts, water
+  splitting, CO2 reduction, and solid-state mesoporous solar cells.
+added: 2026-10-19
+pi: Haining Tian
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
