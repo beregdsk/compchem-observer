@@ -1,0 +1,21 @@
+id: khusniyarov-group
+name: Khusniyarov Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/khusniyarov-group/people/
+topics:
+  - spectroscopy
+  - materials-modeling
+  - electronic-structure
+description: The Khusniyarov Group, led by PD Dr. Marat Khusniyarov, is a
+  research group based at the Department of Chemistry and Pharmacy of the
+  Friedrich-Alexander-Universität Erlangen-Nürnberg in Erlangen, Germany. The
+  group's research focuses on molecular switches, such as spin-crossover and
+  valence tautomeric systems, and metallosupramolecular magnetic networks,
+  utilizing spectroscopic and theoretical methods to study metal complexes.
+added: 2026-10-19
+pi: Marat Khusniyarov
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
