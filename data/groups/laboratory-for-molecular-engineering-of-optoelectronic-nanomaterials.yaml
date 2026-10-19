@@ -1,0 +1,23 @@
+id: laboratory-for-molecular-engineering-of-optoelectronic-nanomaterials
+name: Laboratory for Molecular Engineering of Optoelectronic Nanomaterials
+kind: group
+website: https://www.epfl.ch/labs/limno/
+topics:
+  - materials-modeling
+  - catalysis
+  - electrochemistry
+  - photochemistry
+  - spectroscopy
+description: The Laboratory for Molecular Engineering of Optoelectronic
+  Nanomaterials (LIMNO) at EPFL, led by Prof. Kevin Sivula, focuses on the
+  molecular design and engineering of organic and hybrid nanomaterials for solar
+  energy conversion, including photoelectrochemical cells, photocatalysis, and
+  perovskite-based optoelectronics.
+added: 2026-10-19
+aliases:
+  - Molecular engineering of optoelectronic nanomaterials Lab ‐ EPFL
+pi: Kevin Sivula
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH
