@@ -1,0 +1,22 @@
+id: laboratory-of-bioinorganic-chemistry
+name: Laboratory of Bioinorganic Chemistry
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/laboratory-of-bioinorganic-chemistry-coordinator-ciurli
+topics:
+  - drug-design
+  - biomolecular-simulation
+  - catalysis
+description: The page presents the Laboratory of Bioinorganic Chemistry at the
+  Department of Pharmacy and Biotechnology (FABIT) of the University of Bologna,
+  coordinated by Stefano Ciurli. The group focuses on the structural and
+  functional characterization of metalloenzymes like urease, viral proteases,
+  and nickel-binding proteins. Their research integrates experimental and
+  computational approaches for drug design, inhibitor development, and
+  biomolecular simulation to address challenges in human health and
+  environmental biotechnology.
+added: 2026-10-19
+pi: Stefano Ciurli
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT
