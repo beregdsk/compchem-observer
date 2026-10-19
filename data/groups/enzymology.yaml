@@ -1,0 +1,20 @@
+id: enzymology
+name: Enzymology
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/research-group-in-enzymology-coordinator-hochkoeppler
+topics:
+  - biomolecular-simulation
+  - drug-design
+  - education-training
+description: The Enzymology group at the University of Bologna's Department of
+  Pharmacy and Biotechnology, led by Alejandro Hochkoeppler, focuses on
+  understanding enzyme function and catalysis at the molecular level. Research
+  includes studying lactate dehydrogenase assembly, peptide inhibitors, and the
+  effects of trehalose on enzyme stability, with applications in industrial,
+  plant, and environmental biotechnology.
+added: 2026-10-19
+pi: Alejandro Hochkoeppler
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT
