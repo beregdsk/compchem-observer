@@ -1,0 +1,24 @@
+id: machine-learning-interatomic-potentials-for-atomistic-modeling-of-materials-charles-coulomb-laboratory-l2c
+name: Machine learning interatomic potentials for atomistic modeling of
+  materials – Charles Coulomb Laboratory (L2C)
+kind: group
+website: https://coulomb.umontpellier.fr/en/research-areas/theoretical-physics/statistical-physics/machine-learning-interatomic-potentials-for-atomistic-modeling-of-materials/
+topics:
+  - ml-potentials
+  - materials-modeling
+  - molecular-dynamics
+  - electronic-structure
+  - spectroscopy
+description: This page presents the research group on machine learning
+  interatomic potentials at the Charles Coulomb Laboratory (L2C), coordinated by
+  Simona Ispas and Thibault Sohier. The group focuses on developing
+  machine-learned interatomic potentials from quantum-mechanical data to perform
+  large-scale atomistic simulations of complex materials, such as amorphous
+  systems and 2D van der Waals heterostructures, bridging the gap between
+  accuracy and computational cost.
+added: 2026-10-19
+pi: Simona Ispas and Thibault Sohier
+parent: Université de Montpellier
+location:
+  city: Montpellier
+  country: FR
