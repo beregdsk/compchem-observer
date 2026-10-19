@@ -1,0 +1,20 @@
+id: emergent-functional-magnetic-materials-research-unit
+name: Emergent Functional Magnetic Materials Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/emerg_funct_magn_mta/index.html
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+description: The Emergent Functional Magnetic Materials Research Unit at RIKEN
+  Center for Emergent Matter Science, led by Kosuke Karube, focuses on
+  synthesizing new magnetic materials with topological and high-performance
+  functions. The unit investigates intermetallic and oxide compounds, exploring
+  skyrmions, strongly correlated electron systems, and topological properties
+  using magnetometry, scanning probe microscopy, and neutron scattering.
+added: 2026-10-19
+pi: Kosuke Karube
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
