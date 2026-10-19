@@ -1,0 +1,22 @@
+id: electron-density-modelling-group
+name: Electron Density Modelling Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/electron-density-modelling-group/
+topics:
+  - electronic-structure
+  - biomolecular-simulation
+  - drug-design
+  - materials-modeling
+description: The Electron Density Modelling Group, led by Prof. Paulina Dominiak
+  at the Faculty of Chemistry, University of Warsaw, develops new methods for
+  electron density modelling applicable to X-ray and electron crystallography,
+  chemistry, and structural biology. Their research focuses on extracting more
+  information from diffraction data, bridging classical mechanics and quantum
+  mechanics, and analyzing intermolecular interactions and electrostatics in
+  organic crystals, proteins, and nucleic acids, with relevance to drug design.
+added: 2026-10-19
+pi: Paulina Dominiak
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
