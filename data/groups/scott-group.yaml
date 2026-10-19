@@ -1,0 +1,23 @@
+id: scott-group
+name: Scott Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/scott-group/
+topics:
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - ml-chemistry
+  - software-hpc
+description: The Scott Group, part of the Nano Chemistry section at the
+  University of Copenhagen, is led by Søren Scott. The group focuses on the
+  fundamental understanding of electrochemical interfaces and energy conversion,
+  particularly electrocatalysis for water oxidation and CO2 reduction. They
+  develop in-situ spectroscopic and mass spectrometry methods, apply machine
+  learning for catalyst discovery, and create open-source software for data
+  handling.
+added: 2026-10-19
+pi: Søren Scott
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
