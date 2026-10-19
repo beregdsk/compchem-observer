@@ -1,0 +1,23 @@
+id: ccar-copenhagen-centrum-for-atmospheric-research
+name: CCAR - Copenhagen Centrum for Atmospheric Research
+kind: group
+website: https://chem.ku.dk/research_sections/physchem/ccar/
+topics:
+  - electronic-structure
+  - dft
+  - photochemistry
+  - spectroscopy
+  - quantum-dynamics
+description: CCAR is a research group at the Department of Chemistry, University
+  of Copenhagen, led by Professor Ole John Nielsen. The group investigates
+  atmospheric chemical and physical processes to quantify environmental impact
+  and develop climate-friendly solutions, combining quantum mechanical
+  computations with laboratory and field measurements. It has patented a
+  photochemical air purification process and operates the Atmospheric Infuser
+  Research laboratory.
+added: 2026-10-19
+pi: Ole John Nielsen
+parent: University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
