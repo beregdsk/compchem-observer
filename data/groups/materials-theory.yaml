@@ -1,0 +1,23 @@
+id: materials-theory
+name: Materials Theory
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/materials-theory
+topics:
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+  - materials-modeling
+  - software-hpc
+description: The Division of Materials Theory at Uppsala University's Department
+  of Physics and Astronomy focuses on the quantum mechanical description of
+  materials to understand and predict properties like superconductivity,
+  magnetism, and topological phases. Research encompasses electronic structure
+  theory, density functional theory, and molecular dynamics to design functional
+  materials for green energy conversion, such as solar cells, battery materials,
+  and hydrogen storage, alongside code development and computational physics.
+added: 2026-10-19
+pi: Olle Eriksson and Biplab Sanyal
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
