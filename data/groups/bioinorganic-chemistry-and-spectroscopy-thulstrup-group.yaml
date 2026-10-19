@@ -1,0 +1,23 @@
+id: bioinorganic-chemistry-and-spectroscopy-thulstrup-group
+name: Bioinorganic Chemistry and Spectroscopy - Thulstrup Group
+kind: group
+website: https://chem.ku.dk/research_sections/biologicalchemistry/thulstrup-group/
+topics:
+  - spectroscopy
+  - drug-design
+  - soft-matter
+description: The Thulstrup Group at the University of Copenhagen aims to
+  understand molecular structure, function and dynamics through optical
+  spectroscopy. It characterizes peptides, proteins and nucleic acids using
+  absorbance, fluorescence, circular dichroism and mass spectrometry, aided by
+  theoretical modelling. Research spans synthesis of siderophore-antibiotic
+  conjugates, fluorescent silver nanoclusters, metal‑ion effects on protein
+  folding, and molecular orientation in polymers, lipids and liquid crystals.
+added: 2026-10-19
+aliases:
+  - Thulstrup Group
+pi: Peter W. Thulstrup
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
