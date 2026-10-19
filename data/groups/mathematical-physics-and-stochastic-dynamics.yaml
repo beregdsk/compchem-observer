@@ -1,0 +1,18 @@
+id: mathematical-physics-and-stochastic-dynamics
+name: Mathematical Physics and Stochastic Dynamics
+kind: group
+website: https://www.mpinat.mpg.de/godec
+topics:
+  - biomolecular-simulation
+description: The Mathematical Physics and Stochastic Dynamics group, led by
+  Aljaz Godec, develops and applies methods of mathematical physics and
+  stochastic processes to study biophysical phenomena. Their primary focus is
+  the non-equilibrium statistical mechanics of single molecules, including
+  macromolecular conformation dynamics, spatial transport, binding, and
+  reactions, using a mix of rigorous analysis and computer simulations.
+added: 2026-10-19
+pi: Aljaz Godec
+parent: Institute of Physics, University of Freiburg
+location:
+  city: Freiburg
+  country: DE
