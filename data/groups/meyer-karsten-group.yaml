@@ -1,0 +1,24 @@
+id: meyer-karsten-group
+name: Meyer (Karsten) Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/meyer-karsten-group/
+topics:
+  - electronic-structure
+  - spectroscopy
+  - catalysis
+  - electrochemistry
+  - materials-modeling
+description: The Meyer (Karsten) Group, led by Prof. Dr. Karsten Meyer at the
+  Department of Chemistry and Pharmacy of Friedrich-Alexander-Universität
+  Erlangen-Nürnberg, is an inorganic chemistry research group. Their research
+  focuses on molecular materials for energy, information, and sustainability,
+  including the electronic structures of coordination complexes, spectroscopic
+  and computational analyses, electrocatalytic hydrogen production, and small
+  molecule activation at reactive metal complexes.
+added: 2026-10-19
+pi: Karsten Meyer
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
