@@ -1,0 +1,23 @@
+id: theoretical-physics-i
+name: Theoretical Physics I
+kind: group
+website: https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo1/
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - spectroscopy
+  - materials-modeling
+  - electronic-structure
+description: The Chair for Theoretical Physics I (Lehrstuhl für Theoretische
+  Physik I) at the University of Augsburg is a research group within the
+  Institute of Physics. Led by Professors Fabian Pauly, Gert-Ludwig Ingold, and
+  Peter Hänggi, the group conducts theoretical and computational research in
+  quantum dynamics, molecular electronics, spectroscopy, and materials modeling.
+added: 2026-10-19
+aliases:
+  - Chair for Theoretical Physics I
+pi: Fabian Pauly and Gert-Ludwig Ingold and Peter Hänggi
+parent: Institute of Physics, University of Augsburg
+location:
+  city: Augsburg
+  country: DE

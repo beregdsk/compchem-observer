@@ -1,0 +1,22 @@
+id: hammarstrom-group
+name: Hammarström group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/hammarstrom-group
+topics:
+  - photochemistry
+  - catalysis
+  - spectroscopy
+  - electrochemistry
+  - excited-states
+description: The Hammarström group, led by Leif Hammarström at Uppsala
+  University, focuses on fundamental mechanistic studies related to artificial
+  photosynthesis and photoredox catalysis. They use laser-spectroscopy,
+  photochemical, and electrochemical methods to study photoinduced and
+  proton-coupled electron transfer, catalytic pathways for solar fuel
+  production, and dye-sensitized solar cells.
+added: 2026-10-19
+pi: Leif Hammarström
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

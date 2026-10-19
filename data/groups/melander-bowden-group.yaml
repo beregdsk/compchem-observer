@@ -1,0 +1,22 @@
+id: melander-bowden-group
+name: Melander-Bowden group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/macromolecular-chemistry/melander-bowden-group
+topics:
+  - soft-matter
+  - electrochemistry
+  - materials-modeling
+  - spectroscopy
+  - drug-design
+description: The Melander-Bowden group, led by Tim Melander Bowden at the
+  Department of Chemistry - Ångström Laboratory, Uppsala University, focuses on
+  synthetic strategies and materials characterization of functional polymers.
+  Their research areas include biomedical applications, such as
+  anti-inflammatory polymers and drug delivery systems, as well as energy
+  storage materials like solid polymer electrolytes for lithium-ion batteries.
+added: 2026-10-19
+pi: Tim Melander Bowden
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

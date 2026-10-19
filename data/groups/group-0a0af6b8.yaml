@@ -1,0 +1,24 @@
+id: group-0a0af6b8
+name: 柚木計算物性物理研究室
+kind: group
+website: https://www.riken.jp/research/labs/chief/computat_condens_matter_phys/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+  - software-hpc
+  - wavefunction-methods
+description: The Yunoki Computational Condensed Matter Physics Laboratory, led
+  by Principal Researcher Seiji Yunoki at RIKEN, focuses on theoretically
+  elucidating quantum phenomena in strongly correlated electron systems, such as
+  transition metal oxides and low-dimensional organic conductors. Utilizing
+  numerical methods like variational Monte Carlo and density matrix
+  renormalization group, the group investigates novel electronic states, quantum
+  dynamics, spin liquids, and topological phases, while developing new
+  computational physics software and techniques.
+added: 2026-10-19
+pi: Seiji Yunoki
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP

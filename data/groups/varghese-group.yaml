@@ -1,0 +1,19 @@
+id: varghese-group
+name: Varghese group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/macromolecular-chemistry/varghese-group/bioorthogonal-chemistry-for-designing-3d-scaffolds
+topics:
+  - materials-modeling
+  - soft-matter
+description: The Varghese group at the Department of Chemistry - Ångström
+  Laboratory, Uppsala University, focuses on bioorthogonal chemistry for
+  designing 3D scaffolds and smart hydrogels that mimic the extracellular matrix
+  (ECM). Their research aims to perform organic reactions in living systems
+  without toxic catalysts, modulating pKa of reactive groups to create stable
+  covalent networks for tissue engineering and regenerative medicine.
+added: 2026-10-19
+pi: Oommen Varghese
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

@@ -1,0 +1,23 @@
+id: edwards-group
+name: Edwards group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/edwards-group
+topics:
+  - soft-matter
+  - drug-design
+  - biomolecular-simulation
+  - materials-modeling
+description: The Katarina Edwards group is a research group based at the
+  Department of Chemistry - Ångström Laboratory, Uppsala University. The group
+  specializes in colloid and interface chemistry, focusing on soft surfaces and
+  colloidal systems formed by lipids and surfactants. Their research
+  investigates molecular interactions, membrane properties, and structural
+  transformations in liposomes and self-assembled lipid structures, aiming to
+  develop nanocarriers for drug delivery, model membranes, and sensor surfaces
+  for biomolecular analysis.
+added: 2026-10-19
+pi: Katarina Edwards
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

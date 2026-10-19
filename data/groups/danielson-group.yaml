@@ -1,0 +1,21 @@
+id: danielson-group
+name: Danielson Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/biochemistry/danielson-group
+topics:
+  - drug-design
+  - cheminformatics
+  - biomolecular-simulation
+description: The Danielson Group, based at the Department of Chemistry for Life
+  Sciences at Uppsala University, focuses on molecular interactions, enzymology,
+  and drug discovery. The group aims to identify molecules that bind to enzymes
+  or ion channels to prevent disease-associated chemical reactions or transport,
+  contributing to the discovery of safe and effective drugs. They combine
+  computational modeling, biosensor analysis, and biophysical methods to study
+  molecular recognition, binding kinetics, and thermodynamics.
+added: 2026-10-19
+pi: Helena Danielson
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

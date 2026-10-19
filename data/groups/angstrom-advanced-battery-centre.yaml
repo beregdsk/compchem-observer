@@ -1,0 +1,23 @@
+id: angstrom-advanced-battery-centre
+name: Ångström Advanced Battery Centre
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/angstrom-advanced-battery-centre
+topics:
+  - electrochemistry
+  - materials-modeling
+  - molecular-dynamics
+description: The Ångström Advanced Battery Centre (ÅABC) is the largest battery
+  research group in the Nordic region, hosted at the Department of Chemistry -
+  Ångström Laboratory, Uppsala University. Led by five professors and comprising
+  over 100 researchers, their research covers the entire value chain of battery
+  technologies, focusing on active materials, electrolytes, and separators for
+  electric vehicles and energy storage. They work on lithium-ion, sodium-ion,
+  lithium metal, organic, and lithium-sulfur batteries, combining experimental
+  and computational methods.
+added: 2026-10-19
+pi: Daniel Brandell and Patrik Johansson and Erik Berg and Reza Younesi and
+  Peter Broqvist
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

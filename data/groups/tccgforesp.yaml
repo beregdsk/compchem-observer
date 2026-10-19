@@ -1,0 +1,21 @@
+id: tccgforesp
+name: TCCGforESP
+kind: group
+website: https://skmin.unist.ac.kr/
+topics:
+  - excited-states
+  - molecular-dynamics
+  - quantum-dynamics
+  - ml-chemistry
+  - electronic-structure
+description: The Theoretical/Computational Chemistry Group for ESP at UNIST
+  develops novel methods to describe excited state phenomena of molecules and
+  materials, applying them to design multi-functional futuristic devices. Their
+  research covers nonadiabatic dynamics, machine learning for excited states,
+  and software development for excited state molecular dynamics.
+added: 2026-10-19
+parent: Department of Chemistry, Ulsan National Institute of Science and
+  Technology (UNIST)
+location:
+  city: Ulsan
+  country: KR

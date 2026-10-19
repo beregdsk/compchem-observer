@@ -1,0 +1,21 @@
+id: shylin-group
+name: Shylin group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/shylin-group
+topics:
+  - catalysis
+  - electrochemistry
+  - photochemistry
+  - spectroscopy
+description: The Shylin group at Uppsala University's Department of Chemistry -
+  Ångström Laboratory focuses on photocatalytic and electrocatalytic energy and
+  chemical conversion. They develop photo- and electrochemical approaches for
+  small molecule activation, combining synthetic inorganic chemistry with
+  advanced spectroscopic, electrochemical, and crystallographic techniques to
+  investigate catalytic mechanisms and high-valent transition metal species.
+added: 2026-10-19
+pi: Sergii Shylin
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

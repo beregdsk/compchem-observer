@@ -1,0 +1,25 @@
+id: michal-maj-group
+name: Michal Maj group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/maj-group
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - biomolecular-simulation
+  - dft
+description: The Michal Maj group, based at the Department of Chemistry -
+  Ångström Laboratory at Uppsala University, specializes in ultrafast
+  multidimensional laser spectroscopy and structural biology techniques like
+  cryo-EM to explore fundamental chemical and biophysical questions. Their
+  research encompasses topics such as protein misfolding, plant photoreceptor
+  signaling, and the photophysics and photochemistry of prebiotic molecules,
+  utilizing both experimental and computational methods.
+added: 2026-10-19
+aliases:
+  - Maj group
+pi: Michal Maj
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

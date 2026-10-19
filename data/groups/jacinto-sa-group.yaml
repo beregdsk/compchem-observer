@@ -1,0 +1,25 @@
+id: jacinto-sa-group
+name: Jacinto Sa group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/sa-group
+topics:
+  - spectroscopy
+  - catalysis
+  - electrochemistry
+  - photochemistry
+  - materials-modeling
+description: The Sa group, led by Professor Jacinto Sá at Uppsala University's
+  Department of Chemistry - Ångström Laboratory, conducts research on plasmonic
+  nanosystems. The group investigates light-matter interactions, focusing on
+  converting light into electrical charges and inducing near-field effects.
+  Using advanced spectroscopic methods, they study artificial photosynthesis,
+  photo-redox catalysis, and electrochemical CO2 reduction to develop
+  sustainable chemical and energy solutions.
+added: 2026-10-19
+aliases:
+  - Sa group
+pi: Jacinto Sá
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

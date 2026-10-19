@@ -1,0 +1,19 @@
+id: extreme-quantum-matter-physics-riken-ecl-research-unit
+name: Extreme Quantum Matter Physics RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/extr_qtm_matter_phys_riken_ecl/index.html
+topics:
+  - materials-modeling
+description: The Extreme Quantum Matter Physics RIKEN ECL Research Unit, led by
+  Unit Leader Yukako Fujishiro, is a research group within the RIKEN Center for
+  Emergent Matter Science. The unit investigates emergent phenomena in magnetic
+  topological materials and strongly correlated electron systems under extreme
+  conditions, employing microfabrication techniques on single crystalline
+  quantum materials to study ultra-high pressure responses, magnetization
+  dynamics, and ion intercalation.
+added: 2026-10-19
+pi: Yukako Fujishiro
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

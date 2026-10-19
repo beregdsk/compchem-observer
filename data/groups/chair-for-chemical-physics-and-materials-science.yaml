@@ -1,0 +1,21 @@
+id: chair-for-chemical-physics-and-materials-science
+name: Chair for Chemical Physics and Materials Science
+kind: group
+website: https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/cpm/
+topics:
+  - materials-modeling
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+  - spectroscopy
+description: The official homepage of the Chair for Chemical Physics and
+  Materials Science at the Institute of Physics, University of Augsburg. Jointly
+  led by Prof. Dr. Wolfgang Scherer and Prof. Dr. Leo van Wüllen, the group
+  conducts research in theoretical and computational chemistry, physical
+  chemistry, and materials science.
+added: 2026-10-19
+pi: Wolfgang Scherer and Leo van Wüllen
+parent: Institute of Physics, University of Augsburg
+location:
+  city: Augsburg
+  country: DE

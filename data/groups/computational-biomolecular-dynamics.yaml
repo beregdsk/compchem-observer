@@ -1,0 +1,19 @@
+id: computational-biomolecular-dynamics
+name: Computational Biomolecular Dynamics
+kind: group
+website: https://www.mpinat.mpg.de/degroot
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+description: The Computational Biomolecular Dynamics group, led by Bert L. de
+  Groot at the Max Planck Institute for Multidisciplinary Sciences, studies the
+  relationship between dynamics and function of biological macromolecules at the
+  atomic level using computer simulations. Their research focuses on permeation
+  events in membrane channels like aquaporins, collective modes of motion in
+  enzymes, and the development of novel simulation techniques.
+added: 2026-10-19
+pi: Bert L. de Groot
+parent: Max Planck Institute for Multidisciplinary Sciences
+location:
+  city: Göttingen
+  country: DE

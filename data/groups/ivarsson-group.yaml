@@ -1,0 +1,19 @@
+id: ivarsson-group
+name: Ivarsson Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/biochemistry/ivarsson-group
+topics:
+  - cheminformatics
+  - drug-design
+description: The Ivarsson Group at Uppsala University's Department of Chemistry
+  for Life Sciences, led by Ylva Ivarsson, investigates molecular interactions
+  in cell function and dysfunction, focusing on linear motifs and peptide
+  binding domains. The group aims to advance the understanding of human
+  protein-protein interaction networks in health and disease by combining
+  biochemical, biophysical, bioinformatic, and cell-based approaches.
+added: 2026-10-19
+pi: Ylva Ivarsson
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

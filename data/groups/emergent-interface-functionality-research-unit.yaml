@@ -1,0 +1,20 @@
+id: emergent-interface-functionality-research-unit
+name: Emergent Interface Functionality Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/emerg-if-func/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Emergent Interface Functionality Research Unit, led by Shinichi
+  Nishihaya at RIKEN Center for Emergent Matter Science, investigates quantum
+  physical phenomena in artificially engineered interfaces and nanostructures.
+  Focusing on high-mobility materials like topological materials and
+  semiconductors, the unit uses advanced epitaxial growth to create thin-film
+  samples and heterointerfaces, studying novel quantum phases and transport
+  functionalities through precise measurements and local probes.
+added: 2026-10-19
+pi: Shinichi Nishihaya
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

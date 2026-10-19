@@ -1,0 +1,18 @@
+id: riken-ecl-research-unit
+name: RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/ecl/cat-theor-phys-riken-ecl/
+topics:
+  - quantum-dynamics
+  - materials-modeling
+description: A research unit at RIKEN focused on theoretical physics, studying
+  quantum field theory, category theory, higher algebra, and generalized
+  symmetries to translate macroscopic behaviors of matter into microscopic
+  quantum models using tensor networks and lattice models.
+added: 2026-10-19
+pi: Kantaro Ohmori
+parent: RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences
+  (iTHEMS)
+location:
+  city: Wako
+  country: JP

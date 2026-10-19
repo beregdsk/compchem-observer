@@ -1,0 +1,22 @@
+id: modelling-of-battery-materials-and-cells
+name: Modelling of battery materials and cells
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/research-projects/modelling-of-battery-materials-and-cells
+topics:
+  - dft
+  - molecular-dynamics
+  - materials-modeling
+  - electrochemistry
+  - ml-chemistry
+description: The research group 'Modelling of battery materials and cells' at
+  Uppsala University focuses on computational simulations to study battery
+  materials, electrode/electrolyte interfaces, ion transport, and cell-level
+  phenomena. They employ advanced techniques such as Density Functional Theory,
+  Molecular Dynamics, Finite Element Methods, and machine learning to model
+  polymer electrolytes, surface reactions, and cell aging.
+added: 2026-10-19
+pi: Daniel Brandell
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

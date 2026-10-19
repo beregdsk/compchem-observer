@@ -1,0 +1,20 @@
+id: emergent-quantum-spintronics-research-unit
+name: Emergent Quantum Spintronics Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/emerg_qtm_spintron/index.html
+topics:
+  - materials-modeling
+  - quantum-dynamics
+description: The Emergent Quantum Spintronics Research Unit at RIKEN Center for
+  Emergent Matter Science, led by Tomoyuki Yokouchi, focuses on understanding
+  quantum and emergent properties in spintronics. By employing microfabrication
+  techniques, the unit develops novel spintronic and quantum transport phenomena
+  in various magnetic materials. Additionally, they investigate the classical
+  and quantum dynamics of topological spin structures to establish emergent
+  computational techniques like physical reservoir computing.
+added: 2026-10-19
+pi: Tomoyuki Yokouchi
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,21 @@
+id: lundberg-group
+name: Lundberg group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/lundberg-group
+topics:
+  - catalysis
+  - spectroscopy
+  - electronic-structure
+  - biomolecular-simulation
+  - photochemistry
+description: The Lundberg group at Uppsala University, led by Marcus Lundberg,
+  specializes in computational modeling of transition-metal catalysts and
+  enzymatic reactions for solar fuel generation. Their research focuses on
+  electronic structure theory and simulating X-ray spectroscopy to guide the
+  development of renewable energy catalysts.
+added: 2026-10-19
+pi: Marcus Lundberg
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

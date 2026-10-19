@@ -1,0 +1,23 @@
+id: cheah-group
+name: Cheah group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/cheah-group
+topics:
+  - electrochemistry
+  - catalysis
+  - spectroscopy
+  - dft
+  - biomolecular-simulation
+description: The Cheah group at Uppsala University's Department of Chemistry -
+  Ångström Laboratory, led by Mun Hon Cheah, focuses on renewable energy
+  conversion through the electrochemical activation of small molecules such as
+  CO2, N2, and H2O. They utilize electrochemical, FTIR, and XAS
+  spectroelectrochemistry, DFT calculations, and stable isotope labeling to
+  investigate water oxidation and reduction reactions using molecular catalysts
+  and biological enzymes.
+added: 2026-10-19
+pi: Mun Hon Cheah
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

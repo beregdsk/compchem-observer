@@ -1,0 +1,23 @@
+id: softsimu-group-of-prof-mikko-karttunen
+name: SoftSimu - Group of Prof. Mikko Karttunen
+kind: group
+website: https://www.softsimu.net/
+topics:
+  - biomolecular-simulation
+  - soft-matter
+  - molecular-dynamics
+  - ml-chemistry
+  - software-hpc
+description: This is the official homepage of the SoftSimu group, led by Prof.
+  Mikko Karttunen, focusing on the interface of condensed matter physics,
+  biology, and biomedical sciences. The group performs large-scale computer
+  simulations, multiscale modeling of biological systems, lipid membranes, and
+  proteins, while developing AI/ML and GPU-based computational methods. They are
+  based at the University of Eastern Finland, with additional ties to the ELLIS
+  Institute Finland at Aalto University.
+added: 2026-10-19
+pi: Mikko Karttunen
+parent: University of Eastern Finland
+location:
+  city: Kuopio
+  country: FI
