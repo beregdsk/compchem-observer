@@ -1,0 +1,21 @@
+id: group-of-prof-dr-marcella-iannuzzi
+name: Group of Prof. Dr. Marcella Iannuzzi
+kind: group
+website: https://www.chem.uzh.ch/en/research/groups/iannuzzi/members.html
+topics:
+  - dft
+  - molecular-dynamics
+  - electronic-structure
+  - software-hpc
+description: The research group of Prof. Dr. Marcella Iannuzzi at the Department
+  of Chemistry, University of Zurich, focuses on computational and theoretical
+  chemistry. The group conducts research in advanced simulation methods,
+  including density functional theory (DFT) and molecular dynamics, and is
+  heavily involved in the development of high-performance computational software
+  like CP2K to study molecular systems and materials.
+added: 2026-10-19
+pi: Marcella Iannuzzi
+parent: Department of Chemistry, University of Zurich
+location:
+  city: Zurich
+  country: CH
