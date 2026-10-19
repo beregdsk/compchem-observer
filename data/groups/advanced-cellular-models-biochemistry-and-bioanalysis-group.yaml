@@ -1,0 +1,20 @@
+id: advanced-cellular-models-biochemistry-and-bioanalysis-group
+name: Advanced Cellular Models, Biochemistry and Bioanalysis Group
+kind: group
+website: https://fabit.unibo.it/en/research/research-groups/advanced-cellular-models-biochemistry-and-bioanalysis-group-coordinator-iotti
+topics:
+  - drug-design
+  - spectroscopy
+  - biomolecular-simulation
+  - materials-modeling
+description: The Advanced Cellular Models, Biochemistry and Bioanalysis Group
+  focuses on studying molecular mechanisms underlying cellular metabolic
+  processes. Its research spans cancer biology, drug discovery and development,
+  and nutrition and health, utilizing fluorescent probes for magnesium,
+  nanocarriers for anticancer drugs, and synchrotron X-ray imaging.
+added: 2026-10-19
+pi: Stefano Iotti
+parent: Department of Pharmacy and Biotechnology - FABIT, University of Bologna
+location:
+  city: Bologna
+  country: IT
