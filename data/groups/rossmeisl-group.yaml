@@ -1,0 +1,22 @@
+id: rossmeisl-group
+name: Rossmeisl Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/theoretical-electrocatalysis/
+topics:
+  - dft
+  - electrochemistry
+  - catalysis
+  - materials-modeling
+  - electronic-structure
+description: The Rossmeisl Group at the Department of Chemistry, University of
+  Copenhagen, specializes in theoretical catalysis using atomic-scale
+  simulations and dynamics. Their research focuses on electrocatalysis for
+  reactions such as water splitting and CO2 reduction, utilizing periodic
+  density functional theory (DFT) to model catalytic interfaces and screen
+  high-entropy alloy and semiconductor materials.
+added: 2026-10-19
+pi: Jan Rossmeisl
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
