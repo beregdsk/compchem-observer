@@ -1,0 +1,20 @@
+id: laursen-group
+name: Laursen Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/nanochemistry/
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+description: The Laursen Group at the University of Copenhagen, part of Nano
+  Chemistry, focuses on the design and synthesis of fluorescent dyes and
+  molecular materials with novel optical properties. Their research explores
+  molecular photophysics, self-assembly of molecular materials, and the creation
+  of ultra-bright crystals, nanoparticles, and thin films for applications in
+  sensing, cell imaging, and fluorescence-guided surgery.
+added: 2026-10-19
+pi: Bo W. Laursen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK
