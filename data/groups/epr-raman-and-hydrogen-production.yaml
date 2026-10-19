@@ -1,0 +1,22 @@
+id: epr-raman-and-hydrogen-production
+name: EPR, Raman and Hydrogen Production
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/van-gastel/
+topics:
+  - spectroscopy
+  - electronic-structure
+  - catalysis
+description: The EPR, Raman and Hydrogen Production research group at the Max
+  Planck Institute for Coal Research, led by Dr. Maurice van Gastel, focuses on
+  understanding catalytic processes through the spectroscopic investigation of
+  the electronic structure of reaction intermediates. Utilizing resonance Raman
+  spectroscopy, electron paramagnetic resonance (EPR) spectroscopy, and quantum
+  chemistry, the group studies redox-active electrons and catalytic mechanisms
+  to identify transition states and energy barriers, supporting advancements in
+  hydrogen production and catalysis.
+added: 2026-10-19
+pi: Maurice van Gastel
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
