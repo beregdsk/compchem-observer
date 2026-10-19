@@ -1,0 +1,23 @@
+id: gustav-berggren-group
+name: Gustav Berggren group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/berggren-group
+topics:
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - photochemistry
+description: The Gustav Berggren group, based at the Department of Chemistry -
+  Ångström Laboratory at Uppsala University, is a bioinorganic chemistry
+  research team led by Gustav Berggren. They study metalloenzymes, particularly
+  [FeFe]-hydrogenases, to understand biological electron and proton transfer,
+  aiming to develop biohybrid and bioinspired systems for semi-artificial
+  photosynthesis and sustainable solar fuel production.
+added: 2026-10-19
+aliases:
+  - Berggren group
+pi: Gustav Berggren
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
