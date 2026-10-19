@@ -1,0 +1,25 @@
+id: computational-spectroscopy-research-group
+name: Computational spectroscopy research group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/theoretical-chemistry-team/
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - electronic-structure
+  - materials-modeling
+description: The Computational Spectroscopy Research Group at the Faculty of
+  Chemistry, University of Warsaw, led by Prof. Magdalena Pecul-Kudelska,
+  focuses on bridging spectroscopy, photochemistry, and quantum chemistry. The
+  group applies molecular modeling and quantum chemistry methods to study
+  spectroscopic properties, photo-induced processes, and excited states of
+  molecules, nanosystems, and materials, with applications in photoswitches,
+  molecular machines, and photovoltaics.
+added: 2026-10-19
+aliases:
+  - Computational spectroscopy reseach group
+pi: Magdalena Pecul-Kudelska
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
