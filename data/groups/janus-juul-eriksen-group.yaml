@@ -1,0 +1,22 @@
+id: janus-juul-eriksen-group
+name: Janus Juul Eriksen Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/janus-juul-eriksen-group
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - ml-chemistry
+  - software-hpc
+description: The Janus Juul Eriksen Group at DTU Chemistry focuses on developing
+  novel theories for decomposing complex electronic-structure theory. Their
+  research explores spatial locality to understand chemical phenomena using
+  quantum chemistry and machine learning. Activities range from near-exact
+  electronic-structure methods to HPC- and GPU-accelerated quantum chemistry,
+  and machine-learned quantum chemistry.
+added: 2026-10-20
+pi: Janus Juul Eriksen
+parent: DTU Chemistry, Technical University of Denmark
+location:
+  city: Kgs. Lyngby
+  country: DK
