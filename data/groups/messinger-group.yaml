@@ -1,0 +1,23 @@
+id: messinger-group
+name: Messinger group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/biophysical-and-bioinorganic-chemistry/messinger-group
+topics:
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - photochemistry
+description: The Messinger group at Uppsala University's Department of Chemistry
+  - Ångström Laboratory conducts research focused on understanding the mechanism
+  of water oxidation in photosynthesis and developing artificial catalysts for
+  water oxidation using earth-abundant elements. The group employs a wide range
+  of biophysical techniques, including mass spectrometry, EPR, X-ray
+  spectroscopy, serial femtosecond crystallography, and neutron diffraction, and
+  also develops catalysts for the electrochemical reduction of water to hydrogen
+  and nitrogen to ammonia.
+added: 2026-10-20
+pi: Johannes Messinger
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

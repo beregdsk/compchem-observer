@@ -1,0 +1,21 @@
+id: high-performance-cloud-system-and-secure-software-research-team
+name: High-Performance Cloud System and Secure Software Research Team
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/hpcsssrt/index.html
+topics:
+  - software-hpc
+description: The High-Performance Cloud System and Secure Software Research
+  Team, led by Atsuko Takefusa, focuses on developing cloud and HPC integrated
+  computing infrastructure and secure software for high-performance computing.
+  Their research includes adapting cloud-native technologies like virtualization
+  and containers to HPC, integrating cloud services with scientific computing,
+  and implementing trusted execution environments (TEE) to enhance security in
+  HPC systems.
+added: 2026-10-20
+aliases:
+  - 高性能クラウドシステム・セキュアソフトウェア研究チーム クラウドコンピューティング チームプリンシパル竹房 あつ子
+pi: Atsuko Takefusa
+parent: RIKEN Center for Computational Science
+location:
+  city: Tokyo
+  country: JP

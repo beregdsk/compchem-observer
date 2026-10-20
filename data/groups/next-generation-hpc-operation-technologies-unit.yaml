@@ -1,0 +1,18 @@
+id: next-generation-hpc-operation-technologies-unit
+name: Next-Generation HPC Operation Technologies Unit
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/nghpci/nghpcotu/index.html
+topics:
+  - software-hpc
+description: The Next-Generation HPC Operation Technologies Unit, led by Keiji
+  Yamamoto at the RIKEN Center for Computational Science, develops the
+  next-generation HPC infrastructure 'FugakuNEXT'. The unit focuses on
+  high-efficiency data center facilities and advanced, sustainable operation
+  technologies to optimize integrated supercomputer systems, ensuring reliable
+  and user-friendly HPC platforms.
+added: 2026-10-20
+pi: Keiji Yamamoto
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

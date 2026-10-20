@@ -1,0 +1,24 @@
+id: computational-physics
+name: Computational Physics
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/materials-theory/computational-physics
+topics:
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+  - materials-modeling
+  - spectroscopy
+description: This page outlines the research in Computational Physics at Uppsala
+  University's Department of Physics and Astronomy. It covers projects on
+  electronic structures of metal hydrides and amorphous materials, functional
+  magnetic materials, superconductivity, oxide heterostructures, theoretical
+  spectroscopy, molecular spintronics, magnetism, and nanobiotechnology.
+  Researchers utilize density functional theory (DFT), molecular dynamics, and
+  dynamical mean field theory to model complex materials and molecular systems
+  for applications in energy, spintronics, and bio-sensing.
+added: 2026-10-20
+pi: Olle Eriksson and Biplab Sanyal
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE

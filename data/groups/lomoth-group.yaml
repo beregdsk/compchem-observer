@@ -1,0 +1,22 @@
+id: lomoth-group
+name: Lomoth group
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/physical-chemistry/lomoth-group
+topics:
+  - photochemistry
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - excited-states
+description: The Lomoth group, led by Reiner Lomoth at the Department of
+  Chemistry - Ångström Laboratory, Uppsala University, focuses on redox
+  reactions and catalysis in molecular systems. The group investigates photo-
+  and electrochemical processes for solar energy conversion, photoredox
+  catalysis, and molecular catalysts for hydrogen evolution, utilizing
+  spectroscopic and electrochemical methods.
+added: 2026-10-20
+pi: Reiner Lomoth
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE

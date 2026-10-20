@@ -1,0 +1,18 @@
+id: optical-quantum-computing-research-team
+name: 光量子計算研究チーム (Optical Quantum Computing Research Team)
+kind: group
+website: https://www.riken.jp/research/labs/rqc/opt_qtm_comput_res/
+topics:
+  - quantum-computing-chemistry
+description: The Optical Quantum Computing Research Team at RIKEN, led by
+  Director Akira Furusawa, aims to realize fault-tolerant, large-scale universal
+  optical quantum computers. The team focuses on deterministic quantum
+  teleportation and the development of large-scale cluster states using
+  time-domain multiplexing, contributing to advanced quantum information science
+  and quantum optics.
+added: 2026-10-20
+pi: Akira Furusawa
+parent: 理化学研究所 量子コンピュータ研究センター (RIKEN Quantum Computing Research Center)
+location:
+  city: Wako
+  country: JP

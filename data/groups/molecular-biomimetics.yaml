@@ -1,0 +1,24 @@
+id: molecular-biomimetics
+name: Molecular Biomimetics
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/molecular-biomimetics/
+topics:
+  - catalysis
+  - electrochemistry
+  - photochemistry
+  - spectroscopy
+  - materials-modeling
+description: 'The webpage introduces the Molecular Biomimetics research
+  programme at the Department of Chemistry, Ångström Laboratory, Uppsala
+  University. The programme studies biological reactions at the molecular level
+  to develop sustainable processes for solar fuels and chemicals, focusing on
+  artificial photosynthesis. It encompasses two units: Biophysical and
+  Bioinorganic Chemistry and Microbial Chemistry. The research spans catalysis,
+  electrochemistry, photochemistry, spectroscopy, and materials modeling,
+  utilizing advanced infrastructure like EPR, NMR, and X-ray diffraction.'
+added: 2026-10-20
+pi: Gustav Berggren
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
