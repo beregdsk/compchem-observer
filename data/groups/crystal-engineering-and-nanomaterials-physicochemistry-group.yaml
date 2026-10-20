@@ -1,0 +1,23 @@
+id: crystal-engineering-and-nanomaterials-physicochemistry-group
+name: Crystal Engineering and Nanomaterials Physicochemistry Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/crystal-engineering-and-nanomaterials-physicochemistry-group/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - photochemistry
+  - biomolecular-simulation
+  - cheminformatics
+description: The Crystal Engineering and Nanomaterials Physicochemistry Group at
+  the Faculty of Chemistry, University of Warsaw, led by Prof. Michał Ksawery
+  Cyrański, conducts experimental and theoretical research in physical
+  chemistry. Key research areas include X-ray structural analysis of pi-electron
+  systems, modeling of aromatic stabilization energy, photochemical reactions in
+  crystals, synthesis of carbon nitride materials, and the application of
+  graph-topological models in chemistry.
+added: 2026-10-20
+pi: Michał Ksawery Cyrański
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
