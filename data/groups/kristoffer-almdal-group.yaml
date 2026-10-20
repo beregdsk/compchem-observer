@@ -1,0 +1,18 @@
+id: kristoffer-almdal-group
+name: Kristoffer Almdal Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/kristoffer-almdal-group
+topics:
+  - soft-matter
+description: The Kristoffer Almdal Group at DTU Chemistry focuses on the design
+  and synthesis of polymer molecules to address challenges in materials science.
+  The group specializes in artificial self-organization, studying self-assembly
+  in soft matter using block copolymers, and employs advanced 3D printing
+  techniques to create structured materials for biomedical and soft robotic
+  applications.
+added: 2026-10-20
+pi: Kristoffer Almdal
+parent: DTU Chemistry, Technical University of Denmark
+location:
+  city: Kgs. Lyngby
+  country: DK
