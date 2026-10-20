@@ -1,0 +1,22 @@
+id: li-research-group
+name: Li Research Group
+kind: group
+website: https://sites.usc.edu/ligroup/people/
+topics:
+  - excited-states
+  - photochemistry
+  - quantum-dynamics
+  - materials-modeling
+  - electronic-structure
+description: The Li Research Group at the University of Southern California, led
+  by Principal Investigator Zhenglu Li, focuses on computational and theoretical
+  chemistry and materials science. The group conducts research in excited-state
+  dynamics, photochemistry, quantum dynamics, and the modeling of advanced
+  materials, utilizing electronic structure methods and machine learning to
+  understand and predict molecular behavior.
+added: 2026-10-20
+pi: Zhenglu Li
+parent: University of Southern California
+location:
+  city: Los Angeles
+  country: US
