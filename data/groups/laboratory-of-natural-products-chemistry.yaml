@@ -1,0 +1,20 @@
+id: laboratory-of-natural-products-chemistry
+name: Laboratory of Natural Products Chemistry
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/laboratory-of-natural-products-chemistry/
+topics:
+  - molecular-dynamics
+  - drug-design
+  - biomolecular-simulation
+description: The Laboratory of Natural Products Chemistry at the Faculty of
+  Chemistry, University of Warsaw, led by Prof. Zbigniew Czarnocki, focuses on
+  organic synthesis, particularly asymmetric synthesis of natural and
+  pharmacologically active compounds. The group also conducts in silico
+  research, including molecular docking and molecular dynamics simulations, to
+  study the biological activity of synthesized compounds.
+added: 2026-10-20
+pi: Zbigniew Czarnocki
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
