@@ -1,0 +1,19 @@
+id: spin-qubit-dynamics
+name: Spin qubit dynamics
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-8/research-groups/spin-qubit-dynamics
+topics:
+  - quantum-dynamics
+  - materials-modeling
+description: The Spin qubit dynamics group, part of the Quantum Control division
+  at the Peter Grünberg Institute (PGI-8), focuses on optimizing the control of
+  solid-state spin qubits in electrostatically defined quantum dots. They
+  develop differentiable models and apply quantum optimal control to improve
+  single- and two-qubit operations and spin shuttling, collaborating with
+  experimentalists to tackle challenges like charge noise.
+added: 2026-10-20
+pi: Alessandro David
+parent: Peter Grünberg Institute (PGI-8) / Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
