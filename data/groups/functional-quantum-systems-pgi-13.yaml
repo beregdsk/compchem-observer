@@ -1,0 +1,18 @@
+id: functional-quantum-systems-pgi-13
+name: Functional Quantum Systems (PGI-13)
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-13
+topics:
+  - quantum-computing-chemistry
+description: The Functional Quantum Systems (PGI-13) group, led by Director Rami
+  Barends at the Peter Grünberg Institute, Forschungszentrum Jülich, focuses on
+  laying the scientific and technological foundations for useful quantum
+  computing. They work on superconducting qubits, quantum devices, gates, and
+  algorithm implementations at the intersection of scientific exploration and
+  engineering.
+added: 2026-10-20
+pi: Rami Barends
+parent: Peter Grünberg Institute (PGI), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
