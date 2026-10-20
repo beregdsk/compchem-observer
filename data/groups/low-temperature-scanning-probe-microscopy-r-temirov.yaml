@@ -1,0 +1,21 @@
+id: low-temperature-scanning-probe-microscopy-r-temirov
+name: Low Temperature Scanning Probe Microscopy - R. Temirov
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-3/groups/low-temperature-scanning-probe-microscopy
+topics:
+  - electronic-structure
+  - spectroscopy
+  - quantum-computing-chemistry
+  - materials-modeling
+description: The research group 'Low Temperature Scanning Probe Microscopy', led
+  by Prof. Dr. Ruslan Temirov, focuses on advancing scanning probe microscopy
+  (SPM) as a versatile tool for manipulating nanoscale quantum bits on surfaces.
+  Their key research areas include millikelvin STM with magnetic cooling,
+  fabrication of atomic-scale quantum structures, scanning quantum dot
+  microscopy (SQDM), and high-resolution SPM with functionalised tips.
+added: 2026-10-20
+pi: Ruslan Temirov
+parent: Peter Grünberg Institute (PGI-3), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
