@@ -1,0 +1,19 @@
+id: raman-spectroscopy-research-group
+name: Raman Spectroscopy Research Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/raman-spectroscopy-group/
+topics:
+  - spectroscopy
+description: The Raman Spectroscopy Research Group at the Faculty of Chemistry,
+  University of Warsaw, led by Prof. Andrzej Kudelski, focuses on
+  surface-enhanced Raman spectroscopy (SERS). The group develops advanced
+  plasmonic nanomaterials, SERS sensors for medical and analytical applications
+  (such as detecting contaminants), and studies enhancement mechanisms,
+  including graphene-enhanced Raman spectroscopy (GERS) and pH nanosensors for
+  cell organelles.
+added: 2026-10-20
+pi: Andrzej Kudelski
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
