@@ -1,0 +1,20 @@
+id: ivana-savic-group
+name: Ivana Savić Group
+kind: group
+website: https://www.ivanasavic.science/people.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - molecular-dynamics
+description: This page represents the people and team members of the research
+  group led by Principal Investigator Dr. Ivana Savić. The group is based at
+  King's College London and consists of postdoctoral researchers, PhD students,
+  alumni, and academic collaborators. Their research focuses on theoretical and
+  computational chemistry and physics, particularly quantum transport,
+  electronic structure, and many-body methods.
+added: 2026-10-20
+pi: Ivana Savić
+parent: King's College London
+location:
+  city: London
+  country: GB
