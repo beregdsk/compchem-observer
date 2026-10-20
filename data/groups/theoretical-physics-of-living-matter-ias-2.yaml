@@ -1,0 +1,19 @@
+id: theoretical-physics-of-living-matter-ias-2
+name: Theoretical Physics of Living Matter (IAS-2)
+kind: group
+website: https://www.fz-juelich.de/en/ias/ias-2
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - molecular-dynamics
+description: The group employs theory, modeling, and simulation to study the
+  structure, self-assembly, and dynamics of complex fluids, active soft matter,
+  and living matter. They focus on systems far from thermal equilibrium,
+  particularly the collective behavior of mesoscopic self-propelled objects and
+  the flow behavior of biofluids.
+added: 2026-10-20
+pi: Dmitry Fedosov
+parent: Institute for Advanced Simulation (IAS), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
