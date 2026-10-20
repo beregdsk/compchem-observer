@@ -1,0 +1,23 @@
+id: quantum-matter-theory
+name: Quantum Matter Theory
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/quantum-matter-theory
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+  - quantum-computing-chemistry
+description: Quantum Matter Theory is a research programme and group at the
+  Department of Physics and Astronomy, Uppsala University, led by Programme
+  Professor Annica Black-Schaffer. The group focuses on condensed matter systems
+  where quantum mechanical effects prominently determine material properties.
+  Their research spans topological quantum matter, unconventional
+  superconductivity, non-equilibrium physics, strongly correlated systems,
+  ultracold atoms, and quantum information, utilizing low-energy models for
+  quantum many-body systems.
+added: 2026-10-20
+pi: Annica Black-Schaffer
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
