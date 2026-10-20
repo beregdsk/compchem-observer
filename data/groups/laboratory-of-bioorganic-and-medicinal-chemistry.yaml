@@ -1,0 +1,21 @@
+id: laboratory-of-bioorganic-and-medicinal-chemistry
+name: Laboratory of Bioorganic and Medicinal Chemistry
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/laboratory-of-bioorganic-and-medicinal-chemistry/
+topics:
+  - drug-design
+  - catalysis
+description: The Laboratory of Bioorganic and Medicinal Chemistry at the Faculty
+  of Chemistry, University of Warsaw, led by dr hab. Marzena Jankowska-Anyszka,
+  conducts interdisciplinary research at the interface of chemistry, biology,
+  and medicine. The group focuses on the design and investigation of bioactive
+  compounds, particularly synthetic mRNA cap analogues as potential therapeutic
+  agents and tools for studying translation. Their work also spans
+  peptidomimetic inhibitors, prebiotic chemistry, catalytic peptides, and
+  archaeometry.
+added: 2026-10-20
+pi: Marzena Jankowska-Anyszka
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
