@@ -1,0 +1,19 @@
+id: niels-engholm-henriksen-group
+name: Niels Engholm Henriksen Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/Niels-Engholm-Henriksen-group
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - electronic-structure
+description: The Niels Engholm Henriksen Group at DTU Chemistry investigates the
+  quantum mechanical description of molecules, focusing on femtosecond dynamics
+  in space and time. The group develops computational and theoretical methods to
+  predict, observe, and control chemical reactions, using ultrashort laser
+  pulses and high-performance computing.
+added: 2026-10-20
+pi: Niels Engholm Henriksen
+parent: DTU Chemistry (Technical University of Denmark)
+location:
+  city: Kgs. Lyngby
+  country: DK
