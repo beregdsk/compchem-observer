@@ -1,0 +1,25 @@
+id: psdi-showcase-2026-2026
+title: PSDI Showcase 2026
+type: conference
+start_date: 2026-11-25
+end_date: 2026-11-26
+format: in-person
+url: https://www.psdi.ac.uk/event/showcase-2026/
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - software-hpc
+  - ml-chemistry
+description: The Physical Sciences Data Infrastructure (PSDI) Showcase 2026
+  brings together researchers, technical specialists, and data professionals to
+  discuss data-intensive and AI-enabled physical sciences research. The event
+  features keynote talks, interactive panel discussions, exhibition and poster
+  sessions showcasing PSDI resources, and networking opportunities to shape the
+  future of data infrastructure.
+added: 2026-10-20
+location:
+  city: Southampton
+  country: GB
+  venue: Leonardo Royal Hotel Southampton
+organizer: Physical Sciences Data Infrastructure (PSDI)
+cost: Free
+fee: free
