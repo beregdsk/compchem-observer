@@ -1,0 +1,21 @@
+id: von-lilienfeld-research-group
+name: von Lilienfeld research group
+kind: group
+website: https://chemspacelab.chem.utoronto.ca/people/group-members
+topics:
+  - dft
+  - ml-potentials
+  - ml-chemistry
+  - electronic-structure
+  - materials-modeling
+description: The chemspacelab, led by Anatole von Lilienfeld at the University
+  of Toronto, is a computational and theoretical chemistry research group. The
+  lab focuses on developing and applying quantum chemical methods, machine
+  learning potentials, and density functional theory (DFT) to model molecular
+  systems, materials, and chemical reactions.
+added: 2026-10-20
+pi: Anatole von Lilienfeld
+parent: University of Toronto
+location:
+  city: Toronto
+  country: CA
