@@ -1,0 +1,24 @@
+id: mathematical-physics
+name: Mathematical Physics
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/materials-theory/mathematical-physics
+topics:
+  - materials-modeling
+  - electronic-structure
+  - dft
+  - software-hpc
+  - spectroscopy
+description: This page represents the Mathematical Physics research group at the
+  Department of Physics and Astronomy, Uppsala University. Led by Programme
+  Professor Peter Oppeneer, the group focuses on the ab initio theory of
+  superconductivity, developing computational frameworks and analytical methods
+  to explain unconventional and high-temperature superconductivity. They utilize
+  first-principles calculations, multichannel Eliashberg theory, and the Uppsala
+  Superconductivity Code (UppSC) to model electronic and phononic properties,
+  predicting material behavior and exploring novel superconducting states.
+added: 2026-10-20
+pi: Peter Oppeneer
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
