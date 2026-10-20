@@ -1,0 +1,22 @@
+id: statistical-physics-stat-charles-coulomb-laboratory
+name: Statistical Physics (STAT) - Charles Coulomb Laboratory
+kind: group
+website: https://coulomb.umontpellier.fr/en/research-areas/theoretical-physics/statistical-physics/
+topics:
+  - dft
+  - molecular-dynamics
+  - ml-potentials
+  - materials-modeling
+  - soft-matter
+description: The Statistical Physics (STAT) team at the Charles Coulomb
+  Laboratory studies the macroscopic properties of complex systems, from glasses
+  and active matter to 2D heterostructures. Using numerical and analytical
+  methods like DFT, molecular dynamics, Monte Carlo, and machine learning
+  potentials, they focus on soft matter, materials modeling, and disordered
+  systems.
+added: 2026-10-20
+pi: Benjamin GUISELIN
+parent: Charles Coulomb Laboratory
+location:
+  city: Montpellier
+  country: FR
