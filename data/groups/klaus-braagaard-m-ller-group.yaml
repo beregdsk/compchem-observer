@@ -1,0 +1,25 @@
+id: klaus-braagaard-m-ller-group
+name: Klaus Braagaard Møller Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/klaus-braagaard-moeller
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - excited-states
+  - photochemistry
+  - molecular-dynamics
+description: The Klaus Braagaard Møller Group at DTU Chemistry focuses on
+  theoretical and computational physical chemistry, investigating atomistic
+  structures and transformation pathways in chemical dynamics. Their research
+  encompasses quantum and semi-classical theory of molecules, materials, and
+  light, statistical mechanics, reaction kinetics and dynamics, and
+  theory/simulation of ultrafast time-resolved experiments. They study
+  structural dynamics, solvation phenomena, electron excitation, relaxation, and
+  transport, with applications in photochemistry, photocatalysis, and materials
+  for solar and…
+added: 2026-10-20
+pi: Klaus Braagaard Møller
+parent: Technical University of Denmark
+location:
+  city: Kgs. Lyngby
+  country: DK
