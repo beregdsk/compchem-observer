@@ -1,0 +1,19 @@
+id: jackson-group-synbio
+name: Jackson Group - SynBio
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/jackson-group-synbio
+topics:
+  - drug-design
+  - catalysis
+  - biomolecular-simulation
+description: The Jackson Group - SynBio at the ANU Research School of Biology
+  explores the interface of biology, chemistry, and physics to study fundamental
+  chemical processes in biology, such as enzyme catalysis and evolution. The
+  group also applies chemical techniques to design small-molecule drugs and
+  engineer proteins with novel functions.
+added: 2026-10-20
+pi: Colin Jackson
+parent: Research School of Biology, Australian National University
+location:
+  city: Canberra
+  country: AU
