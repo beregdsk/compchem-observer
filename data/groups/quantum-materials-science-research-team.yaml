@@ -1,0 +1,20 @@
+id: quantum-materials-science-research-team
+name: 量子物質創成研究センター (Quantum Materials Science Research Team)
+kind: group
+website: https://www.riken.jp/research/labs/cems/qtm-mater-innov/
+topics:
+  - materials-modeling
+  - electronic-structure
+  - spectroscopy
+description: The Quantum Materials Science Research Team at RIKEN focuses on
+  thin films and stacked interfaces of quantum materials. The team works on
+  establishing thin-film fabrication technologies for topological electronic
+  states, exploring novel quantum materials, and clarifying the origins of their
+  unique properties to develop low-power-consumption devices. Their research
+  spans superconductivity, quantum transport, and magnetic devices.
+added: 2026-10-20
+pi: Atsushi Tsukazaki
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
