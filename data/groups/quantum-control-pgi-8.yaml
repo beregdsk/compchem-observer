@@ -1,0 +1,22 @@
+id: quantum-control-pgi-8
+name: Quantum Control (PGI-8)
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-8
+topics:
+  - quantum-dynamics
+  - quantum-computing-chemistry
+  - materials-modeling
+  - ml-potentials
+  - ml-chemistry
+description: The Quantum Control (PGI-8) research group at the Peter Grünberg
+  Institute, Forschungszentrum Jülich, focuses on combining quantum optimal
+  control with applications in few- and many-body systems for the development of
+  quantum technologies. Its main research areas include automated optimization,
+  control and design to enable quantum technology, as well as synthetic matter
+  and quantum simulation to explore novel many-body phases.
+added: 2026-10-20
+pi: Tommaso Calarco
+parent: Forschungszentrum Jülich GmbH
+location:
+  city: Jülich
+  country: DE
