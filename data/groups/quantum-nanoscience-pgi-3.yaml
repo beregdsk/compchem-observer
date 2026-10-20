@@ -1,0 +1,22 @@
+id: quantum-nanoscience-pgi-3
+name: Quantum Nanoscience (PGI-3)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-3
+topics:
+  - spectroscopy
+  - materials-modeling
+  - electronic-structure
+  - excited-states
+  - quantum-dynamics
+description: Quantum Nanoscience (PGI-3) is a division of the Peter Grünberg
+  Institute at Forschungszentrum Jülich, Germany. Focused on quantum nanoscience
+  and quantum technologies, it hosts multiple research groups specializing in
+  scanning probe microscopy, molecular manipulation, spin systems, and quantum
+  sensing. Led by Prof. Dr. F. Stefan Tautz, the institute investigates
+  quantum-coherent functionality in nanostructures, topological materials, and
+  2D magnets through experimental and theoretical approaches.
+added: 2026-10-20
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE
