@@ -1,0 +1,24 @@
+id: femtosecond-spectroscopy-research-group-infemto
+name: Femtosecond Spectroscopy Research Group „InFemto”
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/infemto-research-group/
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - molecular-dynamics
+  - software-hpc
+description: The Femtosecond Spectroscopy Research Group „InFemto” at the
+  Faculty of Chemistry, University of Warsaw, led by Prof. Wojciech Gadomski,
+  focuses on experimental femtosecond spectroscopy (such as transient absorption
+  and terahertz spectroscopy) and theoretical modeling. The group studies
+  ultrafast photodynamics of excited states, photochemical reactions, and charge
+  carrier dynamics in materials like dyes, semiconductors, and nanoparticles for
+  applications in photovoltaics and photocatalysis. They also perform molecular
+  dynamics simulations and develop GPU-accelerated scientific software.
+added: 2026-10-20
+pi: Wojciech Gadomski
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL
