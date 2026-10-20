@@ -1,0 +1,24 @@
+id: quantum-chemistry-group
+name: Quantum Chemistry Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/qchem/
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - excited-states
+  - quantum-computing-chemistry
+description: The Quantum Chemistry Group at the Institute of Physics, Lodz
+  University of Technology, led by Katarzyna Pernal, focuses on the development
+  of theoretical and computational methods in quantum chemistry. Their research
+  centers on electronic structure methods, particularly density matrix
+  functional theory (RDMFT), range-separated methods, and density functional
+  theory (DFT) for predicting molecular properties, excited states, and
+  intermolecular interactions. They also explore quantum computing applications
+  like the variational quantum eigensolver.
+added: 2026-10-20
+pi: Katarzyna Pernal
+parent: Institute of Physics, Łódź University of Technology
+location:
+  city: Łódź
+  country: PL
