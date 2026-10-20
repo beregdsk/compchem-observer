@@ -1,0 +1,21 @@
+id: computational-chemistry-unit
+name: Computational Chemistry Unit
+kind: group
+website: https://cbmr.ku.dk/research-facilities/ccu/
+topics:
+  - drug-design
+  - molecular-dynamics
+  - biomolecular-simulation
+  - cheminformatics
+description: The Computational Chemistry Unit at the University of Copenhagen,
+  part of the CBMR, focuses on translational pharmacology and rational drug
+  design. The unit develops and applies cutting-edge computational chemistry and
+  molecular dynamics methods to discover ligands and pharmacological tool
+  compounds for metabolic target proteins, such as GPCRs, supporting basic
+  metabolic research and innovation.
+added: 2026-10-20
+pi: Thomas Frimurer
+parent: University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

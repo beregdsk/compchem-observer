@@ -1,0 +1,22 @@
+id: computational-molecular-biophysics
+name: Computational Molecular Biophysics
+kind: group
+website: https://chem.pg.edu.pl/en/dpc/computational-molecular-biophysics
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - drug-design
+  - electronic-structure
+  - quantum-dynamics
+description: Computational Molecular Biophysics is a young research group at the
+  Faculty of Chemistry, Gdańsk University of Technology, led by Jacek Czub. The
+  group performs classical and quantum chemical molecular dynamics simulations,
+  free energy calculations, and data analysis to study protein conformational
+  changes, biomolecular interactions, lipid bilayer environments, and drug
+  design.
+added: 2026-10-20
+pi: Jacek Czub
+parent: Faculty of Chemistry, Gdańsk University of Technology
+location:
+  city: Gdańsk
+  country: PL

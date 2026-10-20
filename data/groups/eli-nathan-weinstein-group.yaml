@@ -1,0 +1,20 @@
+id: eli-nathan-weinstein-group
+name: Eli Nathan Weinstein Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/eli-nathan-weinstein-group
+topics:
+  - ml-chemistry
+  - ml-potentials
+description: The Eli Nathan Weinstein Group at DTU Chemistry focuses on
+  developing machine learning methods for molecular science. Their research
+  involves creating probabilistic approaches to predict molecular properties and
+  guide the design of new molecules. They work on co-designing experiments and
+  inference algorithms to optimize chemical synthesis and screening, and they
+  also explore learning from natural experiments to extract patterns from
+  complex datasets.
+added: 2026-10-20
+pi: Eli Nathan Weinstein
+parent: DTU Chemistry
+location:
+  city: Kgs. Lyngby
+  country: DK

@@ -1,0 +1,23 @@
+id: complex-systems-and-non-linear-phenomena-scpn
+name: Complex Systems and Non-linear Phenomena (SCPN)
+kind: group
+website: https://coulomb.umontpellier.fr/en/research-areas/theoretical-physics/complex-systems-and-non-linear-phenomena/
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - materials-modeling
+description: SCPN is a theoretical physics group at Charles Coulomb Laboratory,
+  University of Montpellier, focusing on complex systems in biology,
+  environmental sciences, and condensed matter. The team develops analytical and
+  computational methods from statistical mechanics, stochastic processes,
+  nonlinear physics, and fluid dynamics to study active and biological matter,
+  collective phenomena, phase transitions, and transport. Research themes
+  include intracellular organization, active matter and genome, nanofluidics,
+  non-equilibrium systems, and interdisciplinary applications, in collaboration
+  with…
+added: 2026-10-20
+pi: Andrea Parmeggiani and Jean-Charles Walter
+parent: Charles Coulomb Laboratory (L2C)
+location:
+  city: Montpellier
+  country: FR

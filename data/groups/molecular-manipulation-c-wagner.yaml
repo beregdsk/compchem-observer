@@ -1,0 +1,22 @@
+id: molecular-manipulation-c-wagner
+name: Molecular Manipulation - C. Wagner
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-3/groups/molecular-manipulation
+topics:
+  - dft
+  - materials-modeling
+  - ml-chemistry
+description: The Molecular Manipulation group led by Dr. Christian Wagner at the
+  Peter Grünberg Institute (PGI-3) studies the manipulation and control of
+  individual molecules using scanning probe microscopes (SPM). The group works
+  on molecular nanofabrication, theory of molecular manipulation using density
+  functional theory (DFT) and molecular mechanics, scanning quantum dot
+  microscopy (SQDM), and the fabrication of atomic-scale quantum structures.
+  Their research integrates experiments, simulations, machine learning, and
+  control theory, funded by an ERC Starting Grant.
+added: 2026-10-20
+pi: Christian Wagner
+parent: Peter Grünberg Institute (PGI), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

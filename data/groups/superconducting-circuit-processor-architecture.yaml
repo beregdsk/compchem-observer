@@ -1,0 +1,21 @@
+id: superconducting-circuit-processor-architecture
+name: Superconducting Circuit Processor Architecture
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-8/research-groups/superconducting_circuit_precessor_srchitecture
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+description: The research group Superconducting Circuit Processor Architecture,
+  part of the Quantum Control division at the Peter Grünberg Institute (PGI) of
+  Forschungszentrum Jülich, focuses on strategies for implementing, controlling,
+  and optimizing quantum operations on noisy intermediate-scale quantum devices
+  based on circuit quantum electrodynamics. They work on characterising errors,
+  developing correction strategies, and utilizing automated circuit discovery,
+  machine learning, and advanced numerical methods to improve quantum gates and
+  compilation.
+added: 2026-10-20
+pi: Francisco Cardenas Lopez
+parent: Peter Grünberg Institute (PGI), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

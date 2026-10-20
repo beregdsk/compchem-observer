@@ -1,0 +1,23 @@
+id: theory-of-the-strong-interactions-ias-4
+name: Theory of the Strong Interactions (IAS-4)
+kind: group
+website: https://www.fz-juelich.de/en/ias/ias-4
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - materials-modeling
+  - software-hpc
+  - spectroscopy
+description: Theory of the Strong Interactions (IAS-4) is a research division of
+  the Institute for Advanced Simulation at Forschungszentrum Jülich, led by
+  Prof. Ulf-G. Meißner. It focuses on non-perturbative strong interactions,
+  hadron and nuclear structure, and exotic hadrons using lattice quantum
+  chromodynamics, nuclear lattice effective field theory, and stochastic
+  methods. It also investigates strongly correlated electrons in low-dimensional
+  systems like graphene, leveraging high-performance computing.
+added: 2026-10-20
+pi: Ulf-G. Meißner
+parent: Institute for Advanced Simulation (IAS)
+location:
+  city: Jülich
+  country: DE

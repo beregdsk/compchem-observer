@@ -1,0 +1,19 @@
+id: enabling-quantum-computing-applications
+name: Enabling quantum-computing applications
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-8/research-groups/enabling-quantum-computing-applications
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+description: The research group 'Enabling quantum-computing applications'
+  focuses on the foundations of quantum-computing applications and their
+  operational principles. Covering the full quantum-computing stack, they
+  investigate near-term quantum algorithms, quantum control, and quantum systems
+  theory based on symmetries of high-dimensional quantum dynamics, aiming to
+  bridge quantum computing with science and industry.
+added: 2026-10-20
+pi: Robert Zeier
+parent: Peter Grünberg Institute (PGI), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

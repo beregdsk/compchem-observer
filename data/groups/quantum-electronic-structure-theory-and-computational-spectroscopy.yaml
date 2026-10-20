@@ -1,0 +1,22 @@
+id: quantum-electronic-structure-theory-and-computational-spectroscopy
+name: (Quantum) Electronic-Structure Theory and Computational Spectroscopy
+kind: group
+website: https://www.kemi.dtu.dk/english/research/physical-chemistry/sonia-coriani-group
+topics:
+  - electronic-structure
+  - spectroscopy
+  - quantum-computing-chemistry
+  - wavefunction-methods
+  - dft
+description: The group focuses on the development and application of advanced
+  electronic-structure methods for predicting molecular response properties and
+  spectra. They work at the interface of chemistry, physics, and computational
+  science, pioneering coupled cluster methods for X-ray spectroscopy, damped
+  response theory, and quantum computing approaches for simulating molecular
+  processes.
+added: 2026-10-20
+pi: Sonia Coriani
+parent: DTU Chemistry
+location:
+  city: Kgs. Lyngby
+  country: DK

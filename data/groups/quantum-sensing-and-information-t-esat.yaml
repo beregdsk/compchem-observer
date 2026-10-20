@@ -1,0 +1,19 @@
+id: quantum-sensing-and-information-t-esat
+name: Quantum Sensing and Information - T. Esat
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-3/groups/quantum-sensing-and-information
+topics:
+  - quantum-computing-chemistry
+  - spectroscopy
+description: The Quantum Sensing and Information group, led by Dr. Taner Esat at
+  the Peter Grünberg Institute, focuses on using scanning probe microscopy and
+  electron spin resonance to engineer and study artificial nanostructures with
+  custom quantum states. Their research spans atomic-scale quantum sensing,
+  coherent control of spins, analog quantum simulation on surfaces, and the
+  development of millikelvin scanning tunneling microscope technology.
+added: 2026-10-20
+pi: Taner Esat
+parent: Peter Grünberg Institute (PGI-3), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

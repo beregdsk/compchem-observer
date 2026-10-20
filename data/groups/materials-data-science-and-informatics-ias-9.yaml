@@ -1,0 +1,19 @@
+id: materials-data-science-and-informatics-ias-9
+name: Materials Data Science and Informatics (IAS-9)
+kind: institute
+website: https://www.fz-juelich.de/en/ias/ias-9
+topics:
+  - materials-modeling
+  - education-training
+  - software-hpc
+description: The Institute for Materials Data Science and Informatics (IAS-9)
+  develops advanced machine learning and artificial intelligence methods
+  tailored to challenges in the physical sciences and engineering. The
+  multidisciplinary team bridges data-driven approaches with domain knowledge to
+  accelerate simulations, extract insights from complex imaging data, and
+  promote FAIR data principles in computational materials science.
+added: 2026-10-20
+parent: Institute for Advanced Simulation (IAS), Forschungszentrum Jülich GmbH
+location:
+  city: Aachen
+  country: DE

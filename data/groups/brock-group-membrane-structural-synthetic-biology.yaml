@@ -1,0 +1,19 @@
+id: brock-group-membrane-structural-synthetic-biology
+name: Brock Group - Membrane Structural & Synthetic Biology
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/brock-group-membrane-structural-synthetic-biology
+topics:
+  - drug-design
+  - biomolecular-simulation
+description: The Brock Group, led by Joseph Brock at the ANU Research School of
+  Biology, focuses on the structural and synthetic biology of membrane proteins.
+  Using X-ray crystallography and Cryo-Electron Microscopy, the group visualises
+  membrane proteins to understand drug resistance, receptor signalling, and
+  disease mechanisms. They also engineer yeast using synthetic biology for
+  biosensors and protein production.
+added: 2026-10-20
+pi: Joseph Brock
+parent: Australian National University
+location:
+  city: Canberra
+  country: AU

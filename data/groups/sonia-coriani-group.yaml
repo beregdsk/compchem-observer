@@ -1,0 +1,25 @@
+id: sonia-coriani-group
+name: Sonia Coriani Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/sonia-coriani-group
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - excited-states
+  - photochemistry
+description: The Sonia Coriani Group, based at the Department of Chemistry of
+  the Technical University of Denmark (DTU) in Kongens Lyngby, Denmark, is a
+  research group focused on the development and application of advanced
+  electronic-structure methods. The group's work spans computational
+  spectroscopy, photochemistry, quantum dynamics, and the exploration of quantum
+  computing for quantum chemistry. They pioneer methods like coupled cluster
+  theory for X-ray spectroscopy and damped response theory for various
+  spectroscopic effects, aiming to bridge theoretical chemistry and experimental
+  research.
+added: 2026-10-20
+pi: Sonia Coriani
+parent: Department of Chemistry, Technical University of Denmark
+location:
+  city: Kongens Lyngby
+  country: DK

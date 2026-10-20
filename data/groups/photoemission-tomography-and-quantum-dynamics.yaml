@@ -1,0 +1,23 @@
+id: photoemission-tomography-and-quantum-dynamics
+name: Photoemission Tomography and Quantum Dynamics
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-3/groups/photoemission-tomography
+topics:
+  - spectroscopy
+  - electronic-structure
+  - excited-states
+  - quantum-dynamics
+  - wavefunction-methods
+description: The research group 'Photoemission Tomography and Quantum Dynamics',
+  led by Prof. Dr. Frank Stefan Tautz at the Peter Grünberg Institute (PGI-3),
+  investigates the electronic structure and quantum dynamics of molecules at
+  surfaces. Using momentum microscopy and time-resolved photoemission orbital
+  tomography, they image molecular orbitals, reconstruct wave functions
+  including their quantum phase, and trace ultrafast electron transfer
+  processes.
+added: 2026-10-20
+pi: Frank Stefan Tautz
+parent: Peter Grünberg Institute (PGI-3) / Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

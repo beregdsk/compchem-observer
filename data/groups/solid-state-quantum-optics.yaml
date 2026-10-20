@@ -1,0 +1,24 @@
+id: solid-state-quantum-optics
+name: Solid State Quantum Optics
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-8/research-groups/solid-state-quantum-optics
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - quantum-computing-chemistry
+  - software-hpc
+  - materials-modeling
+description: The Solid State Quantum Optics group at Forschungzentrums Jülich,
+  part of the Peter Grünberg Institute (PGI-8), studies few-body quantum systems
+  based on spins in solid-state materials for quantum technology applications.
+  The group investigates the interplay of quantum control, environment and
+  measurements from theoretical and numerical perspectives, focusing on coherent
+  and dissipative manipulations including quantum optimal control, dynamical
+  decoupling and measurement-based protocols. Research directions include
+  closed-loop control using the QuOCS software suite, control of open quantum…
+added: 2026-10-20
+pi: Matthias Müller
+parent: Peter Grünberg Institute (PGI) / Forschungszentrum Jülich GmbH
+location:
+  city: Jülich
+  country: DE

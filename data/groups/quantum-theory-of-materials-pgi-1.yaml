@@ -1,0 +1,21 @@
+id: quantum-theory-of-materials-pgi-1
+name: Quantum Theory of Materials (PGI-1)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-1
+topics:
+  - electronic-structure
+  - materials-modeling
+  - software-hpc
+  - quantum-dynamics
+  - spectroscopy
+description: The Quantum Theory of Materials (PGI-1) division at the Peter
+  Grünberg Institute, Forschungszentrum Jülich, focuses on calculating and
+  analyzing structural, electronic, magnetic, and transport properties of
+  quantum materials. Their work targets fundamental research and applications in
+  materials for information processing, developing theoretical concepts and
+  advanced scientific software for exascale computing.
+added: 2026-10-20
+parent: Peter Grünberg Institute (PGI), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

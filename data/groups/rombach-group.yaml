@@ -1,0 +1,18 @@
+id: rombach-group
+name: Rombach Group
+kind: group
+website: https://www.chem.uzh.ch/en/research/groups/rombach/members.html
+topics:
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+description: The official group page of the Rombach Group at the Department of
+  Chemistry, University of Zurich, led by Dr. David Rombach. The group conducts
+  research in computational and theoretical organic chemistry, focusing on
+  reaction mechanisms and molecular interactions.
+added: 2026-10-20
+pi: David Rombach
+parent: Department of Chemistry, University of Zurich
+location:
+  city: Zurich
+  country: CH

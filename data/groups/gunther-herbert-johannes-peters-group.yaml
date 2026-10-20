@@ -1,0 +1,20 @@
+id: gunther-herbert-johannes-peters-group
+name: Günther Herbert Johannes Peters Group
+kind: group
+website: https://www.kemi.dtu.dk/english/Research/Physical-Chemistry/gunther-hj-peters-group
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - drug-design
+description: The Günther Herbert Johannes Peters Group, also known as the
+  Chemistry at the Interface to Biology Group, is a research group at the
+  Technical University of Denmark (DTU). The group focuses on protein
+  structure-function relationships, employing molecular dynamics simulations and
+  experimental techniques to study membrane interactions, enzyme behavior,
+  protein structure prediction, and drug design and delivery.
+added: 2026-10-20
+pi: Günther Herbert Johannes Peters
+parent: DTU Chemistry, Technical University of Denmark
+location:
+  city: Kgs. Lyngby
+  country: DK

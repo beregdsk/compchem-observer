@@ -1,0 +1,18 @@
+id: casarotto-group-biomolecular-interactions
+name: Casarotto Group - Biomolecular Interactions
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/casarotto-group-biomolecular-interactions
+topics:
+  - drug-design
+  - biomolecular-simulation
+description: The Casarotto Group investigates how the structural properties of
+  biological molecules influence biological processes, focusing on molecular
+  recognition, drug design, and protein folding. The lab uses molecular biology,
+  kinetics, and molecular modelling to study molecular mechanisms in diseases
+  like cancer, malaria, and heart disease.
+added: 2026-10-20
+pi: Marco Casarotto
+parent: Research School of Biology, Australian National University
+location:
+  city: Canberra
+  country: AU

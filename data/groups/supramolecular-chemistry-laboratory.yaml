@@ -1,0 +1,18 @@
+id: supramolecular-chemistry-laboratory
+name: Supramolecular Chemistry Laboratory
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/supramolecular-chemistry-laboratory/
+topics:
+  - catalysis
+description: 'The Supramolecular Chemistry Laboratory at the Faculty of
+  Chemistry, University of Warsaw, is a PI-led research group focusing on
+  supramolecular chemistry. Its core expertise is organic synthesis applied to
+  two main areas: developing functional materials based on Metal-Organic
+  Frameworks (MOFs) for catalysis and gas storage, and synthesizing molecular
+  receptors for anions for sensing and transport across biological membranes.'
+added: 2026-10-20
+pi: Michał Chmielewski
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

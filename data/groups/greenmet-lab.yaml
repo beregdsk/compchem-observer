@@ -1,0 +1,21 @@
+id: greenmet-lab
+name: GreenMet Lab
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/greenmet-lab/
+topics:
+  - electrochemistry
+  - spectroscopy
+  - software-hpc
+  - materials-modeling
+description: The GreenMet Lab at the Faculty of Chemistry, University of Warsaw,
+  led by Dr. Hab. Wojciech Hyk, focuses on nanoelectroanalysis, single-particle
+  ICP-MS, and the electrochemical recycling of electronic waste to produce metal
+  nanoparticles. The group also develops reference materials, software for
+  statistical analysis and quality control, and models ion transport during
+  nanoparticle synthesis.
+added: 2026-10-20
+pi: Wojciech Hyk
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

@@ -1,0 +1,21 @@
+id: atomic-and-molecular-spin-systems
+name: Atomic and Molecular Spin Systems
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-3/groups/atomic-and-molecular-spin-systems
+topics:
+  - quantum-dynamics
+  - materials-modeling
+  - quantum-computing-chemistry
+  - software-hpc
+description: The Atomic and Molecular Spin Systems group, led by Prof. Dr.
+  Markus Ternes at the Peter Grünberg Institute, uses state-of-the-art scanning
+  probe microscopes to investigate quantum spins in atomic and molecular
+  systems. Their research focuses on designing quantum systems, exploring highly
+  correlated states, studying emergent properties in 2D van der Waals
+  heterostructures, and developing simulation tools for quantum technologies.
+added: 2026-10-20
+pi: Markus Ternes
+parent: Peter Grünberg Institute (PGI-3), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

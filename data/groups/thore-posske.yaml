@@ -1,0 +1,20 @@
+id: thore-posske
+name: Thore Posske
+kind: group
+website: https://www.physik.uni-hamburg.de/en/th1/ag-posske.html
+topics:
+  - materials-modeling
+  - quantum-computing-chemistry
+description: The research group led by Dr. Thore Posske at the I. Institute of
+  Theoretical Physics, University of Hamburg, focuses on topological properties
+  in condensed matter physics. Their research targets spin systems, anyons, and
+  Majorana fermions to advance quantum technologies and quantum computing,
+  alongside work on the Kondo effect and hybrid topological systems.
+added: 2026-10-20
+aliases:
+  - Junior Group Thore Posske
+pi: Thore Posske
+parent: I. Institute of Theoretical Physics, University of Hamburg
+location:
+  city: Hamburg
+  country: DE
