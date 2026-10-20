@@ -1,0 +1,22 @@
+id: laboratory-of-biopolymers-structure
+name: Laboratory of Biopolymers Structure
+kind: group
+website: https://en.biotech.ug.edu.pl/research/research-groups/laboratory-biopolymers-structure
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - enhanced-sampling
+  - software-hpc
+  - ml-potentials
+description: The Laboratory of Biopolymers Structure is a research group at the
+  Intercollegiate Faculty of Biotechnology UG&MUG, led by Assoc. Prof. Stanisław
+  Ołdziej. The group conducts theoretical and computational research on protein
+  folding, biomolecular simulations, and the development of coarse-grained force
+  fields, notably the UNRES model, to study complex biochemical processes and
+  macromolecular dynamics.
+added: 2026-10-20
+pi: Stanisław Ołdziej
+parent: Intercollegiate Faculty of Biotechnology UG&MUG
+location:
+  city: Gdańsk
+  country: PL
