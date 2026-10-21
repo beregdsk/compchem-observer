@@ -1,0 +1,21 @@
+id: ball-group
+name: Ball Group
+kind: group
+website: https://www.unsw.edu.au/science/our-schools/chemistry/our-research/our-research-groups/ball-group
+topics:
+  - spectroscopy
+  - photochemistry
+  - dft
+description: The Ball Group at the School of Chemistry, UNSW Sydney, focuses on
+  the innovative use of NMR spectroscopy to investigate chemical problems in
+  inorganic and organometallic chemistry. Their research utilizes in situ
+  photochemistry coupled with NMR to generate and characterize reactive
+  intermediates, and increasingly employs computational methods like DFT, ab
+  initio, and molecular mechanics to support experimental findings and guide new
+  directions.
+added: 2026-10-21
+pi: Graham Ball
+parent: School of Chemistry, UNSW Sydney
+location:
+  city: Sydney
+  country: AU
