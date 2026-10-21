@@ -1,0 +1,19 @@
+id: liquid-crystals-physics-group
+name: Liquid Crystals Physics Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/liquid-crystals/
+topics:
+  - soft-matter
+  - materials-modeling
+description: The Liquid Crystals Physics Group at the Institute of Physics, Lodz
+  University of Technology, led by Mariola Buczkowska, specializes in the
+  theoretical and numerical modeling of liquid crystals. The group's research
+  focuses on director field deformations, optical transmission, and
+  flexoelectric effects in nematic layers using continuum theory to study soft
+  matter systems.
+added: 2026-10-21
+pi: Mariola Buczkowska
+parent: Institute of Physics, Lodz University of Technology
+location:
+  city: Łódź
+  country: PL
