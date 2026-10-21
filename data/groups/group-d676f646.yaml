@@ -1,0 +1,23 @@
+id: group-d676f646
+name: 強相関界面研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_interface/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+  - spectroscopy
+  - photochemistry
+description: The Strongly Correlated Interface Research Group at RIKEN's Center
+  for Emergent Matter Science, led by Group Director Masashi Kawasaki, designs
+  interface structures with varied electronic degrees of freedom and fabricates
+  epitaxial devices and artificial lattices. The group investigates quantum
+  transport, interface magnetism, and responses to external fields, aiming to
+  develop novel switching devices, memories, solar cells, and sensors based on
+  strongly correlated quantum electronics.
+added: 2026-10-21
+pi: 川﨑 雅司
+parent: 理化学研究所
+location:
+  city: 和光市
+  country: JP

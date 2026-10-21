@@ -1,0 +1,24 @@
+id: guldi-group
+name: Guldi Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/guldi-group/group/head-of-the-group/
+topics:
+  - photochemistry
+  - spectroscopy
+  - catalysis
+  - electrochemistry
+  - materials-modeling
+description: The Guldi Group, headed by Prof. Dr. Dirk Michael Guldi at the
+  Department of Chemistry and Pharmacy of Friedrich-Alexander-Universität
+  Erlangen-Nürnberg, focuses on the design, synthesis, and modeling of
+  nanometer-scale materials for energy conversion and storage. Utilizing
+  advanced spectroscopic and microscopic techniques, the group investigates
+  light- and charge-management processes, such as charge separation and
+  transport, in nanocarbon-based molecular materials.
+added: 2026-10-21
+pi: Dirk Michael Guldi
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

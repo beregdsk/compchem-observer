@@ -1,0 +1,20 @@
+id: group-d76e7f7c
+name: 桑原量子複雑性解析理研白眉研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/hakubi/k_anl_qtm_compl/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+description: The official homepage of the Kuwahara Quantum Complexity Analysis
+  RIKEN Hakubi Research Team, led by Tomotaka Kuwahara at RIKEN in Wako, Japan.
+  The team investigates the computational complexity of simulating quantum
+  many-body systems, focusing on Hamiltonian complexity, quantum entanglement,
+  and quantum algorithms. Their work aims to address fundamental mathematical
+  challenges in quantum information and quantum many-body physics using
+  classical and quantum computing.
+added: 2026-10-21
+pi: Tomotaka Kuwahara
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

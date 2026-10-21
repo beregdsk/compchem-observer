@@ -1,0 +1,19 @@
+id: group-a7d08f6a
+name: 創発分子機能研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_mol_funct/index.html
+topics:
+  - materials-modeling
+description: The Innovative Molecular Function Research Group, led by Group
+  Director Kazuo Takimiya at RIKEN's Center for Emergent Matter Science,
+  specializes in the synthesis and molecular design of high-performance organic
+  semiconductor materials. Their research focuses on developing functional
+  organic electronic materials for applications in transistors, solar cells, and
+  thermoelectric devices, utilizing crystal structure control and simulation to
+  enhance carrier mobility and device efficiency.
+added: 2026-10-21
+pi: Kazuo Takimiya
+parent: 創発物性科学研究センター (Center for Emergent Matter Science)
+location:
+  city: Wako
+  country: JP

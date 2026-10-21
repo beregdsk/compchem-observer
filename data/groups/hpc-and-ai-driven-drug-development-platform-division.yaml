@@ -1,0 +1,19 @@
+id: hpc-and-ai-driven-drug-development-platform-division
+name: HPC- and AI-driven Drug Development Platform Division
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/hpc_ai_drive_drug_dev_plat/
+topics:
+  - drug-design
+  - ml-chemistry
+  - molecular-dynamics
+  - software-hpc
+description: The division focuses on integrating AI, molecular simulation, and
+  experimental science to create an HPC-driven platform for drug development. It
+  aims to discover new biological phenomena and develop novel drugs, from small
+  to large molecules, for basic to clinical applications.
+added: 2026-10-21
+pi: Yasushi Okuno
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

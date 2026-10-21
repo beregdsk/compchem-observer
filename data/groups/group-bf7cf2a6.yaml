@@ -1,0 +1,18 @@
+id: group-bf7cf2a6
+name: 創発生体関連ソフトマター研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_bioinsp_soft_matter/index.html
+topics:
+  - soft-matter
+description: The Innovative Soft Matter & Bio-related Research Team, led by Team
+  Director Yasuharu Ishida at RIKEN's Center for Emergent Matter Science,
+  focuses on developing biomimetic and functional soft materials. The team's
+  research centers on creating anisotropic, responsive gels, hydrogels, and
+  colloidal materials that exhibit advanced mechanical, optical, and dynamic
+  properties, bridging the gap between artificial and biological systems.
+added: 2026-10-21
+pi: 石田 康博
+parent: 理化学研究所創発物性科学研究センター
+location:
+  city: Wako
+  country: JP

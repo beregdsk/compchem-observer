@@ -1,0 +1,20 @@
+id: ecl-8
+name: 千葉代謝環境酵素学理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ecl/environ-orient-metab-riken-ecl/index.html
+topics:
+  - catalysis
+  - biomolecular-simulation
+description: The Chiba Metabolic Environmental Enzyme RIKEN ECL Research Unit,
+  led by Yoko Chiba, aims to clarify the design principles of metabolism through
+  comparative analysis of metabolic pathways and enzymes in diverse organisms,
+  including non-model microbes. By studying enzyme kinetics and thermodynamic
+  principles, the unit seeks to understand how metabolic mechanisms have
+  sustained life for billions of years and how this knowledge can support
+  sustainable human societies.
+added: 2026-10-21
+pi: Yoko Chiba
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP

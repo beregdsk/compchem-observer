@@ -1,0 +1,21 @@
+id: computational-atmospheric-chemistry
+name: Computational Atmospheric Chemistry
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/physical-chemistry-and-frontier-technologies/computational-atmospheric-chemistry/group-members
+topics:
+  - dft
+  - molecular-dynamics
+  - software-hpc
+description: The Computational Atmospheric Chemistry group at Aarhus University,
+  led by Jonas Elm, is a research group within the Department of Chemistry. The
+  group focuses on theoretical and computational modeling of chemical processes
+  in the atmosphere, including the development and application of kinetic and
+  quantum chemical models to study atmospheric phenomena.
+added: 2026-10-21
+aliases:
+  - Group members
+pi: Jonas Elm
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK

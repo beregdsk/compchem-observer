@@ -1,0 +1,25 @@
+id: femtosecond-quantum-dynamics-and-reaction-kinetics-niels-engholm-henriksen-group
+name: Femtosecond Quantum Dynamics and Reaction Kinetics (Niels Engholm
+  Henriksen Group)
+kind: group
+website: https://www.kemi.dtu.dk/english/research/physical-chemistry/niels-engholm-henriksen-group
+topics:
+  - quantum-dynamics
+  - molecular-dynamics
+  - photochemistry
+  - spectroscopy
+  - electronic-structure
+description: The page is the official group page for the Femtosecond Quantum
+  Dynamics and Reaction Kinetics research group, led by Associate Professor
+  Niels Engholm Henriksen at DTU Chemistry. The group focuses on the quantum
+  mechanical description of molecules, femtosecond dynamics, and using
+  ultrashort laser pulses to control chemical reactions, combining analytical
+  theory, computational modeling, and high-performance computing.
+added: 2026-10-21
+aliases:
+  - Femtosecond Quantum Dynamics and Reaction Kinetics
+pi: Niels Engholm Henriksen
+parent: Department of Chemistry, Technical University of Denmark
+location:
+  city: Kgs. Lyngby
+  country: DK

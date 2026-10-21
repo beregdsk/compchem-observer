@@ -1,0 +1,24 @@
+id: crystal-phase-dynamics-group
+name: Crystal phase dynamics group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/crystal-phase-dynamics-group/
+topics:
+  - dft
+  - materials-modeling
+  - spectroscopy
+  - photochemistry
+  - excited-states
+description: The Crystal phase dynamics group at the Faculty of Chemistry,
+  University of Warsaw, is led by dr hab. Anna Makal. The group applies
+  crystallographic methods to study how macroscopic physicochemical properties
+  of solid materials depend on their microscopic crystal structure. Their
+  research involves X-ray and neutron diffraction, Quantum Crystallography, and
+  periodic DFT calculations, particularly focusing on how modifications of the
+  crystalline environment affect the luminescence and photophysical properties
+  of organic and metal-organic compounds.
+added: 2026-10-21
+pi: Anna Makal
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

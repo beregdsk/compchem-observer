@@ -1,0 +1,18 @@
+id: group-1b2a4e65
+name: 川上浮揚電子量子情報理研白眉研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/hakubi/k_floatelectron_based_qtm_inf/index.html
+topics:
+  - quantum-computing-chemistry
+description: The RIKEN Hakubi research team led by Erika Kawakami focuses on
+  quantum information processing and quantum computing using electrons floating
+  on helium surfaces. These surface electrons are free from impurities and
+  defects, offering an ideal platform for quantum bits (qubits). The team also
+  works on developing the necessary peripheral technologies for qubit
+  integration to realize practical quantum computers.
+added: 2026-10-21
+pi: 川上 恵里加
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP

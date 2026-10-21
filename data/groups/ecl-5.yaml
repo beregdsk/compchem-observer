@@ -1,0 +1,22 @@
+id: ecl-5
+name: 谷光励起デジタルツイン理研ECL研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/ecl/digitaltwin_lightmatter_interact_riken_ecl/index.html
+topics:
+  - spectroscopy
+  - excited-states
+  - photochemistry
+  - ml-chemistry
+  - materials-modeling
+description: A research team at RIKEN led by Shuntaro Tani, focusing on the
+  control of material states using intense photoelectric fields and laser
+  excitation. The team develops digital twin technologies and automated
+  experimental platforms combined with deep learning to model and optimize
+  irreversible processes such as ultrafast laser ablation and precision
+  drilling.
+added: 2026-10-21
+pi: Shuntaro Tani
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP

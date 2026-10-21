@@ -1,0 +1,24 @@
+id: group-c8cee009
+name: 創発デバイス研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_device/index.html
+topics:
+  - materials-modeling
+  - electrochemistry
+  - electronic-structure
+  - soft-matter
+  - spectroscopy
+description: The page introduces the Emergent Device Research Group
+  (創発デバイス研究グループ) at the Center for Emergent Matter Science, RIKEN. Led by Group
+  Director Yoshihiro Iwasa, the group researches 'iontronics'—controlling
+  electronic properties through ion modulation. They use organic electrolytes
+  like ionic liquids combined with strongly correlated substances and
+  nanomaterials in electric double-layer transistors to explore novel quantum
+  phenomena, such as field-induced superconductivity and phase transitions, and
+  to develop high-efficiency thermoelectric materials.
+added: 2026-10-21
+pi: 岩佐 義宏
+parent: 創発物性科学研究センター
+location:
+  city: Wako
+  country: JP

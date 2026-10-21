@@ -1,0 +1,27 @@
+id: group-d078aa25
+name: 量子系物質科学研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/cmasrt/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-computing-chemistry
+  - wavefunction-methods
+  - ml-potentials
+description: The Quantum Matter Science Research Team at RIKEN Center for
+  Computational Science, led by Team Principal Seiji Yunoki, focuses on the
+  study of strongly correlated quantum systems. The team develops advanced
+  computational methods such as quantum Monte Carlo, density matrix
+  renormalization group, and tensor networks to investigate electronic phases,
+  metal-insulator transitions, and topological states. Their research also
+  encompasses quantum computing algorithms, classical simulations of quantum
+  systems on supercomputers, and the application of machine learning potentials
+  to materials science.
+added: 2026-10-21
+aliases:
+  - 量子系物質科学研究チーム 物性物理 チームプリンシパル柚木 清司
+pi: 柚木 清司
+parent: 理化学研究所 計算科学研究センター
+location:
+  city: 神戸
+  country: JP

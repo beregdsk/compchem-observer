@@ -1,0 +1,19 @@
+id: mechanisms-of-specificity-in-the-antifungal-activity-of-amphotericin-b
+name: Mechanisms of specificity in the antifungal activity of amphotericin B
+kind: group
+website: https://chem.pg.edu.pl/en/dpc/computational-molecular-biophysics/research/mechanisms-specificity-antifungal-activity
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - drug-design
+description: The page presents a computational research project investigating
+  the molecular mechanisms of the selective antifungal action of amphotericin B.
+  It focuses on the drug's interaction with lipid bilayers, sterol-dependent
+  channel formation, and the molecular differences between fungal ergosterol and
+  mammalian cholesterol. The research aims to provide a foundation for the
+  rational design of safer, highly selective antifungal derivatives.
+added: 2026-10-21
+parent: Faculty of Chemistry at the Gdańsk University of Technology
+location:
+  city: Gdańsk
+  country: PL

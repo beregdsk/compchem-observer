@@ -1,0 +1,22 @@
+id: structural-and-intermolecular-interactions-group
+name: Structural and Intermolecular Interactions Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/structural-and-intermolecular-interactions-group/
+topics:
+  - drug-design
+  - biomolecular-simulation
+  - electronic-structure
+  - dft
+  - materials-modeling
+description: The Structural and Intermolecular Interactions Group, led by Dr.
+  Maura Malińska at the Faculty of Chemistry, University of Warsaw, focuses on
+  molecular recognition in chemical and biological systems. The group combines
+  X-ray crystallography with computational chemistry and molecular modeling to
+  study non-covalent interactions, host-guest complexes, and protein-ligand
+  interactions for drug design.
+added: 2026-10-21
+pi: Maura Malińska
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

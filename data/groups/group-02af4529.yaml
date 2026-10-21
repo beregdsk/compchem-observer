@@ -1,0 +1,24 @@
+id: group-02af4529
+name: 創発物性計測研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_phenom_meas/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+  - quantum-computing-chemistry
+  - quantum-dynamics
+description: The Emergent Phenomena Measurement Research Team at RIKEN's Center
+  for Emergent Phenomenal Science, directed by Tetsuro Hanaguri, investigates
+  the electronic states underlying emergent phenomena in solid-state systems,
+  such as high-temperature superconductivity and topological quantum phenomena.
+  Using scanning tunneling microscopy under extreme conditions, the team maps
+  electronic states at the atomic level to understand the relationship between
+  material properties and electronic states, while developing novel measurement
+  techniques.
+added: 2026-10-21
+pi: 花栗 哲郎
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,22 @@
+id: group-9828c366
+name: 電子状態マイクロスコピー研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/electron_states_microscopy/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+description: The Electronic State Microscopy Research Team, part of the Center
+  for Emergent Matter Science at RIKEN, utilizes advanced electron microscopy
+  with atomic-level spatial resolution to investigate electronic states, charge,
+  spin, and their dynamics in real space. Using ultrafast electron imaging and
+  quantitative field measurements, the team explores emergent phenomena in
+  materials such as high-temperature superconductors, topological magnets, and
+  heterointerfaces, focusing on nanoscale electronic states and topological spin
+  textures like skyrmions.
+added: 2026-10-21
+pi: 于 秀珍 (Xiuzhen Yu)
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako, Saitama
+  country: JP
