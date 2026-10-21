@@ -1,0 +1,23 @@
+id: group-bec6ccea
+name: 情報化学研究室
+kind: group
+website: https://www2.sci.hokudai.ac.jp/dept/chem/lab/information-chemistry
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - cheminformatics
+  - catalysis
+  - software-hpc
+description: The Informatics Chemistry Laboratory (情報化学研究室) at Hokkaido
+  University, led by Prof. Keisuke Takahashi, focuses on materials and catalyst
+  discovery through informatics. The group integrates experiments, theory,
+  computation, and data science, leveraging artificial intelligence, machine
+  learning, and high-throughput databases to accelerate the development of novel
+  materials and catalysts. They also develop user-friendly software platforms to
+  promote open science and make informatics tools widely accessible.
+added: 2026-10-21
+pi: Keisuke Takahashi
+parent: Hokkaido University
+location:
+  city: Sapporo
+  country: JP
