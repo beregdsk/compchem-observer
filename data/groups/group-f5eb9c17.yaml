@@ -1,0 +1,22 @@
+id: group-f5eb9c17
+name: 創発機能高分子研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_funct_polym/index.html
+topics:
+  - materials-modeling
+  - soft-matter
+  - photochemistry
+  - excited-states
+  - spectroscopy
+description: Led by Dr. Keisuke Tajima, this research team at RIKEN's Center for
+  Emergent Matter Science focuses on developing novel organic semiconductor
+  polymer materials for organic electronic devices. They research controlling
+  molecular and nano-level structures in polymer thin films to significantly
+  improve device performance, targeting organic solar cells, transistors, and
+  novel functional devices.
+added: 2026-10-21
+pi: 伹馬 敬介
+parent: 理化学研究所 創発物性科学研究センター
+location:
+  city: 和光市
+  country: JP
