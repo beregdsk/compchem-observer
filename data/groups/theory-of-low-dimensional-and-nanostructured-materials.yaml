@@ -1,0 +1,23 @@
+id: theory-of-low-dimensional-and-nanostructured-materials
+name: Theory of low-dimensional and nanostructured materials
+kind: group
+website: https://www.uni-kassel.de/fb10/en/institute/physics/research-groups/theory-of-low-dimensional-and-nanostructured-materials/home.html
+topics:
+  - electronic-structure
+  - dft
+  - quantum-dynamics
+  - molecular-dynamics
+  - materials-modeling
+description: The Nanostructured Materials Group at the Institute of Theoretical
+  Physics of the University of Kassel, led by Prof. Dr. G. M. Pastor, focuses on
+  the theoretical and computational study of clusters, nanoparticles,
+  low-dimensional systems, and nanostructures. Their research interests include
+  density functional theory, computational quantum theory of magnetic materials,
+  strong electron-correlation phenomena, quantum non-adiabatic dynamics, and
+  stochastic dynamics in complex energy landscapes.
+added: 2026-10-21
+pi: G. M. Pastor
+parent: Institute of Theoretical Physics, University of Kassel
+location:
+  city: Kassel
+  country: DE
