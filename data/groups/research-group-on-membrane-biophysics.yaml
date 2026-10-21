@@ -1,0 +1,21 @@
+id: research-group-on-membrane-biophysics
+name: Research Group on Membrane Biophysics
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/health/health-life-course/research-group-membrane-biophysics-1286222584890/GrupsInves.html?id=1286252243399
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - soft-matter
+  - spectroscopy
+  - photochemistry
+description: Research Group on Membrane Biophysics (MemBioPhys) studies
+  self-assembly of amphipathic molecules, characterisation of membrane
+  structures, and light-induced molecular switches. It focuses on pore
+  formation, fusion and fission, using computational analysis, molecular
+  simulations, and spectroscopic techniques.
+added: 2026-10-21
+pi: Jesús Salgado Benito
+parent: Institute of Molecular Science
+location:
+  city: Paterna
+  country: ES
