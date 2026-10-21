@@ -1,0 +1,22 @@
+id: laboratory-of-virus-molecular-biology
+name: Laboratory of Virus Molecular Biology
+kind: group
+website: https://en.biotech.ug.edu.pl/research/research-groups/laboratory-virus-molecular-biology
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - drug-design
+description: The Laboratory of Virus Molecular Biology is a research group based
+  at the Intercollegiate Faculty of Biotechnology UG&MUG in Gdańsk, Poland,
+  headed by Prof. Krystyna Bieńkowska-Szewczyk. The group's research focuses on
+  the structure and function of herpesvirus and Hepatitis C virus proteins,
+  mechanisms of viral cell-to-cell spread, viral immune evasion, and the
+  construction of viral vectors for research and vaccine applications. Their
+  research activities incorporate computational and theoretical approaches, such
+  as molecular dynamics simulations of virus-like particles and protein…
+added: 2026-10-21
+pi: Krystyna Bieńkowska-Szewczyk
+parent: Intercollegiate Faculty of Biotechnology UG&MUG
+location:
+  city: Gdańsk
+  country: PL
