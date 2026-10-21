@@ -1,0 +1,23 @@
+id: group-b45b0d24
+name: 創発光物性研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_photodyn/index.html
+topics:
+  - spectroscopy
+  - electronic-structure
+  - excited-states
+  - materials-modeling
+  - quantum-dynamics
+description: The Emergent Optical Property Research Group, part of the Center
+  for Emergent Matter Science at RIKEN and directed by Naoki Ogawa, explores
+  emergent optical properties and controls non-equilibrium electron and spin
+  dynamics in topological and strongly correlated materials. Using broadband and
+  ultrafast optical spectroscopy, they investigate shift and injection currents,
+  spin transport, and the manipulation of topological magnetic orders to
+  discover novel photofunctional materials.
+added: 2026-10-21
+pi: 小川 直毅
+parent: 理化学研究所 創発物性科学研究センター
+location:
+  city: Wako
+  country: JP
