@@ -1,0 +1,22 @@
+id: quantum-lab
+name: Quantum Lab
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/condensed-matter-physics-of-energy-materials/quantum-lab
+topics:
+  - spectroscopy
+  - education-training
+description: The Quantum Lab (Quantum Material Device Laboratory) at Uppsala
+  University's Department of Physics and Astronomy is an experimental research
+  group led by Associate Professor M. Venkata Kamalakar. Founded in 2017, the
+  lab investigates low-temperature charge and spin transport in nanodevices of
+  low-dimensional and 2D materials, such as graphene and 2D magnets. Its
+  research spans spintronics, orbitronics, quantum sensors, and van der Waals
+  heterostructures, using advanced nanofabrication, magneto-transport, and
+  spectroscopic techniques. The group also operates a millikelvin facility and
+  is…
+added: 2026-10-21
+pi: M. Venkata Kamalakar
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE

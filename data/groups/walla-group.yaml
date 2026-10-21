@@ -1,0 +1,23 @@
+id: walla-group
+name: Walla Group
+kind: group
+website: https://www.tu-braunschweig.de/en/pci/wg-walla
+topics:
+  - spectroscopy
+  - photochemistry
+  - biomolecular-simulation
+description: The Walla Group at the Institute of Physical and Theoretical
+  Chemistry, TU Braunschweig, focuses on modern biophysical chemistry,
+  particularly biomolecular and biomimetic processes. The group's expertise lies
+  in single-molecule microscopy and ultrafast spectroscopy, working on
+  biomimetic light-harvesting systems and efficient luminescent solar
+  concentrators.
+added: 2026-10-21
+aliases:
+  - Biophysical Chemistry Walla Group
+pi: Peter Jomo Walla
+parent: Institute of Physical and Theoretical Chemistry, Technische Universität
+  Braunschweig
+location:
+  city: Braunschweig
+  country: DE

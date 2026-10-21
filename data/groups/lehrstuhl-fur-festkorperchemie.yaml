@@ -1,0 +1,18 @@
+id: lehrstuhl-fur-festkorperchemie
+name: Lehrstuhl für Festkörperchemie
+kind: group
+website: https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/fkch/
+topics:
+  - materials-modeling
+  - spectroscopy
+description: The official homepage of the Lehrstuhl für Festkörperchemie (Chair
+  of Solid State Chemistry) at the University of Augsburg, Institute of Physics.
+  It is led by Prof. Dr. Dirk Volkmer and Prof. Dr. Henning A. Höppe, and hosts
+  research groups focusing on advanced materials, solid-state compounds, and
+  analytical characterization methods.
+added: 2026-10-21
+pi: Dirk Volkmer and Henning A. Höppe
+parent: Institut für Physik, Universität Augsburg
+location:
+  city: Augsburg
+  country: DE

@@ -1,0 +1,22 @@
+id: materials-for-sustainable-energy-solutions
+name: Materials for Sustainable Energy Solutions
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/materials-theory/materials-for-sustainable-energy-solutions
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - catalysis
+  - photochemistry
+description: This division at Uppsala University focuses on first-principles
+  computational studies of materials for sustainable energy conversion and
+  storage. Research areas include functional magnetic materials, novel 2D
+  materials, nuclear energy applications, solar fuel production, hybrid
+  perovskite solar cells, hydrogen storage, molecular electronics, and organic
+  batteries, utilizing density functional theory and advanced electronic
+  structure methods.
+added: 2026-10-21
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE

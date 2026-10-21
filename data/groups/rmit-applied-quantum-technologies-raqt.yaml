@@ -1,0 +1,23 @@
+id: rmit-applied-quantum-technologies-raqt
+name: RMIT Applied Quantum Technologies (RAQT)
+kind: institute
+website: https://www.rmit.edu.au/about/schools-colleges/stem-college/research/leading-research-centres/rmit-applied-quantum-technologies
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+  - software-hpc
+  - quantum-dynamics
+  - spectroscopy
+description: RMIT Applied Quantum Technologies (RAQT) is a leading research
+  centre at RMIT University, established in 2024 to accelerate applied quantum
+  technology research, innovation, and education. It unites researchers across
+  science, engineering, and technology to translate quantum science into
+  real-world innovations in sensing, navigation, timing, materials, computing,
+  and communication.
+added: 2026-10-21
+aliases:
+  - RMIT Applied Quantum Technologies
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU

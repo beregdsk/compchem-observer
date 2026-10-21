@@ -1,0 +1,21 @@
+id: computational-nano-optics
+name: Computational Nano Optics
+kind: group
+website: https://www.zib.de/research/mcs/mscp/cno
+topics:
+  - materials-modeling
+  - software-hpc
+  - spectroscopy
+description: The Computational Nano Optics research group at Zuse Institute
+  Berlin focuses on the investigation and application of numerical methods for
+  simulating light-matter interactions on the nanoscale, with an emphasis on
+  adaptive finite-element methods for solving Maxwell's equations. Their work
+  includes applications in metamaterials, plasmonics, photovoltaics, optical
+  nano-metrology, and nano-lasers, bridging mathematics, physics, and
+  engineering.
+added: 2026-10-21
+pi: Sven Burger
+parent: Zuse Institute Berlin
+location:
+  city: Berlin
+  country: DE

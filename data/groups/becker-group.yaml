@@ -1,0 +1,19 @@
+id: becker-group
+name: Becker Group
+kind: group
+website: https://www.tu-braunschweig.de/en/pci/en/agbecker
+topics:
+  - spectroscopy
+description: The Becker Group at the Institute of Physical and Theoretical
+  Chemistry of TU Braunschweig, led by Prof. Dr. K.-D. Becker, focuses on
+  experimental physical chemistry, particularly solid-state chemistry,
+  diffusion, and ionic conductivity. Their research employs various
+  spectroscopic techniques, including gamma, Mössbauer, PAC, and optical
+  spectroscopy, alongside impedance spectroscopy and X-ray diffraction.
+added: 2026-10-21
+pi: K.-D. Becker
+parent: Institute of Physical and Theoretical Chemistry, Technische Universität
+  Braunschweig
+location:
+  city: Braunschweig
+  country: DE

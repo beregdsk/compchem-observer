@@ -1,0 +1,25 @@
+id: group-08fa1dd2
+name: 量子化学研究室
+kind: group
+website: https://www2.sci.hokudai.ac.jp/dept/chem/lab/quantum-chemistry
+topics:
+  - photochemistry
+  - excited-states
+  - ml-chemistry
+  - materials-modeling
+  - catalysis
+description: The Quantum Chemistry Laboratory at Hokkaido University, led by
+  Professor Tetsuya Taketsugu, specializes in theoretical and computational
+  chemistry. The lab's research focuses on the theoretical chemistry of
+  photochemical reactions, predicting molecular structures and properties using
+  computational chemistry and data science, and the theoretical and
+  computational science of nanomaterials, including plasmonics and catalysis. By
+  developing advanced computational methods and utilizing machine learning, the
+  lab aims to understand and predict complex chemical phenomena without
+  conducting physical…
+added: 2026-10-21
+pi: Tetsuya Taketsugu
+parent: 北海道大学理学部化学科・大学院理学研究院化学部門
+location:
+  city: Sapporo
+  country: JP

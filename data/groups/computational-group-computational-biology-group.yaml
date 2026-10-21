@@ -1,0 +1,21 @@
+id: computational-group-computational-biology-group
+name: Computational Group / Computational Biology Group
+kind: group
+website: https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/cbio/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - software-hpc
+description: The Computational Biology Group at the University of Augsburg, led
+  by Prof. Dr. Nadine Schwierz, investigates the physics of biomolecular
+  interactions. Using high-performance computing and advanced numerical methods,
+  they simulate the structure and dynamics of proteins, nucleic acids, lipids,
+  and RNA to understand processes like ion binding and mRNA transport.
+added: 2026-10-21
+aliases:
+  - Arbeitsgruppe für Computergestützte Biologie
+pi: Nadine Schwierz
+parent: University of Augsburg
+location:
+  city: Augsburg
+  country: DE

@@ -1,0 +1,21 @@
+id: research-group-on-membrane-proteins-memprot-lab
+name: Research Group on Membrane Proteins (MemProt Lab)
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/health/health-life-course/research-group-membrane-proteins-1286222584890/GrupsInves.html?id=1286158593110
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+description: The Research Group on Membrane Proteins (MemProt Lab) explores the
+  mechanistic principles of membrane protein insertion, folding, assembly, and
+  stability in lipid membranes. Focusing on transmembrane segments,
+  protein-protein interactions, and viral membrane proteins, the group combines
+  experimental and computational approaches to understand these biological
+  processes.
+added: 2026-10-21
+aliases:
+  - Research Group on Membrane Proteins
+pi: Ismael Mingarro Muñoz
+parent: Universitat de València
+location:
+  city: Burjassot
+  country: ES

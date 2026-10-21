@@ -1,0 +1,18 @@
+id: group-5a6f193f
+name: 有機反応論研究室
+kind: group
+website: https://www2.sci.hokudai.ac.jp/dept/chem/lab/mechanistic-organic
+topics:
+  - ml-chemistry
+description: The official homepage of the Organic Reaction Chemistry Laboratory
+  (有機反応論研究室) at Hokkaido University, led by Professor Aiichiro Nagaki. The lab
+  specializes in flash chemistry and micro-synthesis, utilizing flow
+  microreactors to control fast organic reactions within seconds. They focus on
+  the high-speed creation of functional and biological molecules, integrating
+  data science and machine learning to pioneer new synthetic methodologies.
+added: 2026-10-21
+pi: Aiichiro Nagaki
+parent: 北海道大学 (Hokkaido University)
+location:
+  city: Sapporo
+  country: JP
