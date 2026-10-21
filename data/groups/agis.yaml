@@ -1,0 +1,24 @@
+id: agis
+name: 科学研究基盤モデル開発プログラム（AGIS）
+kind: group
+website: https://www.riken.jp/research/labs/trip/agis/
+topics:
+  - ml-chemistry
+  - ml-potentials
+  - drug-design
+  - materials-modeling
+  - software-hpc
+description: The Advanced General Intelligence for Science (AGIS) Program at
+  RIKEN is a research group dedicated to developing foundation models and AI
+  agents for scientific research. It focuses on integrating large language
+  models with scientific data to advance automation in life sciences, drug
+  discovery, materials science, and computational infrastructure, aiming to
+  significantly accelerate the scientific research cycle.
+added: 2026-10-21
+aliases:
+  - 科学研究基盤モデル開発プログラム
+pi: 泰地 真弘人
+parent: 理化学研究所
+location:
+  city: 埼玉県和光市
+  country: JP
