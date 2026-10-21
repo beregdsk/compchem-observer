@@ -1,0 +1,17 @@
+id: munoz-group-grs
+name: Muñoz Group (GRS)
+kind: group
+website: https://www.tu-braunschweig.de/en/pci/munoz
+topics:
+  - electrochemistry
+  - photochemistry
+description: The Muñoz Group (GRS) is an associated research group at the
+  Institute of Physical and Theoretical Chemistry at TU Braunschweig, led by
+  research group leader Andrés Muñoz, who is also an adjunct professor there.
+  The group's primary research focus is photoelectrochemistry.
+added: 2026-10-21
+pi: Andrés Muñoz
+parent: Gesellschaft für Anlagen- und Reaktorsicherheit (GRS)
+location:
+  city: Braunschweig
+  country: DE
