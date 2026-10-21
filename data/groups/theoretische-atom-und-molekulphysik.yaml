@@ -1,0 +1,22 @@
+id: theoretische-atom-und-molekulphysik
+name: Theoretische Atom- und Molekülphysik
+kind: group
+website: https://www.uni-kassel.de/fb10/en/institute/physik/forschungsgruppen/theoretische-atom-und-molekuelphysik/startpage.html
+topics:
+  - quantum-dynamics
+  - electronic-structure
+  - wavefunction-methods
+  - molecular-dynamics
+  - excited-states
+description: The research group 'Theoretische Atom- und Molekülphysik'
+  (Theoretical Atomic and Molecular Physics) at the University of Kassel focuses
+  on the theoretical and computational modeling of atomic and molecular systems,
+  utilizing quantum mechanical methods to study dynamics, structure, and
+  spectroscopic properties.
+added: 2026-10-21
+aliases:
+  - 'Theoretical Atomic and Molecular Physics: Forward'
+parent: University of Kassel
+location:
+  city: Kassel
+  country: DE
