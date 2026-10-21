@@ -1,0 +1,24 @@
+id: core
+name: 統合データ・計算科学プログラム（CoRe）
+kind: group
+website: https://www.riken.jp/research/labs/trip/core/index.html
+topics:
+  - quantum-computing-chemistry
+  - ml-chemistry
+  - software-hpc
+  - electronic-structure
+  - materials-modeling
+description: The Integrated Data and Computational Science Program (CoRe) is a
+  research group under the TRIP headquarters at RIKEN. Led by Program Director
+  Masashi Tsuneyoshi, the program focuses on building hybrid computing
+  environments combining supercomputers and quantum computers, accumulating
+  high-quality experimental data, and developing advanced simulation, data
+  science, and machine learning methodologies. It aims to expand the frontiers
+  of computational science and apply these technologies to physics, chemistry,
+  biology, and other fields to solve global challenges.
+added: 2026-10-21
+pi: 常行 真司
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
