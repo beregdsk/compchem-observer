@@ -1,0 +1,21 @@
+id: ecl-6
+name: 大森圏論的物理学理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ecl/cat-theor-phys-riken-ecl/index.html
+topics:
+  - materials-modeling
+  - quantum-dynamics
+  - software-hpc
+description: Led by Unit Leader Kantaro Ohmori, this research unit focuses on
+  understanding quantum field theory across particle physics, condensed matter
+  physics, and quantum information using category theory and higher algebra.
+  Based on generalized and non-invertible symmetries, they build frameworks to
+  translate macroscopic matter behaviors into microscopic quantum models,
+  combining tensor networks and lattice models to establish algebraic
+  computational methods for quantum system design and simulation.
+added: 2026-10-21
+pi: 大森 寛太郎
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
