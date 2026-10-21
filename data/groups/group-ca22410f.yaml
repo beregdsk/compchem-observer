@@ -1,0 +1,25 @@
+id: group-ca22410f
+name: 創薬分子設計基盤ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ims/drug_discov_comput_chem/index.html
+topics:
+  - drug-design
+  - cheminformatics
+  - ml-chemistry
+  - wavefunction-methods
+  - biomolecular-simulation
+description: The Drug Design Unit (創薬分子設計基盤ユニット) at RIKEN Center for Life
+  Science Technologies, led by Teruki Honma, focuses on in silico drug discovery
+  and design. The unit integrates structure-based and ligand-based screening,
+  applying machine learning to optimize compounds with ADMET considerations.
+  They perform quantum chemical interaction analyses using the fragment
+  molecular orbital (FMO) method on protein-ligand complexes, supporting drug
+  development and cardiotoxicity prediction.
+added: 2026-10-21
+aliases:
+  - 創薬分子設計基盤ユニット(IMS)
+pi: 本間 光貴 (Teruki Honma)
+parent: 理化学研究所 (RIKEN)
+location:
+  city: 横浜市
+  country: JP
