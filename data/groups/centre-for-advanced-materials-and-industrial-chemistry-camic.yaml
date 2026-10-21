@@ -1,0 +1,24 @@
+id: centre-for-advanced-materials-and-industrial-chemistry-camic
+name: Centre for Advanced Materials and Industrial Chemistry (CAMIC)
+kind: institute
+website: https://www.rmit.edu.au/research/centres-collaborations/centre-for-advanced-materials-and-industrial-chemistry
+topics:
+  - catalysis
+  - electrochemistry
+  - materials-modeling
+  - biomolecular-simulation
+  - soft-matter
+description: The Centre for Advanced Materials and Industrial Chemistry (CAMIC)
+  is a multidisciplinary research centre at RMIT University that brings together
+  expertise in industrial chemistry, materials chemistry, nanotechnology,
+  catalysis, chemical engineering, and electrochemistry. It focuses on
+  developing real-world solutions for industry challenges through innovative
+  research in applied electrochemistry, molecular engineering,
+  nano-biotechnology, and advanced materials.
+added: 2026-10-21
+aliases:
+  - Centre for Advanced Materials and Industrial Chemistry
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU
