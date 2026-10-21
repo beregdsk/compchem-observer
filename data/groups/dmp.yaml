@@ -1,0 +1,25 @@
+id: dmp
+name: 創薬・医療技術基盤プログラム（DMP）
+kind: group
+website: https://www.riken.jp/research/labs/trip/dmp/index.html
+topics:
+  - drug-design
+  - ml-chemistry
+  - quantum-computing-chemistry
+  - cheminformatics
+  - biomolecular-simulation
+description: The Drug Discovery and Medical Technology Base Program (DMP) at
+  RIKEN aims to bridge cutting-edge basic research with medical applications to
+  create innovative therapeutics. It focuses on novel drug modalities,
+  low-molecular-weight drugs, antibodies, vaccines, and cell therapies.
+  Leveraging AI, quantum computing, and radiopharmaceuticals, the program
+  promotes data-driven drug discovery. Its specialized units cover molecular
+  design, protein chemistry, computational chemistry, and neuroscience,
+  fostering industry-academia collaboration to contribute to next-generation
+  healthcare.
+added: 2026-10-21
+pi: 榑林 陽一
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
