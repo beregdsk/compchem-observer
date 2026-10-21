@@ -1,0 +1,22 @@
+id: extreme-quantum-solid-state-physics-riken-ecl-research-unit
+name: Extreme Quantum Solid State Physics RIKEN ECL Research Unit
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/extr_qtm_matter_phys_riken_ecl/
+topics:
+  - materials-modeling
+  - electronic-structure
+description: Led by Unit Leader Yukako Fujishiro, the Extreme Quantum Solid
+  State Physics RIKEN ECL Research Unit is part of the Center for Emergent
+  Matter Science at RIKEN. The unit focuses on the fundamental science of
+  emergent phenomena in magnetic topological materials and strongly correlated
+  electron systems under extreme conditions. By utilizing advanced
+  micro-fabrication techniques like focused ion beams, they achieve ultra-high
+  pressures, high-density currents, and gate-controlled carrier densities using
+  ionic liquids to explore novel quantum phases and quantum transport
+  properties.
+added: 2026-10-21
+pi: Yukako Fujishiro
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
