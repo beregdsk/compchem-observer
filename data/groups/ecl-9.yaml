@@ -1,0 +1,20 @@
+id: ecl-9
+name: 藤代極限量子固体物性理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ecl/extr_qtm_matter_phys_riken_ecl/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The RIKEN ECL Research Team / Fujishiro Unit focuses on the physics
+  of emergent phenomena in magnetic topological materials and strongly
+  correlated electron systems under extreme conditions. Using advanced
+  micro-fabrication of quantum single crystals, they generate ultra-high
+  pressures, drive magnetic dynamics with high-density currents, and tune
+  carrier densities with ionic liquids to explore novel quantum phases and
+  quantum transport properties.
+added: 2026-10-21
+pi: Yukako Fujishiro
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
