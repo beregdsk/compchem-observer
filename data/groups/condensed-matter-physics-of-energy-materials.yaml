@@ -1,0 +1,23 @@
+id: condensed-matter-physics-of-energy-materials
+name: Condensed Matter Physics of Energy Materials
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/condensed-matter-physics-of-energy-materials
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+  - catalysis
+  - electrochemistry
+description: Condensed Matter Physics of Energy Materials is a research
+  programme at Uppsala University's Department of Physics and Astronomy. It
+  focuses on fundamental and applied condensed matter physics to understand
+  atomic-level functionality driving renewable energy solutions, utilizing
+  advanced X-ray photon science and functional characterization tools. Research
+  spans batteries, solar energy conversion, catalysis, quantum devices, and the
+  development of X-ray methodologies.
+added: 2026-10-21
+pi: Håkan Rensmo
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
