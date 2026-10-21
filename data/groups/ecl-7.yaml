@@ -1,0 +1,20 @@
+id: ecl-7
+name: 田財強相関量子相理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/ecl/str-correl-qtm-phase-riken-ecl/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-dynamics
+description: This unit, led by Rina Tazai at RIKEN, conducts theoretical and
+  computational research on strongly correlated electron systems in solid
+  materials like superconductors and magnets. By analyzing microscopic
+  electronic models, the group seeks to discover new electronic states, quantum
+  phase transitions, and transport phenomena, facilitating collaboration between
+  theory and experiment.
+added: 2026-10-21
+pi: Rina Tazai
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
