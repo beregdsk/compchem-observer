@@ -1,0 +1,18 @@
+id: arbeitsgruppe-volkmer
+name: Arbeitsgruppe Volkmer
+kind: group
+website: https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/fkch/volkmer/
+topics:
+  - materials-modeling
+  - spectroscopy
+description: The Arbeitsgruppe Volkmer is a research group at the University of
+  Augsburg, Institute of Physics, led by Prof. Dr. Dirk Volkmer and Prof. Dr.
+  Henning A. Höppe. The group focuses on solid-state chemistry
+  (Festkörperchemie), offering research, teaching, and supervision for Bachelor
+  and Master theses.
+added: 2026-10-21
+pi: Dirk Volkmer and Henning A. Höppe
+parent: Institut für Physik, Universität Augsburg
+location:
+  city: Augsburg
+  country: DE
