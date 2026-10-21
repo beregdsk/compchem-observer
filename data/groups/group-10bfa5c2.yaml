@@ -1,0 +1,19 @@
+id: group-10bfa5c2
+name: 濱崎非平衡量子統計力学理研白眉研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/hakubi/h_nonequil_qtm_stat_mech/index.html
+topics:
+  - quantum-dynamics
+description: The RIKEN Hakubi Research Team led by Dr. Ryusuke Hamazaki
+  investigates non-equilibrium quantum statistical mechanics, focusing on
+  macroscopic non-equilibrium phenomena from microscopic quantum mechanics. They
+  study thermalization in isolated quantum systems, open quantum systems,
+  quantum dynamics, and information theory to understand and control
+  non-equilibrium states, contributing to physics, biology, and information
+  science.
+added: 2026-10-21
+pi: Ryusuke Hamazaki
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
