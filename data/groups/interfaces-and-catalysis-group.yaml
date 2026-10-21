@@ -1,0 +1,23 @@
+id: interfaces-and-catalysis-group
+name: Interfaces and Catalysis Group
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/materials-chemistry/interfaces-and-catalysis-group-jeppe-v-lauritsen
+topics:
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+  - materials-modeling
+description: The Interfaces and Catalysis Group at Aarhus University, headed by
+  Professor Jeppe V. Lauritsen, investigates the fundamental physics and
+  chemistry of surfaces. The group focuses on surface reactivity, catalysis, and
+  electrocatalysis for energy applications, using advanced characterization
+  tools to understand the catalytic properties of nanoparticles and
+  nanostructures at the atomic scale.
+added: 2026-10-21
+aliases:
+  - Interfaces and Catalysis Group (Jeppe V. Lauritsen)
+pi: Jeppe V. Lauritsen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
