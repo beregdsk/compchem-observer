@@ -1,0 +1,24 @@
+id: fqsp
+name: 基礎量子科学研究プログラム（FQSP）
+kind: group
+website: https://www.riken.jp/research/labs/trip/fqsp/
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - electronic-structure
+  - wavefunction-methods
+  - dft
+description: 'The Fundamental Quantum Science Program (FQSP) is a research
+  program under the RIKEN TRIP division. It focuses on deepening the fundamental
+  understanding of quantum science through four key pillars: basic physics and
+  chemistry, mathematics, quantum information, and non-equilibrium science. The
+  program promotes international collaboration and talent development to
+  establish a global research hub for fundamental quantum science.'
+added: 2026-10-21
+aliases:
+  - 基礎量子科学研究プログラム
+pi: 永長 直人
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
