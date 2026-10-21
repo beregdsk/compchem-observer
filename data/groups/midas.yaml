@@ -1,0 +1,24 @@
+id: midas
+name: MIDAS
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/physical-chemistry-and-frontier-technologies/molecular-interactions-dynamics-and-simulation
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - quantum-dynamics
+  - molecular-dynamics
+  - software-hpc
+description: The MIDAS group (Molecular Interactions Dynamics And Simulation) at
+  Aarhus University, led by Professor Ove Christiansen, focuses on theoretical
+  and computational chemistry. Their research centers on developing new
+  computational methods for the quantum description of molecular dynamics,
+  utilizing coupled cluster theory and vibrational coupled cluster (VCC)
+  approaches. They aim to apply these methods to large molecular systems and
+  develop specialized software like MidasCpp, alongside contributing to packages
+  like Dalton and Turbomole.
+added: 2026-10-21
+pi: Ove Christiansen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
