@@ -1,0 +1,24 @@
+id: group-a7d5d1cc
+name: 創発ソフトマター機能研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_soft_matter_funct/index.html
+topics:
+  - soft-matter
+  - materials-modeling
+  - catalysis
+  - spectroscopy
+  - photochemistry
+description: The Innovation Soft Matter Function Research Group at the RIKEN
+  Center for Emergent Matter Science, led by Group Director Takuzo Aida, focuses
+  on the precise control of structures and properties from molecular to
+  macroscopic scales to address global energy and environmental issues. Their
+  research includes developing efficient photocatalysts for water splitting
+  using abundant elements, organic ferroelectrics for low-power, high-density
+  recording media, and novel soft graphene materials based on rapid graphite
+  exfoliation.
+added: 2026-10-21
+pi: Takuzo Aida
+parent: 創発物性科学研究センター | 理化学研究所
+location:
+  city: Wako
+  country: JP
