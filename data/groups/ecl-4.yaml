@@ -1,0 +1,24 @@
+id: ecl-4
+name: 今井極微エネルギー変換科学理研ECL研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/ecl/qtm-ener-conv-riken-ecl/index.html
+topics:
+  - electronic-structure
+  - excited-states
+  - photochemistry
+  - spectroscopy
+description: The Imai Extreme Energy Conversion Science RIKEN ECL Research Team,
+  led by Miyabi Imai, is a research group at RIKEN in Wako, Japan. The team uses
+  scanning tunneling microscopy and single-molecule spectroscopy to investigate
+  structure-function relationships of molecules at the atomic scale. Their
+  research focuses on understanding energy conversion mechanisms in individual
+  molecules, particularly those relevant to biological systems and organic
+  electronics. By correlating molecular structure with energy conversion
+  function at atomic resolution, they aim to design novel materials with
+  tailored…
+added: 2026-10-21
+pi: 今井 みやび
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP
