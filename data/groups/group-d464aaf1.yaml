@@ -1,0 +1,22 @@
+id: group-d464aaf1
+name: 強相関量子伝導研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_qtm_transp/index.html
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+description: This team at RIKEN's Center for Emergent Matter Science, led by
+  Director Yoshinori Tokura, investigates quantum transport phenomena in thin
+  films, heterointerfaces, and bulk materials. Their research focuses on
+  spin-orbit interactions in systems with broken inversion symmetry, electron
+  conduction in non-trivial spin structures, and unconventional superconductors
+  under high pressure and terahertz response. They study strongly correlated
+  electron systems, giant magnetoresistance, high-temperature superconductors,
+  multiferroics, and topological insulators.
+added: 2026-10-21
+pi: 十倉 好紀
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP
