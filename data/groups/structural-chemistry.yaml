@@ -1,0 +1,22 @@
+id: structural-chemistry
+name: Structural Chemistry
+kind: group
+website: https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry/
+topics:
+  - dft
+  - molecular-dynamics
+  - electrochemistry
+  - materials-modeling
+  - spectroscopy
+description: The Structural Chemistry research programme at Uppsala University
+  investigates materials' chemical structure, dynamics, properties, and
+  mechanisms at the atomic and molecular level. Combining experimental
+  techniques like X-ray diffraction with computational methods such as DFT and
+  molecular dynamics, the group focuses heavily on advanced materials for
+  electrochemical energy storage, particularly rechargeable batteries.
+added: 2026-10-21
+pi: Daniel Brandell
+parent: Department of Chemistry - Ångström Laboratory, Uppsala University
+location:
+  city: Uppsala
+  country: SE
