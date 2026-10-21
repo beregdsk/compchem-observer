@@ -1,0 +1,19 @@
+id: ravnsb-k-group
+name: Ravnsbæk Group
+kind: group
+website: https://ravnsbaekgroup.com/
+topics:
+  - materials-modeling
+  - electrochemistry
+description: The Ravnsbæk Group, led by Professor Dorthe B. Ravnsbæk at Aarhus
+  University and the University of Southern Denmark, focuses on inorganic
+  materials for energy storage and conversion, particularly rechargeable battery
+  materials. Their research spans material design, synthesis, structural
+  characterization, and battery performance testing, targeting order-disorder
+  phenomena, amorphous electrodes, and novel cathode and anode materials.
+added: 2026-10-21
+pi: Dorthe B. Ravnsbæk
+parent: Aarhus University and University of Southern Denmark
+location:
+  city: Aarhus
+  country: DK
