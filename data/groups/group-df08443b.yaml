@@ -1,0 +1,24 @@
+id: group-df08443b
+name: 電子状態スペクトロスコピー研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/electron_states_spectro/index.html
+topics:
+  - spectroscopy
+  - electronic-structure
+  - quantum-dynamics
+  - molecular-dynamics
+  - materials-modeling
+description: The team, led by Director Kyoko Ishizaka, conducts experimental
+  research using light and electron beams to clarify spin, electronic, and
+  crystal structures in materials exhibiting diverse properties. They employ
+  photoelectron spectroscopy to study superconductors, thermoelectric and
+  spintronic materials, topological states, and strong correlation effects.
+  Additionally, they use pulsed laser-based ultrafast transmission electron
+  microscopy to investigate magnetic, electronic, and crystal structure dynamics
+  on femtosecond to nanosecond scales with nanoscale spatial resolution.
+added: 2026-10-21
+pi: 石坂 香子
+parent: 創発物性科学研究センター
+location:
+  city: 和光市
+  country: JP
