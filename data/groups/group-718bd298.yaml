@@ -1,0 +1,20 @@
+id: group-718bd298
+name: 強相関物性研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_phys/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+description: The Strong Correlation Electronic Properties Research Group at
+  RIKEN's Center for Emergent Matter Science, led by Director Yoshinori Tokura,
+  investigates emergent physical properties of strongly correlated electron
+  systems, focusing on spin and orbital structures, transport and optical
+  properties, and topological materials such as superconductors, multiferroics,
+  and topological insulators.
+added: 2026-10-21
+pi: 十倉 好紀 (Yoshinori Tokura)
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP
