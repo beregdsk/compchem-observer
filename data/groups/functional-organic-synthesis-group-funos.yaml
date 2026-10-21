@@ -1,0 +1,22 @@
+id: functional-organic-synthesis-group-funos
+name: Functional Organic Synthesis Group (FunOS)
+kind: group
+website: https://www.rmit.edu.au/about/schools-colleges/science/research/research-centres-groups/functional-organic-synthesis-group
+topics:
+  - drug-design
+  - materials-modeling
+  - electrochemistry
+  - catalysis
+  - biomolecular-simulation
+description: The Functional Organic Synthesis Group (FunOS) at RMIT University
+  focuses on designing and synthesising functional organic molecules for
+  therapeutic applications and sustainable energy technologies. Their research
+  integrates synthetic organic chemistry, molecular design, and materials
+  innovation to develop next-generation therapeutics for neurodegenerative
+  diseases and cancer, alongside redox-active materials for flow batteries.
+added: 2026-10-21
+pi: Subashani Maniam
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU
