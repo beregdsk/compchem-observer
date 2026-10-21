@@ -1,0 +1,17 @@
+id: the-brummerstedt-iversen-group
+name: The Brummerstedt Iversen Group
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/materials-chemistry/the-brummerstedt-iversen-group
+topics:
+  - materials-modeling
+description: The Brummerstedt Iversen Group is a research group within the
+  Department of Chemistry at Aarhus University, led by Professor Bo Brummerstedt
+  Iversen. The group focuses on materials chemistry, investigating the
+  relationship between structure and function in advanced materials, combining
+  experimental synthesis and characterization with computational modeling.
+added: 2026-10-21
+pi: Bo Brummerstedt Iversen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
