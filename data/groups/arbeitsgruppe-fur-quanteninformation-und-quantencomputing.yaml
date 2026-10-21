@@ -1,0 +1,17 @@
+id: arbeitsgruppe-fur-quanteninformation-und-quantencomputing
+name: Arbeitsgruppe für Quanteninformation und Quantencomputing
+kind: group
+website: https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/qcode/
+topics:
+  - quantum-computing-chemistry
+description: The research group 'Quanteninformation und Quantencomputing'
+  (Quantum Information and Quantum Computing) at the Institute of Physics,
+  University of Augsburg, led by Prof. Dr. Mónica Benito. The group conducts
+  research in quantum computing, quantum information theory, and related topics,
+  located in Augsburg, Germany.
+added: 2026-10-21
+pi: Mónica Benito
+parent: Institut für Physik, Universität Augsburg
+location:
+  city: Augsburg
+  country: DE
