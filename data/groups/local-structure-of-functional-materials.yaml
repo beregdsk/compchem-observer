@@ -1,0 +1,18 @@
+id: local-structure-of-functional-materials
+name: Local Structure of Functional Materials
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/materials-chemistry/local-structure-of-functional-materials
+topics:
+  - materials-modeling
+  - spectroscopy
+description: A research group under the Department of Chemistry at Aarhus
+  University, focusing on the local structure and correlations in functional
+  materials, particularly piezoelectric materials, and their relation to
+  physical properties. The group is also responsible for the design,
+  construction, and operation of the DanMAX beamline at the MAX IV synchrotron.
+added: 2026-10-21
+pi: Mads Ry Vogel Jørgensen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
