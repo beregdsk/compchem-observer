@@ -1,0 +1,21 @@
+id: electronic-structure-of-quantum-materials-group
+name: Electronic Structure of Quantum Materials Group
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-6/research/electronic-structure-of-quantum-materials-group
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+description: The Electronic Structure of Quantum Materials Group, led by Lukasz
+  Plucinski, focuses on the electronic and magnetic properties of quantum
+  materials. Using high-resolution spin-resolved angle-resolved photoemission
+  spectroscopy (ARPES) and circular dichroic photoemission, the group
+  reconstructs quantum mechanical wave functions to study quantum geometric
+  tensors, magnetic topological materials, and few-atom-thick layers. Their work
+  combines advanced experimental techniques with multiple-scattering theory.
+added: 2026-10-22
+pi: Lukasz Plucinski
+parent: Peter Grünberg Institute (PGI-6), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
