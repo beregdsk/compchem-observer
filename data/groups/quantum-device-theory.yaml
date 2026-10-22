@@ -1,0 +1,25 @@
+id: quantum-device-theory
+name: Quantum Device Theory
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-12/groups/quantum-device-theory-group
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - materials-modeling
+  - ml-chemistry
+  - software-hpc
+description: The Quantum Device Theory group, part of Quantum Computing
+  Analytics (PGI-12) at the Peter Grünberg Institute (PGI) within
+  Forschungszentrum Jülich, explores how quantum principles like superposition
+  and entanglement can be used to design advanced technologies. The group
+  focuses on simulating theoretical designs to predict and refine performance
+  before experiments, covering research areas such as circuit Quantum
+  Electrodynamics for large quantum processors, simulating superconducting
+  qubits, gates, and circuits, error correction and mitigation, and quantum
+  machine learning for design and…
+added: 2026-10-22
+pi: Mohammad Ansari
+parent: Peter Grünberg Institute (PGI) / Quantum Computing Analytics (PGI-12)
+location:
+  city: Jülich
+  country: DE
