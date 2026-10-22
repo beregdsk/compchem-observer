@@ -1,0 +1,20 @@
+id: team-of-large-scale-parallel-numerical-computation-technology
+name: 大規模並列数値計算技術研究チーム (Team of Large-scale Parallel Numerical Computation
+  Technology)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/lpnctrt/
+topics:
+  - software-hpc
+description: The Large-scale Parallel Numerical Computation Technology Research
+  Team at RIKEN Center for Computational Science (R-CCS), led by Toshiyuki
+  Imamura, focuses on developing high-performance numerical computation software
+  libraries, such as KMathLIB and EigenExa, for supercomputers like Fugaku.
+  Their research targets core numerical algorithms, including parallel
+  eigenvalue solvers, linear algebra, and mixed-precision computing, to enable
+  efficient large-scale scientific simulations.
+added: 2026-10-22
+pi: Toshiyuki Imamura
+parent: 理化学研究所 計算科学研究センター (RIKEN Center for Computational Science, R-CCS)
+location:
+  city: Kobe
+  country: JP
