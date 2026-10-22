@@ -1,0 +1,17 @@
+id: quantum-computing-analytics-pgi-12
+name: Quantum Computing Analytics (PGI-12)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-12
+topics:
+  - quantum-computing-chemistry
+description: Quantum Computing Analytics (PGI-12) is an institute at
+  Forschungszentrum Jülich in Jülich, Germany, dedicated to theoretical and
+  numerical research in quantum computing, quantum algorithms, quantum
+  information, relativistic quantum information, and quantum technologies.
+  Founded in 2020, it hosts several groups working on quantum simulation,
+  algorithms, and device theory.
+added: 2026-10-22
+parent: Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
