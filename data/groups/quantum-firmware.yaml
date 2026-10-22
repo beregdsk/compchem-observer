@@ -1,0 +1,19 @@
+id: quantum-firmware
+name: Quantum Firmware
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-12/groups/quantum-firmware-1
+topics:
+  - quantum-computing-chemistry
+description: The Quantum Firmware and Control group at PGI-12 focuses on
+  developing techniques to reduce errors in quantum computing systems,
+  particularly quantum optimal control for high-fidelity gates in
+  superconducting NISQ devices. They develop numerical tools for simulating,
+  controlling, and characterizing quantum devices, and work on quantum error
+  mitigation, error correction, and open quantum systems modeling.
+added: 2026-10-22
+pi: Alessandro Ciani
+parent: Quantum Computing Analytics (PGI-12), Peter Grünberg Institute (PGI),
+  Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
