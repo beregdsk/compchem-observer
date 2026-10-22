@@ -1,0 +1,18 @@
+id: laser-spintronics-group
+name: Laser Spintronics Group
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-6/research/laser-spintronics-group
+topics:
+  - spectroscopy
+  - materials-modeling
+description: The Laser Spintronics Group, led by Dr. Roman Adam at the Peter
+  Grünberg Institute, investigates charge and spin dynamics in thin films and
+  metallic stacks. Using femtosecond pump-probe spectroscopy, the group explores
+  ultrafast spin dynamics, spintronic THz emitters, all-optical switching, and
+  high harmonic generation for spin-based electronics and quantum computing.
+added: 2026-10-22
+pi: Roman Adam
+parent: Peter Grünberg Institute (PGI-6), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
