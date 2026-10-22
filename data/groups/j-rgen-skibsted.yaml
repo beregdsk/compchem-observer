@@ -1,0 +1,22 @@
+id: j-rgen-skibsted
+name: Jørgen Skibsted
+kind: group
+website: https://chem.au.dk/en/research/core-facilities-and-research-centers/danish-center-for-ultrahigh-field-nmr-spectroscopy/translate-to-english-research-groups/translate-to-english-joergen-skibsted
+topics:
+  - materials-modeling
+  - catalysis
+  - spectroscopy
+  - electrochemistry
+description: The research group led by Professor Jørgen Skibsted at Aarhus
+  University focuses on applying and developing solid-state NMR spectroscopy to
+  study inorganic materials. Key areas include sustainable cement-based
+  materials, carbon capture and utilization, heterogeneous catalysts, zeolites,
+  glasses, and battery materials.
+added: 2026-10-22
+aliases:
+  - Solid-state NMR in inorganic chemistry and materials science
+pi: Jørgen Skibsted
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus C
+  country: DK

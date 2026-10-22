@@ -1,0 +1,21 @@
+id: energy-materials
+name: Energy Materials
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/materials-chemistry/energy-materials
+topics:
+  - electrochemistry
+  - materials-modeling
+  - spectroscopy
+description: The Energy Materials research group at Aarhus University's
+  Department of Chemistry, led by Professor Torben René Jensen, focuses on the
+  discovery, synthesis, and structural characterization of novel inorganic
+  materials and nanocomposites. The group's core research lies in developing
+  advanced electrolyte materials for solid-state magnesium, calcium, and lithium
+  batteries, as well as porous materials for gas storage and nanoconfined
+  chemical reactions.
+added: 2026-10-22
+pi: Torben René Jensen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK

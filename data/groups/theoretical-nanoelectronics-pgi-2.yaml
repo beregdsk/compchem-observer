@@ -1,0 +1,20 @@
+id: theoretical-nanoelectronics-pgi-2
+name: Theoretical Nanoelectronics (PGI-2)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-2
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+  - quantum-dynamics
+  - electronic-structure
+description: Theoretical Nanoelectronics (PGI-2) is a theoretical research
+  institute at the Peter Grünberg Institute within Forschungszentrum Jülich,
+  under the directorship of Prof. Dr. Markus Müller. It investigates the quantum
+  mechanical behaviour of electronic devices using many-body physics, quantum
+  statistics, and topology to advance quantum technologies, strongly correlated
+  systems, and spintronics.
+added: 2026-10-22
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE

@@ -1,0 +1,22 @@
+id: joint-lab-virtual-materials-design
+name: Joint Lab Virtual Materials Design
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-1/research/joint-lab-virtual-materials-design
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - software-hpc
+  - ml-chemistry
+description: The Joint Lab Virtual Materials Design (JL-VMD) is a research group
+  within the Quantum Theory of Materials (PGI-1) at the Peter Grünberg
+  Institute, Forschungszentrum Jülich. It focuses on the development and
+  validation of computational methods for material design, establishing a
+  framework for high-throughput calculations, materials databases, and DFT-based
+  electronic structure workflows. It collaborates internationally on HPC and
+  materials informatics.
+added: 2026-10-22
+parent: Forschungszentrum Jülich / Peter Grünberg Institute
+location:
+  city: Jülich
+  country: DE

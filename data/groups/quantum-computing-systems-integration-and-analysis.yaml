@@ -1,0 +1,18 @@
+id: quantum-computing-systems-integration-and-analysis
+name: Quantum Computing Systems Integration and Analysis
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-12/groups/quantum-computing-systems-integration-and-analysis
+topics:
+  - quantum-computing-chemistry
+description: The Quantum Computing Systems Integration and Analysis Group at
+  PGI-12 supports the integration of quantum computing components from partners
+  using system engineering methods from the aerospace industry. The group works
+  on technology development, quantum computing use cases for manufacturing,
+  quantum cryptanalysis, benchmarking, quantum error correction, and NISQ
+  computation, while contributing to standards and outreach.
+added: 2026-10-22
+pi: Paolo Bianco
+parent: Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

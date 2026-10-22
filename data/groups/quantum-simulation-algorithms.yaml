@@ -1,0 +1,22 @@
+id: quantum-simulation-algorithms
+name: Quantum Simulation Algorithms
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-12/groups/quantum-simulation-algorithms-1
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - materials-modeling
+  - software-hpc
+description: The Quantum Simulation Algorithms group, led by Dr. Dmitry Bagrets
+  at the Peter Grünberg Institute (PGI-12) in Jülich, focuses on the
+  intersection of many-body physics and quantum information science. The group
+  explores digital quantum circuits to simulate strongly correlated states of
+  light and matter, with research interests in the 2D Hubbard model, quantum
+  chemistry, light-matter interaction, topological states, and quantum-classical
+  optimization.
+added: 2026-10-22
+pi: Dmitry Bagrets
+parent: Peter Grünberg Institute (PGI-12), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

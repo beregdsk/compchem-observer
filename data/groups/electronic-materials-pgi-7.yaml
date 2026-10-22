@@ -1,0 +1,19 @@
+id: electronic-materials-pgi-7
+name: Electronic Materials (PGI-7)
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-7
+topics:
+  - materials-modeling
+description: The Electronic Materials (PGI-7) group at the Peter Grünberg
+  Institute, led by Director Prof. Dr. Regina Dittmann, focuses on materials
+  discovery, characterization, and device engineering for next-generation
+  information technologies and AI. Their research spans nanoionic processes in
+  oxides and 2D materials, memristive devices, neuromorphic computing, and
+  solid-state ionics, combining experimental work with atomistic to
+  circuit-level modelling.
+added: 2026-10-22
+pi: Regina Dittmann
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE

@@ -1,0 +1,20 @@
+id: correlated-materials-based-ecological-device-laboratory
+name: Correlated-materials-based Ecological-device Laboratory
+kind: group
+website: https://www.riken.jp/en/research/labs/trip/bzp/corr_mta_base_ecol_device/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Correlated-materials-based Ecological-device Laboratory is a
+  research team under the RIKEN Baton Zone Program, led by Team Director Satoshi
+  Okamoto. The laboratory focuses on strongly correlated materials to develop
+  next-generation, environmentally friendly devices, such as ultra-low power
+  consumption ferromagnetic memory and energy harvesting systems. Their research
+  integrates physics, chemistry, and engineering to explore complex systems and
+  advanced functional materials.
+added: 2026-10-22
+pi: Satoshi Okamoto
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

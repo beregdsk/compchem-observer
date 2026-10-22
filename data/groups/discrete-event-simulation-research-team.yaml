@@ -1,0 +1,19 @@
+id: discrete-event-simulation-research-team
+name: 離散事象シミュレーション研究チーム (Discrete Event Simulation Research Team)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/desrt/
+topics:
+  - software-hpc
+description: The Discrete Event Simulation Research Team, led by Nobuyasu Ito at
+  the RIKEN Center for Computational Science (R-CCS) in Kobe, focuses on
+  simulating complex discrete events in both natural and social systems—such as
+  traffic, epidemics, economics, and power grids—using supercomputers like
+  Fugaku and K. They develop high-performance computing software, notably OACIS,
+  to facilitate large-scale simulation execution and analysis, and study
+  statistical and non-equilibrium physics.
+added: 2026-10-22
+pi: Nobuyasu Ito
+parent: 理化学研究所 計算科学研究センター (RIKEN Center for Computational Science)
+location:
+  city: Kobe
+  country: JP

@@ -1,0 +1,17 @@
+id: electronic-properties-pgi-6
+name: Electronic Properties (PGI-6)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-6
+topics:
+  - electronic-structure
+  - spectroscopy
+description: The Electronic Properties (PGI-6) institute at the Peter Grünberg
+  Institute investigates the interrelations between electronic structure and
+  physical properties such as magnetism. Using synchrotron radiation and
+  spectroscopic methods, the institute studies thin films, quantum wires, dots,
+  and molecules, focusing on nanosciences, spintronics, and quantum computing.
+added: 2026-10-22
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE

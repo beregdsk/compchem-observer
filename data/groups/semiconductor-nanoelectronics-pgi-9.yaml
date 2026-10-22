@@ -1,0 +1,19 @@
+id: semiconductor-nanoelectronics-pgi-9
+name: Semiconductor Nanoelectronics (PGI-9)
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-9
+topics:
+  - materials-modeling
+  - quantum-computing-chemistry
+  - electronic-structure
+description: Semiconductor Nanoelectronics (PGI-9) is a research division within
+  the Peter Grünberg Institute at Forschungszentrum Jülich, headed by Prof. Dr.
+  Detlev Grützmacher. The group conducts research into semiconductor physics,
+  photonics, topological materials, and components for quantum computing and
+  neuromorphic systems.
+added: 2026-10-22
+pi: Detlev Grützmacher
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE

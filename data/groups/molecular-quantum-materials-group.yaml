@@ -1,0 +1,22 @@
+id: molecular-quantum-materials-group
+name: Molecular Quantum Materials Group
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-6/research/molecular-quantum-materials
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+  - quantum-computing-chemistry
+  - soft-matter
+description: The Molecular Quantum Materials Group, led by Dr. Daniel Bürgler at
+  the Peter Grünberg Institute (PGI-6) of Forschungszentrum Jülich, investigates
+  emergent magnetism and spin transport in single organic molecules. The group
+  studies spin-dependent hybridization with ferromagnetic substrates and
+  chirality-induced spin selectivity to engineer tunable quantum properties for
+  advanced spintronic and quantum information applications.
+added: 2026-10-22
+pi: Daniel Bürgler
+parent: Peter Grünberg Institute (PGI-6), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE

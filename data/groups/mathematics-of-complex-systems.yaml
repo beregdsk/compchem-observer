@@ -1,0 +1,21 @@
+id: mathematics-of-complex-systems
+name: Mathematics of Complex Systems
+kind: group
+website: https://www.zib.de/research/mcs/
+topics:
+  - molecular-dynamics
+  - biomolecular-simulation
+  - materials-modeling
+  - software-hpc
+description: The Mathematics of Complex Systems division at ZIB develops methods
+  for modeling, simulation, and optimization of complex multiscale and
+  multiphysics processes, alongside visualization and data analysis. It focuses
+  on numerical mathematics, uncertainty quantification, and high-performance
+  computing, with applications in individualized medicine, molecular biology,
+  and materials sciences.
+added: 2026-10-22
+pi: Christof Schütte
+parent: Konrad Zuse Institute Berlin (ZIB)
+location:
+  city: Berlin
+  country: DE

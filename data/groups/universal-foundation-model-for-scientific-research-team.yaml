@@ -1,0 +1,19 @@
+id: universal-foundation-model-for-scientific-research-team
+name: Universal Foundation Model for Scientific Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/trip/agis/uni-found-model-sr/index.html
+topics:
+  - materials-modeling
+description: The Universal Foundation Model for Scientific Research Team, part
+  of RIKEN's AGIS program, develops large multimodal foundation models and
+  multi-AI agent systems to autonomously execute research workflows. The team
+  applies computational simulation and machine learning techniques—including
+  NLP, generative AI, and multimodal learning—to bio and materials sciences,
+  aiming to create a foundational system for science that can learn through
+  trial-and-error using both simulation and experimentation.
+added: 2026-10-22
+pi: Yoshitaka Ushiku
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

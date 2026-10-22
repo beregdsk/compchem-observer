@@ -1,0 +1,23 @@
+id: ecl-fujishiro-extreme-quantum-solid-state-riken-ecl-research-unit
+name: 藤代極限量子固体物性理研ECL研究ユニット (Fujishiro Extreme Quantum Solid State RIKEN ECL
+  Research Unit)
+kind: group
+website: https://www.riken.jp/research/labs/ecl/extr_qtm_matter_phys_riken_ecl/
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - spectroscopy
+  - quantum-dynamics
+description: The Fujishiro Extreme Quantum Solid State RIKEN ECL Research Unit,
+  led by Yukako Fujishiro, focuses on the physics of extreme quantum solids,
+  particularly magnetic topological materials and strongly correlated electron
+  systems. Using advanced techniques like focused ion beam processing,
+  ultra-high pressure, and ionic liquid gating, the unit aims to explore new
+  quantum phases and clarify quantum transport functions.
+added: 2026-10-22
+pi: Yukako Fujishiro (藤代 有絵子)
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

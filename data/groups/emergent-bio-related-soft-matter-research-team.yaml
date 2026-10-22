@@ -1,0 +1,20 @@
+id: emergent-bio-related-soft-matter-research-team
+name: 創発生体関連ソフトマター研究チーム (Emergent Bio-related Soft Matter Research Team)
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_bioinsp_soft_matter/
+topics:
+  - soft-matter
+  - materials-modeling
+  - biomolecular-simulation
+description: The official homepage of the Emergent Bio-related Soft Matter
+  Research Team at RIKEN's Center for Emergent Matter Science. Led by Team
+  Director Yasuhiro Ishida, the team focuses on the synthesis and development of
+  lightweight, flexible, and biomimetic soft materials—such as hydrogels,
+  colloids, and polymer composites—with anisotropic, responsive, and adaptive
+  properties for advanced biological and materials applications.
+added: 2026-10-22
+pi: Yasuhiro Ishida
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

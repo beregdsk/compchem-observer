@@ -1,0 +1,16 @@
+id: centre-for-innovative-structures-and-materials-cism
+name: Centre for Innovative Structures and Materials (CISM)
+kind: institute
+website: https://www.rmit.edu.au/research/centres-collaborations/centre-for-innovative-structures-and-materials
+topics:
+  - materials-modeling
+description: The Centre for Innovative Structures and Materials (CISM) at RMIT
+  University is a research centre led by Distinguished Professor Yi Min Xie. It
+  focuses on the computational design, shape and topology optimisation of
+  structures, additive manufacturing, and the design of metamaterials and
+  composites with exceptional mechanical properties.
+added: 2026-10-22
+parent: RMIT University
+location:
+  city: Bundoora
+  country: AU

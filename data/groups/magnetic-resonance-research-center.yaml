@@ -1,0 +1,22 @@
+id: magnetic-resonance-research-center
+name: Magnetic Resonance Research Center
+kind: group
+website: https://www.ru.nl/en/departments/institute-for-molecules-and-materials/magnetic-resonance-research-center
+topics:
+  - spectroscopy
+  - drug-design
+  - electrochemistry
+  - materials-modeling
+description: The Magnetic Resonance Research Center (MRRC) at Radboud University
+  is a department within the Institute for Molecules and Materials (IMM). It
+  specializes in advanced Nuclear Magnetic Resonance (NMR) and Electron
+  Paramagnetic Resonance (ESR) spectroscopy to study the structure and function
+  of molecules and materials. The center develops NMR methodology, including
+  microfluidic probes and hyperpolarization for drug discovery, and provides
+  access to high-field spectrometers as a national and international research
+  facility.
+added: 2026-10-22
+parent: Institute for Molecules and Materials, Radboud University
+location:
+  city: Nijmegen
+  country: NL

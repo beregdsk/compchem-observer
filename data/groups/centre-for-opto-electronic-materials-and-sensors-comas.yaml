@@ -1,0 +1,23 @@
+id: centre-for-opto-electronic-materials-and-sensors-comas
+name: Centre for Opto-Electronic Materials and Sensors (COMAS)
+kind: institute
+website: https://www.rmit.edu.au/about/schools-colleges/stem-college/research/leading-research-centres/comas-centre
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - spectroscopy
+  - electronic-structure
+  - software-hpc
+description: 'The RMIT Centre for Opto-Electronic Materials and Sensors (COMAS)
+  is a globally recognised research institute specialising in fundamental and
+  applied research on opto-electronic materials and sensors. Its mission is to
+  engineer extremely thin, electrically and optically manipulable technologies
+  for smart devices and functional surfaces across energy, electronics,
+  environmental, health, space, and agricultural sectors. The centre focuses on
+  three key research areas: materials design and fabrication, devices and sensor
+  platforms, and artificial intelligence and machine learning for designer…'
+added: 2026-10-22
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU

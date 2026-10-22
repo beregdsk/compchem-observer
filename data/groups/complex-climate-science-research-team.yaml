@@ -1,0 +1,18 @@
+id: complex-climate-science-research-team
+name: 複合系気候科学研究チーム (Complex Climate Science Research Team)
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/ccsrt/
+topics:
+  - software-hpc
+description: The Complex Climate Science Research Team, led by Hirofumi Tomita
+  at the RIKEN Center for Computational Science (R-CCS) in Kobe, develops
+  foundational software libraries and computational tools for high-performance
+  climate modeling. Their research focuses on improving the numerical accuracy
+  and efficiency of global atmospheric and climate simulations on supercomputers
+  to better understand and predict climate dynamics.
+added: 2026-10-22
+pi: Hirofumi Tomita
+parent: 理化学研究所 計算科学研究センター (R-CCS)
+location:
+  city: Kobe
+  country: JP

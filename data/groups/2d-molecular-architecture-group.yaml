@@ -1,0 +1,23 @@
+id: 2d-molecular-architecture-group
+name: 2D Molecular Architecture Group
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-6/research/2d-molecular-architecture
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+description: The 2D Molecular Architecture Group investigates the electronic
+  structure and spin states of metal centres in surface-supported metal-organic
+  systems. By tuning interactions with metallic substrates and modifying the
+  coordination environment of metal centres through axial ligand
+  functionalization, the group controls their electronic and magnetic
+  properties. Using photoemission tomography, they aim to directly observe the
+  formation of delocalized band structures during the hierarchical assembly of
+  organic linkers and metal centres into a 2D metal-organic framework lattice.
+  The group operates…
+added: 2026-10-22
+pi: Vitaliy Feyer
+parent: Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
