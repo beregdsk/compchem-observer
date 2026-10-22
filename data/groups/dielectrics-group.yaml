@@ -1,0 +1,22 @@
+id: dielectrics-group
+name: Dielectrics Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/dielectrics/
+topics:
+  - dft
+  - materials-modeling
+  - soft-matter
+  - spectroscopy
+  - molecular-dynamics
+description: The Dielectrics Group at the Institute of Physics, Lodz University
+  of Technology, conducts theoretical, numerical, and experimental research on
+  dielectric materials, including liquid crystals, polymers, epoxy resins, and
+  carbon films. The group's work focuses on computer simulations, DFT
+  calculations, and dielectric spectroscopy to study molecular dynamics and
+  structural properties for microelectronic and optoelectronic applications.
+added: 2026-10-22
+pi: Magdalena Włodarska
+parent: Institute of Physics, Lodz University of Technology
+location:
+  city: Łódź
+  country: PL
