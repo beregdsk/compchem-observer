@@ -1,0 +1,21 @@
+id: mabesoone-lab
+name: Mabesoone Lab
+kind: group
+website: https://www.mabesoonelab.nl/
+topics:
+  - soft-matter
+  - materials-modeling
+  - ml-chemistry
+description: The Mabesoone Lab, or Laboratory for Data-Driven Biomaterials at
+  Radboud University Nijmegen, is a research group specializing in the
+  data-driven design of soft, biobased, and biodegradable materials. By
+  combining high-throughput experimentation with machine learning, the lab
+  engineers advanced biomaterials for biomedical applications like tissue
+  regeneration, antifouling, and drug delivery.
+added: 2026-10-22
+aliases:
+  - Read more about the Mabesoone lab
+parent: Radboud University
+location:
+  city: Nijmegen
+  country: NL
