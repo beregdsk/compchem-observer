@@ -1,0 +1,19 @@
+id: materials-lab-computer
+name: Materials Lab Computer
+kind: group
+website: https://www.fz-juelich.de/en/pgi/pgi-1/research/materials-lab-computer
+topics:
+  - dft
+  - electronic-structure
+  - materials-modeling
+  - biomolecular-simulation
+description: The page represents the Materials Lab Computer at the Peter
+  Grünberg Institute (PGI-1), Forschungszentrum Jülich. It outlines research in
+  phase change materials for computer memory, biological and organic reactions
+  using density functional theory (DFT), and molecular electronics on surfaces,
+  highlighting computational and theoretical chemistry methods.
+added: 2026-10-22
+parent: Peter Grünberg Institute (PGI-1), Forschungszentrum Jülich
+location:
+  city: Jülich
+  country: DE
