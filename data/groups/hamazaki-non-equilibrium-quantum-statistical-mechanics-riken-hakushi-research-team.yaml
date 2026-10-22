@@ -1,0 +1,20 @@
+id: hamazaki-non-equilibrium-quantum-statistical-mechanics-riken-hakushi-research-team
+name: Hamazaki Non-equilibrium Quantum Statistical Mechanics RIKEN Hakushi
+  Research Team
+kind: group
+website: https://www.riken.jp/research/labs/hakubi/h_nonequil_qtm_stat_mech/
+topics:
+  - quantum-dynamics
+description: This is the official page of the Hamazaki Non-equilibrium Quantum
+  Statistical Mechanics RIKEN Hakushi Research Team, led by Ryusuke Hamazaki at
+  RIKEN in Wako, Japan. The team studies macroscopic non-equilibrium phenomena
+  from microscopic quantum mechanics, focusing on quantum dynamics, statistical
+  mechanics, and thermalization in isolated and open many-body quantum systems.
+  They aim to contribute to condensed matter physics, biology, and information
+  theory.
+added: 2026-10-22
+pi: Ryusuke Hamazaki
+parent: RIKEN
+location:
+  city: Wako
+  country: JP
