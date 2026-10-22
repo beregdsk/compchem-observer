@@ -1,0 +1,18 @@
+id: photonics-group
+name: Photonics Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/photonics/
+topics:
+  - materials-modeling
+description: The Photonics Group at the Institute of Physics, Lodz University of
+  Technology, specializes in computer simulation and modeling of physical
+  phenomena in photonic structures, particularly semiconductor lasers and LEDs.
+  Their research encompasses optical, electrical, thermal, gain, and mechanical
+  aspects, with applications in edge-emitting and surface-emitting devices,
+  laser arrays, and optimization of performance and reliability.
+added: 2026-10-22
+pi: Tomasz Czyszanowski
+parent: Institute of Physics, Lodz University of Technology
+location:
+  city: Łódź
+  country: PL
