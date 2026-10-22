@@ -1,0 +1,18 @@
+id: jara-institute-quantum-information-pgi-11
+name: JARA-Institute Quantum Information (PGI-11)
+kind: institute
+website: https://www.fz-juelich.de/en/pgi/pgi-11
+topics:
+  - quantum-computing-chemistry
+  - electronic-structure
+  - materials-modeling
+description: The JARA-Institute Quantum Information (PGI-11) at the Peter
+  Grünberg Institute of Forschungszentrum Jülich focuses on the theoretical
+  understanding of electronic systems and devices at the nano- and atomic
+  scales, and their application to advanced quantum information processing and
+  future information technologies.
+added: 2026-10-22
+parent: Peter Grünberg Institute (PGI)
+location:
+  city: Jülich
+  country: DE
