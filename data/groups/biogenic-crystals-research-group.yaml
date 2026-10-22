@@ -1,0 +1,23 @@
+id: biogenic-crystals-research-group
+name: Biogenic Crystals Research Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/biogenic-crystals/
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+  - wavefunction-methods
+  - dft
+description: The Biogenic Crystals Research Group at the Institute of Physics,
+  Lodz University of Technology, led by Prof. Jolanta Prywer, investigates the
+  experimental and theoretical aspects of crystal growth, focusing on biogenic
+  crystals such as those in plants and infectious urinary stones. The group
+  employs kinetic-geometric modeling, ab initio quantum mechanical calculations,
+  and optical spectroscopic techniques to study crystal morphology, nucleation,
+  and biomineralization processes.
+added: 2026-10-22
+pi: Jolanta Prywer
+parent: Institute of Physics, Lodz University of Technology
+location:
+  city: Łódź
+  country: PL
