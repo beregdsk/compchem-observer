@@ -1,0 +1,19 @@
+id: centre-for-additive-manufacturing-rcam
+name: Centre for Additive Manufacturing (RCAM)
+kind: institute
+website: https://www.rmit.edu.au/research/centres-collaborations/centre-for-additive-manufacturing
+topics:
+  - materials-modeling
+  - ml-chemistry
+description: The RMIT Centre for Additive Manufacturing (RCAM) is a
+  multi-disciplinary research centre dedicated to advancing industrial additive
+  manufacturing technologies. It unifies research in next-generation materials,
+  technology and process development, digital ecosystems, sustainability, and
+  AI-driven manufacturing. The centre collaborates with industry partners across
+  aerospace, biomedical, automotive, mining, and energy sectors to enhance
+  competitiveness and deliver innovative solutions.
+added: 2026-10-22
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU
