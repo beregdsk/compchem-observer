@@ -1,0 +1,21 @@
+id: analytical-chemistry-chemometrics
+name: Analytical Chemistry & Chemometrics
+kind: group
+website: https://www.ru.nl/en/departments/institute-for-molecules-and-materials/analytical-chemistry-chemometrics
+topics:
+  - spectroscopy
+  - ml-chemistry
+  - cheminformatics
+  - education-training
+description: The Analytical Chemistry & Chemometrics research group (AC&C) at
+  Radboud University focuses on chemometrics, extracting relevant information
+  from chemical data. Their research spans methodological chemometrics, such as
+  multivariate statistics and global optimisation, and application-oriented
+  projects using spectroscopic analysis, image processing, and data science for
+  industrial and medical fields, alongside teaching and internship programs.
+added: 2026-10-22
+pi: Jeroen J. Jansen
+parent: Institute for Molecules and Materials, Radboud University
+location:
+  city: Nijmegen
+  country: NL
