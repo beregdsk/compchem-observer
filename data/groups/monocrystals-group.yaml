@@ -1,0 +1,17 @@
+id: monocrystals-group
+name: Monocrystals Group
+kind: group
+website: https://fizyka.p.lodz.pl/en/research/monocrystals/
+topics:
+  - materials-modeling
+  - spectroscopy
+description: The Monocrystals Group at the Institute of Physics, Łódź University
+  of Technology, conducts experimental and theoretical research on electro-optic
+  and optical properties of monocrystals and liquids, including electrogyration,
+  birefringence, and crystal growth modelling.
+added: 2026-10-22
+pi: Marek Izdebski
+parent: Institute of Physics, Łódź University of Technology
+location:
+  city: Łódź
+  country: PL
