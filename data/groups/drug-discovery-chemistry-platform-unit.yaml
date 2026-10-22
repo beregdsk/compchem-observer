@@ -1,0 +1,18 @@
+id: drug-discovery-chemistry-platform-unit
+name: Drug Discovery Chemistry Platform Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/csrs/drug_discov/drug_discov_chem/index.html
+topics:
+  - drug-design
+description: The Drug Discovery Chemistry Platform Unit at RIKEN focuses on the
+  discovery and optimization of small molecule drug candidates for preclinical
+  safety studies and clinical trials. Leveraging X-ray crystallography,
+  in-silico modeling, and high-throughput screening, the unit conducts rational
+  drug design and SAR development for rare genetic diseases and
+  difficult-to-treat cancers.
+added: 2026-10-22
+pi: Hiroo Koyama
+parent: RIKEN Center for Sustainable Resource Science
+location:
+  city: Wako
+  country: JP
