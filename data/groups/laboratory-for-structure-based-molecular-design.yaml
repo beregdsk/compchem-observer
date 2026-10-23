@@ -1,0 +1,21 @@
+id: laboratory-for-structure-based-molecular-design
+name: Laboratory for Structure-Based Molecular Design
+kind: group
+website: https://www.riken.jp/en/research/labs/ims/struct_mol_des/index.html
+topics:
+  - drug-design
+  - cheminformatics
+  - ml-chemistry
+  - biomolecular-simulation
+description: The Laboratory for Structure-Based Molecular Design at RIKEN Center
+  for Integrative Medical Sciences, led by Teruki Honma, develops computational
+  methods for designing small molecules, nucleic acids, and proteins to
+  accelerate drug discovery. Its research focuses on in silico screening,
+  constructing fragment-based drug discovery (FBDD) platforms, and
+  simulation/design technologies for biological molecules.
+added: 2026-10-23
+pi: Teruki Honma
+parent: RIKEN Center for Integrative Medical Sciences
+location:
+  city: Yokohama
+  country: JP
