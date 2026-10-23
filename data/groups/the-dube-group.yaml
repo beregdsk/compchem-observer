@@ -1,0 +1,22 @@
+id: the-dube-group
+name: The Dube Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/dube-group/dube-group/
+topics:
+  - photochemistry
+  - drug-design
+  - materials-modeling
+  - soft-matter
+description: The Dube Group is a research group led by Henry Dube, based at the
+  Department of Chemistry and Pharmacy of the Friedrich-Alexander-Universität
+  Erlangen-Nürnberg in Erlangen, Germany. The group works on nanotechnology made
+  from chemistry and light, focusing on molecular machines, photoswitches,
+  photopharmacology, supramolecular chemistry, programmable materials, and
+  photochemistry.
+added: 2026-10-23
+pi: Henry Dube
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
