@@ -1,0 +1,21 @@
+id: thomas-vosegaard
+name: Thomas Vosegaard
+kind: group
+website: https://chem.au.dk/en/research/core-facilities-and-research-centers/danish-center-for-ultrahigh-field-nmr-spectroscopy/translate-to-english-research-groups/translate-to-english-thomas-vosegaard
+topics:
+  - spectroscopy
+  - biomolecular-simulation
+  - software-hpc
+  - ml-chemistry
+  - education-training
+description: Thomas Vosegaard's research group at Aarhus University's Department
+  of Chemistry uses NMR spectroscopy to study molecular structure and dynamics,
+  focusing on membrane proteins, lipid interactions, and lipidomics. The group
+  develops software and algorithms for NMR analysis and is dedicated to
+  advancing NMR education through novel teaching technologies.
+added: 2026-10-23
+pi: Thomas Vosegaard
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
