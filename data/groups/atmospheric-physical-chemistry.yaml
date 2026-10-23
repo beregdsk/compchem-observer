@@ -1,0 +1,20 @@
+id: atmospheric-physical-chemistry
+name: Atmospheric Physical Chemistry
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/physical-chemistry-and-frontier-technologies/atmospheric-physical-chemistry
+topics:
+  - soft-matter
+  - materials-modeling
+description: The Atmospheric Physical Chemistry group at Aarhus University's
+  Department of Chemistry investigates the formation, growth, and properties of
+  atmospheric aerosols, which represent the largest uncertainty in climate
+  prediction and impact human health. Led by Professor Merete Bilde, the group
+  utilizes advanced facilities such as a custom-built sea spray tank and an
+  atmospheric simulation chamber to study sea spray aerosols, microplastics,
+  bioaerosols, clouds, and ice nucleation.
+added: 2026-10-23
+pi: Merete Bilde
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
