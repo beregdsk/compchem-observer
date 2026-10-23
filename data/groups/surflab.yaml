@@ -1,0 +1,23 @@
+id: surflab
+name: SurfLab
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/physical-chemistry-and-frontier-technologies/surflab
+topics:
+  - spectroscopy
+  - molecular-dynamics
+  - biomolecular-simulation
+  - photochemistry
+  - materials-modeling
+description: SurfLab is a research group based at the Department of Chemistry,
+  Aarhus University, led by Professor Tobias Weidner. The group investigates
+  molecular structures, orientations, and dynamics at interfaces using static
+  and time-resolved sum frequency generation spectroscopy, NEXAFS, and molecular
+  dynamics simulations. Their research spans protein folding at surfaces,
+  biomolecular interactions, photodegradation, and surface modifications for
+  anti-fouling and friction reduction.
+added: 2026-10-23
+pi: Tobias Weidner
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
