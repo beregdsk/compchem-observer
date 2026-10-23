@@ -1,0 +1,18 @@
+id: biomodelling
+name: Biomodelling
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/biophysical-chemistry-and-bionanoscience/welcome-to-biomodelling
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - enhanced-sampling
+description: The Biomodelling group at Aarhus University, part of the
+  Biophysical Chemistry and Bionanoscience section, is a research group
+  specializing in computational and theoretical chemistry, focusing on molecular
+  simulations and modeling of complex biological and chemical systems.
+added: 2026-10-23
+pi: Anna Louise Duncan
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
