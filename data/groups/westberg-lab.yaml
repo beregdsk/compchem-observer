@@ -1,0 +1,23 @@
+id: westberg-lab
+name: Westberg Lab
+kind: group
+website: https://westberglab.com/
+topics:
+  - biomolecular-simulation
+  - drug-design
+  - materials-modeling
+  - photochemistry
+  - spectroscopy
+description: The Westberg Lab at Aarhus University is a multidisciplinary
+  research group combining computational and experimental methods to design,
+  characterize, and apply light- and ligand-controlled protein tools. Their
+  research focuses on designing non-natural proteins to study and control
+  biological processes, with applications in cell signaling, neuroimmunology,
+  drug targets, and sustainable biotechnologies.
+added: 2026-10-23
+aliases:
+  - Protein Design
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
