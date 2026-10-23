@@ -1,0 +1,20 @@
+id: femtolab
+name: Femtolab
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/physical-chemistry-and-frontier-technologies/femtolab
+topics:
+  - molecular-dynamics
+  - quantum-dynamics
+  - spectroscopy
+description: Femtolab is a primarily experimental laser physics and physical
+  chemistry group located at the Department of Chemistry, Aarhus University, led
+  by Henrik Stapelfeldt. The group focuses on the quantum control and reaction
+  dynamics of molecules, atoms, and ions in superfluid helium nanodroplets using
+  ultrafast laser pulses, velocity-map imaging spectrometry, and theoretical
+  simulations.
+added: 2026-10-23
+pi: Henrik Stapelfeldt
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK
