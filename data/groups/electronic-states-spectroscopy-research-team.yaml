@@ -1,0 +1,22 @@
+id: electronic-states-spectroscopy-research-team
+name: Electronic States Spectroscopy Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/electron_states_spectro/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - quantum-dynamics
+description: The Electronic States Spectroscopy Research Team at RIKEN Center
+  for Emergent Matter Science investigates spin, electron, and crystal
+  structures of materials exhibiting diverse physical properties, functions, and
+  quantum phenomena. They utilize spin- and angle-resolved photoemission
+  spectroscopy to probe electron energy, momentum, and spin in solids, focusing
+  on superconductors, thermoelectric and spintronic materials, topological
+  quantum states, and strongly correlated systems. Additionally, they explore
+  ultrafast dynamics using time-resolved transmission electron microscopy.
+added: 2026-10-23
+pi: Kyoko Ishizaka
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
