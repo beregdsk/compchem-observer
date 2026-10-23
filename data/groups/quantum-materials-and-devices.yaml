@@ -1,0 +1,22 @@
+id: quantum-materials-and-devices
+name: Quantum Materials and Devices
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/condensed-matter-physics-of-energy-materials/quantum-materials-and-devices
+topics:
+  - materials-modeling
+  - spectroscopy
+  - electronic-structure
+  - quantum-dynamics
+  - catalysis
+description: Quantum Materials and Devices is a research division at Uppsala
+  University's Department of Physics and Astronomy. The group explores novel
+  charge, spin, and orbital phenomena in 2D quantum materials like graphene,
+  semiconductors, and magnets. Using state-of-the-art nanofabrication and
+  spectroscopic techniques, they study ultrafast dynamics for applications in
+  energy-efficient electronics, computing, and catalysis.
+added: 2026-10-23
+pi: Håkan Rensmo
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE
