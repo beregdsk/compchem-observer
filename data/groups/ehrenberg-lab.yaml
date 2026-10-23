@@ -1,0 +1,18 @@
+id: ehrenberg-lab
+name: Ehrenberg lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-biology/ehrenberg-lab
+topics:
+  - biomolecular-simulation
+description: The Ehrenberg lab at Uppsala University's Department of Cell and
+  Molecular Biology, led by Måns Ehrenberg, focuses on the molecular mechanisms
+  of prokaryotic translation, including ribosome recycling, tRNA selection, and
+  protein synthesis. The group combines quantitative biochemistry, molecular
+  genetics, and mathematical modeling to study cellular processes and the impact
+  of antibiotics.
+added: 2026-10-23
+pi: Måns Ehrenberg
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE

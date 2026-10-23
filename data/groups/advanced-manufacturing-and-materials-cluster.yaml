@@ -1,0 +1,17 @@
+id: advanced-manufacturing-and-materials-cluster
+name: Advanced manufacturing and materials cluster
+kind: group
+website: https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-clusters/advanced-manufacturing-and-materials-cluster
+topics:
+  - materials-modeling
+description: The Advanced Manufacturing & Materials research cluster at RMIT
+  University focuses on developing cutting-edge manufacturing processes and
+  materials to drive innovation. Its key research areas include additive
+  manufacturing, autonomous systems, and material modelling, using computational
+  tools to design and predict the behaviour of new materials.
+added: 2026-10-23
+pi: Andrey Molotnikov
+parent: RMIT University
+location:
+  city: Melbourne
+  country: AU

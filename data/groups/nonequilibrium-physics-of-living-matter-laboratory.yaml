@@ -1,0 +1,22 @@
+id: nonequilibrium-physics-of-living-matter-laboratory
+name: Nonequilibrium Physics of Living Matter Laboratory
+kind: group
+website: https://www.riken.jp/en/research/labs/chief/nonequil-phys-live-matter/index.html
+topics:
+  - biomolecular-simulation
+  - quantum-dynamics
+  - ml-chemistry
+  - molecular-dynamics
+  - materials-modeling
+description: The Nonequilibrium Physics of Living Matter Laboratory is a
+  biophysics research group at RIKEN led by Chief Scientist Kyogo Kawaguchi. The
+  lab explores phase transitions, morphogenesis, evolution, and chromatin
+  physics using experimental and theoretical approaches, integrating physics,
+  machine learning, and techniques from cell-based assays to single-molecule
+  observation.
+added: 2026-10-23
+pi: Kyogo Kawaguchi
+parent: RIKEN
+location:
+  city: Hyogo
+  country: JP

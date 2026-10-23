@@ -1,0 +1,21 @@
+id: emergent-functional-polymers-research-team
+name: Emergent Functional Polymers Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_funct_polym/index.html
+topics:
+  - soft-matter
+  - materials-modeling
+  - photochemistry
+  - excited-states
+description: The Emergent Functional Polymers Research Team at the RIKEN Center
+  for Emergent Matter Science, led by Director Keisuke Tajima, focuses on the
+  development of organic semiconducting polymer materials and their application
+  to organic electronic devices. The team works on molecular- and nano-scale
+  structural control to enhance device performance, targeting organic solar
+  cells, field-effect transistors, and novel organic electronic devices.
+added: 2026-10-23
+pi: Keisuke Tajima
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

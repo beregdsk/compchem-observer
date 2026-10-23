@@ -1,0 +1,24 @@
+id: research-group-on-condensed-matter-and-polymers
+name: Research Group on Condensed Matter and Polymers
+kind: group
+website: https://www.uv.es/scientific-technological-offer/en/research-groups/digital-industry-space/manufacturing-technologies/research-group-condensed-matter-polymers-1286222585007/GrupsInves.html?id=1286248761391
+topics:
+  - materials-modeling
+  - soft-matter
+  - spectroscopy
+  - electronic-structure
+  - dft
+description: The Research Group on Condensed Matter and Polymers (GES) at the
+  Universitat de València focuses on the theoretical and experimental study of
+  semiconductor nanostructures, such as nanowires and quantum dots, for energy
+  and photonic applications. Their research covers structural, electronic, and
+  optoelectronic properties using first-principles and multi-scale
+  semi-empirical modeling, alongside the synthesis and characterization of
+  conductive, thermoplastic, and thermosetting polymers for thermoelectric and
+  hybrid devices.
+added: 2026-10-23
+pi: Andrés Cantarero Sáez
+parent: Universitat de València
+location:
+  city: Burjassot
+  country: ES

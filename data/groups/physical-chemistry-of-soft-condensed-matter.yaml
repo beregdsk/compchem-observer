@@ -1,0 +1,18 @@
+id: physical-chemistry-of-soft-condensed-matter
+name: Physical Chemistry of Soft Condensed Matter
+kind: group
+website: https://chem.au.dk/en/research/research-areas-and-groups/biophysical-chemistry-and-bionanoscience/physical-chemistry-of-soft-condensed-matter
+topics:
+  - soft-matter
+description: The Physical Chemistry of Soft Condensed Matter group at Aarhus
+  University, led by Professor Jan Skov Pedersen, conducts fundamental research
+  on soft condensed matter systems such as lipids, proteins, surfactants,
+  polymers, block copolymers, and colloids. They utilize small-angle X-ray
+  scattering to characterize structures and properties relevant to biology,
+  pharmaceuticals, and dairy science.
+added: 2026-10-23
+pi: Jan Skov Pedersen
+parent: Department of Chemistry, Aarhus University
+location:
+  city: Aarhus
+  country: DK

@@ -1,0 +1,21 @@
+id: discrete-event-simulation-research-team-2
+name: Discrete Event Simulation Research Team
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/labs/desrt/index.html
+topics:
+  - software-hpc
+  - molecular-dynamics
+  - materials-modeling
+description: The Discrete Event Simulation Research Team at RIKEN Center for
+  Computational Science, led by Nobuyasu Ito, focuses on statistical and
+  computational physics. The team tackles the 'Neo-Avogadro Challenge' using
+  supercomputers for microscopic simulations of macroscopic phenomena, such as
+  social systems, traffic, and disaster evacuation. They develop simulation
+  management software like OACIS to run massive numbers of simulations on
+  large-scale parallel systems.
+added: 2026-10-23
+pi: Nobuyasu Ito
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

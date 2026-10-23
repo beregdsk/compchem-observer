@@ -1,0 +1,19 @@
+id: dynamic-emergent-phenomena-research-team
+name: Dynamic Emergent Phenomena Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/dyn_emerg_phenom/index.html
+topics:
+  - spectroscopy
+  - materials-modeling
+description: The Dynamic Emergent Phenomena Research Team at the RIKEN Center
+  for Emergent Matter Science, directed by Fumitaka Kagawa, explores dynamic
+  phenomena in strongly correlated electron systems. They focus on
+  external-field-driven dynamics in sub-micron structures like topological spin
+  textures and domain walls, using spectroscopy and scanning probe microscopy to
+  control novel condensed matter properties.
+added: 2026-10-23
+pi: Fumitaka Kagawa
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

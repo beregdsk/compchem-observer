@@ -1,0 +1,22 @@
+id: energy-material-physics-and-applications
+name: Energy Material Physics and Applications
+kind: group
+website: https://www.uu.se/en/department/physics-and-astronomy/research/condensed-matter-physics-of-energy-materials/energy-material-physics-and-applications
+topics:
+  - spectroscopy
+  - catalysis
+  - electrochemistry
+  - materials-modeling
+  - excited-states
+description: The Energy Material Physics and Applications research division at
+  Uppsala University's Department of Physics and Astronomy focuses on
+  understanding atomic-level processes in renewable energy systems, including
+  solar cells, batteries, fuel cells, and catalysis. They utilize advanced X-ray
+  based spectroscopic techniques to investigate complex interfaces and charge
+  dynamics to promote sustainable energy conversion.
+added: 2026-10-23
+pi: Håkan Rensmo
+parent: Department of Physics and Astronomy, Uppsala University
+location:
+  city: Uppsala
+  country: SE

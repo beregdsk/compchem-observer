@@ -1,0 +1,20 @@
+id: drug-discovery-seeds-development-unit
+name: Drug Discovery Seeds Development Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/csrs/drug_discov/seeds-dev/index.html
+topics:
+  - drug-design
+  - cheminformatics
+  - ml-chemistry
+description: The Drug Discovery Seeds Development Unit at RIKEN Center for
+  Sustainable Resource Science focuses on academic drug discovery by
+  establishing high-throughput screening platforms using natural products and
+  target-oriented libraries. The unit integrates computational chemistry,
+  medicinal chemistry, experimental automation, and AI-driven screening
+  technologies to explore and validate novel drug targets.
+added: 2026-10-23
+pi: Minoru Yoshida
+parent: RIKEN Center for Sustainable Resource Science
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,21 @@
+id: solid-state-chemistry-laboratory
+name: Solid State Chemistry Laboratory
+kind: group
+website: https://www.riken.jp/en/research/labs/chief/solid_st_chem/index.html
+topics:
+  - materials-modeling
+  - molecular-dynamics
+  - electrochemistry
+  - catalysis
+description: The Solid State Chemistry Laboratory at RIKEN, led by Chief
+  Scientist Genki Kobayashi, focuses on exploring innovative inorganic
+  solid-state materials, such as electrodes and solid electrolytes. Their
+  research aims to advance energy storage, conversion, and material synthesis,
+  utilizing computational methods like molecular dynamics to understand ionic
+  conduction and develop catalysts for sustainable chemical processes.
+added: 2026-10-23
+pi: Genki Kobayashi
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

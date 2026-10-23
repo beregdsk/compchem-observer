@@ -1,0 +1,24 @@
+id: emergent-phenomena-measurement-research-team
+name: Emergent Phenomena Measurement Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_phenom_meas/index.html
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+  - quantum-computing-chemistry
+description: The Emergent Phenomena Measurement Research Team, led by Tetsuo
+  Hanaguri at the RIKEN Center for Emergent Matter Science, experimentally
+  investigates the electronic states underlying emergent phenomena in electron
+  systems, such as high-temperature superconductivity and topological quantum
+  phenomena. They utilize scanning tunneling microscopes under extreme
+  conditions—very low temperatures, high magnetic fields, and ultra-high
+  vacuum—to map electronic states with atomic-scale spatial resolution and
+  micro-electron-volt energy resolution, aiming to link material properties with
+  electronic…
+added: 2026-10-23
+pi: Tetsuo Hanaguri
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

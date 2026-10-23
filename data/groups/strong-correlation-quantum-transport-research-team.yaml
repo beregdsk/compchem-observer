@@ -1,0 +1,23 @@
+id: strong-correlation-quantum-transport-research-team
+name: Strong Correlation Quantum Transport Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/str_correl_qtm_transp/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - spectroscopy
+  - materials-modeling
+description: The Strong Correlation Quantum Transport Research Team, directed by
+  Yoshinori Tokura at the RIKEN Center for Emergent Matter Science, investigates
+  quantum transport phenomena in thin films, hetero-interfaces, and bulk
+  samples. Their research focuses on spin-orbit interaction effects in
+  non-centrosymmetric systems, electron transport in non-trivial spin textures,
+  and unconventional superconductors using high-pressure resistivity and THz
+  spectroscopy. They study strongly correlated electron systems, multiferroics,
+  and topological insulators.
+added: 2026-10-23
+pi: Yoshinori Tokura
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
