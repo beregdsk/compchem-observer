@@ -1,0 +1,17 @@
+id: emergent-bioinspired-soft-matter-research-team
+name: Emergent Bioinspired Soft Matter Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_bioinsp_soft_matter/index.html
+topics:
+  - soft-matter
+description: The Emergent Bioinspired Soft Matter Research Team, led by Yasuhiro
+  Ishida, focuses on developing anisotropic, biomimetic soft materials, such as
+  hydrogels, colloids, and polymer composites, through in-situ synthesis under
+  external fields. Their research aims to create materials with autonomy and
+  polarity, mimicking biological functions like muscles and nerves.
+added: 2026-10-23
+pi: Yasuhiro Ishida
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP
