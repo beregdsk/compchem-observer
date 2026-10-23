@@ -7,18 +7,20 @@ format: in-person
 url: https://www.euchems.eu/events/6th-european-conference-on-physical-chemistry/
 source_url: https://www.euchems.eu/events/6th-european-conference-on-physical-chemistry/
 topics:
-  - dft
-  - molecular-dynamics
-  - ml-chemistry
   - spectroscopy
   - photochemistry
-description: The 6th European Conference on Physical Chemistry (ECPC27) is an
-  international scientific conference organized under the EuChemS Division of
-  Physical Chemistry. It brings together researchers from academia, research
-  institutes, and industry to discuss advances in physical chemistry, including
-  theory, simulation, machine learning, spectroscopy, photochemistry, surfaces,
-  soft matter, biophysical chemistry, electrochemistry, and catalysis.
-added: 2026-10-19
+  - excited-states
+  - soft-matter
+  - biomolecular-simulation
+description: The 6th European Conference on Physical Chemistry (ECPC27),
+  organized by the EuChemS Division of Physical Chemistry, brings together
+  researchers from academia, research institutes, and industry to discuss
+  advances in physical chemistry. The scientific programme covers theory,
+  simulation, machine learning, spectroscopy, photochemistry, surfaces,
+  interfaces, nanomaterials, colloids, soft matter, biophysical chemistry,
+  electrochemistry, energy, green chemistry, catalysis, and emerging
+  interdisciplinary areas.
+added: 2026-10-23
 location:
   city: Thessaloniki
   country: GR
