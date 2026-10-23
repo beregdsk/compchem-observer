@@ -1,0 +1,24 @@
+id: dra-elisabet-romero
+name: Dra. Elisabet Romero
+kind: group
+website: https://iciq.org/ca/research-group/dr-elisabet-romero/overview/
+topics:
+  - photochemistry
+  - excited-states
+  - spectroscopy
+  - biomolecular-simulation
+  - quantum-dynamics
+description: The research group led by Dra. Elisabet Romero at the Institut
+  Català d'Investigació Química (ICIQ) focuses on designing and constructing
+  bio-inspired systems for the conversion of solar energy into chemical fuel.
+  They develop chromophore-protein conjugates from abundant, biodegradable
+  materials to absorb, transfer, and convert light into electrochemical energy.
+  The group investigates energy transfer dynamics and electron transfer
+  processes using ultrafast spectroscopy and computational modelling to advance
+  renewable energy technologies.
+added: 2026-10-23
+pi: Elisabet Romero
+parent: Institut Català d'Investigació Química (ICIQ)
+location:
+  city: Tarragona
+  country: ES
