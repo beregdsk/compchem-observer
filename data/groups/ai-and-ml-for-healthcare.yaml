@@ -1,0 +1,20 @@
+id: ai-and-ml-for-healthcare
+name: AI and ML for Healthcare
+kind: group
+website: https://www.fz-juelich.de/en/jsc/about-us/structure/research-groups/ai-and-ml-for-healthcare
+topics:
+  - software-hpc
+description: The AI and ML for Healthcare research group at the Jülich
+  Supercomputing Centre develops machine learning-based solutions for clinical
+  support applications, focusing on data analysis, feature extraction, time
+  series prediction, and AI-enabled diagnostic support. Their work addresses the
+  need for efficient triage and early detection of life-threatening patient
+  conditions, such as Acute Respiratory Distress Syndrome (ARDS), by leveraging
+  high-performance computing (HPC) infrastructure for deep learning surrogate
+  modeling, HPC-accelerated model retraining, and parallelized hyperparameter…
+added: 2026-10-19
+pi: Morris Riedel
+parent: Jülich Supercomputing Centre (JSC)
+location:
+  city: Jülich
+  country: DE

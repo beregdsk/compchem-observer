@@ -1,0 +1,22 @@
+id: nanospectroscopy-vosch-group
+name: Nanospectroscopy - Vosch Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/nanospectroscopy/
+topics:
+  - spectroscopy
+  - photochemistry
+  - excited-states
+  - materials-modeling
+description: The Nanospectroscopy - Vosch Group at the University of Copenhagen
+  focuses on single-molecule fluorescence microscopy and spectroscopy,
+  particularly the unique photophysical properties of small noble metal clusters
+  like DNA-stabilized silver nanoclusters and zeolite-encapsulated clusters for
+  applications in imaging, LEDs, and solar cells.
+added: 2026-10-19
+aliases:
+  - Vosch Group
+pi: Tom Vosch
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

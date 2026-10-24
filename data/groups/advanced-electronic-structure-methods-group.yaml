@@ -1,0 +1,22 @@
+id: advanced-electronic-structure-methods-group
+name: Advanced Electronic Structure Methods Group
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/advanced-electronic-structure-methods-group/
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - excited-states
+  - dft
+  - materials-modeling
+description: The Advanced Electronic Structure Methods Group at the Faculty of
+  Chemistry, University of Warsaw, led by Michał Lesiuk, focuses on developing
+  novel quantum chemistry and electronic structure methods. Their research
+  interests include the theoretical design of organic materials for OLEDs,
+  modeling proton-matter interactions for cancer radiation therapy, and
+  high-precision ab initio calculations of molecular properties.
+added: 2026-10-19
+pi: Michał Lesiuk
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

@@ -1,0 +1,21 @@
+id: group-of-energy-materials-gem
+name: Group of Energy Materials – GEM
+kind: group
+website: https://www.epfl.ch/labs/gem/
+topics:
+  - electrochemistry
+  - materials-modeling
+  - spectroscopy
+description: The Group of Energy Materials (GEM) at EPFL, led by Dr. Jan Van
+  herle, conducts R&D on fuel cells and electrolysis, focusing on solid oxide
+  technology for cogeneration and power-to-gas applications. Based in Sion,
+  Switzerland, the group works on sustainable energy conversion and develops
+  tools for electrochemical impedance analysis.
+added: 2026-10-19
+aliases:
+  - Group of Energy Materials ‐ EPFL
+pi: Jan Van herle
+parent: EPFL
+location:
+  city: Sion
+  country: CH

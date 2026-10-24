@@ -1,0 +1,20 @@
+id: machine-learning-in-biomolecular-research
+name: Machine Learning in Biomolecular Research
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/machine-learning-in-biomolecular-research/
+topics:
+  - biomolecular-simulation
+  - ml-chemistry
+  - ml-potentials
+description: This research group, led by Dominik Gront at the Faculty of
+  Chemistry, University of Warsaw, focuses on the application of machine
+  learning to biomolecular modeling. Their research includes coarse-grained
+  biopolymer simulation, classification of P450 enzymes via the P450 Atlas,
+  protein structure prediction, and developing generative AI for polypeptide
+  conformations.
+added: 2026-10-19
+pi: Dominik Gront
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

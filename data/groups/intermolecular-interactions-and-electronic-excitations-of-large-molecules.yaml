@@ -1,0 +1,20 @@
+id: intermolecular-interactions-and-electronic-excitations-of-large-molecules
+name: Intermolecular interactions and electronic excitations of large molecules
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/intermolecular-interactions-and-electron-correlation/
+topics:
+  - electronic-structure
+  - excited-states
+  - wavefunction-methods
+description: The research group of Tatiana Korona at the Faculty of Chemistry,
+  University of Warsaw, specializes in computational quantum chemistry. Their
+  research focuses on developing methods for molecular properties of large
+  molecules, investigating electronic excited states, topological analysis of
+  electron densities, and modeling intermolecular interactions using
+  symmetry-adapted perturbation theory.
+added: 2026-10-19
+pi: Tatiana Korona
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

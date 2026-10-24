@@ -1,0 +1,20 @@
+id: solomon-group
+name: Solomon Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/solomon/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - ml-chemistry
+  - molecular-dynamics
+description: The Solomon Group is a theoretical chemistry research group at the
+  University of Copenhagen, focusing on charge and heat transport in molecular
+  systems. Their research explores quantum interference effects, molecular
+  conjugation, and the design of molecular dielectric materials, combining
+  advanced theory with machine learning and experimental collaboration.
+added: 2026-10-19
+pi: Gemma C. Solomon
+parent: University of Copenhagen, Department of Chemistry, Nano-Science Center
+location:
+  city: Copenhagen
+  country: DK

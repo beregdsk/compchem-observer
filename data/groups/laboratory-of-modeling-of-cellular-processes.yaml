@@ -1,0 +1,21 @@
+id: laboratory-of-modeling-of-cellular-processes
+name: Laboratory of Modeling of Cellular Processes
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/modeling-of-cellular-processes/
+topics:
+  - cheminformatics
+  - drug-design
+  - ml-chemistry
+  - biomolecular-simulation
+description: The Laboratory of Modeling of Cellular Processes is a research
+  group at the Faculty of Chemistry, University of Warsaw, led by Dr. Hab.
+  Dorota Latek. The group focuses on computational drug design, cheminformatics,
+  and machine learning to model protein targets, particularly G protein-coupled
+  receptors (GPCRs). Their work spans molecular modeling, data sharing, and
+  experimental validation for anti-inflammatory and anti-cancer therapies.
+added: 2026-10-19
+pi: Dorota Latek
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

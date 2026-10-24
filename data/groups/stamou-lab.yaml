@@ -1,0 +1,20 @@
+id: stamou-lab
+name: Stamou Lab
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/stamou-group/
+topics:
+  - spectroscopy
+  - soft-matter
+  - biomolecular-simulation
+  - drug-design
+description: The Stamou Lab, part of the Nano Chemistry division at the
+  University of Copenhagen, develops disruptive nanoscale technologies to study
+  membranes and membrane proteins using single-molecule fluorescence microscopy.
+  The lab investigates membrane curvature, G protein coupled receptors, and
+  transporters, bridging the gap between biology, physics, and nanotechnology.
+added: 2026-10-19
+pi: Dimitrios Stamou
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

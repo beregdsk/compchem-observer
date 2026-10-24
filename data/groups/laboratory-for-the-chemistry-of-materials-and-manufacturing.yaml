@@ -1,0 +1,17 @@
+id: laboratory-for-the-chemistry-of-materials-and-manufacturing
+name: Laboratory for the Chemistry of Materials and Manufacturing
+kind: group
+website: https://www.epfl.ch/labs/alchemy/
+topics:
+  - materials-modeling
+description: The Laboratory for the Chemistry of Materials and Manufacturing
+  (ALCHEMY) at EPFL integrates molecular design, materials science, and advanced
+  manufacturing to engineer advanced functional materials targeting healthcare,
+  energy, and climate change, aiming to develop Advanced Materials for All.
+added: 2026-10-19
+aliases:
+  - Laboratory for the Chemistry of Materials and Manufacturing ‐ EPFL
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH

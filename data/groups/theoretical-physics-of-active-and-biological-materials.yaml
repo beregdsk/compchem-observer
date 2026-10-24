@@ -1,0 +1,23 @@
+id: theoretical-physics-of-active-and-biological-materials
+name: Theoretical physics of active and biological materials
+kind: group
+website: https://coulomb.umontpellier.fr/en/research-areas/theoretical-physics/complex-systems-and-non-linear-phenomena/theoretical-physics-of-active-and-biological-materials/
+topics:
+  - biomolecular-simulation
+  - soft-matter
+  - molecular-dynamics
+  - electrochemistry
+  - materials-modeling
+description: This page presents a research group within the Charles Coulomb
+  Laboratory (L2C) focused on the theoretical physics of active and biological
+  materials. The team investigates the physical principles that organize living
+  matter, including large‑scale intracellular organization, the 3D architecture
+  of the genome, active segregation of bacterial genomes, and the dynamics of
+  bioenergetic complexes in membranes. They also model immune systems as complex
+  cell‑population systems. The group combines theoretical modeling, stochastic
+  and differential equations, Monte Carlo and molecular/Brownian…
+added: 2026-10-19
+parent: Charles Coulomb Laboratory (L2C)
+location:
+  city: Montpellier
+  country: FR

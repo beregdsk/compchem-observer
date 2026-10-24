@@ -1,0 +1,21 @@
+id: tjs-group
+name: TJS Group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/tjs-group/
+topics:
+  - spectroscopy
+  - photochemistry
+  - soft-matter
+description: The TJS Group at the University of Copenhagen, led by Thomas Just
+  Sørensen, focuses on fluorescent dyes, optical sensors, and lanthanide
+  coordination chemistry. The group investigates light-matter interactions at
+  the molecular level, solution structures of lanthanide complexes, and develops
+  responsive contrast agents and optical sensors. Their research spans synthetic
+  chemistry, photophysical studies, polymer and material science, and software
+  development.
+added: 2026-10-19
+pi: Thomas Just Sørensen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

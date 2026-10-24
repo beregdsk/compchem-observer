@@ -1,0 +1,22 @@
+id: bjerrum-group
+name: Bjerrum Group
+kind: group
+website: https://chem.ku.dk/research_sections/biologicalchemistry/bjerrum-group/
+topics:
+  - dft
+  - wavefunction-methods
+  - spectroscopy
+  - catalysis
+description: The Bjerrum Group at the University of Copenhagen, led by Professor
+  Morten J. Bjerrum, focuses on bioinorganic and green chemistry. The group
+  investigates the chemistry of metal ions in biological systems, focusing on
+  the structure, dynamics, and function of metal-binding proteins. Research
+  spans protein aggregation diseases, metalloenzymes, and spectroscopic
+  techniques like PAC and NMR, utilizing quantum chemical DFT and ab initio
+  methods.
+added: 2026-10-19
+pi: Morten J. Bjerrum
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

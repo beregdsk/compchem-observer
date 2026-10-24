@@ -1,0 +1,23 @@
+id: jc-group
+name: JC group
+kind: group
+website: https://chem.ku.dk/research_sections/nanochem/jc-group/
+topics:
+  - photochemistry
+  - excited-states
+  - spectroscopy
+  - materials-modeling
+description: The JC group (Ultrafast Nanophotonics for Applied Optical
+  Materials) at the Department of Chemistry, University of Copenhagen, led by
+  Associate Professor Junsheng Chen, focuses on the photophysics and
+  photochemistry of fluorescent molecular materials and semiconductor
+  nanomaterials. Their research combines ultrafast spectroscopic
+  characterization with theoretical modeling to study excited-state dynamics in
+  organic nanoparticles and metal-halide perovskites for bioimaging and
+  light-harvesting applications.
+added: 2026-10-19
+pi: Junsheng Chen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

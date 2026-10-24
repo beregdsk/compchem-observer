@@ -1,0 +1,23 @@
+id: laboratory-of-computational-biology
+name: Laboratory of Computational Biology
+kind: group
+website: https://www.chem.uw.edu.pl/en/faculty/research-groups/laboratory-of-computational-biology/
+topics:
+  - biomolecular-simulation
+  - drug-design
+  - software-hpc
+  - ml-chemistry
+  - molecular-dynamics
+description: The Laboratory of Computational Biology (LCBio) is a research group
+  at the Faculty of Chemistry, University of Warsaw, led by Professor Sebastian
+  Kmiecik. The group develops and implements innovative computational methods
+  for modeling and analyzing biomolecular structure and dynamics, creating
+  flagship tools for peptide docking, protein flexibility, and aggregation
+  prediction. They combine classical modeling with state-of-the-art deep
+  learning to study protein complexes and design peptide-based therapeutics.
+added: 2026-10-19
+pi: Sebastian Kmiecik
+parent: Faculty of Chemistry, University of Warsaw
+location:
+  city: Warsaw
+  country: PL

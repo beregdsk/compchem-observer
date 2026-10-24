@@ -1,0 +1,19 @@
+id: research-software-engineering-rse-for-hpc
+name: Research Software Engineering (RSE) for HPC
+kind: group
+website: https://www.fz-juelich.de/en/jsc/about-us/structure/research-groups/rse
+topics:
+  - software-hpc
+  - education-training
+description: The Research Software Engineering (RSE) for HPC group at the Jülich
+  Supercomputing Centre focuses on applying software engineering practices to
+  scientific research, particularly for high-performance computing (HPC)
+  software. The group develops tools for continuous testing, integration, and
+  benchmarking, provides training for researchers across all career levels, and
+  fosters the RSE community.
+added: 2026-10-19
+pi: Robert Speck
+parent: Jülich Supercomputing Centre (JSC)
+location:
+  city: Jülich
+  country: DE

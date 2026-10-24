@@ -1,0 +1,18 @@
+id: lehane-group-antimalarial-drug-action-and-resistance
+name: Lehane Group - Antimalarial drug action and resistance
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/lehane-group-antimalarial-drug-action-and-resistance
+topics:
+  - drug-design
+description: The Lehane Group, based at the Australian National University's
+  Research School of Biology, studies membrane transport processes in Plasmodium
+  parasites to understand antimalarial drug action and resistance. Their
+  research focuses on identifying and characterizing parasite transport proteins
+  as drug targets, developing screening assays to discover chemical inhibitors,
+  and understanding the mechanisms of drug resistance.
+added: 2026-10-19
+pi: Adele Lehane
+parent: ANU Research School of Biology
+location:
+  city: Canberra
+  country: AU

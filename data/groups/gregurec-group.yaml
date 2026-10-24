@@ -1,0 +1,23 @@
+id: gregurec-group
+name: Gregurec Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/gregurec-group/news/
+topics:
+  - soft-matter
+  - materials-modeling
+  - spectroscopy
+description: The Gregurec Group, also known as the Biointerfaces Lab at the
+  Department of Chemistry and Pharmacy of Friedrich-Alexander-Universität
+  Erlangen-Nürnberg, is led by Prof. Dr. Danijela Gregurec. The group focuses on
+  the design and synthesis of anisotropic magnetic nanomaterials, such as
+  nanodiscs, and their applications in wireless neuromodulation, nanomedicine,
+  biointerface engineering, and magnetic resonance imaging.
+added: 2026-10-19
+aliases:
+  - News and Group Activities
+pi: Danijela Gregurec
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE
