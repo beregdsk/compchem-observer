@@ -1,0 +1,19 @@
+id: sc2g-semi-conducteurs-a-large-bande-interdite
+name: SC2G - Semi-conducteurs à large bande interdite
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/semi-conducteurs-a-large-bande-interdite-sc2g
+topics:
+  - materials-modeling
+description: The SC2G group at the Institut Néel focuses on wide and ultra-wide
+  bandgap semiconductors like GaN, ZnO, diamond, AlN, and Ga2O3. The team
+  develops innovative electronic devices for power electronics, LEDs, and
+  sensors, conducting fundamental studies alongside epitaxial growth,
+  nanofabrication, and device characterization.
+added: 2026-10-18
+aliases:
+  - SC2GSemi-conducteurs à large bande interdite
+pi: David Eon
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR

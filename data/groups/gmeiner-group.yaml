@@ -1,0 +1,19 @@
+id: gmeiner-group
+name: Gmeiner Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/gmeiner-group/
+topics:
+  - molecular-dynamics
+  - drug-design
+description: The Gmeiner Group, led by Prof. Dr. Peter Gmeiner at the Chair of
+  Medicinal Chemistry, focuses on the discovery and optimization of bioactive
+  compounds. Their research integrates structure-based drug design, molecular
+  dynamics simulations, and in vitro functional investigations to develop novel
+  therapeutic agents.
+added: 2026-10-18
+pi: Peter Gmeiner
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

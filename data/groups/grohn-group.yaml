@@ -1,0 +1,24 @@
+id: grohn-group
+name: Gröhn Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/grohn-group/
+topics:
+  - materials-modeling
+  - photochemistry
+  - soft-matter
+  - drug-design
+  - catalysis
+description: The Gröhn Group, led by Prof. Dr. Franziska Gröhn at the Department
+  of Chemistry and Pharmacy of Friedrich-Alexander-Universität
+  Erlangen-Nürnberg, focuses on molecular nanostructures and functional
+  materials assembled via self-assembly. Their research covers sustainable
+  synthesis of quantum dots, photocatalysis, light-switchable nanosystems,
+  triggerable drug delivery, and nanostructure characterization of biomimetic
+  systems.
+added: 2026-10-18
+pi: Franziska Gröhn
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

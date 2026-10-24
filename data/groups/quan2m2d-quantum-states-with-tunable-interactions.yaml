@@ -1,0 +1,24 @@
+id: quan2m2d-quantum-states-with-tunable-interactions
+name: Quan2m2D quantum states with tunable interactions
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/quan2m
+topics:
+  - electronic-structure
+  - spectroscopy
+  - materials-modeling
+  - quantum-computing-chemistry
+  - excited-states
+description: The Quan2m group at Institut Néel explores quantum states in
+  two-dimensional materials like graphene and transition metal dichalcogenides.
+  Their research focuses on tuning electronic, phononic, and magnonic
+  excitations through electromagnetic fields, mechanical deformation, and
+  proximity effects. Key research areas include quantum optoelectronics, quantum
+  engineering (such as superconducting qubits), optothermics, and 2D ordering
+  phenomena, utilizing low-temperature magnetotransport, optical spectroscopy,
+  and custom 2D material fabrication platforms.
+added: 2026-10-18
+pi: Julien Renard
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR

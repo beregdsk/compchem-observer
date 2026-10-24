@@ -1,0 +1,22 @@
+id: mac-materials-chemistry
+name: MAC (Materials Chemistry)
+kind: group
+website: https://www.ntc.zcu.cz/en/Research/Research_topics/Materials_Chemistry/
+topics:
+  - electrochemistry
+  - catalysis
+  - drug-design
+description: The MAC (Materials Chemistry) research team, led by Prof. Martin
+  Pumera at the University of West Bohemia in Pilsen, focuses on the fundamental
+  properties of active and smart materials. Their key research areas include
+  flexible wearable electronics, 3D printing of catalytic systems,
+  electrochemistry of nanomaterials for energy storage, and nanomedicine for
+  targeted drug delivery.
+added: 2026-10-18
+aliases:
+  - MAC
+pi: Martin Pumera
+parent: University of West Bohemia
+location:
+  city: Pilsen
+  country: CZ

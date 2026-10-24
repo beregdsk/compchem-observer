@@ -1,0 +1,24 @@
+id: computational-materials-science
+name: Computational Materials Science
+kind: group
+website: https://www.chem.uzh.ch/en/research/groups/iannuzzi.html
+topics:
+  - dft
+  - electronic-structure
+  - molecular-dynamics
+  - spectroscopy
+  - materials-modeling
+description: The research group of Prof. Dr. Marcella Iannuzzi at the University
+  of Zurich focuses on computational materials science, developing and applying
+  atomistic simulation methods to study condensed matter. They investigate
+  complex interfaces, combining accurate interatomic interactions with
+  phase-space sampling to model structural rearrangements, transport, assembly,
+  and reactions. The group employs advanced theoretical techniques to simulate
+  experimental observables such as STM/AFM images, X-ray core-level, IR/Raman,
+  and magnetic resonance spectra.
+added: 2026-10-18
+pi: Marcella Iannuzzi
+parent: University of Zurich, Department of Chemistry
+location:
+  city: Zurich
+  country: CH

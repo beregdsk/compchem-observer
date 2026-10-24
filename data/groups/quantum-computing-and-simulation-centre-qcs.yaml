@@ -1,0 +1,23 @@
+id: quantum-computing-and-simulation-centre-qcs
+name: Quantum Computing and Simulation Centre (QCS)
+kind: institute
+website: https://www.ntc.zcu.cz/en/Research/Research_topics/Quantum-Computing-and-Simulation-Centre
+topics:
+  - electronic-structure
+  - materials-modeling
+  - quantum-computing-chemistry
+  - education-training
+description: The Quantum Computing and Simulation Centre (QCS) is a research
+  centre at the University of West Bohemia focused on the development and
+  implementation of quantum algorithms and simulations for science, research,
+  and industry. It bridges theoretical and experimental research in quantum
+  materials with quantum computing, applying these methods to optimization,
+  machine learning, and finance, while also promoting education and outreach in
+  quantum technologies.
+added: 2026-10-18
+aliases:
+  - QCS
+parent: University of West Bohemia (ZČU)
+location:
+  city: Pilsen
+  country: CZ

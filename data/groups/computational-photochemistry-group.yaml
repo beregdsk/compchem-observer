@@ -1,0 +1,24 @@
+id: computational-photochemistry-group
+name: Computational PhotoChemistry Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/centers/ccc/groups/cpc-group/
+topics:
+  - excited-states
+  - photochemistry
+  - ml-chemistry
+  - molecular-dynamics
+  - catalysis
+description: The Computational PhotoChemistry (CPC) Group, led by Prof. Dr.
+  Carolin Müller, focuses on light-induced physical processes and chemical
+  reactions. Using advanced computational methods such as excited-state quantum
+  chemistry, photodynamics, and machine learning, the group investigates
+  photoactive molecules, designs functional materials, and develops data
+  infrastructure for excited-state dynamics.
+added: 2026-10-18
+aliases:
+  - www.chemistry.nat.fau.eu/research/centers/ccc/groups/cpc-group/
+pi: Carolin Müller
+parent: Friedrich-Alexander-Universität Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

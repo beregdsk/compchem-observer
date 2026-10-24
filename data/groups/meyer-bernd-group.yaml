@@ -1,0 +1,23 @@
+id: meyer-bernd-group
+name: Meyer (Bernd) Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/meyer-bernd-group/
+topics:
+  - materials-modeling
+  - ml-potentials
+  - ml-chemistry
+  - electrochemistry
+  - dft
+description: The Bernd Meyer Group is a computational chemistry research group
+  at the Department of Chemistry and Chemistry and Pharmacy of
+  Friedrich-Alexander-Universität Erlangen-Nürnberg. The group focuses on
+  molecular materials for energy, information, and sustainability, working on
+  battery electrodes, solar cell materials, solid lubricants, and machine
+  learning of atomic interactions.
+added: 2026-10-18
+pi: Bernd Meyer
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

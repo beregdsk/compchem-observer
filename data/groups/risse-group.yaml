@@ -1,0 +1,20 @@
+id: risse-group
+name: Risse Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/agrisse/index.html
+topics:
+  - electronic-structure
+  - quantum-dynamics
+  - molecular-dynamics
+  - spectroscopy
+  - dft
+description: The official homepage of the Risse Group, a research group led by
+  Prof. Dr. Thomas Risse at the Freie Universität Berlin, within the Department
+  of Biology, Chemistry, Pharmacy. The group focuses on physical and theoretical
+  chemistry, offering details on research, team, teaching, and open positions.
+added: 2026-10-18
+pi: Thomas Risse
+parent: Freie Universität Berlin
+location:
+  city: Berlin
+  country: DE

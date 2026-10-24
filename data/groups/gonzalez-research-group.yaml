@@ -1,0 +1,21 @@
+id: gonzalez-research-group
+name: González Research Group
+kind: group
+website: https://theochem.univie.ac.at/
+topics:
+  - photochemistry
+  - quantum-dynamics
+  - molecular-dynamics
+  - excited-states
+  - electronic-structure
+description: The González Research Group at the University of Vienna, led by
+  Prof. Leticia González, conducts research in computational and theoretical
+  chemistry. They apply ab initio quantum chemistry and develop chemical
+  dynamics methods to investigate photochemical processes, structure-function
+  relationships, and light-controlled chemical reactions.
+added: 2026-10-18
+pi: Leticia González
+parent: University of Vienna
+location:
+  city: Vienna
+  country: AT

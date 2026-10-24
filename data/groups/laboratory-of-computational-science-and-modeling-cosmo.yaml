@@ -1,0 +1,24 @@
+id: laboratory-of-computational-science-and-modeling-cosmo
+name: Laboratory of Computational Science and Modeling COSMO
+kind: group
+website: https://www.epfl.ch/labs/cosmo/
+topics:
+  - materials-modeling
+  - ml-potentials
+  - molecular-dynamics
+  - biomolecular-simulation
+  - dft
+description: The Laboratory of Computational Science and Modeling (COSMO) at
+  EPFL simulates matter at the atomic scale to predict and optimize the
+  properties of materials and molecules. The lab develops advanced computer
+  simulation methods combining statistical physics, quantum chemistry, materials
+  engineering, and machine learning to address pressing societal issues, such as
+  lightweight alloys and hydrogen-bonded pharmaceutical compounds.
+added: 2026-10-18
+aliases:
+  - Laboratory of Computational Science and Modelling
+pi: Michele Ceriotti
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH

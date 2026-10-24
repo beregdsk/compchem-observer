@@ -1,0 +1,20 @@
+id: topological-materials-design-research-unit
+name: Topological Materials Design Research Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/crossdiv_mater/topology_matter_des/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - wavefunction-methods
+description: The Topological Materials Design Research Unit at RIKEN, led by
+  Motoaki Hirayama, explores novel materials and properties using
+  first-principles calculations. Focusing on topological electronic band
+  structures, superconducting states, and Majorana fermions, the unit develops
+  ab initio methods for theoretical materials design across various fields.
+added: 2026-10-18
+pi: Motoaki Hirayama
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

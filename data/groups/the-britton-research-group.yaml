@@ -1,0 +1,25 @@
+id: the-britton-research-group
+name: The Britton Research Group
+kind: group
+website: https://www.birmingham.ac.uk/research/centres-institutes/research-in-chemistry/chemistry-research-groups/britton-research-group
+topics:
+  - spectroscopy
+  - electrochemistry
+  - molecular-dynamics
+  - soft-matter
+description: The Britton Research Group, led by Professor Melanie Britton at the
+  University of Birmingham, focuses on developing nuclear magnetic resonance
+  (NMR) spectroscopy and magnetic resonance imaging (MRI) methods to
+  characterize complex chemical systems and visualize chemical processes. Their
+  research spans visualizing electrochemical processes in batteries and
+  corrosion, probing colloidal stability, characterizing reverse micelles, and
+  studying thin films, utilizing molecular dynamics and NMR experiments to
+  provide insights into molecular dynamics and soft matter systems.
+added: 2026-10-18
+aliases:
+  - Britton Research Group
+pi: Melanie Britton
+parent: University of Birmingham
+location:
+  city: Birmingham
+  country: GB

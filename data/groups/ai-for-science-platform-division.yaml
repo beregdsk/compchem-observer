@@ -1,0 +1,18 @@
+id: ai-for-science-platform-division
+name: AI for Science Platform Division
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/ai_sci_plat/
+topics:
+  - software-hpc
+description: The AI for Science Platform Division at RIKEN Center for
+  Computational Science is responsible for establishing and managing the
+  computational infrastructure for generative AI and foundation models in
+  scientific research. It integrates the Fugaku supercomputer with AI-dedicated
+  systems to develop foundational software for training and inference, advancing
+  AI for science.
+added: 2026-10-18
+pi: Satoshi Matsuoka
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

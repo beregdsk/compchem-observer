@@ -1,0 +1,24 @@
+id: mnm-micro-et-nanomagnetisme
+name: MNM Micro et NanoMagnétisme
+kind: group
+website: https://neel.cnrs.fr/en/equipes-poles-et-services/micro-et-nanomagnetisme-mnm
+topics:
+  - electronic-structure
+  - materials-modeling
+  - spectroscopy
+  - ml-chemistry
+description: The Micro- and NanoMagnetism (MNM) team at the Institut Néel
+  focuses on investigating and engineering functional properties of
+  nanostructured magnetic materials for applications in spintronics, energy, and
+  life sciences. Their research includes studying micromagnetic configurations
+  in thin films and nanostructures, manipulating them via magnetic/electric
+  fields or currents, and developing high-throughput combinatorial methods
+  combined with machine learning for sustainable magnet design.
+added: 2026-10-18
+aliases:
+  - MNMMicro et NanoMagnétisme
+pi: Laurent Ranno
+parent: Institut Néel
+location:
+  city: Grenoble
+  country: FR

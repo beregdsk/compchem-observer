@@ -1,0 +1,21 @@
+id: group-1b469616
+name: 総合防災・減災研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/cdmrrt/index.html
+topics:
+  - software-hpc
+description: The Comprehensive Disaster Prevention and Mitigation Research Team
+  at RIKEN Center for Computational Science, led by Team Principal Hirofumi
+  Tomita, conducts large-scale numerical simulations of complex disasters—such
+  as earthquakes, tsunamis, and heavy rains—targeting real cities in Kobe and
+  Hyogo Prefecture. The team develops automated urban structure modeling
+  techniques and high-performance computing tools to bridge scientific research
+  and administrative disaster mitigation planning.
+added: 2026-10-18
+aliases:
+  - 総合防災・減災研究チーム 都市構造モデル自動化手法 チームプリンシパル富田 浩文
+pi: Hirofumi Tomita
+parent: 理化学研究所 計算科学研究センター
+location:
+  city: Kobe
+  country: JP

@@ -1,0 +1,24 @@
+id: pikramenou-group
+name: Pikramenou Group
+kind: group
+website: https://www.birmingham.ac.uk/research/centres-institutes/research-in-chemistry/chemistry-research-groups/pikramenou-group
+topics:
+  - photochemistry
+  - materials-modeling
+  - spectroscopy
+  - biomolecular-simulation
+description: The Pikramenou Group is a supramolecular photochemistry research
+  group based at the University of Birmingham. Their research focuses on
+  photochemical processes incorporating nanoscale structures, with projects
+  spanning biomedical imaging, supramolecular systems for light conversion
+  devices, and chemical biology. Key areas include luminescent nanoparticles as
+  flow trackers, nanowire-based supramolecular assemblies, inorganic dyes for
+  solar cells, luminescent sensors, DNA recognition by luminescent metal
+  complexes, and ligand design for luminescent and MRI-active lanthanide
+  complexes. The…
+added: 2026-10-18
+pi: Nikolaos Pikramenou
+parent: University of Birmingham
+location:
+  city: Edgbaston
+  country: GB

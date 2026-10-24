@@ -1,0 +1,23 @@
+id: computational-quantum-chemistry-jensen-group
+name: Computational Quantum Chemistry - Jensen Group
+kind: group
+website: https://chem.ku.dk/research_sections/physchem/jensen-group/
+topics:
+  - cheminformatics
+  - drug-design
+  - ml-chemistry
+  - catalysis
+  - materials-modeling
+description: The Jensen Group, part of the Physical Chemistry division at the
+  University of Copenhagen, is led by Professor Jan Halborg Jensen. The group
+  focuses on the development of new computational methods and their application
+  to key chemical challenges, bridging machine learning and quantum chemistry.
+  Their research highlights include genetic algorithm-based molecule discovery,
+  high-throughput screening for antibiotics, solar energy storage molecules, and
+  catalysis discovery.
+added: 2026-10-18
+pi: Jan Halborg Jensen
+parent: Department of Chemistry, University of Copenhagen
+location:
+  city: Copenhagen
+  country: DK

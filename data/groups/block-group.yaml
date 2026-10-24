@@ -1,0 +1,18 @@
+id: block-group
+name: Block Group
+kind: group
+website: https://www.bcp.fu-berlin.de/en/chemie/chemie/forschung/PhysTheoChem/block/index.html
+topics:
+  - spectroscopy
+description: The Block Group at Freie Universität Berlin, within the Department
+  of Biology, Chemistry, Pharmacy, focuses on developing and applying novel
+  approaches to characterize complex interactions at (bio)interfaces. Their
+  research involves quantifying virus-receptor interactions, parallelizing
+  single-molecule force spectroscopy, and measuring single enzyme turnover rates
+  using advanced optical microscopy and microfluidics.
+added: 2026-10-18
+pi: Stephan Block
+parent: Freie Universität Berlin, Department of Biology, Chemistry, Pharmacy
+location:
+  city: Berlin
+  country: DE

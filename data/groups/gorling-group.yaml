@@ -1,0 +1,24 @@
+id: gorling-group
+name: Görling Group
+kind: group
+website: https://www.chemistry.nat.fau.eu/research/research-groups/goerling-group/people/
+topics:
+  - dft
+  - electronic-structure
+  - wavefunction-methods
+  - excited-states
+description: The Görling Group is a computational and theoretical chemistry
+  research group led by Prof. Dr. Andreas Görling, located at the Department of
+  Chemistry and Pharmacy of Friedrich-Alexander-Universität Erlangen-Nürnberg in
+  Erlangen, Germany. The group focuses on the development and application of
+  advanced quantum chemical methods, including density functional theory (DFT)
+  and wavefunction methods for electronic structure and excited states.
+added: 2026-10-18
+aliases:
+  - People
+pi: Andreas Görling
+parent: Department of Chemistry and Pharmacy, Friedrich-Alexander-Universität
+  Erlangen-Nürnberg
+location:
+  city: Erlangen
+  country: DE

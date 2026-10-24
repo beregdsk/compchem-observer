@@ -1,0 +1,20 @@
+id: astroteilchenphysik-prof-dr-susanne-mertens
+name: Astroteilchenphysik - Prof. Dr. Susanne Mertens
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/astroteilchenphysik
+topics:
+  - spectroscopy
+description: The Astroparticle Physics department led by Prof. Dr. Susanne
+  Mertens at the Max Planck Institute for Nuclear Physics in Heidelberg conducts
+  experimental research on fundamental questions of particle physics and
+  cosmology. The group's main focus is on neutrino physics, including the direct
+  measurement of neutrino mass with the KATRIN experiment and the search for
+  neutrinoless double beta decay with LEGEND-1000, as well as the investigation
+  of dark matter candidates using the XENON experiment and other detector
+  technologies.
+added: 2026-10-18
+pi: Susanne Mertens
+parent: Max-Planck-Institut für Kernphysik
+location:
+  city: Heidelberg
+  country: DE

@@ -1,0 +1,22 @@
+id: charles-coulomb-laboratory-l2c
+name: Charles Coulomb Laboratory (L2C)
+kind: institute
+website: https://coulomb.umontpellier.fr/en/research-areas/
+topics:
+  - soft-matter
+  - spectroscopy
+  - excited-states
+  - materials-modeling
+  - quantum-dynamics
+description: The Charles Coulomb Laboratory (L2C) is a research institute based
+  at the Université de Montpellier in Montpellier, France. It conducts
+  multidisciplinary research in condensed matter physics, soft matter, complex
+  systems, and quantum physics, structured into six research axes and eighteen
+  teams. Key topics include optical and electronic properties, spectroscopy,
+  quantum phenomena, and bio-nano imaging, combining theoretical and
+  experimental approaches.
+added: 2026-10-18
+parent: Université de Montpellier
+location:
+  city: Montpellier
+  country: FR

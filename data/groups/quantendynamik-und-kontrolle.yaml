@@ -1,0 +1,21 @@
+id: quantendynamik-und-kontrolle
+name: Quantendynamik und -kontrolle
+kind: group
+website: https://www.mpi-hd.mpg.de/mpi/de/forschung/abteilungen-und-gruppen/quantendynamik-und-kontrolle
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - excited-states
+  - photochemistry
+description: The Quantum Dynamics and Control department at the Max Planck
+  Institute for Nuclear Physics, led by Prof. Dr. Thomas Pfeifer. The research
+  group investigates ultrafast quantum dynamics, photochemistry, and control of
+  atomic and molecular systems using advanced spectroscopic techniques and
+  multidimensional measurements to understand and manipulate motion at its
+  fundamental origin.
+added: 2026-10-18
+pi: Thomas Pfeifer
+parent: Max-Planck-Institut für Kernphysik
+location:
+  city: Heidelberg
+  country: DE

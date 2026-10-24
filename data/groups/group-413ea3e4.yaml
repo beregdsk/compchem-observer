@@ -1,0 +1,24 @@
+id: group-413ea3e4
+name: 複雑現象統一的解法研究チーム
+kind: group
+website: https://www.r-ccs.riken.jp/research/labs/cpusrt/index.html
+topics:
+  - software-hpc
+  - quantum-computing-chemistry
+  - ml-chemistry
+description: The Complex Phenomena Unified Solution Research Team, led by Makoto
+  Tsubokura, develops integrated simulation frameworks like CUBE for complex
+  multi-physics phenomena on large-scale HPC systems. The team focuses on
+  accelerating simulations for next-generation CPU/GPU architectures,
+  integrating AI and machine learning for surrogate modeling and real-time
+  simulation, and developing quantum computing algorithms for partial
+  differential equations to solve industrial challenges in automotive
+  aerodynamics and fluid dynamics.
+added: 2026-10-18
+aliases:
+  - 複雑現象統一的解法研究チーム 流体工学 チームプリンシパル坪倉 誠
+pi: Makoto Tsubokura
+parent: RIKEN Center for Computational Science (理化学研究所 計算科学研究センター)
+location:
+  city: Kobe
+  country: JP
