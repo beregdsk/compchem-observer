@@ -1,0 +1,19 @@
+id: group-6bac0272
+name: 創発機能磁性材料研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/emerg_funct_magn_mta/index.html
+topics:
+  - materials-modeling
+  - spectroscopy
+description: The Innovative Functional Magnetic Materials Research Unit, led by
+  Kosuke Karube at the Center for Emergent Matter Science, RIKEN, focuses on
+  synthesizing and exploring novel magnetic materials with topological and
+  high-performance magnetic functionalities. The unit uses magnetic
+  measurements, scanning probe microscopy, and neutron scattering to clarify
+  magnetic structures and topological properties.
+added: 2026-10-18
+pi: Kosuke Karube
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP

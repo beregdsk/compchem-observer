@@ -1,0 +1,22 @@
+id: quantum-computational-science-research-team-2
+name: 量子計算科学研究チーム (Quantum Computational Science Research Team)
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm_comput_sci_res/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - software-hpc
+description: The Quantum Computational Science Research Team at RIKEN's Quantum
+  Computer Research Center, directed by Seiji Yunoki, aims to realize quantum
+  simulations of quantum many-body systems using quantum computers. The team
+  focuses on developing quantum-classical hybrid algorithms, simulating quantum
+  computing on classical supercomputers like Fugaku, and analyzing quantum
+  information and dynamics in quantum circuits.
+added: 2026-10-18
+aliases:
+  - 量子計算科学研究チーム
+pi: Seiji Yunoki (柚木 清司)
+parent: Quantum Computer Research Center, RIKEN (理化学研究所 量子コンピュータ研究センター)
+location:
+  city: Wako
+  country: JP

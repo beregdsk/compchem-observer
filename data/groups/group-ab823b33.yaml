@@ -1,0 +1,19 @@
+id: group-ab823b33
+name: 浮揚電子量子情報理研白眉研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/floatelectron_based_qtm_inf_riken_hakubi/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Floating Electron Quantum Information RIKEN Hakushi Research
+  Team is a PI-led research group at RIKEN's Quantum Computing Research Center,
+  led by Erika Kawakami. The team conducts research on quantum information
+  processing using electrons floating on helium surfaces, aiming to develop
+  highly coherent qubits for quantum computing. Their work includes the
+  detection of Rydberg states of surface electrons, cryogenic amplification, and
+  technologies for qubit integration.
+added: 2026-10-18
+pi: 川上 恵里加
+parent: 理化学研究所 (RIKEN) / 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP

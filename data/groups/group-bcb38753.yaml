@@ -1,0 +1,18 @@
+id: group-bcb38753
+name: 光量子計算研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/opt_qtm_comput_res/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Photonic Quantum Computing Research Team at RIKEN's Quantum
+  Computing Research Center, led by Akira Furusawa. The team focuses on
+  realizing large-scale fault-tolerant photonic quantum computers using
+  deterministic quantum teleportation and time-domain multiplexed cluster
+  states. Their research encompasses quantum optics, quantum information
+  science, and advanced photonic quantum computing technologies.
+added: 2026-10-18
+pi: Akira Furusawa
+parent: 理化学研究所
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,23 @@
+id: group-f795ba7e
+name: 統合物性科学研究プログラム
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - dft
+  - spectroscopy
+  - quantum-dynamics
+description: The Integrated Materials Science Research Program at RIKEN's Center
+  for Emergent Matter Science promotes interdisciplinary research across
+  physics, chemistry, and electronics. Led by Program Director Takahisa Arima
+  and young researchers, it focuses on advanced condensed matter physics,
+  including strongly correlated electron systems, giant magnetoresistance,
+  high-temperature superconductors, multiferroics, and topological insulators,
+  to discover new material functions.
+added: 2026-10-18
+pi: 有馬 孝尚
+parent: 創発物性科学研究センター
+location:
+  city: 和光市
+  country: JP

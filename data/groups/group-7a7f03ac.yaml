@@ -1,0 +1,18 @@
+id: group-7a7f03ac
+name: 量子多体ダイナミクス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm_mbody_dyn/index.html
+topics:
+  - quantum-dynamics
+  - quantum-computing-chemistry
+description: The Quantum Many-Body Dynamics Research Team, led by Team Director
+  Takeshi Fukuhara, investigates non-equilibrium quantum many-body dynamics
+  using ultracold atoms in optical lattices. The team focuses on real-time,
+  real-space measurements to understand strongly correlated quantum systems and
+  advance quantum simulation and quantum information processing.
+added: 2026-10-18
+pi: Takeshi Fukuhara
+parent: 理化学研究所 (RIKEN) 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP

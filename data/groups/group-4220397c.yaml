@@ -1,0 +1,21 @@
+id: group-4220397c
+name: 量子情報物理理論研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm_inf_phys_theor_res/index.html
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+description: The Quantum Information Physics Theory Research Team at RIKEN's
+  Quantum Computer Research Center, directed by Franco Nori, focuses on
+  interdisciplinary research at the intersection of nanoscience, quantum
+  computing, quantum information, superconducting quantum circuits, quantum
+  optics, and condensed matter physics. The team is globally recognized for
+  developing the QuTiP software and utilizing AI and machine learning to tackle
+  complex computational challenges, maintaining strong collaborative ties with
+  leading technology corporations.
+added: 2026-10-18
+pi: Franco Nori
+parent: 理化学研究所 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP

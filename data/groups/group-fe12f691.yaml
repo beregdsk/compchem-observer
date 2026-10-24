@@ -1,0 +1,22 @@
+id: group-fe12f691
+name: 創発スピントロニクス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg_spintron/index.html
+topics:
+  - quantum-dynamics
+  - spectroscopy
+  - materials-modeling
+description: The Innovation Spintronics Research Team, led by Team Director Dr.
+  Eiji Saitoh, investigates quantum spintronics phenomena in nanostructured
+  magnetic materials, semiconductors, and superconductors. Focusing on quantum
+  spin dynamics, spin transport, and the interaction between spins and
+  macroscopic order, the team utilizes transport, optical, and ultra-low
+  temperature microwave spectroscopy to expand spintronics into the quantum
+  domain, aiming to build foundational physics and develop applications in
+  quantum information processing and energy conversion.
+added: 2026-10-18
+pi: Eiji Saitoh (齊藤 英治)
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

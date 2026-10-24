@@ -1,0 +1,20 @@
+id: group-4be98ac5
+name: トポロジカルエレクトロニクス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/topology_electron/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+description: The Topological Electronics Research Team, led by Team Director
+  Minoru Kawamura at the Center for Emergent Matter Science, RIKEN, conducts
+  experimental research on quantum transport phenomena in solid-state electronic
+  systems. Focusing on thin films and heterostructures with strong spin-orbit
+  coupling, the team investigates topological insulators, topological
+  superconductors, and the anomalous Hall effect to discover new quantum
+  phenomena and develop advanced electronics and spintronics applications.
+added: 2026-10-18
+pi: Minoru Kawamura
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP

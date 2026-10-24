@@ -1,0 +1,20 @@
+id: group-cb51c35f
+name: 冷却原子量子システム研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/cold_atom_qtm_sys/index.html
+topics:
+  - quantum-computing-chemistry
+  - quantum-dynamics
+  - spectroscopy
+description: The Cooling Atom Quantum System Research Team at RIKEN's Quantum
+  Computing Research Center, led by Sylvain de Léséleuc, focuses on developing
+  quantum technologies using individual atoms manipulated by lasers. The team
+  cools atoms to absolute zero, traps them using optical tweezers, and excites
+  them to Rydberg states to engineer atom-by-atom quantum systems, aiming to
+  realize neutral-atom quantum computers.
+added: 2026-10-18
+pi: Sylvain de Léséleuc
+parent: 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP

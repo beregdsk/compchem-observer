@@ -1,0 +1,19 @@
+id: rqc-2
+name: 理研RQC-富士通連携センター
+kind: group
+website: https://www.riken.jp/research/labs/rqc/riken_fujitsu/index.html
+topics:
+  - quantum-computing-chemistry
+description: The RIKEN RQC-Fujitsu Collaborative Center is a joint research
+  center established in April 2021 between RIKEN and Fujitsu. It focuses on the
+  research and development of superconducting quantum computers, integrating
+  RIKEN's advanced superconducting circuit technology with Fujitsu's computing
+  expertise. The center aims to develop large-scale hardware, software, and
+  applications to realize fault-tolerant quantum computers and solve complex
+  social issues.
+added: 2026-10-18
+pi: Yasunobu Nakamura
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

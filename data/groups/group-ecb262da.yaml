@@ -1,0 +1,22 @@
+id: group-ecb262da
+name: トポロジカル材料設計研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/topology_matter_des/index.html
+topics:
+  - electronic-structure
+  - materials-modeling
+  - dft
+  - quantum-computing-chemistry
+  - software-hpc
+description: The Topological Materials Design Research Unit, led by Motoaki
+  Hirayama, focuses on exploring novel materials and their properties using
+  first-principles calculations, particularly topological materials with
+  non-trivial electronic structures, superconductivity, and Majorana fermions
+  for quantum computing, while developing methods for correlated electron
+  systems and designing materials across broad scientific fields.
+added: 2026-10-18
+pi: Motoaki Hirayama
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,19 @@
+id: group-06b0f581
+name: 医科学深層学習チーム
+kind: group
+website: https://www.riken.jp/research/labs/ithems/ams/ms-dl/index.html
+topics:
+  - quantum-computing-chemistry
+  - ml-chemistry
+  - biomolecular-simulation
+description: The Medical Science Deep Learning Team, led by Director Jun Seita
+  at RIKEN iTHEMS, researches the foundational theories required to apply deep
+  learning to medical science. Their main themes include deep learning
+  frameworks for predicting time-series data, reinforcement learning involving
+  multiple interacting agents, and extending these areas into quantum computing.
+added: 2026-10-18
+pi: 清田 純
+parent: 数理創造研究センター (iTHEMS), 理化学研究所
+location:
+  city: 東京都
+  country: JP

@@ -1,0 +1,19 @@
+id: group-fc311c4f
+name: 半導体量子情報デバイス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/semiconductor_qtm_inf_device/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Semiconductor Quantum Information Device Research Team at
+  RIKEN's Quantum Computing Research Center develops semiconductor quantum dot
+  spin qubits for quantum computing. The team focuses on spin control, quantum
+  logic operations, and device integration compatible with semiconductor
+  fabrication, aiming for scalable quantum processors operating at temperatures
+  above 1 Kelvin. Research includes single-shot spin readout, active reset, and
+  noise characterization in silicon-based qubits.
+added: 2026-10-18
+pi: Seigo Tarucha
+parent: RIKEN
+location:
+  city: Wako
+  country: JP

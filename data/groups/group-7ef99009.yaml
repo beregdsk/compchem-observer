@@ -1,0 +1,24 @@
+id: group-7ef99009
+name: 半導体量子情報デバイス理論研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/semiconductor_qtm_inf_device_theor/index.html
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+  - electronic-structure
+  - quantum-dynamics
+description: The Semiconductor Quantum Information Device Theory Research Team
+  at RIKEN's Quantum Computing Research Center, headed by Daniel Loss, conducts
+  theoretical research on spin-based quantum computing. The team designs
+  CMOS-compatible gate-controlled quantum dots using silicon and germanium,
+  focusing on electric-field-controlled spin qubits leveraging spin-orbit
+  interactions. Their work includes modeling low-dimensional electrons and
+  holes, studying noise and decoherence to protect qubits, and analyzing
+  qubit-qubit coupling for scalable quantum networks, aiming to identify fast,
+  miniature, and…
+added: 2026-10-18
+pi: Daniel Loss
+parent: 量子コンピュータ研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP

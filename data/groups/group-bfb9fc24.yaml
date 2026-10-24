@@ -1,0 +1,20 @@
+id: group-bfb9fc24
+name: 超伝導量子エレクトロニクス連携研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/rqc/superconduct_qtm_electron_joint/index.html
+topics:
+  - quantum-computing-chemistry
+description: This page introduces the Superconducting Quantum Electronics
+  Collaborative Research Unit at RIKEN's Quantum Computing Research Center, led
+  by Eisuke Abe. The unit conducts research on quantum technologies using
+  superconducting devices, focusing on the development of multi-qubit
+  superconducting quantum computers. They implement functions for coherent
+  control and non-destructive measurement of quantum states using microwaves on
+  superconducting quantum circuits, aiming to bring quantum computers closer to
+  practical realization.
+added: 2026-10-18
+pi: 阿部 英介 (Eisuke Abe)
+parent: 理化学研究所 量子コンピュータ研究センター
+location:
+  city: Wako
+  country: JP

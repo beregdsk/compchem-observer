@@ -1,0 +1,23 @@
+id: strongly-correlated-theory-research-group
+name: 強相関理論研究グループ (Strongly Correlated Theory Research Group)
+kind: group
+website: https://www.riken.jp/research/labs/cems/str_correl_theor/
+topics:
+  - electronic-structure
+  - materials-modeling
+  - dft
+description: The Strongly Correlated Theory Research Group at the Center for
+  Emergent Matter Science, RIKEN, conducts theoretical and computational
+  research on strongly correlated electron systems in solids. Focusing on
+  topological properties, the group aims to explore novel electronic functions
+  such as non-dissipative currents. By combining first-principles calculations,
+  field theory, and numerical modeling, they predict and design magnetic,
+  optical, transport, and thermal properties of complex materials.
+added: 2026-10-18
+aliases:
+  - 強相関理論研究グループ
+pi: Naoto Nagaosa
+parent: 理化学研究所 創発物性科学研究センター (RIKEN Center for Emergent Matter Science)
+location:
+  city: Wako
+  country: JP

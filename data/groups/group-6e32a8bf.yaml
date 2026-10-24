@@ -1,0 +1,19 @@
+id: group-6e32a8bf
+name: 超伝導量子計算システム研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/rqc/superconduct_qtm_comput_sys/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Superconducting Quantum Computing System Research Unit at
+  RIKEN's Quantum Computing Research Center, led by Yutaka Tabuchi, focuses on
+  the practical realization of superconducting quantum computers. The unit works
+  on the integration of superconducting quantum circuits, 3D integration via
+  wafer bonding, system-level design of superconducting quantum circuits,
+  computer architecture analysis to overcome performance bottlenecks, and
+  enhancing the scalability and overall performance of quantum devices.
+added: 2026-10-18
+pi: Yutaka Tabuchi
+parent: RIKEN Quantum Computing Research Center
+location:
+  city: Wako
+  country: JP

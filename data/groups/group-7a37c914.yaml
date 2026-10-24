@@ -1,0 +1,18 @@
+id: group-7a37c914
+name: 光量子制御研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/opt_qtm_ctrl_res/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Photonic Quantum Control Research Team at RIKEN's Quantum
+  Computing Research Center, led by Director Hidehiro Yonezawa, focuses on
+  developing photonic quantum computers. Their research centers on
+  high-precision quantum state measurement, estimation, and coherent control
+  technologies to advance photonic quantum computing and quantum information
+  processing.
+added: 2026-10-18
+pi: Hidehiro Yonezawa
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

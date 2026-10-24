@@ -1,0 +1,21 @@
+id: ecl-3
+name: 極限量子固体物性理研ECL研究ユニット
+kind: group
+website: https://www.riken.jp/research/labs/cems/crossdiv_mater/extr_qtm_matter_phys_riken_ecl/index.html
+topics:
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - spectroscopy
+description: This research unit focuses on extreme conditions to explore
+  emergent phenomena in magnetic topological materials and strongly correlated
+  electron systems. By employing advanced microfabrication techniques for
+  quantum single crystals, they generate ultra-high pressures, control magnetic
+  dynamics, and tune carrier densities. Their work aims to discover new quantum
+  phases and elucidate quantum transport properties.
+added: 2026-10-18
+pi: Yukako Fujishiro
+parent: 理化学研究所 (RIKEN)
+location:
+  city: Wako
+  country: JP

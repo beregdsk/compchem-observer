@@ -1,0 +1,20 @@
+id: group-9ed70010
+name: 創発分子エレクトロニクス研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/cems/emerg-mol-electron/index.html
+topics:
+  - materials-modeling
+  - electronic-structure
+  - soft-matter
+  - spectroscopy
+description: The official page of the Innovative Molecular Electronics Research
+  Team at RIKEN's Center for Emergent Matter Science. Led by Team Director Shun
+  Watanabe, the team focuses on organic semiconductors, molecular electronics,
+  and polymer-based functional materials, exploring their unique optical, charge
+  transport, and magnetic properties for applications in printable electronics.
+added: 2026-10-18
+pi: Shun Watanabe
+parent: Center for Emergent Matter Science, RIKEN
+location:
+  city: Wako
+  country: JP

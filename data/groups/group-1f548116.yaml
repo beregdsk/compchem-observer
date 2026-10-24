@@ -1,0 +1,18 @@
+id: group-1f548116
+name: 量子コンピュータアーキテクチャ研究チーム
+kind: group
+website: https://www.riken.jp/research/labs/rqc/qtm_comput_arch_res/index.html
+topics:
+  - quantum-computing-chemistry
+description: The Quantum Computer Architecture Research Team at RIKEN conducts
+  theoretical research on quantum computer architecture, spanning from
+  fault-tolerant quantum computing to physical implementation. The team focuses
+  on high-rate codes to minimize the resource overheads required for
+  fault-tolerant quantum computation, aiming to enable practical quantum
+  computers.
+added: 2026-10-18
+pi: Hayato Goto
+parent: 量子コンピュータ研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,19 @@
+id: group-f5cec7fe
+name: 量子機能システム研究グループ
+kind: group
+website: https://www.riken.jp/research/labs/cems/qtm_funct_sys/index.html
+topics:
+  - quantum-computing-chemistry
+  - materials-modeling
+description: The Quantum Functional System Research Group, led by Seigo Tarucha
+  at RIKEN's Center for Emergent Matter Science, conducts research on quantum
+  information processing based on the pure control of quantum states in solids.
+  The group focuses on semiconductor and superconducting nanostructures to
+  develop quantum computing, quantum interfaces, and quantum nanodevices, while
+  exploring fundamental quantum phenomena like entanglement and decoherence.
+added: 2026-10-18
+pi: Seigo Tarucha
+parent: 創発物性科学研究センター, 理化学研究所
+location:
+  city: Wako
+  country: JP

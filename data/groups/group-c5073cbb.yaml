@@ -1,0 +1,20 @@
+id: group-c5073cbb
+name: 量子数理科学チーム
+kind: group
+website: https://www.riken.jp/research/labs/ithems/ams/qtm-math-sci/index.html
+topics:
+  - quantum-computing-chemistry
+  - software-hpc
+  - quantum-dynamics
+description: The Quantum Mathematical Science Team is a research group within
+  the Center for Mathematical and Computational Sciences (iTHEMS) at RIKEN, led
+  by Team Director Tetsuo Hatsuda. The team focuses on quantum computational
+  science, bringing together diverse researchers to tackle fundamental
+  scientific challenges in physics, chemistry, and life sciences using quantum
+  computing and simulation.
+added: 2026-10-18
+pi: 初田 哲男
+parent: 数理創造研究センター (iTHEMS), 理化学研究所
+location:
+  city: 埼玉県和光市
+  country: JP
