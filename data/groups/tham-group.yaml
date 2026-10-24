@@ -1,0 +1,19 @@
+id: tham-group
+name: Tham Group
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/tham-group-understanding-chytrid-infection-biology
+topics:
+  - drug-design
+  - ml-chemistry
+  - cheminformatics
+description: The Tham Group at the ANU Research School of Biology investigates
+  the molecular biology of chytrid fungus and how it infects frogs, with the
+  goal of developing novel interventions. They combine structural biology and
+  genetic modification with AI-driven computational pipelines to identify key
+  fungal virulence proteins and design targeted nanobodies to block infection.
+added: 2026-10-17
+pi: Wai-Hong Tham
+parent: ANU Research School of Biology
+location:
+  city: Canberra
+  country: AU

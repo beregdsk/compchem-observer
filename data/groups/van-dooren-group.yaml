@@ -1,0 +1,18 @@
+id: van-dooren-group
+name: van Dooren Group
+kind: group
+website: https://biology.anu.edu.au/research/research-groups/van-dooren-group-cell-biology-and-metabolism-apicomplexan-parasites
+topics:
+  - drug-design
+description: The van Dooren Group at the ANU Research School of Biology studies
+  the cell biology and metabolism of apicomplexan parasites, primarily focusing
+  on Toxoplasma gondii and Plasmodium. Their research investigates nutrient
+  acquisition, mitochondrial biology, and the parasite life cycle to identify
+  and characterise novel compounds and develop new treatment options against
+  these diseases.
+added: 2026-10-17
+pi: Giel van Dooren
+parent: ANU Research School of Biology
+location:
+  city: Canberra
+  country: AU

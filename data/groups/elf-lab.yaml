@@ -1,0 +1,22 @@
+id: elf-lab
+name: Elf lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-systems-biology/elf-lab
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - software-hpc
+description: The Elf lab, led by Johan Elf at the Department of Cell and
+  Molecular Biology, Uppsala University, is a research group working at the
+  intersection of physics, biology, and technology. They address fundamental
+  questions in bacterial physiology, focusing on single-molecule tracking,
+  optical pooled screening, and rapid antibiotic susceptibility testing. Their
+  computational work includes developing algorithms and software for simulating
+  stochastic chemistry and molecular dynamics, particularly for biomolecular
+  simulations of transcription factor-DNA recognition and search kinetics.
+added: 2026-10-17
+pi: Johan Elf
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE

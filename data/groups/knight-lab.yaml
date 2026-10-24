@@ -1,0 +1,19 @@
+id: knight-lab
+name: Knight lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/structural-biology/knight-lab
+topics:
+  - biomolecular-simulation
+  - materials-modeling
+  - soft-matter
+description: The Knight lab, led by Stefan Knight at Uppsala University, studies
+  how proteins and peptides bind to form fibrillar structures like spider silk,
+  bacterial fimbriae, and amyloid. Using X-ray crystallography, molecular
+  biology, and computational techniques, the research aims to develop novel
+  therapies for amyloid diseases and infections, as well as biomaterials.
+added: 2026-10-17
+pi: Stefan Knight
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE

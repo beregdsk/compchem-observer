@@ -1,0 +1,24 @@
+id: natural-and-artificial-photosynthesis
+name: Natural and Artificial Photosynthesis
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/pantazis/research-topics/natural-and-artificial-photosynthesis
+topics:
+  - photochemistry
+  - spectroscopy
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+description: The research group 'Natural and Artificial Photosynthesis' at the
+  Max Planck Institute for Coal Research, led by Dimitrios Pantazis,
+  investigates the fundamental mechanisms of biological photosynthesis, focusing
+  on the water-oxidizing complex of Photosystem II. The group develops and
+  applies accurate quantum chemical methods to compute energetics, spin states,
+  and spectroscopic properties (such as EPR and X-ray spectroscopy) of complex
+  metalloenzymes, bridging the gap between biological photosynthesis and
+  artificial solar fuel production.
+added: 2026-10-17
+pi: Dimitrios Pantazis
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

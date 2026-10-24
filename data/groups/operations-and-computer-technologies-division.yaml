@@ -1,0 +1,17 @@
+id: operations-and-computer-technologies-division
+name: Operations and Computer Technologies Division
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/octd/
+topics:
+  - software-hpc
+description: The Operations and Computer Technologies Division at the RIKEN
+  Center for Computational Science manages the Fugaku supercomputer, its
+  facilities, and network infrastructure. The division focuses on research and
+  development for stable operations, improving usability, and building a
+  software ecosystem for the ARM architecture.
+added: 2026-10-17
+pi: Fumiyoshi Shoji
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

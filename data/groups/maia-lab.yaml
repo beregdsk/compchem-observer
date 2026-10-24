@@ -1,0 +1,20 @@
+id: maia-lab
+name: Maia lab
+kind: group
+website: https://www.uu.se/en/department/cell-and-molecular-biology/research/molecular-biophysics/maia-lab
+topics:
+  - software-hpc
+  - spectroscopy
+description: The Maia lab at Uppsala University, within the Department of Cell
+  and Molecular Biology, is led by Filipe Maia. The lab focuses on developing
+  lensless X-ray imaging techniques using X-ray free-electron lasers (XFELs) to
+  study structural dynamics at the nanoscale. They design novel sample delivery
+  methods, such as aerosol-based and solution-based jet systems, and develop
+  advanced algorithms and software for data analysis to capture molecular movies
+  of proteins in action.
+added: 2026-10-17
+pi: Filipe Maia
+parent: Department of Cell and Molecular Biology, Uppsala University
+location:
+  city: Uppsala
+  country: SE

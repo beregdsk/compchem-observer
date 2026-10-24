@@ -1,0 +1,20 @@
+id: computational-physics-machine-learning-team
+name: Computational Physics Machine Learning Team
+kind: group
+website: https://www.riken.jp/en/research/labs/aip/domain/comput-phys-ml/index.html
+topics:
+  - ml-potentials
+  - materials-modeling
+description: The Computational Physics Machine Learning Team at the RIKEN Center
+  for Advanced Intelligence Project, led by Director Takaharu Yaguchi,
+  specializes in scientific machine learning and physics-informed neural
+  networks. The team develops methods that respect physical laws, such as energy
+  conservation, to enable reliable simulations of complex physical phenomena and
+  accelerate physical modeling through operator learning and theoretical
+  analysis.
+added: 2026-10-17
+pi: Takaharu Yaguchi
+parent: RIKEN Center for Advanced Intelligence Project
+location:
+  city: Kobe
+  country: JP

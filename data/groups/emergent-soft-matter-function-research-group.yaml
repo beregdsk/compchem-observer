@@ -1,0 +1,24 @@
+id: emergent-soft-matter-function-research-group
+name: Emergent Soft Matter Function Research Group
+kind: group
+website: https://www.riken.jp/en/research/labs/cems/emerg_soft_matter_funct/index.html
+topics:
+  - soft-matter
+  - materials-modeling
+  - catalysis
+  - electrochemistry
+  - spectroscopy
+description: The Emergent Soft Matter Function Research Group, led by Group
+  Director Takuzo Aida at the RIKEN Center for Emergent Matter Science, focuses
+  on establishing novel principles in material science to address environmental
+  and energy issues. The group develops unprecedented functional materials with
+  precisely controlled structures from the molecular to macroscopic levels,
+  including water photolysis catalysts, organic ferroelectrics, and graphitic
+  soft materials like graphene, studying their optical, electrical, and
+  morphological properties.
+added: 2026-10-17
+pi: Takuzo Aida
+parent: RIKEN Center for Emergent Matter Science
+location:
+  city: Wako
+  country: JP

@@ -1,0 +1,22 @@
+id: team-molecular-theory-and-spectroscopy
+name: Team Molecular Theory and Spectroscopy
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/team?print=yes
+topics:
+  - spectroscopy
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - excited-states
+description: The Molecular Theory and Spectroscopy team at the Max Planck
+  Institute for Coal Research develops and applies computational methods to
+  study molecular systems, with emphasis on spectroscopy, electronic structure,
+  and quantum dynamics. The group maintains the ORCA software package and
+  investigates excited states and photochemistry.
+added: 2026-10-17
+pi: Mihail Atanasov and Alexander A. Auer and Dimitrios Manganas and Dimitrios
+  Pantazis and Guanqi Qiu and Bastian Skjelstad and Maurice van…
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE

@@ -1,0 +1,18 @@
+id: team-epr-raman-and-hydrogen-production
+name: Team EPR, Raman and Hydrogen Production
+kind: group
+website: https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy/van-gastel/team
+topics:
+  - spectroscopy
+  - catalysis
+description: The Team EPR, Raman and Hydrogen Production is a research group led
+  by Dr. Maurice van Gastel at the Max-Planck-Institut für Kohlenforschung. The
+  team operates under the Molecular Theory and Spectroscopy department, focusing
+  on applying electron paramagnetic resonance (EPR) and Raman spectroscopic
+  techniques to study materials and processes relevant to hydrogen production.
+added: 2026-10-17
+pi: Maurice van Gastel
+parent: Max-Planck-Institut für Kohlenforschung
+location:
+  city: Mülheim an der Ruhr
+  country: DE
