@@ -15,13 +15,12 @@ topics:
   - ml-potentials
 description: The Royce/CCP9 Science at the Interface Conference on Computational
   Modelling Advances in 2D Materials, Thin Films and Surfaces is a one-day
-  research conference at the National Graphene Institute, University of
-  Manchester on 13 November 2026. It brings together researchers in
-  computational materials science to discuss advances in modelling interfaces of
-  2D materials, thin films and metal surfaces, focusing on physical interactions
-  at solid interfaces. Themes include lattice mismatch, scalable
-  machine-learning interatomic potentials, electronic structure methods, and
-  modelling-led materials…
+  conference at the National Graphene Institute on 13 November 2026. It brings
+  together the computational materials community to explore modelling of flat
+  interfaces across 2D materials, thin films and metal surfaces. Key themes
+  include lattice mismatch, scalable machine-learning interatomic potentials,
+  and electronic-structure methods, with invited talks, flash presentations, and
+  a panel discussion.
 added: 2026-10-13
 location:
   city: Manchester
