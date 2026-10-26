@@ -1,0 +1,21 @@
+id: chembiostruct26-2026
+title: ChemBioStruct26
+type: conference
+start_date: 2026-10-26
+end_date: 2026-10-27
+format: in-person
+url: https://www.euchems.eu/locations/rome-italy-5/
+source_url: https://www.euchems.eu/locations/rome-italy-5/
+topics:
+  - cheminformatics
+  - drug-design
+  - biomolecular-simulation
+description: ChemBioStruct26 is an upcoming scientific conference scheduled for
+  October 26-27, 2026, held at the Consiglio Nazionale delle Ricerche (CNR) in
+  Rome, Italy, as listed on the EuChemS events calendar.
+added: 2026-10-26
+location:
+  city: Rome
+  country: IT
+  venue: Consiglio Nazionale delle Ricerche (CNR). Aula Marconi, Piazzale Aldo Moro 7
+organizer: EuChemS
