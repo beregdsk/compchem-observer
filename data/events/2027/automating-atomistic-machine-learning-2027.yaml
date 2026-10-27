@@ -9,7 +9,8 @@ location:
   country: CH
   venue: CECAM-HQ-EPFL
 url: https://www.cecam.org/workshop-details/automating-atomistic-machine-learning-1494
-organizer: CECAM
+organizer: Gian-Marco Rignanese (Université catholique de Louvain), Janine
+  George (BAM Berlin, University of Jena), Volker Deringer (Oxford University)
 topics:
   - ml-potentials
   - software-hpc
