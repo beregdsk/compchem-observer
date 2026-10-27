@@ -1,0 +1,26 @@
+id: mlpfits-2027-2027
+title: MLPfits 2027
+type: workshop
+start_date: 2027-02-15
+end_date: 2027-02-19
+format: in-person
+url: https://www.theochem2.ruhr-uni-bochum.de/tc/workshops.html.en
+source_url: https://psi-k.net/important-new-psi-k-mailing-list/
+topics:
+  - ml-potentials
+  - ml-chemistry
+  - molecular-dynamics
+  - materials-modeling
+  - education-training
+description: A 5-day hands-on tutorial workshop on training and using machine
+  learning potentials for large-scale atomistic simulations in chemistry and
+  materials science. Topics include HDNNP, ACE/GRACE, and validation strategies.
+  Held at Ruhr-University Bochum, Germany, 15-19 February 2027. Free of charge.
+added: 2026-10-27
+location:
+  city: Bochum
+  country: DE
+  venue: Ruhr-University Bochum
+organizer: Jörg Behler and Ralf Drautz
+cost: Free
+fee: free
