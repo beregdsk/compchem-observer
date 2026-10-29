@@ -1,25 +1,27 @@
 id: vtcc-2026-international-virtual-conference-on-theoretical-and-computational-chemistry-2026
-title: VTCC 2026 — International Virtual Conference on Theoretical and
-  Computational Chemistry
+title: 'VTCC 2026: International Virtual Conference on Theoretical and
+  Computational Chemistry'
 type: conference
 start_date: 2026-12-21
 end_date: 2026-12-21
 format: online
-url: https://t.me/quant_chem_and_stuff/711
+url: https://t.me/VTCC2026bot
 source_url: https://t.me/quant_chem_and_stuff/711
 topics:
   - electronic-structure
+  - wavefunction-methods
   - quantum-dynamics
   - molecular-dynamics
   - biomolecular-simulation
-  - spectroscopy
 description: 'VTCC 2026 is an international virtual conference on theoretical
   and computational chemistry, covering quantum chemistry, molecular modeling,
   computational biochemistry, molecular dynamics, spectroscopy, materials
-  modeling, machine learning in chemistry, and QM/MM. Invited speakers include
-  Prof. Stefan Grimme and Prof. Artem Oganov. Abstract submission deadline:
-  December 7, 2026. Free participation. Submission via Telegram or web form.'
-added: 2026-10-23
+  modeling, machine learning, and QM/MM. Invited speakers include Prof. Dr.
+  Stefan Grimme and Prof. Dr. Artem R. Oganov. Abstracts are invited for oral
+  presentations or publication. Deadline: December 7, 2026, 23:59 CET.
+  Submission via Telegram is preferred, with an alternative web form.
+  Participation is free.'
+added: 2026-10-29
 aliases:
   - VTCC 2026 — новая международная виртуальная конференция для исследователей,
     работающих в области теоретической и вычислительной химии
