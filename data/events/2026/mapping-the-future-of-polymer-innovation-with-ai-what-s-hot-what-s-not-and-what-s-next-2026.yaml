@@ -8,15 +8,15 @@ format: online
 url: https://cheminform.ru/vebinar/mapping-the-future-of-polymer-innovation-with-ai-whats-hot-whats-not-and-whats-next/
 source_url: https://cheminform.ru/vebinar/mapping-the-future-of-polymer-innovation-with-ai-whats-hot-whats-not-and-whats-next/
 topics:
-  - cheminformatics
-  - materials-modeling
   - ml-chemistry
-description: A free ACS webinar on November 5, 2026, focusing on the use of AI
-  and NLP to analyze scientific publications and patents in polymer materials.
-  Presenters from CAS and PetroChina's SAMRI will discuss how these technologies
-  identify promising research directions and evaluate commercial potential.
-  Registration is required.
-added: 2026-11-04
+  - materials-modeling
+  - cheminformatics
+description: Free webinar by the American Chemical Society (ACS) on using AI and
+  natural language processing to analyze scientific publications and patents to
+  identify promising trends and evaluate commercial potential in polymer
+  materials. Speakers from CAS and the Shanghai Institute of Advanced Materials
+  (SAMRI) will present.
+added: 2026-11-05
 organizer: American Chemical Society (ACS)
-cost: Free
+cost: Free, registration required
 fee: free
