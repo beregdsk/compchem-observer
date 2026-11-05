@@ -8,21 +8,20 @@ format: online
 url: https://t.me/quant_chem_and_stuff/711
 source_url: https://t.me/quant_chem_and_stuff/711
 topics:
-  - biomolecular-simulation
-  - dft
   - electronic-structure
+  - dft
+  - wavefunction-methods
   - molecular-dynamics
-  - ml-chemistry
+  - biomolecular-simulation
 description: VTCC 2026 is an international virtual conference for researchers in
   theoretical and computational chemistry, covering quantum chemistry, molecular
   modeling, computational biochemistry, molecular dynamics, spectroscopy,
   materials modeling, machine learning in chemistry, and QM/MM. Invited speakers
-  include Prof. Dr. Stefan Grimme and Prof. Dr. Artem R. Oganov. Participants
-  can submit abstracts for oral presentations or publication in the proceedings.
-  The submission deadline is December 7, 2026, 23:59 CET. Submission is via
-  Telegram or web form. Participation is free.
-added: 2026-10-31
+  include Stefan Grimme and Artem Oganov. Abstract submission deadline is
+  December 7, 2026. Participation is free.
+added: 2026-11-05
 aliases:
-  - VTCC 2026
+  - VTCC 2026 — новая международная виртуальная конференция для исследователей,
+    работающих в области теоретической и вычислительной химии
 cost: Free
 fee: free
