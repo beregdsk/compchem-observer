@@ -1,0 +1,24 @@
+id: university-of-california-davis-phd-positions-2026
+title: PhD positions
+level: phd
+institution: University of California, Davis
+location:
+  city: Davis
+  country: US
+url: https://mse.engineering.ucdavis.edu/graduate/admissions
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - electronic-structure
+  - wavefunction-methods
+  - ml-chemistry
+  - materials-modeling
+description: The Atomistic Theory and Optimization of Materials (ATOM) Lab at UC
+  Davis is recruiting up to two fully funded PhD students starting in Fall 2027.
+  Research focuses on developing ab initio and multiscale quantum methods for
+  electronic materials, including interpretable machine learning for many-body
+  perturbation theory, predictive theories of charge transport and light-matter
+  coupling, and AI/ML integration of electronic structure with device-scale
+  solvers.
+added: 2026-11-06
+group: Atomistic Theory and Optimization of Materials (ATOM) Lab
+deadline: 2027-01-15
