@@ -1,0 +1,26 @@
+id: 8th-european-inorganic-chemistry-conference-2027
+title: 8th European Inorganic Chemistry Conference
+type: conference
+start_date: 2027-09-05
+end_date: 2027-09-09
+format: in-person
+url: https://www.euchems.eu/events/8th-european-inorganic-chemistry-conference/
+source_url: https://www.euchems.eu/events/8th-european-inorganic-chemistry-conference/
+topics:
+  - catalysis
+  - dft
+  - electronic-structure
+  - materials-modeling
+  - photochemistry
+description: The 8th European Inorganic Chemistry Conference (EICC8) is the
+  flagship meeting of the EuChemS Inorganic Chemistry Division, showcasing
+  recent advances across the broad field of inorganic chemistry. The sessions
+  cover eight thematic areas, including organometallics and catalysis,
+  magnetochemistry, photophysics, MOFs, solid-state materials, theoretical
+  inorganic chemistry, green chemistry, and bioinorganic chemistry.
+added: 2026-11-10
+location:
+  city: Barcelona
+  country: ES
+  venue: Auditori L'Illa
+organizer: European Chemical Society (EuChemS)
