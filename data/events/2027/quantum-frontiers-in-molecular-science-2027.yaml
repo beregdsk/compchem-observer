@@ -1,0 +1,29 @@
+id: quantum-frontiers-in-molecular-science-2027
+title: Quantum Frontiers in Molecular Science
+type: workshop
+start_date: 2027-01-04
+end_date: 2027-01-08
+format: in-person
+url: https://sites.google.com/view/qfms2027
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - quantum-dynamics
+  - quantum-computing-chemistry
+  - materials-modeling
+  - molecular-dynamics
+  - electronic-structure
+description: 'The 5th Quantum Frontiers in Molecular Science meeting will take
+  place at the Universidad Nacional Autónoma de México (UNAM) in Mexico City.
+  This workshop aims to promote interactions and catalyze collaborations between
+  theorists and experimentalists seeking to advance frontiers of molecular
+  science where novel quantum mechanical effects play an important role. The
+  theme is Quantum Molecular Design: leveraging molecular structure to give rise
+  to novel quantum functionality, including applications in quantum sensing,
+  quantum information processing, or enhanced quantum materials capabilities.'
+added: 2026-11-11
+location:
+  city: Mexico City
+  country: MX
+  venue: Universidad Nacional Autónoma de México (UNAM)
+organizer: Ignacio Franco, Joel Yuen-Zhou, Daniel Finkelstein-Shapiro, José
+  Eduardo Barrios Vargas
