@@ -9,18 +9,15 @@ source_url: https://www.mpinat.mpg.de/workshop/huenfeld
 topics:
   - biomolecular-simulation
   - molecular-dynamics
-  - enhanced-sampling
-description: The Hünfeld 2027 workshop focuses on computer simulation and theory
-  of macromolecules, promoting exchange among the biomolecular theory and
-  simulation communities. Held in a hybrid format at the Hünfeld Monastery and
-  online, it features talks, poster sessions, and aims to be inclusive and
-  affordable for students and postdocs.
-added: 2026-11-10
+description: The workshop focuses on recent advances in theory and application
+  of biomolecular simulations, promoting exchange among the biomolecular theory
+  and simulation communities. It will be held in hybrid format, on-site at
+  Hünfeld Monastery and online, with talks, poster sessions, and affordable
+  accommodations. Organized by Volkhard Helms and Helmut Grubmüller.
+added: 2026-11-11
 location:
   city: Hünfeld
   country: DE
   venue: Hünfeld Monastery
-organizer: Helmut Grubmüller, Volkhard Helms
-cost: Online participation is free of charge; on-site accommodation and meals
-  are affordable.
+organizer: Volkhard Helms and Helmut Grubmüller
 fee: free
