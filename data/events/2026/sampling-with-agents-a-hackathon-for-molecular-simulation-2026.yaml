@@ -1,0 +1,23 @@
+id: sampling-with-agents-a-hackathon-for-molecular-simulation-2026
+title: 'Sampling with Agents: a Hackathon for Molecular Simulation'
+type: hackathon
+start_date: 2026-12-08
+end_date: 2026-12-08
+format: in-person
+url: https://docs.google.com/forms/d/e/1FAIpQLSc54JoULbMustrqVuc4UACmKbEhKlWUaUKAn2Aw7_KUyBUT3w/viewform
+source_url: https://jmhutson.webspace.durham.ac.uk/mdn/
+topics:
+  - molecular-dynamics
+  - enhanced-sampling
+  - ml-chemistry
+  - software-hpc
+description: A hands-on hackathon for researchers in molecular simulation,
+  statistical mechanics, and enhanced/path sampling to work with AI coding
+  agents on scientific and software challenges. Delivered by Prof. Edina Rosta,
+  it has limited places (around 8 left) with rolling admissions closing on 25
+  November 2026.
+added: 2026-11-12
+location:
+  city: London
+  country: GB
+  venue: Institute of Physics, 37 Caledonian Road, London, N1 9BU
