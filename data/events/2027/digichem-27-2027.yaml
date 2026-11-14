@@ -1,0 +1,26 @@
+id: digichem-27-2027
+title: DigiChem'27
+type: conference
+start_date: 2027-02-22
+end_date: 2027-02-23
+format: in-person
+url: https://digichem27.au/
+source_url: https://digichem27.au/
+topics:
+  - ml-chemistry
+  - cheminformatics
+description: DigiChem'27, the first RACI conference on robotics, automation and
+  machine learning in chemistry, will be held at Monash University Melbourne CBD
+  on 22–23 February 2027. It brings together academic and industry researchers
+  to discuss advances in robotic synthesis, automated analysis, experimental
+  planning and machine learning, with plenary and invited talks, posters, a
+  vendor exhibition and networking.
+added: 2026-11-14
+location:
+  city: Melbourne
+  country: AU
+  venue: Monash University, 750 Collins Street, Melbourne CBD
+organizer: Royal Australian Chemical Institute (RACI)
+cost: Student $400 early bird, $500 standard; RACI member $700 early bird, $800
+  standard; non-member $850 early bird, $950 standard
+fee: paid
