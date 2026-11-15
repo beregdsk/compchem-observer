@@ -1,0 +1,23 @@
+id: sampling-with-agents-a-hackathon-for-molecular-simulation-2026
+title: 'Sampling with Agents: a Hackathon for Molecular Simulation'
+type: workshop
+start_date: 2026-12-08
+end_date: 2026-12-08
+format: in-person
+url: https://forms.gle/dx82g5Y5u3gSTbm4A
+source_url: https://www.jiscmail.ac.uk/lists/SPECTROSCOPY-GROUP.html
+topics:
+  - molecular-dynamics
+  - enhanced-sampling
+  - ml-potentials
+description: A small hands‑on workshop on molecular simulation hackathon,
+  focusing on using coding agents for sampling challenges, including rare‑event
+  pathways, host‑guest sampling, molecular kinetics, conformational transitions
+  and reaction sampling. Participants will work in groups on real scientific and
+  methodological challenges.
+added: 2026-11-15
+location:
+  city: London
+  country: GB
+  venue: Institute of Physics, 37 Caledonian Road, London
+organizer: Edina Rosta (UCL) and Sarah Harris (University of Sheffield / CCPBioSim)
