@@ -9,18 +9,18 @@ source_url: https://www.mpinat.mpg.de/workshop/huenfeld
 topics:
   - biomolecular-simulation
   - molecular-dynamics
-description: Hünfeld 2027 is a workshop on the computer simulation and theory of
-  macromolecules, focusing on recent advances in biomolecular theory and
-  simulation. Scheduled for March 19-20, 2027, at the Hünfeld Monastery in
-  Germany, the event will be held in a hybrid format. It features keynote
-  speaker Prof. Dr. Reinhard Lipowsky, oral presentations, and poster sessions,
-  with affordable on-site options and free online participation to ensure
-  inclusivity.
-added: 2026-11-14
+  - enhanced-sampling
+description: The Hünfeld 2027 workshop focuses on computer simulation and theory
+  of macromolecules, covering recent advances in biomolecular simulations. It
+  will be held on March 19-20, 2027, at the Hünfeld Monastery in Germany, with
+  hybrid participation. Keynote speaker is Prof. Dr. Reinhard Lipowsky. The
+  program includes oral sessions, poster presentations, and affordable
+  accommodations.
+added: 2026-11-15
 location:
   city: Hünfeld
   country: DE
   venue: Hünfeld Monastery
-organizer: Max Planck Institute for Multidisciplinary Sciences
+organizer: Helmut Grubmüller and Volkhard Helms
 cost: Free for online participation
 fee: free
