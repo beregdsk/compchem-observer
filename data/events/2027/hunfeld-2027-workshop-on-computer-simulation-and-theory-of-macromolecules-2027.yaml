@@ -10,19 +10,18 @@ topics:
   - biomolecular-simulation
   - molecular-dynamics
   - enhanced-sampling
-  - software-hpc
-description: The Hünfeld 2027 workshop, titled 'Workshop on Computer Simulation
-  and Theory of Macromolecules', will take place on March 19-20, 2027, at the
-  Hünfeld Monastery in Germany, with hybrid online participation. It aims to
-  discuss recent advances in theory and application of biomolecular simulations,
-  promoting exchange among researchers. Keynote speaker is Prof. Dr. Reinhard
-  Lipowsky. The event includes talks, poster sessions, and affordable
-  accommodations. Online attendance is free.
-added: 2026-11-16
+description: The Hünfeld 2027 workshop focuses on computer simulation and theory
+  of macromolecules, bringing together researchers in biomolecular simulation.
+  The meeting will take place on March 19–20, 2027, in a hybrid format with
+  on‑site attendance at the Hünfeld Monastery and a virtual option. It features
+  invited talks, contributed presentations, and a poster session, with an
+  emphasis on fostering exchange within the German and international
+  biomolecular theory and simulation communities. Online participation is free,
+  and affordable accommodation is available for on‑site attendees.
+added: 2026-11-17
 location:
   city: Hünfeld
   country: DE
   venue: Hünfeld Monastery
 organizer: Helmut Grubmüller and Volkhard Helms
-cost: Free
 fee: free
