@@ -1,0 +1,25 @@
+id: 15th-european-conference-on-computational-and-theoretical-chemistry-euchems-compchem-2027-2027
+title: 15th European Conference on Computational and Theoretical Chemistry
+  (EuChemS CompChem 2027)
+type: conference
+start_date: 2027-09-06
+end_date: 2027-09-09
+format: in-person
+url: https://www.euchems.eu/divisions/computational-chemistry-2/conferences/
+source_url: https://www.euchems.eu/divisions/computational-chemistry-2/conferences/
+topics:
+  - dft
+  - electronic-structure
+  - molecular-dynamics
+  - quantum-dynamics
+  - software-hpc
+description: The 15th European Conference on Computational and Theoretical
+  Chemistry (EuChemS CompChem 2027) will be held in Cluj-Napoca, Romania, from 6
+  to 9 September 2027. The conference is chaired by Radu Silaghi-Dumitrescu and
+  focuses on computational and theoretical chemistry.
+added: 2026-11-18
+location:
+  city: Cluj-Napoca
+  country: RO
+  venue: Cluj-Napoca
+organizer: EuChemS Division of Computational and Theoretical Chemistry (DCTC)
