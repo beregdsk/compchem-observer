@@ -3,25 +3,25 @@ title: 'Hünfeld 2027: Workshop on Computer Simulation and Theory of Macromolecu
 type: workshop
 start_date: 2027-03-19
 end_date: 2027-03-20
-format: online
+format: hybrid
 url: https://www.mpinat.mpg.de/workshop/huenfeld
 source_url: https://www.mpinat.mpg.de/workshop/huenfeld
 topics:
   - biomolecular-simulation
   - molecular-dynamics
+  - enhanced-sampling
+  - software-hpc
 description: The Hünfeld 2027 workshop on Computer Simulation and Theory of
-  Macromolecules will take place on March 19-20, 2027, at the Hünfeld Monastery
-  in Germany. Organized by Volkhard Helms and Helmut Grubmüller, the event
-  focuses on recent advances in theory and application of biomolecular
-  simulations. It features keynote speaker Prof. Dr. Reinhard Lipowsky, poster
-  sessions, and offers both on-site and hybrid online participation options to
-  facilitate inclusive discussions.
-added: 2026-11-18
+  Macromolecules will take place on March 19-20, 2027, in Hünfeld, Germany, with
+  hybrid participation. The event brings together researchers to discuss recent
+  advances in theory and applications of biomolecular simulations, featuring
+  keynote speaker Prof. Dr. Reinhard Lipowsky, poster sessions, and affordable
+  accommodations for students. Online participation is free.
+added: 2026-11-19
 location:
   city: Hünfeld
   country: DE
   venue: Hünfeld Monastery
 organizer: Helmut Grubmüller and Volkhard Helms
-cost: Online participation is free of charge; affordable accommodations and
-  meals are offered for on-site attendees.
+cost: Free
 fee: free
