@@ -8,15 +8,15 @@ url: https://euchems2028.eu/
 source_url: https://www.euchems.eu/divisions/computational-chemistry-2/conferences/
 topics:
   - electronic-structure
+  - dft
   - materials-modeling
-  - ml-chemistry
   - software-hpc
+  - spectroscopy
 description: The 11th EuChemS Chemistry Congress (ECC11) will take place in
-  Vienna, Austria, from 2 to 6 July 2028. It is a major European chemistry
-  congress covering computational and theoretical chemistry topics.
-added: 2026-11-18
+  Vienna, Austria, from July 2 to 6, 2028. It is a major general chemistry
+  congress covering various fields, including computational and theoretical
+  chemistry.
+added: 2026-11-19
 location:
   city: Vienna
   country: AT
-  venue: Vienna
-organizer: EuChemS
