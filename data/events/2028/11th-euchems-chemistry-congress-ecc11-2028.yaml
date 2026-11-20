@@ -1,0 +1,22 @@
+id: 11th-euchems-chemistry-congress-ecc11-2028
+title: 11th EuChemS Chemistry Congress (ECC11)
+type: conference
+start_date: 2028-07-02
+end_date: 2028-07-06
+format: in-person
+url: https://euchems2028.eu/
+source_url: https://www.euchems.eu/divisions/computational-chemistry-2/conferences/
+topics:
+  - electronic-structure
+  - dft
+  - wavefunction-methods
+  - excited-states
+  - photochemistry
+description: The 11th EuChemS Chemistry Congress (ECC11) will take place in
+  Vienna, Austria, from 2 to 6 July 2028. This major congress covers all areas
+  of chemistry, including computational and theoretical chemistry, and provides
+  a platform for interdisciplinary collaboration.
+added: 2026-11-20
+location:
+  city: Vienna
+  country: AT
