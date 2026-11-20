@@ -3,19 +3,19 @@ title: Ernst Ruska Symposium
 type: symposium
 start_date: 2026-11-23
 end_date: 2026-11-23
-format: in-person
+format: online
 url: https://www.fhi.mpg.de/events/46263/1466547
 source_url: https://www.fhi.mpg.de/events/46263/1466547
 topics:
-  - spectroscopy
   - materials-modeling
-description: Special symposium marking the 40th anniversary of the Nobel Prize
-  in Physics awarded to Prof. Ernst Ruska for inventing the transmission
-  electron microscope (TEM), a key tool for visualizing the structure and
-  chemistry of hard and soft materials.
-added: 2026-11-19
+  - soft-matter
+description: Special symposium for the 40th Anniversary of the Nobel Prize Award
+  to Prof. Ernst Ruska for the invention of the Transmission Electron Microscope
+  (TEM), a powerful analytical tool for visualizing the structure and chemistry
+  of hard and soft materials.
+added: 2026-11-20
 location:
   city: Berlin
   country: DE
   venue: Harnack Haus
-organizer: Interface Science Department, Fritz Haber Institute
+organizer: Interface Science Department
