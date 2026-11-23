@@ -11,14 +11,13 @@ topics:
   - electronic-structure
   - dft
   - wavefunction-methods
-  - excited-states
-  - photochemistry
+  - molecular-dynamics
+  - materials-modeling
 description: The 15th European Conference on Computational and Theoretical
-  Chemistry (EuChemS CompChem 2027) will be held in Cluj‑Napoca, Romania, from 6
-  to 9 September 2027. It is organized by the EuChemS Division of Computational
-  and Theoretical Chemistry and will feature advances in computational and
-  theoretical chemistry.
-added: 2026-11-20
+  Chemistry (EuChemS CompChem 2027) will take place in Cluj-Napoca, Romania,
+  from September 6 to 9, 2027. The conference is chaired by Radu
+  Silaghi-Dumitrescu.
+added: 2026-11-23
 location:
-  city: Cluj‑Napoca
+  city: Cluj-Napoca
   country: RO
