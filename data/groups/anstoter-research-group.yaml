@@ -1,0 +1,27 @@
+id: anstoter-research-group
+name: Anstöter Research Group
+kind: group
+website: https://csanstoter.github.io/lab/
+topics:
+  - spectroscopy
+  - excited-states
+  - electronic-structure
+  - photochemistry
+  - education-training
+description: The Anstöter Research Group, led by Cate S. Anstöter at the
+  University of Glasgow, focuses on electron-dominated phenomena, particularly
+  metastable anions and electron-driven reactivity. The group develops
+  electronic structure methods to study the structure-property-charge
+  relationships of organic molecules, aromaticity, and photoelectron
+  spectroscopy. Their research bridges theory and experiment, investigating the
+  dynamics of transient anions and photochemical processes. The group is also
+  active in education, organizing the Virtual Winter School of Computational
+  Chemistry and developing…
+added: 2026-10-23
+aliases:
+  - Cate Anstöter
+pi: Cate S. Anstöter
+parent: University of Glasgow
+location:
+  city: Glasgow
+  country: GB
