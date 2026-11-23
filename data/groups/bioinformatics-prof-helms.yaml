@@ -1,0 +1,19 @@
+id: bioinformatics-prof-helms
+name: Bioinformatics (Prof. Helms)
+kind: group
+website: https://zbi-www.bioinf.uni-sb.de/en/research-at-the-cbi/research-groups/bioinformatics-prof-helms/
+topics:
+  - biomolecular-simulation
+  - drug-design
+description: The research group of Prof. Dr. Volkhard Helms at the Center of
+  Bioinformatics Saar applies numerical simulations and statistical methods to
+  study biomolecular interactions, protein-protein contacts, DNA-protein
+  interactions, and membrane bioinformatics. The group aims to understand
+  cellular processes at the molecular level and develop clinical therapies for
+  diseases like cancer.
+added: 2026-11-23
+pi: Volkhard Helms
+parent: Zentrum für Bioinformatik, Universität des Saarlandes
+location:
+  city: Saarbrücken
+  country: DE
