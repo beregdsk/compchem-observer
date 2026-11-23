@@ -1,0 +1,24 @@
+id: el-agente-ask-me-anything-a-live-demonstration-2026
+title: 'El Agente: ask me anything! A live demonstration'
+type: webinar
+start_date: 2026-11-24
+end_date: 2026-11-24
+format: online
+url: https://cheminform.ru/vebinar/vebinar-el-agente-ask-me-anything-a-live-demonstration/
+source_url: https://cheminform.ru/vebinar/vebinar-el-agente-ask-me-anything-a-live-demonstration/
+topics:
+  - ml-chemistry
+  - materials-modeling
+  - spectroscopy
+description: Chemistry World (Royal Society of Chemistry) will host a webinar on
+  November 24, 2026, on AI in chemistry and materials science. It will showcase
+  El Agente, a multi-agent LLM system by Matter Lab and Acceleration Consortium
+  for automating computational chemistry. Demos will cover spectra modeling, MOF
+  screening, and transition state search. Participants can submit tasks for live
+  review. The online event is free and includes certificates.
+added: 2026-11-23
+aliases:
+  - 'Вебинар «El Agente: ask me anything! A live demonstration»'
+organizer: Chemistry World (Royal Society of Chemistry)
+cost: Free
+fee: free
