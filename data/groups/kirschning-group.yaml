@@ -1,0 +1,19 @@
+id: kirschning-group
+name: Kirschning Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/organic-chemistry/kirschning-group
+topics:
+  - drug-design
+  - catalysis
+description: The Kirschning Group, led by Andreas Kirschning at the Department
+  of Chemistry for Life Sciences, Uppsala University, focuses on natural
+  products, antiinfectives, chemobiosynthesis, and the origin of life. Their
+  research includes the search for and medicinal chemical development of new
+  antibiotics and antiviral agents, as well as the chemical use of terpene
+  cyclases to expand the terpenome.
+added: 2026-11-24
+pi: Andreas Kirschning
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE
