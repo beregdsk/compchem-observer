@@ -1,0 +1,20 @@
+id: institut-fur-kunststoffverarbeitung-ikv-an-der-rwth-aachen
+name: Institut für Kunststoffverarbeitung (IKV) an der RWTH Aachen
+kind: institute
+website: https://ikv-aachen.de/
+topics:
+  - materials-modeling
+  - soft-matter
+  - education-training
+description: The Institute of Plastics Processing (IKV) at RWTH Aachen
+  University is a leading research and training institute for plastics
+  engineering. Since 1950, it has focused on research, academic education, and
+  industrial collaboration in plastics processing, simulation, materials
+  testing, and recycling.
+added: 2026-11-24
+aliases:
+  - Institute of Plastics Processing at RWTH Aachen University
+parent: RWTH Aachen University
+location:
+  city: Aachen
+  country: DE
