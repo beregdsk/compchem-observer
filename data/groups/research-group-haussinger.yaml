@@ -1,0 +1,18 @@
+id: research-group-haussinger
+name: Research Group Häussinger
+kind: group
+website: https://haeussinger.chemie.unibas.ch/en/
+topics:
+  - spectroscopy
+description: The research group of Prof. Dr. Daniel Häussinger at the Department
+  of Chemistry, University of Basel, focuses on the development and application
+  of lanthanoid tags for protein NMR spectroscopy to study biomolecular
+  structures and dynamics.
+added: 2026-11-24
+aliases:
+  - Prof. Dr. Daniel HäussingerLanthanoid Tags and (Protein-)NMR-Spectroscopy
+pi: Daniel Häussinger
+parent: Department of Chemistry, University of Basel
+location:
+  city: Basel
+  country: CH
