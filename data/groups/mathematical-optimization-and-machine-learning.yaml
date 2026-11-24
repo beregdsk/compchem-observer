@@ -1,0 +1,22 @@
+id: mathematical-optimization-and-machine-learning
+name: Mathematical Optimization and Machine Learning
+kind: group
+website: https://www.mpi-magdeburg.mpg.de/oml
+topics:
+  - software-hpc
+  - electrochemistry
+  - catalysis
+description: The Mathematical Optimization and Machine Learning research group,
+  led by Max Planck Fellow Prof. Dr. Sebastian Sager, focuses on the
+  application-driven development of optimization methods and their close
+  connection to machine learning, with an emphasis on efficient computer
+  implementation. Their expertise includes nonlinear and integer optimization,
+  optimal control, and numerical algorithms for mixed-integer optimization with
+  differential equations, with applications in chemical engineering and Power 2
+  X processes.
+added: 2026-11-24
+pi: Sebastian Sager
+parent: Max Planck Institute for Dynamics of Complex Technical Systems
+location:
+  city: Magdeburg
+  country: DE
