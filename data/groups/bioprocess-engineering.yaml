@@ -1,0 +1,20 @@
+id: bioprocess-engineering
+name: Bioprocess Engineering
+kind: group
+website: https://www.mpi-magdeburg.mpg.de/bpe
+topics:
+  - biomolecular-simulation
+description: The Bioprocess Engineering group, headed by Prof. em. Dr.-Ing. Udo
+  Reichl, is located at the Max Planck Institute for Dynamics of Complex
+  Technical Systems in Magdeburg. The group focuses on utilizing microorganisms
+  and cell culture technologies to produce biological products, such as proteins
+  and vaccines. Their research covers upstream and downstream processing,
+  synthetic biotechnology, and bioanalytics, with a strong emphasis on
+  mathematical modeling of metabolic pathways, regulatory networks, and cellular
+  behavior to optimize bioprocesses.
+added: 2026-11-24
+pi: Udo Reichl
+parent: Max Planck Institute for Dynamics of Complex Technical Systems
+location:
+  city: Magdeburg
+  country: DE
