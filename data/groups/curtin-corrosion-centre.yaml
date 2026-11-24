@@ -1,0 +1,21 @@
+id: curtin-corrosion-centre
+name: Curtin Corrosion Centre
+kind: institute
+website: https://www.curtin.edu.au/research/curtin-corrosion-centre/
+topics:
+  - electrochemistry
+  - materials-modeling
+  - education-training
+description: The Curtin Corrosion Centre is a research centre at Curtin
+  University conducting high-quality corrosion and materials science research
+  for the petroleum, mining, chemical processing, defence, maritime, automotive,
+  and biomedical industries. It offers state-of-the-art laboratories, runs
+  educational outreach programmes, and collaborates closely with industry
+  leaders like Chevron and Woodside.
+added: 2026-11-24
+aliases:
+  - Visit the Curtin Corrosion Centre’s website.
+parent: Curtin University
+location:
+  city: Perth
+  country: AU
