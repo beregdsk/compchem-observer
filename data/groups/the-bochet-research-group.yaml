@@ -1,0 +1,19 @@
+id: the-bochet-research-group
+name: The Bochet research group
+kind: group
+website: https://thebochetgroup.wordpress.com/
+topics:
+  - photochemistry
+description: The Bochet research group, operating as the Laboratory for organic
+  photochemistry at the Department of Chemistry, University of Fribourg,
+  specializes in organic synthesis and photochemistry. Their research focuses on
+  using light to facilitate the synthesis of carbon-containing molecules,
+  including biologically active compounds like pharmaceuticals, offering
+  alternatives to toxic and expensive catalysts.
+added: 2026-11-24
+aliases:
+  - Website
+parent: University of Fribourg
+location:
+  city: Fribourg
+  country: CH
