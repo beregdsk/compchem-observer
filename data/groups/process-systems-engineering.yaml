@@ -1,0 +1,23 @@
+id: process-systems-engineering
+name: Process Systems Engineering
+kind: group
+website: https://www.mpi-magdeburg.mpg.de/pse
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - catalysis
+  - cheminformatics
+  - software-hpc
+description: The Process Systems Engineering group at the Max Planck Institute
+  for Dynamics of Complex Technical Systems, led by Kai Sundmacher, develops
+  multiscale process design methodologies like the Elementary Process Functions
+  and FluxMax approaches. The research focuses on the computer-aided design of
+  sustainable chemical, energy, and biological systems, combining mathematical
+  modeling with machine learning for molecular and material design, such as
+  solvents, ionic liquids, and catalysts, to optimize complex process networks.
+added: 2026-11-24
+pi: Kai Sundmacher
+parent: Max Planck Institute for Dynamics of Complex Technical Systems
+location:
+  city: Magdeburg
+  country: DE
