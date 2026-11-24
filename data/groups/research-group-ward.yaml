@@ -1,0 +1,19 @@
+id: research-group-ward
+name: Research Group Ward
+kind: group
+website: https://ward.chemie.unibas.ch/en/
+topics:
+  - catalysis
+description: The Ward group at the University of Basel runs the Artificial
+  Metalloenzymes Laboratory. Their research focuses on creating artificial
+  metalloenzymes by incorporating abiotic cofactors into protein scaffolds,
+  merging organometallic chemistry with biotechnology to develop novel catalytic
+  systems.
+added: 2026-11-24
+aliases:
+  - Prof. Dr. Thomas WardBiocompatible Artificial Metalloenzymes
+pi: Thomas Ward
+parent: University of Basel
+location:
+  city: Basel
+  country: CH
