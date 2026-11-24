@@ -1,0 +1,18 @@
+id: next-generation-hpc-application-development-unit
+name: Next-Generation HPC Application Development Unit
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/nghi/next-gen-hpc-app-dev/index.html
+topics:
+  - software-hpc
+description: The Next-Generation HPC Application Development Unit at RIKEN
+  Center for Computational Science conducts research and development for
+  next-generation HPC infrastructure, focusing on co-design, application
+  development, support, benchmarking, and performance evaluation. The unit also
+  integrates simulation and advanced AI technologies to enhance HPC applications
+  and develops frameworks to support these efforts.
+added: 2026-11-24
+pi: Yasumichi Aoki
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
