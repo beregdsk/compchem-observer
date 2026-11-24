@@ -1,0 +1,22 @@
+id: theoretical-physics
+name: Theoretical Physics
+kind: group
+website: https://liu.se/en/research/theoretical-physics
+topics:
+  - materials-modeling
+  - ml-chemistry
+  - electronic-structure
+  - quantum-computing-chemistry
+  - software-hpc
+description: The division of Theoretical Physics at Linköping University, hosted
+  by the Department of Physics, Chemistry and Biology (IFM), focuses on
+  condensed matter theory, particularly the behavior of materials under extreme
+  conditions, energy materials, superconductors, and disordered systems. The
+  group utilizes ab initio methods, high-performance computing, and machine
+  learning for materials design and discovery, bridging fundamental physics with
+  practical applications.
+added: 2026-11-24
+parent: Department of Physics, Chemistry and Biology (IFM), Linköping University
+location:
+  city: Linköping
+  country: SE
