@@ -1,0 +1,23 @@
+id: institute-for-polymer-research
+name: Institute for Polymer Research
+kind: institute
+website: https://uwaterloo.ca/institute-polymer-research/
+topics:
+  - soft-matter
+  - materials-modeling
+  - photochemistry
+  - catalysis
+description: The Institute for Polymer Research (IPR) at the University of
+  Waterloo is a research centre focusing on applied and fundamental polymer
+  science and engineering. It serves the plastics, coatings, adhesives, and
+  elastomers industries through research in areas like polymerization,
+  processing, photochemistry, and catalysis. The institute collaborates with
+  member firms on contract research, consulting, and short courses, while
+  fostering academic innovation and graduate training in polymer technologies.
+added: 2026-11-24
+aliases:
+  - Institute for Polymer Research (University of Waterloo)
+parent: University of Waterloo
+location:
+  city: Waterloo
+  country: CA
