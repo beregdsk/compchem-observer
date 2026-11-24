@@ -1,0 +1,17 @@
+id: supercomputing-performance-research-team
+name: Supercomputing Performance Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/supercomput_perf/index.html
+topics:
+  - software-hpc
+description: The Supercomputing Performance Research Team at RIKEN Center for
+  Computational Science focuses on analyzing and optimizing supercomputing
+  performance. The team conducts research in performance modeling,
+  hardware/software co-design, auto-tuning, and instrumentation tools to enhance
+  HPC efficiency and user experience on systems like Fugaku.
+added: 2026-11-24
+pi: Jens Domke
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP
