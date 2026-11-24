@@ -1,0 +1,25 @@
+id: switchable-molecular-materials-smolmat
+name: Switchable Molecular Materials - SMolMat
+kind: group
+website: https://www.uv.es/uvweb/college/en/directory/research-teams-1285956741406.html?p2=1862
+topics:
+  - materials-modeling
+  - soft-matter
+  - spectroscopy
+  - excited-states
+  - photochemistry
+description: The Switchable Molecular Materials (SMolMat) research group, based
+  at the Universitat de València, focuses on the synthesis, characterisation,
+  and processing of molecular compounds that switch between electronic states.
+  Their work aims to develop new functional materials for molecular switches,
+  sensors, memories, and opto-electronic devices. Key research lines include
+  bistable porous coordination polymers, spin crossover in liquid crystals,
+  bistable luminescent materials, and multi-stable spin crossover complexes.
+added: 2026-11-24
+aliases:
+  - GIUV2013-006
+pi: JOSE ANTONIO REAL CABEZOS
+parent: Universitat de València
+location:
+  city: Valencia
+  country: ES
