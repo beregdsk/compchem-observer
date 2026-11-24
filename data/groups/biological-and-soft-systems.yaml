@@ -1,0 +1,19 @@
+id: biological-and-soft-systems
+name: Biological and Soft Systems
+kind: group
+website: https://www.bss.phy.cam.ac.uk/
+topics:
+  - soft-matter
+  - biomolecular-simulation
+  - materials-modeling
+description: The Biological and Soft Systems Sector of the Cavendish Laboratory
+  at the University of Cambridge brings together researchers from polymer
+  science, soft and hard condensed matter, and statistical physics. It focuses
+  on research themes such as cells and biological processes, soft and biological
+  matter, and physics in medicine, using facilities for microscopy, single
+  molecule manipulation, and soft material characterisation.
+added: 2026-11-24
+parent: Cavendish Laboratory
+location:
+  city: Cambridge
+  country: GB
