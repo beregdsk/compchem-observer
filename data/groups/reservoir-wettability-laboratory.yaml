@@ -1,0 +1,18 @@
+id: reservoir-wettability-laboratory
+name: Reservoir wettability laboratory
+kind: group
+website: https://research.curtin.edu.au/scieng/research/reservoir-wettability-laboratory/
+topics:
+  - molecular-dynamics
+  - materials-modeling
+description: The Reservoir Wettability Laboratory at Curtin University studies
+  rock wettability, a key parameter influencing hydrocarbon recovery and CO2
+  geo-sequestration efficiency. The lab uses experimental setups such as
+  core-flood apparatus, contact angle tensiometers, and micro-CT scanners,
+  alongside computational modeling and molecular dynamics simulations to analyze
+  fluid-fluid and fluid-rock interactions under reservoir conditions.
+added: 2026-11-24
+parent: Curtin University
+location:
+  city: Perth
+  country: AU
