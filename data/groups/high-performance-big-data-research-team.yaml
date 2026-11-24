@@ -1,0 +1,18 @@
+id: high-performance-big-data-research-team
+name: High Performance Big Data Research Team
+kind: group
+website: https://www.r-ccs.riken.jp/en/research/labs/hpbdrt/index.html
+topics:
+  - software-hpc
+description: The High Performance Big Data Research Team at the RIKEN Center for
+  Computational Science develops system software for advanced high-performance
+  computers like the Fugaku supercomputer. The team focuses on integrating
+  high-performance computing (HPC), big data, and artificial intelligence (AI)
+  by researching scalable parallel I/O, machine learning platforms, fault
+  tolerance, and advanced programming environments.
+added: 2026-11-24
+pi: Kento Sato
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

@@ -1,0 +1,23 @@
+id: theoretical-chemistry-of-materials
+name: Theoretical Chemistry of Materials
+kind: group
+website: https://www.sydney.edu.au/science/schools/school-of-chemistry/research/theoretical-chemistry-of-materials.html
+topics:
+  - molecular-dynamics
+  - materials-modeling
+  - soft-matter
+  - enhanced-sampling
+  - excited-states
+description: The Harrowell Group, led by Professor Peter Harrowell at the
+  University of Sydney, focuses on the theoretical chemistry of materials. Their
+  research centers on using computer modelling to understand order and dynamics
+  in liquids and solids, with projects on vapour deposition of amorphous
+  mixtures, jammed solids, and entropic control of crystal growth.
+added: 2026-11-24
+aliases:
+  - Harrowell Group
+pi: Peter Harrowell
+parent: The University of Sydney
+location:
+  city: Sydney
+  country: AU

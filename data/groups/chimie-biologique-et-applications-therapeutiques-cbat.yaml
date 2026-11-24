@@ -1,0 +1,21 @@
+id: chimie-biologique-et-applications-therapeutiques-cbat
+name: Chimie Biologique et Applications Thérapeutiques | CBAT
+kind: group
+website: https://institut-chimie.unistra.fr/en/research-groups/chimie-biologique-et-applications-therapeutiques-cbat/
+topics:
+  - drug-design
+  - catalysis
+  - spectroscopy
+description: The CBAT team is a research group at the Institut de Chimie de
+  Strasbourg, University of Strasbourg, specializing in proteins with
+  therapeutic potential, particularly antibacterial agents. Combining bioorganic
+  chemistry, enzymology, and microbiology, the group investigates metalloenzyme
+  mechanisms, inhibitor development, and spectroscopic characterization. Their
+  research includes structure-based and fragment-based drug design, virtual
+  screening, and target identification to combat antibiotic resistance.
+added: 2026-11-24
+pi: Myriam Seemann
+parent: Institut de Chimie de Strasbourg
+location:
+  city: Strasbourg
+  country: FR

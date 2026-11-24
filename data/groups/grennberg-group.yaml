@@ -1,0 +1,23 @@
+id: grennberg-group
+name: Grennberg Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/organic-chemistry/grennberg-group
+topics:
+  - materials-modeling
+  - catalysis
+  - photochemistry
+  - electrochemistry
+  - spectroscopy
+description: The Grennberg Group, part of the Organic Chemistry division at the
+  Department of Chemistry for Life Sciences, Uppsala University, is led by
+  Helena Grennberg. The group's research centers on the purification,
+  functionalization, and evaluation of carbon nanomaterials like fullerenes,
+  carbon nanotubes, and graphene. Additionally, they work on dyes and molecular
+  dyads for solar cells and molecular electronics, as well as supramolecular and
+  organometallic chemistry.
+added: 2026-11-24
+pi: Helena Grennberg
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

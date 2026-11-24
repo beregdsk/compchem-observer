@@ -1,0 +1,19 @@
+id: gough-lab
+name: Gough Lab
+kind: group
+website: https://home.cc.umanitoba.ca/~kmgough/index.htm
+topics:
+  - molecular-dynamics
+  - quantum-dynamics
+  - biomolecular-simulation
+  - software-hpc
+description: The Gough Lab at the University of Manitoba is a computational and
+  theoretical chemistry research group led by Dr. Kathy Gough. The lab focuses
+  on developing and applying computational methods, such as molecular dynamics
+  and quantum dynamics, to study complex chemical and biological systems.
+added: 2026-11-24
+pi: Kathy Gough
+parent: University of Manitoba
+location:
+  city: Winnipeg
+  country: CA

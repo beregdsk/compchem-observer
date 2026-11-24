@@ -1,0 +1,17 @@
+id: ai-for-science-foundation-model-research-team
+name: AI for Science Foundation Model Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/ai_sci_plat/ai-sci-found-model/index.html
+topics:
+  - software-hpc
+description: The AI for Science Foundation Model Research Team at RIKEN Center
+  for Computational Science develops advanced foundation models and reasoning
+  capabilities for scientific discovery. The team focuses on efficient training
+  and deployment, high-performance computing software infrastructure, and
+  agentic AI to accelerate the scientific research cycle.
+added: 2026-11-24
+pi: Rio Yokota
+parent: RIKEN Center for Computational Science
+location:
+  city: Tokyo
+  country: JP

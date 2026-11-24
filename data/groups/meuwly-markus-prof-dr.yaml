@@ -1,0 +1,22 @@
+id: meuwly-markus-prof-dr
+name: Meuwly, Markus Prof. Dr.
+kind: group
+website: https://chemie.unibas.ch/en/persons/markus-meuwly/
+topics:
+  - electronic-structure
+  - dft
+  - molecular-dynamics
+  - spectroscopy
+  - software-hpc
+description: The research group of Prof. Dr. Markus Meuwly at the University of
+  Basel's Department of Chemistry focuses on physical and theoretical chemistry.
+  The group conducts computational and theoretical research, likely covering
+  areas such as molecular dynamics, electronic structure, and spectroscopy, as
+  part of the department's physical chemistry and theoretical chemistry focal
+  areas.
+added: 2026-11-24
+pi: Markus Meuwly
+parent: University of Basel
+location:
+  city: Basel
+  country: CH

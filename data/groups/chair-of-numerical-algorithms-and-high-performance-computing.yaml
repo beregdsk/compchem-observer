@@ -1,0 +1,20 @@
+id: chair-of-numerical-algorithms-and-high-performance-computing
+name: Chair of Numerical Algorithms and High-Performance Computing
+kind: group
+website: https://www.epfl.ch/labs/anchp/
+topics:
+  - software-hpc
+description: The Chair of Numerical Algorithms and High-Performance Computing at
+  EPFL is a research group within the School of Basic Sciences. It focuses on
+  the design and analysis of efficient numerical algorithms, particularly
+  randomized methods for matrix computations, low-rank approximations,
+  eigenvalue problems, and tensor networks, leveraging high-performance
+  computing to solve large-scale mathematical challenges.
+added: 2026-11-24
+aliases:
+  - Numerical Algorithms and High-Performance Computing
+pi: Daniel Kressner
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH

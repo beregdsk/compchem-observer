@@ -1,0 +1,20 @@
+id: mathicse-mathematics-in-computational-science-and-engineering
+name: MATHICSE (Mathematics in Computational Science and Engineering)
+kind: group
+website: https://www.epfl.ch/labs/mathicse/
+topics:
+  - materials-modeling
+  - software-hpc
+  - education-training
+description: MATHICSE (Mathematics in Computational Science and Engineering) is
+  a research group at EPFL dedicated to promoting high-level research and
+  education in mathematical and numerical modeling, algorithmic development, and
+  simulation. It coordinates multiple chairs focusing on high-performance
+  computing, materials modeling, and uncertainty quantification, applying these
+  methods across science and engineering.
+added: 2026-11-24
+pi: Alfio Quarteroni
+parent: EPFL (École Polytechnique Fédérale de Lausanne)
+location:
+  city: Lausanne
+  country: CH

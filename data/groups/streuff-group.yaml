@@ -1,0 +1,16 @@
+id: streuff-group
+name: Streuff Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/organic-chemistry/streuff-group
+topics:
+  - catalysis
+description: The Streuff Group at Uppsala University, Department of Chemistry
+  for Life Sciences, led by Jan Streuff, focuses on transition metal catalysis,
+  particularly titanium and zirconium-catalyzed reactions, reductive bond
+  couplings, catalyst design, and reaction mechanisms in organic synthesis.
+added: 2026-11-24
+pi: Jan Streuff
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

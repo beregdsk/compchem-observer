@@ -1,0 +1,19 @@
+id: erdelyi-group
+name: Erdélyi Group
+kind: group
+website: https://www.uu.se/en/department/chemistry-for-life-sciences/research/organic-chemistry/erdelyi-group
+topics:
+  - drug-design
+  - spectroscopy
+description: The Erdélyi Group, based at the Department of Chemistry for Life
+  Sciences at Uppsala University, is a research group led by Máté Erdélyi. The
+  group focuses on organic chemistry, specifically halogen bonding, NMR method
+  development, antibiotic resistance, natural product chemistry, and macrocycle
+  conformation, aiming to solve societal challenges through fundamental chemical
+  research.
+added: 2026-11-24
+pi: Máté Erdélyi
+parent: Department of Chemistry for Life Sciences, Uppsala University
+location:
+  city: Uppsala
+  country: SE

@@ -1,0 +1,19 @@
+id: complex-phenomena-unified-simulation-research-team
+name: Complex Phenomena Unified Simulation Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/compl_phenom_uni_sim/index.html
+topics:
+  - software-hpc
+description: The Complex Phenomena Unified Simulation Research Team at RIKEN
+  Center for Computational Science develops advanced simulation technologies for
+  coupled multi-physics phenomena, focusing on the CUBE framework for
+  high-performance computing. Research includes real-time simulation via AI and
+  machine learning, high-accuracy predictions, multi-objective optimization, and
+  quantum algorithms for PDEs, aiming to apply these to manufacturing
+  industries.
+added: 2026-11-24
+pi: Makoto Tsubokura
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

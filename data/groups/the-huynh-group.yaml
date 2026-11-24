@@ -1,0 +1,23 @@
+id: the-huynh-group
+name: The Huynh Group
+kind: group
+website: https://www.carbene.de/en
+topics:
+  - catalysis
+  - spectroscopy
+  - materials-modeling
+  - electronic-structure
+description: The Huynh Group at the National University of Singapore is a
+  research group led by Prof. Han Vinh Huynh, focusing on N-heterocyclic carbene
+  (NHC) chemistry. The group designs tailored ligands, develops the Huynh
+  Electronic Parameters (HEPs) for quantifying ligand donor strength using 13C
+  NMR spectroscopy, and applies these in catalysis including C-C coupling, C-H
+  activation, and hydroelementation. They also design organometallic precursors
+  for ALD and CVD thin-film deposition in the semiconductor industry, and have
+  authored a textbook on the organometallic chemistry of NHCs.
+added: 2026-11-24
+pi: Han Vinh Huynh
+parent: National University of Singapore
+location:
+  city: Singapore
+  country: SG

@@ -1,0 +1,20 @@
+id: chair-of-numerical-modelling-and-simulation
+name: Chair of Numerical Modelling and Simulation
+kind: group
+website: https://www.epfl.ch/labs/mns/
+topics:
+  - software-hpc
+  - materials-modeling
+description: The Chair of Numerical Modelling and Simulation (MNS) at EPFL, led
+  by Prof. Annalisa Buffa, focuses on the design and analysis of numerical
+  algorithms for partial differential equations. The group aims to preserve
+  mathematical structures at the discrete level to achieve numerical accuracy
+  and stability, bridging numerical simulations with geometric modelling and
+  processing. Research applications span from elasticity to electromagnetic
+  problems.
+added: 2026-11-24
+pi: Annalisa Buffa
+parent: EPFL SB MATH
+location:
+  city: Lausanne
+  country: CH

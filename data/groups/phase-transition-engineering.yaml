@@ -1,0 +1,21 @@
+id: phase-transition-engineering
+name: Phase Transition Engineering
+kind: group
+website: https://www.mpi-magdeburg.mpg.de/pte
+topics:
+  - materials-modeling
+  - soft-matter
+  - biomolecular-simulation
+description: The Phase Transition Engineering (PTE) group at the Max Planck
+  Institute for Dynamics of Complex Technical Systems, led by Dr. Leif-Thore
+  Deck, focuses on bridging the gap between the microscopic physics of phase
+  transitions and industrial-scale manufacturing processes. The group combines
+  high-throughput droplet microfluidics with mechanistic modeling to study
+  crystallization, precipitation, and liquid-liquid phase separation of
+  pharmaceuticals and biomolecules like proteins, peptides, and RNA.
+added: 2026-11-24
+pi: Leif-Thore Deck
+parent: Max Planck Institute for Dynamics of Complex Technical Systems
+location:
+  city: Magdeburg
+  country: DE

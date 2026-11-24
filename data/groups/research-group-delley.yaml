@@ -1,0 +1,24 @@
+id: research-group-delley
+name: Research Group Delley
+kind: group
+website: https://delley.chemie.unibas.ch/en/
+topics:
+  - catalysis
+  - electronic-structure
+  - dft
+  - materials-modeling
+  - software-hpc
+description: The official homepage of the Research Group Delley, led by Prof.
+  Dr. Murielle Delley at the Department of Chemistry, University of Basel. The
+  group conducts computational research in inorganic chemistry, focusing on
+  surface chemistry, catalysis, and materials modeling using density functional
+  theory (DFT) and electronic structure methods. The page lists current
+  openings, research activities, and contact information.
+added: 2026-11-24
+aliases:
+  - Inorganic Surface Chemistry and Catalysis
+pi: Murielle Delley
+parent: University of Basel
+location:
+  city: Basel
+  country: CH

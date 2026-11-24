@@ -1,0 +1,21 @@
+id: matyjaszewski-polymer-group
+name: Matyjaszewski Polymer Group
+kind: group
+website: https://www.cmu.edu/maty/
+topics:
+  - soft-matter
+  - photochemistry
+  - electrochemistry
+  - catalysis
+  - materials-modeling
+description: The Matyjaszewski Polymer Group at Carnegie Mellon University, led
+  by Professor Krzysztof Matyjaszewski, is renowned for developing and advancing
+  Atom Transfer Radical Polymerization (ATRP). The group focuses on synthesizing
+  well-defined functional polymers with controlled topologies for applications
+  in energy, medicine, and advanced materials.
+added: 2026-11-24
+pi: Krzysztof Matyjaszewski
+parent: Carnegie Mellon University
+location:
+  city: Pittsburgh
+  country: US

@@ -1,0 +1,21 @@
+id: unconventional-gas-group
+name: Unconventional Gas Group
+kind: group
+website: https://research.curtin.edu.au/scieng/research/unconventional-gas-group/
+topics:
+  - materials-modeling
+  - spectroscopy
+  - ml-chemistry
+description: The Unconventional Gas Group (UGRG) at Curtin University, led by
+  Professor Reza Rezaee, focuses on evaluating unconventional gas resources,
+  particularly tight gas and shale gas in the Perth and Canning Basins of
+  Western Australia. The group conducts research in geological reservoir
+  modelling, pore network modelling, NMR spectroscopy for pore size
+  distribution, and the application of intelligent systems for shale gas
+  evaluation.
+added: 2026-11-24
+pi: Reza Rezaee
+parent: Curtin University
+location:
+  city: Perth
+  country: AU

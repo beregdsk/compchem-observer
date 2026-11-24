@@ -1,0 +1,19 @@
+id: laboratory-of-statistical-biophysics
+name: Laboratory of Statistical Biophysics
+kind: group
+website: https://www.epfl.ch/labs/lbs/
+topics:
+  - biomolecular-simulation
+  - molecular-dynamics
+  - soft-matter
+description: The Laboratory of Statistical Biophysics at EPFL, led by Prof.
+  Paolo De Los Rios, focuses on using statistical physics, computational
+  physics, and biophysics to understand living matter. Their research includes
+  molecular simulations of proteins, chaperone interactions, and the physical
+  properties of polymers.
+added: 2026-11-24
+pi: Paolo De Los Rios
+parent: EPFL
+location:
+  city: Lausanne
+  country: CH

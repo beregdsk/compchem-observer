@@ -1,0 +1,21 @@
+id: next-generation-high-performance-architecture-research-team
+name: Next Generation High Performance Architecture Research Team
+kind: group
+website: https://www.riken.jp/en/research/labs/r-ccs/nextgen_high_perf_arch/index.html
+topics:
+  - software-hpc
+  - quantum-computing-chemistry
+description: The Next Generation High Performance Architecture Research Team at
+  RIKEN Center for Computational Science focuses on researching and developing
+  next-generation high-performance computer architectures to address the
+  post-Moore's law era. The team works on improving power efficiency in exascale
+  supercomputers, exploring non-von Neumann architectures like systolic arrays
+  and neuromorphic computers, integrating non-volatile memories and
+  accelerators, advancing scientific simulations via machine learning, and
+  developing hybrid classical-quantum computing architectures.
+added: 2026-11-24
+pi: Masaaki Kondo
+parent: RIKEN Center for Computational Science
+location:
+  city: Kobe
+  country: JP

@@ -1,0 +1,18 @@
+id: research-group-koehler
+name: Research Group Koehler
+kind: group
+website: https://koehler.chemie.unibas.ch/en/
+topics:
+  - catalysis
+description: The Research Group Koehler at the Department of Chemistry,
+  University of Basel, focuses on peptide modification and asymmetric catalysis.
+  The group offers internship and master thesis opportunities for talented
+  chemistry students.
+added: 2026-11-24
+aliases:
+  - Peptide Modification and Asymmetric Catalysis
+pi: Valentin Köhler
+parent: Department of Chemistry, University of Basel
+location:
+  city: Basel
+  country: CH
